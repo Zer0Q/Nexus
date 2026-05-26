@@ -1,22 +1,14 @@
 ---
 name: obsidian-vault-processor
 description: "Processes raw articles into a compressed, interconnected Obsidian knowledge vault following Karpathy's atomic note-taking philosophy."
-version: 1.0.0
-author: Nexus
-license: MIT
-metadata:
-  hermes:
-    tags: [obsidian, knowledge-vault, atomic-notes, karpathy, second-brain]
-    related_skills: []
 ---
-
-# Obsidian Vault Processor
-
 ## Overview
 
 Processes raw articles into a compressed, interconnected knowledge vault following Andrej Karpathy's note-taking philosophy: dense knowledge over verbose explanations, atomic notes over large documents, semantic links over hierarchical folders.
 
-## When to Use
+**Canonical in-repo copy:** `skills/note-taking/obsidian-vault-processor/SKILL.md` in the Nexus GitHub repo. Keep both copies in sync — edit the in-repo version and replicate changes here.
+
+## Trigger
 - User drops articles into the `raw/` folder
 - User asks to process new content
 - User says "process the vault", "ingest notes", "build second brain"
@@ -80,9 +72,9 @@ Compressed 2-3 sentence summary.
 ### Step 4: Extract atomic knowledge notes
 For each article, extract 10-25 atomic notes. Each note represents ONE idea and follows this structure:
 
-**File naming:** `Folder/Concept-Name.md` (kebab-case, no accents, no spaces, max 64 chars)
+**File naming:** `Folder/Concept-Name.md` (kebab-case, no accents, no spaces, NO dots except the final `.md` extension, max 64 chars). If a tool name contains a dot (e.g., `CLAUDE.md`), replace it with `-MD-` (e.g., `CLAUDE-MD-Project-Knowledge.md`).
 
-**Wikilink rule:** `[[wikilinks]]` must match the EXACT filename (without `.md`). Example: `[[Concept-Name]]` points to `Concept-Name.md`. Never use spaces or accents inside `[[...]]`.
+**Wikilink rule:** `[[wikilinks]]` must match the EXACT filename (without `.md`). Example: `[[Concept-Name]]` points to `Concept-Name.md`. Never use spaces, accents, or dots inside `[[...]]`.
 
 **Template:**
 ```markdown
@@ -175,14 +167,16 @@ Before verifying, run a normalization script that fixes all `[[wikilinks]]` to m
 import os, re, unicodedata
 vault = "path_to_vault"
 def norm(n):
-    n = n.replace('.md','')
+    # Strip ONLY the final .md extension (not all .md occurrences)
+    if n.endswith('.md'):
+        n = n[:-3]
     nfkd = unicodedata.normalize('NFKD', n)
     return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
 fmap = {}
 for r,_,fs in os.walk(vault):
     for f in fs:
         if f.endswith('.md'):
-            fmap[norm(f)] = f.replace('.md','')
+            fmap[norm(f)] = f[:-3]
 fixed = 0
 for r,_,fs in os.walk(vault):
     for f in fs:
@@ -208,7 +202,9 @@ Run a Python script to verify all `[[wikilinks]]` resolve to existing files:
 import os, re, unicodedata
 vault = "path_to_vault"
 def norm(n):
-    n = n.replace('.md','')
+    # Strip ONLY the final .md extension (not all .md occurrences)
+    if n.endswith('.md'):
+        n = n[:-3]
     nfkd = unicodedata.normalize('NFKD', n)
     return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
 existing = {}
@@ -216,7 +212,7 @@ for r,_,fs in os.walk(vault):
     if '.obsidian' in r or '/raw/' in r: continue
     for f in fs:
         if f.endswith('.md'):
-            existing[norm(f)] = f.replace('.md','')
+            existing[norm(f)] = f[:-3]
 broken = []
 for r,_,fs in os.walk(vault):
     if '.obsidian' in r or '/raw/' in r: continue
@@ -225,7 +221,10 @@ for r,_,fs in os.walk(vault):
         with open(os.path.join(r,f)) as fh:
             for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
                 target = link.split('|')[0].strip()
-                if target and norm(target) not in existing:
+                # Skip external refs: @mentions, URLs, email addresses
+                if not target or target.startswith('@') or target.startswith('http') or target.startswith('mailto:'):
+                    continue
+                if norm(target) not in existing:
                     broken.append((f, target))
 if broken:
     print(f"BROKEN ({len(broken)}): {broken}")
@@ -246,21 +245,26 @@ After successful processing, delete processed articles from `raw/`.
 - **Merge overlapping concepts** -- no duplication
 - **Every note provides standalone value** -- a reader must understand the note without reading anything else
 
-## Common Pitfalls
-1. DO NOT generate giant summaries -- source notes must be compact
-2. DO NOT create notes for terms that appear only once
-3. DO NOT overuse tags -- wikilinks are the primary connection mechanism
-4. DO NOT create generic AI-fluff notes -- every note must have technical specificity
-5. DO NOT skip the wikilink normalization step (Step 7)
-6. DO NOT skip the cross-link verification step
-7. `[[wikilinks]]` must use EXACTLY the filename: kebab-case, no accents, no spaces
-8. If two articles cover the same concept, UPDATE the existing note instead of creating a duplicate
-9. Source notes should reference concepts, not contain complete explanations
-10. Glossary entries should be quick reference, not full notes
+## Pitfalls
+- DO NOT generate giant summaries -- source notes must be compact
+- DO NOT create notes for terms that appear only once
+- DO NOT overuse tags -- wikilinks are the primary connection mechanism
+- DO NOT create generic AI-fluff notes -- every note must have technical specificity
+- DO NOT skip the wikilink normalization step (Step 7)
+- DO NOT skip the cross-link verification step
+- `[[wikilinks]]` must use EXACTLY the filename: kebab-case, no accents, no spaces
+- **NEVER use dots in filenames** (except the final `.md` extension). A file named `CLAUDE.md-Project-Knowledge.md` will break the normalization script because `n.replace('.md','')` strips ALL `.md` occurrences. Use `CLAUDE-MD-Project-Knowledge.md` instead.
+- If two articles cover the same concept, UPDATE the existing note instead of creating a duplicate
+- Source notes should reference concepts, not contain complete explanations
+- Glossary entries should be quick reference, not full notes
 
-## Verification Checklist
-- [ ] Source note created in `source_notes/`
-- [ ] Atomic notes created in appropriate folders
-- [ ] Wikilinks normalized (Step 7)
-- [ ] Cross-link verification passed (Step 8)
-- [ ] Raw article cleaned (Step 9)
+## Example Invocation
+User drops `raw/AI-Trends-2026.md` into the vault.
+The agent detects the new file, reads it, and creates:
+- 1 source note in `source_notes/`
+- 12-18 atomic notes in `concepts/`, `frameworks/`, `tools/`
+- 3-5 glossary entries
+- 1 index note if the topic warrants it
+- Verifies all links
+- Deletes the raw article
+- Reports: "Processed 1 article: 1 source note, 15 knowledge notes, 4 glossary entries created."
