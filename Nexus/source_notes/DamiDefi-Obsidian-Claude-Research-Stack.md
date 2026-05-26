@@ -22,7 +22,7 @@ Author ran five disconnected tools (Notion, Readwise, X bookmarks, browser bookm
 - [[Capture-As-The-Weakest-Link]] -- system degrades without consistent capture
 - [[Telegram-Bot-Capture]] -- frictionless cross-device capture
 - [[Honesty-in-Project-Tracking]] -- plain text over database status fields
-- [[CLAUDE.md-Project-Knowledge]] -- AI context configuration
+- [[CLAUDE-MD-Project-Knowledge]] -- AI context configuration
 
 ## Key Insights
 - The problem with multi-tool stacks is not individual tool quality but the *connection cost* between them

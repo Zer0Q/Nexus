@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
+                "file": "concepts/Memory-Bandwidth-Bottleneck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DamiDefi-Obsidian-Claude-Research-Stack"
+              "title": "Memory-Bandwidth-Bottleneck"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
+                "file": "concepts/Memory-Bandwidth-Bottleneck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de DamiDefi-Obsidian-Claude-Research-Stack"
+              "title": "Enlaces entrantes de Memory-Bandwidth-Bottleneck"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
+                "file": "concepts/Memory-Bandwidth-Bottleneck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de DamiDefi-Obsidian-Claude-Research-Stack"
+              "title": "Enlaces salientes de Memory-Bandwidth-Bottleneck"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
+                "file": "concepts/Memory-Bandwidth-Bottleneck.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de DamiDefi-Obsidian-Claude-Research-Stack"
+              "title": "Esquema de Memory-Bandwidth-Bottleneck"
             }
           }
         ]
@@ -185,32 +185,32 @@
   },
   "active": "e50979bf6d6ce4d4",
   "lastOpenFiles": [
-    "concepts/Write-Time-Knowledge-Systems.md",
+    "tools/llama-cpp.md",
+    "glossary/GGUF.md",
+    "glossary/HBM.md",
+    "glossary/KV-Cache.md",
+    "glossary/MoE.md",
+    "source_notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware.md",
+    "frameworks/Hardware-First-Engine-Selection.md",
+    "frameworks/Inference-Engine-Families.md",
+    "frameworks/Benchmarking-Workload-Shape.md",
+    "tools/vLLM.md",
+    "tools/ExLlamaV2-and-V3.md",
+    "tools/MLX-and-MLX-LM.md",
+    "tools/SGLang.md",
+    "tools/TensorRT-LLM.md",
     "source_notes/NateBJones-Karpathy-Wiki-vs-Open-Brain.md",
-    "source_notes/KanikaBK-Offline-AI-Workflow.md",
-    "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
-    "concepts/Embedding-Based-Vault-Search.md",
-    "concepts/Browsable-Knowledge.md",
-    "frameworks/AI-Human-Division-of-Labor.md",
-    "concepts/Knowledge-Source-of-Truth.md",
-    "frameworks/Compilation-Agent.md",
-    "architectures/Graph-Knowledge-Layer.md",
-    "frameworks/AI-as-Maintainer.md",
-    "concepts/Error-Compounding.md",
-    "concepts/Editorial-Drift.md",
-    "concepts/Query-Time-Knowledge-Systems.md",
-    "glossary/RAG.md",
-    "frameworks/Unified-Knowledge-Environment.md",
-    "concepts/Anti-Graveyard-Capture.md",
-    "raw/La wiki de Karpathy contra Open Brain. Una falla cuando más la necesitas.md",
-    "Unified Knowledge Environment.md",
-    "frameworks/Weekly-AI-Synthesis.md",
-    "raw/I Replaced My Entire Research Stack With Obsidian and Claude. Here Is the Full System.md",
-    "raw/Here is how I moved my entire AI Workflow Offline Obsidian + LM Studio + Local LLM Plugins.md",
-    "tools/Copilot-Plugin.md",
-    "concepts/Honesty-in-Project-Tracking.md",
-    "concepts/Hardware-Reality-of-Local-AI.md",
-    "concepts/Three-Mode-AI-Workflow.md",
+    "concepts/Runtime-Overhead.md",
+    "concepts/Unified-Memory-Tradeoff.md",
+    "concepts/Speculative-Decoding.md",
+    "concepts/Prefill-vs-Decode.md",
+    "concepts/Quantization-Format-Portability.md",
+    "concepts/Disaggregated-Prefill-Decode.md",
+    "concepts/Continuous-Batching.md",
+    "concepts/Memory-Bandwidth-Bottleneck.md",
+    "concepts/PagedAttention.md",
+    "concepts/Interconnect-Bottleneck.md",
+    "concepts/KV-Cache-Growth.md",
     "indexes",
     "source_notes",
     "glossary",

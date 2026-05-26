@@ -39,7 +39,7 @@ This index maps the concepts, frameworks, and tools related to building an effec
 - [[LM-Studio]] -- local model runner
 - [[Smart-Connections-Plugin]] -- embedding-based vault search
 - [[Telegram-Bot-Capture]] -- cross-device capture
-- [[CLAUDE-Project-Knowledge]] -- AI context configuration
+- [[CLAUDE-MD-Project-Knowledge]] -- AI context configuration
 
 ## Glossary
 - [[RAG]]
