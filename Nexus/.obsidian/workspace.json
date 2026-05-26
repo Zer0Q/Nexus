@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Write-Time-Knowledge-Systems.md",
+                "file": "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Write-Time-Knowledge-Systems"
+              "title": "DamiDefi-Obsidian-Claude-Research-Stack"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/Write-Time-Knowledge-Systems.md",
+                "file": "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Write-Time-Knowledge-Systems"
+              "title": "Enlaces entrantes de DamiDefi-Obsidian-Claude-Research-Stack"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/Write-Time-Knowledge-Systems.md",
+                "file": "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Write-Time-Knowledge-Systems"
+              "title": "Enlaces salientes de DamiDefi-Obsidian-Claude-Research-Stack"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/Write-Time-Knowledge-Systems.md",
+                "file": "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Write-Time-Knowledge-Systems"
+              "title": "Esquema de DamiDefi-Obsidian-Claude-Research-Stack"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "e50979bf6d6ce4d4",
   "lastOpenFiles": [
+    "concepts/Write-Time-Knowledge-Systems.md",
     "source_notes/NateBJones-Karpathy-Wiki-vs-Open-Brain.md",
     "source_notes/KanikaBK-Offline-AI-Workflow.md",
     "source_notes/DamiDefi-Obsidian-Claude-Research-Stack.md",
@@ -198,7 +199,6 @@
     "concepts/Error-Compounding.md",
     "concepts/Editorial-Drift.md",
     "concepts/Query-Time-Knowledge-Systems.md",
-    "concepts/Write-Time-Knowledge-Systems.md",
     "glossary/RAG.md",
     "frameworks/Unified-Knowledge-Environment.md",
     "concepts/Anti-Graveyard-Capture.md",
