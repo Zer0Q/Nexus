@@ -16,7 +16,7 @@ DamiDefi connected Claude as an intelligence layer on top of Obsidian using four
 - [[Organize-by-Type-not-Topic]] -- notes organized by thinking type, not subject
 - [[CLAUDE-MD-as-Context-Layer]] -- personalized context file for AI calibration
 - [[Daily-Synthesis-Workflow]] -- automated morning briefing from recent captures
-- [[Weekly-Connection-Session]] -- deeper cross-cutting analysis across 30 days
+- Weekly Connection Session -- deeper cross-cutting analysis across 30 days
 - [[Compounding-Knowledge-Context]] -- system quality improves with accumulated data
 
 ## Key Insights

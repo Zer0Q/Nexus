@@ -17,7 +17,7 @@ The entire secret: AI agent and notes share the same folder. Agent reads, update
 - [[Integrated-Terminal-Workflow]] -- terminal as tab inside Obsidian
 - [[Graph-Based-Knowledge-Discovery]] -- agent follows backlinks across vault
 - [[Markdown-as-Universal-Format]] -- single format for everything
-- [[Template-Driven-Consistency]] -- strict templates for agent output
+- Template Driven Consistency -- strict templates for agent output
 
 ## Key Insights
 - Tab switching between agent and notes is "death by a thousand cuts"

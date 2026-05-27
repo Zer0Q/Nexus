@@ -14,8 +14,8 @@ Omar Saridakis (DAIR.AI) describes his automated research paper curation pipelin
 ## Core Concepts
 - [[Automated-Research-Curation]] -- AI-curated paper discovery replacing manual review
 - [[Write-Time-Knowledge-Systems]] -- papers indexed once, queried many times
-- [[Knowledge-Layer-for-Agents]] -- KB as input to agentic research loops
-- [[Visual-Knowledge-Artifacts]] -- interactive visualizations over KB data
+- Knowledge Layer For Agents -- KB as input to agentic research loops
+- Visual Knowledge Artifacts -- interactive visualizations over KB data
 
 ## Key Insights
 - Months of Skill tuning produce a curation agent that captures "best of the best"

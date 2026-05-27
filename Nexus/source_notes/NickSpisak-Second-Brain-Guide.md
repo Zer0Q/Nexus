@@ -17,7 +17,7 @@ Practical guide to building a Karpathy-style knowledge base: three folders (raw/
 - [[Anti-Graveyard-Capture]] -- saving answers back into the KB
 - [[Markdown-as-Universal-Format]] -- flat files over proprietary tools
 - [[CLAUDE-MD-as-Context-Layer]] -- schema as AI instruction manual
-- [[Periodic-KB-Health-Check]] -- monthly linting for contradictions and gaps
+- Periodic KB Health Check -- monthly linting for contradictions and gaps
 
 ## Key Insights
 - Three folders are enough: raw (sources), wiki (organized), outputs (answers)
