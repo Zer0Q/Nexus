@@ -196,18 +196,25 @@ Before verifying, run a normalization script that fixes all `[[wikilinks]]` to m
 import os, re, unicodedata
 vault = "path_to_vault"
 def norm(n):
-    # Strip ONLY the final .md extension (not all .md occurrences)
     if n.endswith('.md'):
         n = n[:-3]
     nfkd = unicodedata.normalize('NFKD', n)
     return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
+# Helper: check directory by basename (os.walk returns paths without trailing slash)
+def in_dir(r, name):
+    return os.path.basename(r) == name
+SKIP_DIRS = {'obsidian', 'raw'}
 fmap = {}
-for r,_,fs in os.walk(vault):
+for r,ds,fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if f.endswith('.md'):
             fmap[norm(f)] = f[:-3]
 fixed = 0
-for r,_,fs in os.walk(vault):
+for r,ds,fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if not f.endswith('.md'): continue
         p = os.path.join(r,f)
@@ -235,24 +242,28 @@ def norm(n):
         n = n[:-3]
     nfkd = unicodedata.normalize('NFKD', n)
     return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
+def in_dir(r, name):
+    return os.path.basename(r) == name
+SKIP_DIRS = {'obsidian', 'raw'}
 existing = {}
-for r,_,fs in os.walk(vault):
-    if '.obsidian' in r or '/raw/' in r: continue
+for r,ds,fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if f.endswith('.md'):
             existing[norm(f)] = f[:-3]
 broken = []
 no_links = []
-for r,_,fs in os.walk(vault):
-    if '.obsidian' in r or '/raw/' in r: continue
+for r,ds,fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if not f.endswith('.md'): continue
         fp = os.path.join(r,f)
         with open(fp) as fh:
             content = fh.read()
         links = re.findall(r'\[\[([^\]]+)\]\]', content)
-        # Check if source note has any outgoing links
-        if '/source_notes/' in r and not links:
+        if in_dir(r, 'source_notes') and not links:
             no_links.append(f)
         for link in links:
             target = link.split('|')[0].strip()
@@ -295,34 +306,34 @@ def norm(n):
         n = n[:-3]
     nfkd = unicodedata.normalize('NFKD', n)
     return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
-# Build existing map
+def in_dir(r, name):
+    return os.path.basename(r) == name
+SKIP_DIRS = {'obsidian', 'raw'}
 existing = {}
-for r,_,fs in os.walk(vault):
-    if '.obsidian' in r or '/raw/' in r: continue
+for r,ds,fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if f.endswith('.md'):
             existing[norm(f)] = f[:-3]
-# Count ONLY broken targets (not already-resolved links)
 broken_counts = collections.Counter()
 broken_sources = collections.defaultdict(list)
-for r,_,fs in os.walk(vault):
-    if '.obsidian' in r or '/raw/' in r: continue
+for r,ds,fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if not f.endswith('.md'): continue
         with open(os.path.join(r,f)) as fh:
             for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
                 target = link.split('|')[0].strip()
                 if target and not target.startswith('@') and not target.startswith('http'):
-                    if norm(target) not in existing:  # Only count BROKEN links
+                    if norm(target) not in existing:
                         broken_counts[target] += 1
                         broken_sources[target].append(f)
-
-# Classify
 placeholders_kw = {'topic-name', 'your-topic', 'insert-topic'}
-reusable = {k:v for k,v in broken_counts.items() if v >= 2}  # Create note
-single_use = {k:v for k,v in broken_counts.items() if v == 1 and k.lower().replace('_','-') not in placeholders_kw}  # Remove [[ ]]
+reusable = {k:v for k,v in broken_counts.items() if v >= 2}
+single_use = {k:v for k,v in broken_counts.items() if v == 1 and k.lower().replace('_','-') not in placeholders_kw}
 placeholder = {k:v for k,v in broken_counts.items() if k.lower().replace('_','-') in placeholders_kw}
-
 print(f"CREATE NOTES ({len(reusable)}): {dict(reusable)}")
 print(f"REMOVE LINKS ({len(single_use)}): {dict(single_use)}")
 print(f"PLACEHOLDERS ({len(placeholder)}): {dict(placeholder)}")
@@ -342,16 +353,20 @@ Find notes that are not referenced by any other note:
 ```python
 import os, re
 vault = "path_to_vault"
+def in_dir(r, name):
+    return os.path.basename(r) == name
+SKIP_DIRS = {'obsidian', 'raw'}
 all_notes = set()
 referenced = set()
 index_notes = set()
-for r,_,fs in os.walk(vault):
-    if '.obsidian' in r or '/raw/' in r: continue
+for r,ds,fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if f.endswith('.md'):
             all_notes.add(f[:-3])
-            if '/indexes/' in r:
-                index_notes.add(f[:-3])  # Dynamically discover all indexes
+            if in_dir(r, 'indexes'):
+                index_notes.add(f[:-3])
             with open(os.path.join(r,f)) as fh:
                 for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
                     target = link.split('|')[0]
