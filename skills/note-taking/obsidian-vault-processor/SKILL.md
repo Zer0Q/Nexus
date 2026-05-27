@@ -356,3 +356,4 @@ Orphaned notes are not necessarily bad — they may be leaf concepts. But if a n
 - Source notes should reference concepts, not contain complete explanations
 - Glossary entries should be quick reference, not full notes
 - **Do not create notes for broken links automatically** — triage first (Step 9). A broken link from a single article does not justify a new note.
+- **Source notes MUST use `[[wikilinks]]` in the Core Concepts section** — never plain text. Each bullet should be `[[Concept-Name]] -- one-line description`. This is the primary connection mechanism between source notes and the knowledge graph.
