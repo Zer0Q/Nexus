@@ -87,11 +87,15 @@ Compressed 2-3 sentence summary.
 - question 1
 ```
 
-**Wikilink validation in source notes:** Only create `[[wikilinks]]` for concepts that:
+**Wikilink validation in source notes:** Every bullet in `## Core Concepts` MUST be a `[[wikilink]]`. Only link concepts that:
 - Will have a corresponding note created (in this batch or already exist)
 - Are NOT template placeholders (e.g., `[[topic-name]]`)
 - Are NOT author names, team names, or organizational entities masquerading as concepts
-- Appear in at least 2 different articles (cross-article reuse threshold)
+- Appear in at least 2 different articles OR are foundational concepts central to this article's topic
+
+**Wikilink validation in atomic notes (Step 4):** The `## Related` section MUST contain at least 2 `[[wikilinks]]` to existing or newly-created notes. The `## Source` section MUST contain exactly one `[[wikilink]]` to the source note for this article. Never use plain text where a wikilink belongs.
+
+**Wikilink validation in glossary (Step 5):** The `See also:` line MUST contain at least one `[[wikilink]]` to a related note.
 
 ### Step 4: Extract atomic knowledge notes
 For each article, extract 10-25 atomic notes. Each note represents ONE idea and follows this structure:
@@ -221,8 +225,8 @@ for r,_,fs in os.walk(vault):
 print(f"Normalized: {fixed} links")
 ```
 
-### Step 8: Verify cross-link coherence
-Run a Python script to verify all `[[wikilinks]]` resolve to existing files:
+### Step 8: Verify cross-link coherence AND source note connectivity
+Run a Python script to verify all `[[wikilinks]]` resolve to existing files AND that every source note has at least one outgoing wikilink:
 ```python
 import os, re, unicodedata
 vault = "path_to_vault"
@@ -238,22 +242,32 @@ for r,_,fs in os.walk(vault):
         if f.endswith('.md'):
             existing[norm(f)] = f[:-3]
 broken = []
+no_links = []
 for r,_,fs in os.walk(vault):
     if '.obsidian' in r or '/raw/' in r: continue
     for f in fs:
         if not f.endswith('.md'): continue
-        with open(os.path.join(r,f)) as fh:
-            for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
-                target = link.split('|')[0].strip()
-                # Skip external refs: @mentions, URLs, email addresses
-                if not target or target.startswith('@') or target.startswith('http') or target.startswith('mailto:'):
-                    continue
-                if norm(target) not in existing:
-                    broken.append((f, target))
+        fp = os.path.join(r,f)
+        with open(fp) as fh:
+            content = fh.read()
+        links = re.findall(r'\[\[([^\]]+)\]\]', content)
+        # Check if source note has any outgoing links
+        if '/source_notes/' in r and not links:
+            no_links.append(f)
+        for link in links:
+            target = link.split('|')[0].strip()
+            if not target or target.startswith('@') or target.startswith('http') or target.startswith('mailto:'):
+                continue
+            if norm(target) not in existing:
+                broken.append((f, target))
 if broken:
     print(f"BROKEN ({len(broken)}): {broken}")
 else:
     print("All links coherent.")
+if no_links:
+    print(f"SOURCE NOTES WITHOUT LINKS ({len(no_links)}): {no_links} -- FIX BEFORE CLEANING raw/")
+else:
+    print("All source notes have outgoing links.")
 ```
 
 ### Step 9: Triage broken links
@@ -274,9 +288,21 @@ When broken links are found, classify each one and apply the appropriate fix:
 
 **Triage script:**
 ```python
-import os, re, collections
+import os, re, unicodedata, collections
 vault = "path_to_vault"
-# Count how many files reference each broken target
+def norm(n):
+    if n.endswith('.md'):
+        n = n[:-3]
+    nfkd = unicodedata.normalize('NFKD', n)
+    return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
+# Build existing map
+existing = {}
+for r,_,fs in os.walk(vault):
+    if '.obsidian' in r or '/raw/' in r: continue
+    for f in fs:
+        if f.endswith('.md'):
+            existing[norm(f)] = f[:-3]
+# Count ONLY broken targets (not already-resolved links)
 broken_counts = collections.Counter()
 broken_sources = collections.defaultdict(list)
 for r,_,fs in os.walk(vault):
@@ -287,20 +313,24 @@ for r,_,fs in os.walk(vault):
             for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
                 target = link.split('|')[0].strip()
                 if target and not target.startswith('@') and not target.startswith('http'):
-                    broken_counts[target] += 1
-                    broken_sources[target].append(f)
+                    if norm(target) not in existing:  # Only count BROKEN links
+                        broken_counts[target] += 1
+                        broken_sources[target].append(f)
 
 # Classify
+placeholders_kw = {'topic-name', 'your-topic', 'insert-topic'}
 reusable = {k:v for k,v in broken_counts.items() if v >= 2}  # Create note
-single_use = {k:v for k,v in broken_counts.items() if v == 1}  # Remove [[ ]]
-placeholders = {k for k in broken_counts if k.lower() in ['topic-name', 'your-topic', 'insert-topic']}
+single_use = {k:v for k,v in broken_counts.items() if v == 1 and k.lower().replace('_','-') not in placeholders_kw}  # Remove [[ ]]
+placeholder = {k:v for k,v in broken_counts.items() if k.lower().replace('_','-') in placeholders_kw}
 
 print(f"CREATE NOTES ({len(reusable)}): {dict(reusable)}")
 print(f"REMOVE LINKS ({len(single_use)}): {dict(single_use)}")
-print(f"PLACEHOLDERS ({len(placeholders)}): {placeholders}")
+print(f"PLACEHOLDERS ({len(placeholder)}): {dict(placeholder)}")
 ```
 
 ### Step 10: Clean raw/
+**GATE:** Only proceed if Step 8 reports BOTH "All links coherent" AND "All source notes have outgoing links". If either check fails, DO NOT delete raw/ files — fix the issues first. Raw files are the only source material; once deleted, information cannot be recovered.
+
 After successful processing and zero broken links, delete processed articles from `raw/`.
 
 ## Maintenance (periodic)
@@ -314,17 +344,19 @@ import os, re
 vault = "path_to_vault"
 all_notes = set()
 referenced = set()
+index_notes = set()
 for r,_,fs in os.walk(vault):
     if '.obsidian' in r or '/raw/' in r: continue
     for f in fs:
         if f.endswith('.md'):
             all_notes.add(f[:-3])
+            if '/indexes/' in r:
+                index_notes.add(f[:-3])  # Dynamically discover all indexes
             with open(os.path.join(r,f)) as fh:
                 for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
                     target = link.split('|')[0]
                     referenced.add(target)
-orphans = all_notes - referenced - {'AI-Vault-Integration-Index', 'Knowledge-Management-Index',
-    'Local-AI-Index', 'Research-Workflow-Index'}  # indexes are entry points
+orphans = all_notes - referenced - index_notes
 if orphans:
     print(f"ORPHANS ({len(orphans)}): {sorted(orphans)}")
 else:
@@ -350,6 +382,7 @@ Orphaned notes are not necessarily bad — they may be leaf concepts. But if a n
 - DO NOT skip the wikilink normalization step (Step 7)
 - DO NOT skip the cross-link verification step (Step 8)
 - DO NOT skip the broken link triage (Step 9) — this is where sustainability is enforced
+- DO NOT delete raw/ files until Step 8 passes both checks (coherent links + source notes have outgoing links)
 - `[[wikilinks]]` must use EXACTLY the filename: kebab-case, no accents, no spaces
 - **NEVER use dots in filenames** (except the final `.md` extension). A file named `CLAUDE.md-Project-Knowledge.md` will break the normalization script because `n.replace('.md','')` strips ALL `.md` occurrences. Use `CLAUDE-MD-Project-Knowledge.md` instead.
 - If two articles cover the same concept, UPDATE the existing note instead of creating a duplicate
@@ -357,3 +390,5 @@ Orphaned notes are not necessarily bad — they may be leaf concepts. But if a n
 - Glossary entries should be quick reference, not full notes
 - **Do not create notes for broken links automatically** — triage first (Step 9). A broken link from a single article does not justify a new note.
 - **Source notes MUST use `[[wikilinks]]` in the Core Concepts section** — never plain text. Each bullet should be `[[Concept-Name]] -- one-line description`. This is the primary connection mechanism between source notes and the knowledge graph.
+- **Atomic notes MUST use `[[wikilinks]]` in `## Related` and `## Source` sections** — never plain text.
+- **Glossary entries MUST use `[[wikilinks]]` in `See also:`** — never plain text.
