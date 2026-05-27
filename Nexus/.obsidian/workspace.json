@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -174,17 +174,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "e50979bf6d6ce4d4",
+  "active": "ecfcb4763781f68d",
   "lastOpenFiles": [
+    "raw/How To Use Obsidian + Vellum To Build A Second Brain That Thinks 247.md",
+    "raw/The definitive tool for building AI agents inside Obsidian.md",
+    "raw/Tacit Knowledge Is Your Next Competitive Moat.md",
+    "raw/Post by @omarsar0 on X.md",
+    "raw/Post by @karpathy on X.md",
+    "raw/Obsidian + ByteRover Your Personal Knowledge Base Now Lives Inside Every AI Coding Agent.md",
+    "raw/llm-wiki.md",
+    "raw/Inference Engines for LLMs & Local AI Hardware (2026 Edition).md",
+    "raw/I Connected Claude to My Obsidian Vault. 2 Months Later It Knows My Thinking Better Than I Do.md",
+    "raw/How to Organize Your Obsidian Vault So You Can Always Find What You Need ( Full course).md",
+    "raw/How to Build Your Second Brain.md",
+    "raw/How to Build an Obsidian Vault That Runs Your Entire Business While You Sleep - (Full Course).md",
+    "raw/How to Build an Obsidian Trading Journal That Gets Smarter With Every Trade.md",
+    "raw/How to Build an Obsidian Knowledge Vault That Gets Smarter Every Day Without You Doing Anything.md",
+    "raw/How I turned Obsidian into a second brain that runs itself.md",
+    "raw",
     "tools/llama-cpp.md",
     "glossary/GGUF.md",
     "glossary/HBM.md",
@@ -196,21 +212,6 @@
     "frameworks/Benchmarking-Workload-Shape.md",
     "tools/vLLM.md",
     "tools/ExLlamaV2-and-V3.md",
-    "tools/MLX-and-MLX-LM.md",
-    "tools/SGLang.md",
-    "tools/TensorRT-LLM.md",
-    "source_notes/NateBJones-Karpathy-Wiki-vs-Open-Brain.md",
-    "concepts/Runtime-Overhead.md",
-    "concepts/Unified-Memory-Tradeoff.md",
-    "concepts/Speculative-Decoding.md",
-    "concepts/Prefill-vs-Decode.md",
-    "concepts/Quantization-Format-Portability.md",
-    "concepts/Disaggregated-Prefill-Decode.md",
-    "concepts/Continuous-Batching.md",
-    "concepts/Memory-Bandwidth-Bottleneck.md",
-    "concepts/PagedAttention.md",
-    "concepts/Interconnect-Bottleneck.md",
-    "concepts/KV-Cache-Growth.md",
     "indexes",
     "source_notes",
     "glossary",
