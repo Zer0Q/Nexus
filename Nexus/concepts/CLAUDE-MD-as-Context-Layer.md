@@ -1,0 +1,28 @@
+# CLAUDE.md as Context Layer
+
+## Definition
+A markdown file at the vault root that teaches the AI how to think alongside you specifically. Contains identity, projects, vault structure, thinking style, and hard rules. Read by the AI before every operation to calibrate outputs to your specific context.
+
+## Why It Matters
+Without it, every AI synthesis is generic. With it, outputs are calibrated to your thinking, projects, voice, and unresolved questions. The quality of CLAUDE.md directly determines the quality of AI output -- vague context produces vague results.
+
+## Key Ideas
+- Sections: identity, current projects, vault structure, thinking style, what you want from AI, hard rules
+- Weekly Focus section weights all system actions toward current priorities
+- Must be updated regularly (e.g., every Monday) -- stale CLAUDE.md produces stale output
+- Different from schema: schema tells AI how the wiki works; CLAUDE.md tells AI who you are
+- Template exists but must be filled with real specifics, not placeholders
+- The most important file in the entire system
+
+## Tradeoffs
+- Requires honest self-reflection to write well
+- Needs regular maintenance to stay current
+- Too vague = generic output; too specific = brittle to change
+
+## Related
+- [[Four-Layer-Vault-Architecture]]
+- [[Daily-Synthesis-Workflow]]
+- [[AI-Chief-of-Staff]]
+
+## Source
+[[DamiDefi-Claude-Vault-Integration]]

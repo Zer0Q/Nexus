@@ -1,27 +1,27 @@
 # Write-Time Knowledge Systems
 
 ## Definition
-Knowledge systems where AI synthesizes, organizes, and cross-references information at ingestion time, producing pre-compiled artifacts ready for immediate consumption.
+Knowledge systems where information is processed, structured, and indexed at the time of ingestion (write time), rather than at the time of querying. The LLM compiles knowledge once into a persistent artifact that is then kept current.
 
 ## Why It Matters
-Eliminates query-time latency -- answers are pre-computed and browsable without additional compute. Ideal for solo researchers building persistent knowledge bases.
+Contrasts with query-time systems (RAG) where the LLM rediscovers knowledge from scratch on every question. Write-time systems accumulate: cross-references are already there, contradictions already flagged, synthesis already done.
 
 ## Key Ideas
-- AI acts as editor at write time, not query time
-- Produces persistent artifacts (wiki pages, notes, markdown files)
-- Answers are "baked in" -- no re-derivation needed per query
-- Enables human browsing and serendipitous discovery
-- Andrej Karpathy's personal wiki is the canonical example
+- RAG: upload files, retrieve chunks at query time, generate answer -- no accumulation
+- Write-time: ingest source, extract knowledge, integrate into existing wiki -- compounds
+- The LLM does the grunt work: summarizing, cross-referencing, filing, bookkeeping
+- Each new source touches 10-15 wiki pages, updating entity pages, revising summaries
+- Query becomes reading pre-synthesized pages, not piecing together fragments
 
 ## Tradeoffs
-- Risk of [[Editorial-Drift]] and [[Error-Compounding]]
-- Hard to update when source information changes
-- Doesn't scale well for teams or high-volume structured data
+- Requires trust in LLM synthesis accuracy
+- Initial compilation cost vs. per-query cost
+- Stale claims need periodic linting to catch
 
 ## Related
 - [[Query-Time-Knowledge-Systems]]
-- [[Structured-Source-Notes]]
-- [[AI-as-Maintainer]]
+- [[LLM-Wiki-Pattern]]
+- [[Compilation-Agent]]
 
 ## Source
-[[NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[Karpathy-LLM-Wiki-Pattern]]
