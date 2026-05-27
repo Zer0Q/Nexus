@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Memory-Bandwidth-Bottleneck.md",
+                "file": "raw/ChatGPT - SDD vs BMAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory-Bandwidth-Bottleneck"
+              "title": "ChatGPT - SDD vs BMAD"
+            }
+          },
+          {
+            "id": "153d9731897c59f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/Shared-Directory-Pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shared-Directory-Pattern"
             }
           }
         ]
@@ -71,7 +85,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -183,35 +197,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "ecfcb4763781f68d",
+  "active": "e50979bf6d6ce4d4",
   "lastOpenFiles": [
-    "raw/How To Use Obsidian + Vellum To Build A Second Brain That Thinks 247.md",
-    "raw/The definitive tool for building AI agents inside Obsidian.md",
-    "raw/Tacit Knowledge Is Your Next Competitive Moat.md",
-    "raw/Post by @omarsar0 on X.md",
-    "raw/Post by @karpathy on X.md",
-    "raw/Obsidian + ByteRover Your Personal Knowledge Base Now Lives Inside Every AI Coding Agent.md",
-    "raw/llm-wiki.md",
-    "raw/Inference Engines for LLMs & Local AI Hardware (2026 Edition).md",
-    "raw/I Connected Claude to My Obsidian Vault. 2 Months Later It Knows My Thinking Better Than I Do.md",
-    "raw/How to Organize Your Obsidian Vault So You Can Always Find What You Need ( Full course).md",
-    "raw/How to Build Your Second Brain.md",
-    "raw/How to Build an Obsidian Vault That Runs Your Entire Business While You Sleep - (Full Course).md",
-    "raw/How to Build an Obsidian Trading Journal That Gets Smarter With Every Trade.md",
-    "raw/How to Build an Obsidian Knowledge Vault That Gets Smarter Every Day Without You Doing Anything.md",
-    "raw/How I turned Obsidian into a second brain that runs itself.md",
+    "raw/BMAD - Getting Started.md",
+    "concepts/CLAUDE-MD-as-Context-Layer.md",
+    "raw/ChatGPT - SDD vs BMAD.md",
+    "source_notes/Atenov-Self-Running-Brain.md",
+    "concepts/Shared-Directory-Pattern.md",
+    "Template-Driven-Consistency.md",
+    "source_notes/DamiDefi-Claude-Vault-Integration.md",
+    "concepts/Memory-Bandwidth-Bottleneck.md",
+    "tools/qmd.md",
+    "tools/Vellum.md",
+    "tools/Readwise.md",
+    "tools/Obsidian-Skills-Plugin.md",
+    "tools/N8N.md",
+    "tools/ByteRover.md",
+    "source_notes/TungRoussiere-Tacit-Knowledge-Moat.md",
+    "source_notes/OpenSourceProjects-Obsidian-Skills.md",
+    "source_notes/OmarSaridakis-Research-KB.md",
+    "source_notes/NickSpisak-Second-Brain-Guide.md",
+    "source_notes/KevinNguyen-ByteRover-Obsidian.md",
+    "source_notes/Karpathy-LLM-Wiki-Pattern.md",
+    "source_notes/Karpathy-LLM-Knowledge-Bases.md",
+    "source_notes/CyrilXBT-Vault-Organization.md",
+    "source_notes/CyrilXBT-Trading-Brain.md",
+    "source_notes/CyrilXBT-Self-Improving-Vault.md",
+    "source_notes/CyrilXBT-Obsidian-Vellum.md",
+    "source_notes/CyrilXBT-Business-Operating-System.md",
     "raw",
-    "tools/llama-cpp.md",
-    "glossary/GGUF.md",
-    "glossary/HBM.md",
-    "glossary/KV-Cache.md",
-    "glossary/MoE.md",
-    "source_notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware.md",
-    "frameworks/Hardware-First-Engine-Selection.md",
-    "frameworks/Inference-Engine-Families.md",
-    "frameworks/Benchmarking-Workload-Shape.md",
-    "tools/vLLM.md",
-    "tools/ExLlamaV2-and-V3.md",
     "indexes",
     "source_notes",
     "glossary",
