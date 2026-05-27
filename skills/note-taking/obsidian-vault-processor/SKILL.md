@@ -29,6 +29,24 @@ vault/
 
 ## Processing Flow
 
+### Step 0: Scan existing vault (duplicate prevention)
+Before creating any new notes, scan the existing vault to prevent duplicates:
+```python
+import os
+vault = "path_to_vault"
+existing = {}
+for folder in ["concepts", "frameworks", "tools", "architectures", "workflows", "glossary"]:
+    path = os.path.join(vault, folder)
+    if os.path.isdir(path):
+        for f in os.listdir(path):
+            if f.endswith('.md'):
+                existing[f[:-3].lower()] = os.path.join(folder, f)
+# Print for reference
+for k, v in sorted(existing.items()):
+    print(f"  {v}")
+```
+When extracting concepts from a new article, compare against this list. If a concept already exists (exact match or semantic overlap), UPDATE the existing note with new insights instead of creating a duplicate.
+
 ### Step 1: Scan raw/ for new articles
 ```
 search_files(pattern="*.md", target="files", path="vault/raw")
@@ -68,6 +86,12 @@ Compressed 2-3 sentence summary.
 ## Open Questions
 - question 1
 ```
+
+**Wikilink validation in source notes:** Only create `[[wikilinks]]` for concepts that:
+- Will have a corresponding note created (in this batch or already exist)
+- Are NOT template placeholders (e.g., `[[topic-name]]`)
+- Are NOT author names, team names, or organizational entities masquerading as concepts
+- Appear in at least 2 different articles (cross-article reuse threshold)
 
 ### Step 4: Extract atomic knowledge notes
 For each article, extract 10-25 atomic notes. Each note represents ONE idea and follows this structure:
@@ -115,7 +139,8 @@ Optional. List tradeoffs if relevant.
 - Avoid long prose, avoid generic explanations
 - High signal density
 - DO NOT duplicate concepts across notes -- merge overlapping ideas
-- DO NOT create notes for terms that appear only once
+- DO NOT create notes for terms that appear only once in a single article
+- **Cross-article reuse threshold:** Only create a standalone note if the concept appears meaningfully in 2+ articles OR is a foundational concept (e.g., RAG, LLM, embeddings)
 - Prefer fewer high-quality notes over many shallow ones
 
 ### Step 5: Create glossary entries
@@ -202,7 +227,6 @@ Run a Python script to verify all `[[wikilinks]]` resolve to existing files:
 import os, re, unicodedata
 vault = "path_to_vault"
 def norm(n):
-    # Strip ONLY the final .md extension (not all .md occurrences)
     if n.endswith('.md'):
         n = n[:-3]
     nfkd = unicodedata.normalize('NFKD', n)
@@ -231,10 +255,82 @@ if broken:
 else:
     print("All links coherent.")
 ```
-If broken links exist, create missing notes or fix references.
 
-### Step 9: Clean raw/
-After successful processing, delete processed articles from `raw/`.
+### Step 9: Triage broken links
+When broken links are found, classify each one and apply the appropriate fix:
+
+**Category A: Reusable concept (appears in 2+ source notes)**
+- Create the missing note. This is a concept that transcends a single article.
+
+**Category B: Single-use reference (appears in only 1 source note)**
+- Remove the `[[wikilink]]` wrapper and leave the text as plain text.
+- Example: `[[Human-AI-Orchestration]]` -> `Human-AI-Orchestration`
+- The concept is worth mentioning but not worth a standalone note.
+
+**Category C: Placeholder or false reference**
+- Template placeholders: `[[topic-name]]`, `[[your-topic]]`
+- Author/team names: `[[Open-source Projects Team]]`, `[[Author Name]]`
+- Remove the `[[wikilink]]` wrapper entirely.
+
+**Triage script:**
+```python
+import os, re, collections
+vault = "path_to_vault"
+# Count how many files reference each broken target
+broken_counts = collections.Counter()
+broken_sources = collections.defaultdict(list)
+for r,_,fs in os.walk(vault):
+    if '.obsidian' in r or '/raw/' in r: continue
+    for f in fs:
+        if not f.endswith('.md'): continue
+        with open(os.path.join(r,f)) as fh:
+            for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
+                target = link.split('|')[0].strip()
+                if target and not target.startswith('@') and not target.startswith('http'):
+                    broken_counts[target] += 1
+                    broken_sources[target].append(f)
+
+# Classify
+reusable = {k:v for k,v in broken_counts.items() if v >= 2}  # Create note
+single_use = {k:v for k,v in broken_counts.items() if v == 1}  # Remove [[ ]]
+placeholders = {k for k in broken_counts if k.lower() in ['topic-name', 'your-topic', 'insert-topic']}
+
+print(f"CREATE NOTES ({len(reusable)}): {dict(reusable)}")
+print(f"REMOVE LINKS ({len(single_use)}): {dict(single_use)}")
+print(f"PLACEHOLDERS ({len(placeholders)}): {placeholders}")
+```
+
+### Step 10: Clean raw/
+After successful processing and zero broken links, delete processed articles from `raw/`.
+
+## Maintenance (periodic)
+
+Run these checks every 10-15 new articles processed:
+
+### Orphan detection
+Find notes that are not referenced by any other note:
+```python
+import os, re
+vault = "path_to_vault"
+all_notes = set()
+referenced = set()
+for r,_,fs in os.walk(vault):
+    if '.obsidian' in r or '/raw/' in r: continue
+    for f in fs:
+        if f.endswith('.md'):
+            all_notes.add(f[:-3])
+            with open(os.path.join(r,f)) as fh:
+                for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
+                    target = link.split('|')[0]
+                    referenced.add(target)
+orphans = all_notes - referenced - {'AI-Vault-Integration-Index', 'Knowledge-Management-Index',
+    'Local-AI-Index', 'Research-Workflow-Index'}  # indexes are entry points
+if orphans:
+    print(f"ORPHANS ({len(orphans)}): {sorted(orphans)}")
+else:
+    print("No orphans.")
+```
+Orphaned notes are not necessarily bad — they may be leaf concepts. But if a note has been orphaned for multiple processing cycles, consider whether it should be merged into a parent concept or removed.
 
 ## Key Principles
 - **Dense over verbose** -- compress knowledge, don't summarize
@@ -244,27 +340,19 @@ After successful processing, delete processed articles from `raw/`.
 - **Signal over completeness** -- prefer fewer high-quality notes
 - **Merge overlapping concepts** -- no duplication
 - **Every note provides standalone value** -- a reader must understand the note without reading anything else
+- **Growth is controlled** -- every new note must justify its existence through reuse or foundational importance
 
 ## Pitfalls
 - DO NOT generate giant summaries -- source notes must be compact
-- DO NOT create notes for terms that appear only once
+- DO NOT create notes for terms that appear only once in a single article
 - DO NOT overuse tags -- wikilinks are the primary connection mechanism
 - DO NOT create generic AI-fluff notes -- every note must have technical specificity
 - DO NOT skip the wikilink normalization step (Step 7)
-- DO NOT skip the cross-link verification step
+- DO NOT skip the cross-link verification step (Step 8)
+- DO NOT skip the broken link triage (Step 9) — this is where sustainability is enforced
 - `[[wikilinks]]` must use EXACTLY the filename: kebab-case, no accents, no spaces
 - **NEVER use dots in filenames** (except the final `.md` extension). A file named `CLAUDE.md-Project-Knowledge.md` will break the normalization script because `n.replace('.md','')` strips ALL `.md` occurrences. Use `CLAUDE-MD-Project-Knowledge.md` instead.
 - If two articles cover the same concept, UPDATE the existing note instead of creating a duplicate
 - Source notes should reference concepts, not contain complete explanations
 - Glossary entries should be quick reference, not full notes
-
-## Example Invocation
-User drops `raw/AI-Trends-2026.md` into the vault.
-The agent detects the new file, reads it, and creates:
-- 1 source note in `source_notes/`
-- 12-18 atomic notes in `concepts/`, `frameworks/`, `tools/`
-- 3-5 glossary entries
-- 1 index note if the topic warrants it
-- Verifies all links
-- Deletes the raw article
-- Reports: "Processed 1 article: 1 source note, 15 knowledge notes, 4 glossary entries created."
+- **Do not create notes for broken links automatically** — triage first (Step 9). A broken link from a single article does not justify a new note.
