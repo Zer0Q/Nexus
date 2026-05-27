@@ -11,10 +11,13 @@ type: analysis
 Comparison of AI-assisted development methodologies from classical (TDD, BDD) to AI-native (SDD, BMAD, Agentic SDLC). Key insight: no single framework wins — the winning stack layers multiple approaches. BMAD operationalizes classic Agile practices for LLM agents.
 
 ## Core Concepts
-- Spec-Driven Development (SDD) makes specifications the central artifact, with tools like Spec-Kit, OpenSpec, Kiro
-- BMAD simulates multi-agent Agile teams; strong for medium/large projects but risks context explosion
-- Vibe coding (prompt -> code) works for PoCs but lacks traceability and doesn't scale
-- The winning stack for serious AI-assisted dev: BDD/SDD -> Architecture Constraints -> TDD -> Contract Tests -> Agentic Coding -> CI/Evals
+- [[Spec-Driven-Development]] -- spec as central artifact (Spec-Kit, OpenSpec, BMAD)
+- [[BMAD-Method]] -- multi-agent Agile simulation for medium/large projects
+- [[Vibe-Coding]] -- prompt-to-code for PoCs; lacks traceability
+- [[Agentic-SDLC]] -- AI agents in full SDLC: analysis, code, test, PR
+- [[Artifact-Pipeline]] -- Intent -> Spec -> Tests -> Code -> Verification
+- [[Multi-Agent-Development]] -- specialized AI agents with role separation
+- [[Context-Explosion]] -- large specs degrade agent quality
 
 ## Key Insights
 - BMAD is not revolutionary — it's Agile + Multi-Agent Orchestration + SDD adapted for LLM agents
