@@ -1,0 +1,24 @@
+# OpenHands
+
+## Definition
+Autonomous AI coding agent that modifies repositories directly. Takes issues and produces PRs through an autonomous loop of planning, coding, and testing.
+
+## Why It Matters
+End-to-end autonomous agent for code changes. Handles the full cycle from issue to PR without human intervention in the middle.
+
+## Key Ideas
+- Autonomous repo modification
+- Issue -> PR workflow
+- Requires strong sandbox and evaluation infrastructure
+- Best for well-scoped tasks
+
+## Tradeoffs
+- Needs robust evals to catch bad changes
+- Sandbox requirements for security
+- Variable PR quality
+
+## Related
+- [[Agentic-SDLC]], [[Multi-Agent-Development]]
+
+## Source
+[[SDD-vs-BMAD-Frameworks-Comparison]]
