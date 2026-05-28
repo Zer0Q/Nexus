@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Beyond the Hype Why ISOIEC 229892022 is the strategic bedrock of your AI Governance.md",
+                "file": "raw/The Communities of Practice Playbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beyond the Hype Why ISOIEC 229892022 is the strategic bedrock of your AI Governance"
+              "title": "The Communities of Practice Playbook"
             }
           }
         ]
@@ -183,35 +183,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "2fa04ed9c751dad5",
+  "active": "ecfcb4763781f68d",
   "lastOpenFiles": [
+    "raw/Hermes Agent Masterclass.md",
+    "raw/Comunidades de práctica qué son estos grupos y cómo funcionan.md",
+    "concepts/Shared-Directory-Pattern.md",
+    "source_notes/Atenov-Self-Running-Brain.md",
+    "frameworks/Compilation-Agent.md",
+    "architectures/Graph-Knowledge-Layer.md",
+    "concepts/Knowledge-Source-of-Truth.md",
+    "concepts/Query-Time-Knowledge-Systems.md",
+    "concepts/Write-Time-Knowledge-Systems.md",
+    "concepts/LLM-Wiki-Pattern.md",
+    "source_notes/Karpathy-LLM-Wiki-Pattern.md",
+    "raw/The Communities of Practice Playbook.md",
+    "indexes/Local-AI-Index.md",
+    "raw/La teoría del aprendizaje situado qué es y qué propone en la educación.md",
+    "raw/Beyond the Hype Why ISOIEC 229892022 is the strategic bedrock of your AI Governance.md",
     "raw/Beyond Intuition Why ISOIEC 238942023 is the Strategic Engine for AI Risk Management.md",
     "source_notes/BMAD-Method-Getting-Started.md",
-    "raw/Beyond the Hype Why ISOIEC 229892022 is the strategic bedrock of your AI Governance.md",
-    "source_notes/Atenov-Self-Running-Brain.md",
     "raw/Harness y por qué los prompts complejos están perdiendo sentido.md",
-    "raw/La teoría del aprendizaje situado qué es y qué propone en la educación.md",
     "indexes/Research-Workflow-Index.md",
     "glossary/RAG.md",
-    "indexes/Local-AI-Index.md",
     "indexes/AI-Development-Index.md",
     "tools/OpenSpec.md",
-    "architectures/Graph-Knowledge-Layer.md",
     "raw",
-    "concepts/Shared-Directory-Pattern.md",
     "concepts/Vibe-Coding.md",
     "source_notes/Goldratt-Theory-of-Constraints.md",
     "glossary/TOC.md",
     "frameworks/Theory-of-Constraints.md",
-    "frameworks/Drum-Buffer-Rope.md",
-    "concepts/Throughput-Accounting.md",
-    "concepts/Exploit-Then-Elevate.md",
-    "concepts/Constraint-Types.md",
-    "frameworks/Spec-Driven-Development.md",
-    "frameworks/BMAD-Method.md",
-    "raw/Theory of constraints - Eliyahu Goldratt.md",
-    "indexes/Knowledge-Management-Index.md",
-    "indexes/AI-Vault-Integration-Index.md",
     "indexes",
     "source_notes",
     "glossary",
