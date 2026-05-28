@@ -20,6 +20,8 @@ In the age of agentic AI, data and models are table stakes. Tacit knowledge is t
 - Maintaining accuracy as context evolves is ongoing work
 
 ## Related
+- [[Situated-Learning]]
+- [[Communities-of-Practice]]
 - [[Knowledge-Graph-as-Semantic-Layer]]
 - [[Codify-without-Flattening]]
 - [[Knowledge-Mapping]]

@@ -18,6 +18,7 @@ Represents the lowest-friction entry point to AI-assisted development. Useful fo
 - Difficult to onboard team members or maintain long-term
 
 ## Related
+- [[Prompt-Validation-Over-Construction]]
 - [[Spec-Driven-Development]], [[BMAD-Method]], [[Agentic-SDLC]]
 
 ## Source

@@ -19,6 +19,7 @@ Every prompt sent to cloud AI is a data transfer. For knowledge workers handling
 - Maintenance burden of updating models manually
 
 ## Related
+- [[Adversarial-Vulnerabilities]]
 - [[Hybrid-AI-Workflow]]
 - [[On-Device-Knowledge-Base]]
 - [[LM-Studio]]

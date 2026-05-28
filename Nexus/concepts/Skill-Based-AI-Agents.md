@@ -12,6 +12,7 @@ Transforms AI from a general-purpose chatbot into a specialized assistant with r
 - Observable: each skill's output is traceable and reviewable
 
 ## Related
+- [[LLM-Harness]]
 - [[Persistent-AI-Helpers]]
 - [[Vault-Aware-Automation]]
 - [[Obsidian-Skills-Plugin]]

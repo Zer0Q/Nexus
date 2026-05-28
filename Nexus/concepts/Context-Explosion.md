@@ -13,6 +13,7 @@ The fundamental scalability bottleneck of AI-assisted development frameworks. To
 - The weakest link in BMAD and similar frameworks
 
 ## Related
+- [[LLM-Harness]]
 - [[BMAD-Method]], [[Spec-Driven-Development]], [[Multi-Agent-Development]], [[KV-Cache-Growth]]
 
 ## Source

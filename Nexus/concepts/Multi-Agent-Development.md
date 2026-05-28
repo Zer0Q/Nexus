@@ -18,6 +18,7 @@ Simulates the role separation of human Agile teams, reducing the cognitive load 
 - Handoff quality determines overall system quality
 
 ## Related
+- [[LLM-Harness]]
 - [[BMAD-Method]], [[Agentic-SDLC]], [[Skill-Based-AI-Agents]]
 
 ## Source

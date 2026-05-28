@@ -12,6 +12,7 @@ Enables discovery of non-obvious connections, helps identify gaps in understandi
 - Regular mapping exercises surface orphaned notes and stale connections
 
 ## Related
+- [[Communities-of-Practice]]
 - [[Graph-Based-Knowledge-Discovery]]
 - [[Knowledge-Graph-as-Semantic-Layer]]
 - [[Tacit-Knowledge]]
