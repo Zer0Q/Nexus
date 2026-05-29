@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tools",
+      "query": "path:concepts  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "type:concept",
+      "query": "path:source_notes  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 65280
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224372,
+  "scale": 0.5087618855792537,
   "close": false
 }
