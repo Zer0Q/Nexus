@@ -12,11 +12,17 @@ A vague CLAUDE.md produces vague outputs. A specific one turns a general-purpose
 - Loaded as project knowledge so AI has context from session start
 - Vague files = vague outputs; specific files = specific outputs
 - Should be updated periodically as your focus evolves
+- Five-section template (Role, Style, Constraints, Workflow, Quality) provides a complete structure
+- Available in Claude Code (project root) and Claude Projects (Project System Prompt on claude.ai)
+- Equivalent patterns exist: AGENTS.md (Hermes), .cursorrules (Cursor), instructions.md (other tools)
+- The 15-minute setup investment has permanent compound returns
 
 ## Related
 - [[Context-Aware-AI-Research]]
 - [[Weekly-AI-Synthesis]]
 - [[Unified-Knowledge-Environment]]
+- [[CLAUDE-MD-Five-Section-Template]]
+- [[System-Setup-Hierarchy]]
 
 ## Source
 [[DamiDefi-Obsidian-Claude-Research-Stack]]

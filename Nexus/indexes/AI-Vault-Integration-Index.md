@@ -14,6 +14,9 @@ Patterns and tools for connecting AI agents with Obsidian vaults and knowledge b
 - [[Persistent-AI-Helpers]] -- saved instructions for reuse
 - [[Vault-Aware-Automation]] -- agents that understand the knowledge graph
 - [[Graph-Based-Knowledge-Discovery]] -- AI follows backlinks
+- [[Ephemeral-vs-Persistent-AI-Interaction]] -- chat-per-session vs. rulebook-that-persists
+- [[AI-Power-User-Gap]] -- 99% use AI as search engine; 1% as autonomous system
+- [[Compound-Effect-of-Persistent-Instructions]] -- rules accumulate value over time
 
 ## Frameworks
 - [[Four-Layer-Vault-Architecture]] -- capture, pipeline, storage, intelligence
@@ -22,6 +25,7 @@ Patterns and tools for connecting AI agents with Obsidian vaults and knowledge b
 - [[AI-as-Maintainer]] -- AI handles bookkeeping
 - [[AI-Human-Division-of-Labor]] -- human curates, AI maintains
 - [[Unified-Knowledge-Environment]] -- single source of truth
+- [[CLAUDE-MD-Five-Section-Template]] -- Role, Style, Constraints, Workflow, Quality
 
 ## Tools
 - [[ByteRover]] -- vault-to-agent bridge (22+ agents)
@@ -33,6 +37,7 @@ Patterns and tools for connecting AI agents with Obsidian vaults and knowledge b
 - [[qmd]] -- local markdown search engine
 
 ## Glossary
+- [[CLAUDE-MD]] -- persistent project-level instruction file
 - [[Vault-Context]]
 - [[Embeddings]]
 
@@ -42,3 +47,4 @@ Patterns and tools for connecting AI agents with Obsidian vaults and knowledge b
 - [[KevinNguyen-ByteRover-Obsidian]]
 - [[OpenSourceProjects-Obsidian-Skills]]
 - [[CyrilXBT-Obsidian-Vellum]]
+- [[Hanakoxbt-CLAUDE-MD-Second-Employee]]

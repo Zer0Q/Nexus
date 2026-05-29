@@ -11,6 +11,7 @@ The shift from complex prompt engineering to harness-managed interactions and va
 ## Core Concepts
 - [[LLM-Harness]] -- software layer between user prompt and model
 - [[Prompt-Validation-Over-Construction]] -- effort shifts from building prompts to validating results
+- [[System-Setup-Hierarchy]] -- better system setup → better prompts → dramatically better output
 
 ## Glossary
 - [[Metaprompt]] -- asking the AI to draft its own optimal prompt
@@ -23,3 +24,4 @@ The shift from complex prompt engineering to harness-managed interactions and va
 
 ## Sources
 - [[DavidHurtado-Harness-and-Prompting]]
+- [[Hanakoxbt-CLAUDE-MD-Second-Employee]]

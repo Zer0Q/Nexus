@@ -13,16 +13,23 @@ Without it, every AI synthesis is generic. With it, outputs are calibrated to yo
 - Different from schema: schema tells AI how the wiki works; CLAUDE.md tells AI who you are
 - Template exists but must be filled with real specifics, not placeholders
 - The most important file in the entire system
+- Five-section alternative: Role, Style, Constraints, Workflow, Quality — covers all behavioral dimensions
+- Without CLAUDE.md, Claude is a "smart stranger you re-explain everything to every morning"; with it, an "employee who read the handbook on day one"
+- The compound effect: week 1 fixes generic output, week 2 adds pattern rules, week 3 specializes per project, week 4 enables hands-off delegation
 
 ## Tradeoffs
 - Requires honest self-reflection to write well
 - Needs regular maintenance to stay current
 - Too vague = generic output; too specific = brittle to change
+- Over-constraint risk: too many rules can make the AI rigid and uncreative
 
 ## Related
 - [[Four-Layer-Vault-Architecture]]
 - [[Daily-Synthesis-Workflow]]
 - [[AI-Chief-of-Staff]]
+- [[Compound-Effect-of-Persistent-Instructions]]
+- [[System-Setup-Hierarchy]]
+- [[CLAUDE-MD-Five-Section-Template]]
 
 ## Source
 [[DamiDefi-Claude-Vault-Integration]]
