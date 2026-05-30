@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Broken Process In, Broken AI Out.md",
+                "file": "source_notes/AkshayPachaar-Hermes-Agent-Masterclass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Broken Process In, Broken AI Out"
+              "title": "AkshayPachaar-Hermes-Agent-Masterclass"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -174,44 +174,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "2fa04ed9c751dad5",
   "lastOpenFiles": [
+    "indexes/AI-Stack-and-Multi-Model-Index.md",
+    "indexes/Local-AI-Hardware-Index.md",
+    "indexes/Hermes-Agent-Deep-Dive-Index.md",
+    "indexes/Obsidian-Vault-Systems-Index.md",
+    "raw/Hermes Agent Masterclass.md",
+    "source_notes/AkshayPachaar-Hermes-Agent-Masterclass.md",
+    "raw/Post by @javilopen on X.md",
+    "glossary/OCR.md",
+    "glossary/ARROWHEAD.md",
+    "raw/How to Build an Obsidian System That Turns Every Note You Take Into Something You Actually Use.md",
+    "raw/HERMES AGENT THE COMPLETE GUIDE. From Zero to Self-Improving AI Employee.md",
+    "raw/I Built a 5 Tool AI Stack Where Each Tool Does Something the Others Cannot. Here Is the Full Build.md",
+    "raw/HOW ONE $2,999 NVIDIA BOX MADE ME $22,000 IN A YEAR.md",
+    "raw/I Connected Hermes Agent to My Obsidian Vault. My Research Operation Changed Overnight.md",
+    "raw/How to Weaponize Obsidian + Claude to Replace the $35KMonth Content Team in 4 Evenings.md",
+    "raw/How to Use Obsidian and Claude to Learn Any Subject Twice as Fast by Building a Knowledge Graph.md",
+    "glossary/Model-Drift.md",
+    "frameworks/AI-Risk-Management.md",
+    "source_notes/RamiroCid-ISO-23894-AI-Risk-Management.md",
     "indexes/Industrial-Automation-and-Alarm-Management.md",
     "raw/Broken Process In, Broken AI Out.md",
     "raw",
     "indexes/Knowledge-Management-Index.md",
     "concepts/Agent-Cron-Scheduler.md",
     "indexes/Local-AI-Index.md",
-    "source_notes/AkshayPachaar-Hermes-Agent-Masterclass.md",
     "concepts/ISA-101-Standard.md",
     "source_notes/OBrien-ISA-101-HMI-Lifecycle.md",
-    "concepts/Operator-Situational-Awareness.md",
-    "concepts/Display-Hierarchy.md",
-    "concepts/High-Performance-HMI.md",
-    "source_notes/RealPars-High-Performance-HMI.md",
-    "concepts/Information-over-Data.md",
-    "concepts/Alarm-Management.md",
-    "concepts/Grayscale-HMI-Design.md",
-    "glossary/HMI.md",
-    "indexes/AI-Vault-Integration-Index.md",
-    "indexes/AI-Governance-and-Risk.md",
-    "indexes/AI-Development-Index.md",
-    "indexes/Research-Workflow-Index.md",
-    "source_notes/SDD-vs-BMAD-Frameworks-Comparison.md",
-    "source_notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware.md",
-    "source_notes/TungRoussiere-Tacit-Knowledge-Moat.md",
-    "concepts/ISA-18-2-Standard.md",
-    "source_notes/ISA-18-Standards-Series.md",
-    "raw/Alarm management questions that everyone asks.md",
     "indexes",
     "source_notes",
     "glossary",
