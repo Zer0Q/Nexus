@@ -1,0 +1,27 @@
+# SOUL.md Agent Identity
+
+## Definition
+A concise identity file (SOUL.md) that defines an agent's personality, values, constraints, and operational boundaries — making the agent push back, hold standards, and refuse low-value tasks.
+
+## Why It Matters
+Default agent prompts produce compliant but useless output. SOUL.md gives agents a backbone — they challenge bad ideas, refuse slop, and maintain quality standards autonomously.
+
+## Key Ideas
+- ~170 lines of identity instructions
+- Defines what the agent will and won't do
+- Includes negative constraints (what to refuse)
+- Sets accountability standards
+- Creates split personality: helpful but principled
+
+## Tradeoffs
+- Overly strict SOUL.md blocks valid requests
+- Requires careful calibration per use case
+- Agent may push back when user just wants quick output
+
+## Related
+- [[SOUL-MD-Configuration]]
+- [[SOUL-MD-Challenge-Instructions]]
+- [[Compound-Effect-of-Persistent-Instructions]]
+
+## Source
+[[tonysimons-170-line-soul-md-hermes-agent-dangerous]]

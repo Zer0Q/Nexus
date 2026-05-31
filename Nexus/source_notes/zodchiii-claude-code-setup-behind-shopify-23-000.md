@@ -1,0 +1,27 @@
+---
+title: "The Claude Code Setup Behind Shopify's 23,000 Engineers (Exact Config You Can Copy)"
+source: "https://x.com/zodchiii/status/2056319284641460626"
+author: "zodchiii"
+published: "2026-05-18"
+type: article
+---
+
+# The Claude Code Setup Behind Shopifys 23000 Engineers Exact Config You Can Co
+
+## Summary
+Shopify's 23,000 engineers are racing to automate 96% of their coding by Q3 this year. They run multiple Claude Code agents in parallel, each handling a different part of the codebase while engineers just review and merge. Bessemer published their full AI-first playbook.
+
+## Core Concepts
+- [[Skill-Based-AI-Agents]] -- related concept
+- [[Self-Evolving-Skills]] -- related concept
+- [[Agent-Multi-Tier-Memory]] -- related concept
+- [[Session-Recall]] -- related concept
+- [[Browser-CDP-Control]] -- related concept
+## Key Insights
+- The infrastructure layer (why their setup works)
+- Pattern 1: Parallel agents, not single chat
+- Pattern 2: Extended critique loops
+
+## Open Questions
+- How does this approach scale in production?
+- What are the tradeoffs compared to alternatives?

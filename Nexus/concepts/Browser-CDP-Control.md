@@ -1,0 +1,28 @@
+# Browser CDP Control
+
+## Definition
+Using Chrome DevTools Protocol (CDP) to give AI agents direct browser control — navigating, clicking, filling forms, and extracting data from web pages programmatically.
+
+## Why It Matters
+Agents limited to API calls can't interact with the open web. Browser control via CDP enables agents to scrape, fill forms, navigate SPAs, and automate web workflows.
+
+## Key Ideas
+- CDP provides programmatic access to Chrome internals
+- Agents can navigate, click, type, screenshot, and extract DOM
+- Essential for web research, form automation, and testing
+- Hermes Agent's browser toolset uses CDP under the hood
+- Security: agents can escape to browser, need sandboxing
+
+## Tradeoffs
+- Security risks (agents can access any website)
+- Slower than API calls
+- Fragile to website structure changes
+- Rate limiting and bot detection
+
+## Related
+- [[Hermes-Agent-Architecture]]
+- [[Scoped-Vault-Access]]
+- [[Read-Only-Vault-Safety]]
+
+## Source
+[[NeoAIForecast-hermes-has-browser-escape-hatch-agents-don]]
