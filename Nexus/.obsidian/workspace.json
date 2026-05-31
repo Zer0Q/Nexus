@@ -11,10 +11,14 @@
             "id": "4dcbe81ab519e10a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "raw/If I Wanted to Get Rich with AI in 2026, I'd Do This.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "If I Wanted to Get Rich with AI in 2026, I'd Do This"
             }
           }
         ]
@@ -179,8 +183,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4dcbe81ab519e10a",
+  "active": "ecfcb4763781f68d",
   "lastOpenFiles": [
+    "raw/Cómo crear un vault en Obsidian que aprende solo.md",
+    "raw/Hermes Agent Masterclass The Complete Course From Zero to Full Autonomous Agent Operation.md",
+    "raw/Delete 90% of Your Obsidian Notes. The Vault Gets Smarter When You Do.md",
+    "raw/Pydantic fixed my Agent's Memory.md",
+    "raw/30 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know.md",
+    "raw/How To Fix AI Slop (Using Hermes).md",
+    "raw/If I Wanted to Get Rich with AI in 2026, I'd Do This.md",
     "raw/What Building a Company Brain over the last Year Taught Me.md",
     "raw/How to Steer Hermes Agent Mid-Task Without Interrupting It.md",
     "raw/Hermes Agents Most Underrated Feature AI Agents That Can Delegate.md",
@@ -200,13 +211,6 @@
     "raw/How to Build a Multi-Agent Team in Hermes 1.md",
     "raw/How to Build a Multi-Agent Team in Hermes.md",
     "raw/How to Set Up Hermes on Telegram.md",
-    "raw/How to Create Custom Hermes Skins That Actually Look Good.md",
-    "raw/How to Install Hermes Agent.md",
-    "raw/How to Start With Hermes Agent Without Getting Lost.md",
-    "raw/In 6 months, you'll either have an AI second brain or wish you did (a full setup to start today).md",
-    "raw/Your Obsidian Vault Can Now Write Back to Itself. Here's the Architecture Nobody's Talking About.md",
-    "raw/From Zero to Ultimate Hermes Agent Army.md",
-    "raw/Garry Tan Built a 247 AI Engineering Team for Free.md",
     "Sin título.canvas",
     "raw",
     "indexes",
