@@ -20,9 +20,9 @@ Separates storage, thinking, and execution -- each layer has a distinct role. Th
 - Requires initial architecture design before tool setup
 
 ## Related
-- [[Four-Layer-Vault-Architecture]]
-- [[Automated-Business-Workflows]]
-- [[Async-Queue-Pattern]]
+- [[concepts/Four-Layer-Vault-Architecture]]
+- [[concepts/Automated-Business-Workflows]]
+- [[concepts/Async-Queue-Pattern]]
 
 ## Source
-[[CyrilXBT-Business-Operating-System]]
+[[source-notes/CyrilXBT-Business-Operating-System]]

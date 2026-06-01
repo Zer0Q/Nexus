@@ -18,10 +18,10 @@ Provides a complete but minimal framework for project-level AI configuration. Ea
 - Quality section adds latency (pre-delivery checks) but improves output reliability
 
 ## Related
-- [[CLAUDE-MD-Project-Knowledge]]
-- [[CLAUDE-MD-as-Context-Layer]]
-- [[Agent-Identity-Layer]]
-- [[Spec-Driven-Development]]
+- [[tools/CLAUDE-MD-Project-Knowledge]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Agent-Identity-Layer]]
+- [[frameworks/Spec-Driven-Development]]
 
 ## Source
-[[Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]

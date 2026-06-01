@@ -19,9 +19,9 @@ This compatibility layer means you do not need to rewrite your tools to go local
 - Model updates are manual, not automatic
 
 ## Related
-- [[LM-Studio]]
-- [[Smart-Connections-Plugin]]
-- [[On-Device-Knowledge-Base]]
+- [[tools/LM-Studio]]
+- [[tools/Smart-Connections-Plugin]]
+- [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

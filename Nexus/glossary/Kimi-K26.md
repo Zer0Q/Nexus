@@ -7,4 +7,4 @@ An open-source, native multimodal agentic model from Moonshot AI. Advances pract
 - Capable of visual-to-code generation from sketches and screenshots
 - Free, open-source, API-accessible
 
-See also: [[Kimi-K26-Model]], [[Long-Horizon-Coding]], [[Swarm-Orchestration]]
+See also: [[tools/Kimi-K26-Model]], [[concepts/Long-Horizon-Coding]], [[concepts/Swarm-Orchestration]]

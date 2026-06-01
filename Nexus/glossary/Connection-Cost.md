@@ -4,6 +4,6 @@ The cumulative time and mental effort spent routing information between disconne
 
 - Invisible during setup, compounds over time
 - Includes context switching, manual linking, duplicate searching
-- Eliminated by [[Unified-Knowledge-Environment]]
+- Eliminated by [[frameworks/Unified-Knowledge-Environment]]
 
-See also: [[Connection-Cost]], [[Unified-Knowledge-Environment]]
+See also: [[glossary/Connection-Cost]], [[frameworks/Unified-Knowledge-Environment]]

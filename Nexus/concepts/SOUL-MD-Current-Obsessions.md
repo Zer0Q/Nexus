@@ -19,9 +19,9 @@ Without current obsessions, the agent has no way to prioritize. Your vault may c
 - May cause the agent to over-index on your current focus, missing adjacent opportunities
 
 ## Related
-- [[SOUL-MD-Configuration]] -- the broader SOUL.md framework
-- [[Agent-Identity-Layer]] -- identity includes current context
-- [[Vault-Aware-Research]] -- obsessions guide vault queries
+- [[concepts/SOUL-MD-Configuration]] -- the broader SOUL.md framework
+- [[concepts/Agent-Identity-Layer]] -- identity includes current context
+- [[concepts/Vault-Aware-Research]] -- obsessions guide vault queries
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

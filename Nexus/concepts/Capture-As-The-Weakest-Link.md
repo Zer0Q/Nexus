@@ -18,10 +18,10 @@ People over-invest in processing tools (AI synthesis, tagging, linking) while un
 - Need to balance capture speed with some quality filter
 
 ## Related
-- [[Inbox-First-Capture]]
-- [[Anti-Graveyard-Capture]]
-- [[Telegram-Bot-Capture]]
-- [[Connection-Cost]]
+- [[glossary/Inbox-First-Capture]]
+- [[concepts/Anti-Graveyard-Capture]]
+- [[tools/Telegram-Bot-Capture]]
+- [[glossary/Connection-Cost]]
 
 ## Source
-[[DamiDefi-Obsidian-Claude-Research-Stack]]
+[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]

@@ -6,4 +6,4 @@ General GPU Format -- open quantization format optimized for llama.cpp. Industry
 - Portable across backends (CPU, CUDA, Metal, Vulkan, HIP)
 - Not always the fastest format for a given engine
 
-See also: [[Quantization-Format-Portability]], [[llama-cpp]]
+See also: [[concepts/Quantization-Format-Portability]], [[tools/llama-cpp]]

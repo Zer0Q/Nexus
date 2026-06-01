@@ -7,4 +7,4 @@ NVIDIA Inference Microservices, a containerized inference framework pre-installe
 - Containerized, production-ready inference
 - Alternative to Ollama for higher-throughput serving
 
-See also: [[DGX-OS-Stack]], [[vLLM]]
+See also: [[concepts/DGX-OS-Stack]], [[tools/vLLM]]

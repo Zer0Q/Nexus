@@ -20,9 +20,9 @@ Physical proximity is no longer required for effective knowledge sharing. Virtua
 - Written records create permanence — mistakes are harder to retract
 
 ## Related
-- [[Communities-of-Practice]] -- the base concept extended to digital spaces
-- [[Knowledge-Graph-as-Semantic-Layer]] -- structured knowledge in digital form
-- [[Federated-Knowledge-Search]] -- searching across distributed knowledge sources
+- [[concepts/Communities-of-Practice]] -- the base concept extended to digital spaces
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]] -- structured knowledge in digital form
+- [[concepts/Federated-Knowledge-Search]] -- searching across distributed knowledge sources
 
 ## Source
-[[LuisMartinez-Comunidades-de-Practica]]
+[[source-notes/LuisMartinez-Comunidades-de-Practica]]

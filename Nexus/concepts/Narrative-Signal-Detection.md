@@ -19,9 +19,9 @@ In fast-moving domains (crypto, tech, markets), the value of an insight decays a
 - The value proposition is strongest in fast-moving, information-dense fields
 
 ## Related
-- [[Cross-Month-Connections]] -- the mechanism that enables narrative detection
-- [[Daily-Synthesis-Workflow]] -- the broader morning brief system
-- [[Vault-Aware-Research]] -- the agent capability this depends on
+- [[concepts/Cross-Month-Connections]] -- the mechanism that enables narrative detection
+- [[concepts/Daily-Synthesis-Workflow]] -- the broader morning brief system
+- [[concepts/Vault-Aware-Research]] -- the agent capability this depends on
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

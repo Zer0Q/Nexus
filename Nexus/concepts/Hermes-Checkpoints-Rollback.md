@@ -19,9 +19,9 @@ Autonomous agents can make irreversible mistakes. Checkpoints provide safety net
 - In-memory state not captured (only file system)
 
 ## Related
-- [[Read-Only-Vault-Safety]]
-- [[Scoped-Vault-Access]]
-- [[Shipping-Discipline]]
+- [[concepts/Read-Only-Vault-Safety]]
+- [[concepts/Scoped-Vault-Access]]
+- [[concepts/Shipping-Discipline]]
 
 ## Source
-[[NeoAIForecast-checkpoints-rollback-make-hermes-safer-use-real]]
+[[source-notes/NeoAIForecast-checkpoints-rollback-make-hermes-safer-use-real]]

@@ -20,9 +20,9 @@ Medical professionals cannot keep every clinical trial, paper, bibliography, and
 - Requires medical expertise to evaluate AI output
 
 ## Related
-- [[Adversarial-Model-Spiral]] -- the method used for AI medical research
-- [[Public-Healthcare-AI-Investment]] -- addressing the access cost issue
-- [[Primary-Source-Over-Secondary]] -- the research philosophy applied to medicine
+- [[concepts/Adversarial-Model-Spiral]] -- the method used for AI medical research
+- [[concepts/Public-Healthcare-AI-Investment]] -- addressing the access cost issue
+- [[concepts/Primary-Source-Over-Secondary]] -- the research philosophy applied to medicine
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

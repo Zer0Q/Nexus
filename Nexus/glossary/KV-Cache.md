@@ -6,4 +6,4 @@ Key-value cache storing intermediate attention states for every token in the con
 - Can be quantized or offloaded to system memory
 - Prefix caching reuses blocks for shared prompt prefixes
 
-See also: [[KV-Cache-Growth]], [[PagedAttention]], [[Prefill-vs-Decode]]
+See also: [[concepts/KV-Cache-Growth]], [[concepts/PagedAttention]], [[concepts/Prefill-vs-Decode]]

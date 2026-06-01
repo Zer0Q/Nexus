@@ -19,9 +19,9 @@ AI models have default behaviors that waste tokens and degrade trust: padding, h
 - Requires testing to find the right balance
 
 ## Related
-- [[SOUL-MD-Configuration]] -- the broader SOUL.md framework
-- [[Agent-Identity-Layer]] -- identity includes boundaries
-- [[SOUL-MD-Challenge-Instructions]] -- the positive complement to negative constraints
+- [[concepts/SOUL-MD-Configuration]] -- the broader SOUL.md framework
+- [[concepts/Agent-Identity-Layer]] -- identity includes boundaries
+- [[concepts/SOUL-MD-Challenge-Instructions]] -- the positive complement to negative constraints
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

@@ -7,4 +7,4 @@ Graphical interface through which operators monitor and control industrial proce
 - Design standard: ISA-101 (ANSI/ISA-101.01-2015)
 - Poorly designed HMIs have contributed to industrial accidents
 
-See also: [[High-Performance-HMI]], [[ISA-101-Standard]], [[Grayscale-HMI-Design]]
+See also: [[concepts/High-Performance-HMI]], [[concepts/ISA-101-Standard]], [[concepts/Grayscale-HMI-Design]]

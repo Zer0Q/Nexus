@@ -19,9 +19,9 @@ The dominant phase determines which hardware and engine optimizations matter. Sh
 - Disaggregated architectures separate the two phases into specialized instances
 
 ## Related
-- [[Memory-Bandwidth-Bottleneck]]
-- [[KV-Cache-Growth]]
-- [[Disaggregated-Prefill-Decode]]
+- [[concepts/Memory-Bandwidth-Bottleneck]]
+- [[concepts/KV-Cache-Growth]]
+- [[concepts/Disaggregated-Prefill-Decode]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

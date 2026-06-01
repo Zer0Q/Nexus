@@ -19,9 +19,9 @@ LM Studio is the bridge between cloud AI and local AI. It makes running local mo
 - 32GB RAM + GPU: 13B-34B models comfortable
 
 ## Related
-- [[Local-LLM-API-Compatibility]]
-- [[Local-AI-Privacy]]
-- [[On-Device-Knowledge-Base]]
+- [[concepts/Local-LLM-API-Compatibility]]
+- [[concepts/Local-AI-Privacy]]
+- [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

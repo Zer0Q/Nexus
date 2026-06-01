@@ -19,9 +19,9 @@ Parallel agents lose context; single agents hit token limits. Pipelines chain sp
 - Failure at any stage breaks the chain
 
 ## Related
-- [[Multi-Agent-Development]]
-- [[Multi-Harness-Orchestration]]
-- [[Swarm-Orchestration]]
+- [[concepts/Multi-Agent-Development]]
+- [[concepts/Multi-Harness-Orchestration]]
+- [[concepts/Swarm-Orchestration]]
 
 ## Source
-[[zodchiii-build-agent-team-ships-feature-while-sleep]]
+[[source-notes/zodchiii-build-agent-team-ships-feature-while-sleep]]

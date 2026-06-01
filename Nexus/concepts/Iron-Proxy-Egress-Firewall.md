@@ -14,7 +14,7 @@ If the sandbox is compromised, the attacker only gets proxy tokens that work exc
 - Agent gets opaque proxy tokens, not real API keys
 - iron-proxy intercepts at network boundary, swaps for real credential, forwards request
 - Compromise the sandbox → attacker gets tokens useless outside the proxy
-- Composes with [[Bitwarden-Secrets-Integration]]: rotate in Bitwarden, propagates to all sandboxes automatically
+- Composes with [[concepts/Bitwarden-Secrets-Integration]]: rotate in Bitwarden, propagates to all sandboxes automatically
 
 ## Tradeoffs
 - Adds network hop latency to every API call
@@ -22,9 +22,9 @@ If the sandbox is compromised, the attacker only gets proxy tokens that work exc
 - Overkill for personal use — designed for production agents touching sensitive systems
 
 ## Related
-- [[Bitwarden-Secrets-Integration]] -- Layer 1 of the security stack
-- [[Local-AI-Privacy]] -- broader data security context
-- [[Agent-Profiles]] -- each profile can have its own egress configuration
+- [[concepts/Bitwarden-Secrets-Integration]] -- Layer 1 of the security stack
+- [[concepts/Local-AI-Privacy]] -- broader data security context
+- [[concepts/Agent-Profiles]] -- each profile can have its own egress configuration
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

@@ -18,10 +18,10 @@ Companies pay consultants serious money to locate process failure points. Their 
 - Frontline engagement needed to understand the "why" behind anomalies
 
 ## Related
-- [[Visual-Management]]
-- [[Poka-Yoke]]
-- [[Gemba]]
-- [[People-Process-Technology-Sequence]]
+- [[concepts/Visual-Management]]
+- [[concepts/Poka-Yoke]]
+- [[concepts/Gemba]]
+- [[concepts/People-Process-Technology-Sequence]]
 
 ## Source
-[[Gellida-Broken-Process-Broken-AI]]
+[[source-notes/Gellida-Broken-Process-Broken-AI]]

@@ -17,9 +17,9 @@ Long-context workloads can run out of memory even when model weights fit. KV cac
 - Offloading KV cache to system memory adds latency
 
 ## Related
-- [[Memory-Bandwidth-Bottleneck]]
-- [[PagedAttention]]
-- [[Prefill-vs-Decode]]
+- [[concepts/Memory-Bandwidth-Bottleneck]]
+- [[concepts/PagedAttention]]
+- [[concepts/Prefill-vs-Decode]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

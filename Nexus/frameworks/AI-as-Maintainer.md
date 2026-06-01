@@ -10,7 +10,7 @@ Changes the AI-human relationship: instead of asking questions and getting answe
 - AI handles the "grunt work" of organization and cross-referencing
 - Human focuses on curation, judgment, and direction
 - Knowledge artifact grows more valuable over time
-- Requires [[Knowledge-Source-of-Truth]] to prevent [[Editorial-Drift]]
+- Requires [[concepts/Knowledge-Source-of-Truth]] to prevent [[concepts/Editorial-Drift]]
 - Division of labor: AI maintains structure, human maintains quality
 
 ## Tradeoffs
@@ -18,9 +18,9 @@ Changes the AI-human relationship: instead of asking questions and getting answe
 - Human oversight still needed to prevent drift
 
 ## Related
-- [[Write-Time-Knowledge-Systems]]
-- [[AI-Human-Division-of-Labor]]
-- [[Weekly-AI-Synthesis]]
+- [[concepts/Write-Time-Knowledge-Systems]]
+- [[frameworks/AI-Human-Division-of-Labor]]
+- [[frameworks/Weekly-AI-Synthesis]]
 
 ## Source
-[[NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

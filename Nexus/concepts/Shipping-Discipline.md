@@ -20,10 +20,10 @@ Most people who build a vault never reach revenue because they never ship from i
 - The psychological barrier of publishing is the hardest part to overcome
 
 ## Related
-- [[Capture-Use-Gap]] -- shipping discipline is the behavioral solution to the structural gap
-- [[Six-Month-Revenue-Curve]] -- shipping discipline drives the compounding curve
-- [[Output-Generator-Prompt]] -- the tool that makes shipping possible
-- [[Four-Zone-Monetization-Vault]] -- the output zone is where shipping happens
+- [[concepts/Capture-Use-Gap]] -- shipping discipline is the behavioral solution to the structural gap
+- [[concepts/Six-Month-Revenue-Curve]] -- shipping discipline drives the compounding curve
+- [[concepts/Output-Generator-Prompt]] -- the tool that makes shipping possible
+- [[concepts/Four-Zone-Monetization-Vault]] -- the output zone is where shipping happens
 
 ## Source
-[[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

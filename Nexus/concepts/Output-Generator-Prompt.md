@@ -21,9 +21,9 @@ This is the prompt that turns 4000 dormant notes into shippable, billable work. 
 - Revenue stamp tracking adds metadata overhead to each output note
 
 ## Related
-- [[Output-Engine-Workflows]] -- this is Workflow 5, the revenue-producing workflow
-- [[Expected-Revenue-Stamp]] -- the tracking mechanism embedded in this prompt
-- [[Four-Zone-Monetization-Vault]] -- reads from zones 01 and 02, writes to zone 03
+- [[concepts/Output-Engine-Workflows]] -- this is Workflow 5, the revenue-producing workflow
+- [[concepts/Expected-Revenue-Stamp]] -- the tracking mechanism embedded in this prompt
+- [[concepts/Four-Zone-Monetization-Vault]] -- reads from zones 01 and 02, writes to zone 03
 
 ## Source
-[[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

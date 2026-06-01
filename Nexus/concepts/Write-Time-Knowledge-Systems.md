@@ -19,9 +19,9 @@ Contrasts with query-time systems (RAG) where the LLM rediscovers knowledge from
 - Stale claims need periodic linting to catch
 
 ## Related
-- [[Query-Time-Knowledge-Systems]]
-- [[LLM-Wiki-Pattern]]
-- [[Compilation-Agent]]
+- [[concepts/Query-Time-Knowledge-Systems]]
+- [[concepts/LLM-Wiki-Pattern]]
+- [[frameworks/Compilation-Agent]]
 
 ## Source
-[[Karpathy-LLM-Wiki-Pattern]]
+[[source-notes/Karpathy-LLM-Wiki-Pattern]]

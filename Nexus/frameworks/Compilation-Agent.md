@@ -9,7 +9,7 @@ Enables wiki-like browsing experience while keeping the underlying data structur
 ## Key Ideas
 - Reads from structured source, writes to temporary view layer
 - Views are ephemeral -- regenerated on demand or scheduled intervals
-- Prevents [[Error-Compounding]] because source data stays immutable
+- Prevents [[concepts/Error-Compounding]] because source data stays immutable
 - Can be scheduled (e.g., nightly wiki refresh) or on-demand
 - Different from write-time systems: output is a view, not the source
 
@@ -18,9 +18,9 @@ Enables wiki-like browsing experience while keeping the underlying data structur
 - Requires defining sync intervals and regeneration triggers
 
 ## Related
-- [[Graph-Knowledge-Layer]]
-- [[Query-Time-Knowledge-Systems]]
-- [[AI-as-Maintainer]]
+- [[architectures/Graph-Knowledge-Layer]]
+- [[concepts/Query-Time-Knowledge-Systems]]
+- [[frameworks/AI-as-Maintainer]]
 
 ## Source
-[[NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

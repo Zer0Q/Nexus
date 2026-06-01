@@ -18,9 +18,9 @@ Traditional knowledge transfer assumes a leader/expert who shares while others r
 - Risk of dominant voices overshadowing quieter members
 
 ## Related
-- [[Communities-of-Practice]] -- the structure where shared leadership operates
-- [[CoP-Design-Principles]] -- includes fostering participation levels
-- [[Feedback-Loop-Knowledge-System]] -- shared leadership creates natural feedback loops
+- [[concepts/Communities-of-Practice]] -- the structure where shared leadership operates
+- [[concepts/CoP-Design-Principles]] -- includes fostering participation levels
+- [[concepts/Feedback-Loop-Knowledge-System]] -- shared leadership creates natural feedback loops
 
 ## Source
-[[LuisMartinez-Comunidades-de-Practica]]
+[[source-notes/LuisMartinez-Comunidades-de-Practica]]

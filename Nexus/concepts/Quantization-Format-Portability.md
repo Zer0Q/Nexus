@@ -19,9 +19,9 @@ Using the wrong quantization format can degrade performance by 2-5x even if the 
 - Engine-optimized formats (FP4 on TensorRT) sacrifice portability
 
 ## Related
-- [[Memory-Bandwidth-Bottleneck]]
-- [[llama-cpp]]
-- [[TensorRT-LLM]]
+- [[concepts/Memory-Bandwidth-Bottleneck]]
+- [[tools/llama-cpp]]
+- [[tools/TensorRT-LLM]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

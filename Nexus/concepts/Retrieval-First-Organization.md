@@ -19,10 +19,10 @@ Filing cabinets optimize for storage; thinking systems optimize for retrieval. M
 - Initial learning curve for the retrieval dimensions
 
 ## Related
-- [[PARA-Method]]
-- [[Date-Prefixed-Naming]]
-- [[Three-Category-Tagging]]
-- [[Quarterly-Vault-Review]]
+- [[concepts/PARA-Method]]
+- [[frameworks/Date-Prefixed-Naming]]
+- [[concepts/Three-Category-Tagging]]
+- [[concepts/Quarterly-Vault-Review]]
 
 ## Source
-[[CyrilXBT-Vault-Organization]]
+[[source-notes/CyrilXBT-Vault-Organization]]

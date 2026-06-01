@@ -12,5 +12,5 @@ tags:
 Attack vectors targeting AI systems that bypass traditional network defenses — including data poisoning (corrupting training data) and model evasion (crafting inputs to fool the model).
 
 ## Related
-- [[AI-Risk-Management]] -- addresses adversarial risks
-- [[Local-AI-Privacy]] -- local models reduce some attack surfaces
+- [[frameworks/AI-Risk-Management]] -- addresses adversarial risks
+- [[concepts/Local-AI-Privacy]] -- local models reduce some attack surfaces

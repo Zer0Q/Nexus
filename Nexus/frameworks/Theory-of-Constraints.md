@@ -19,7 +19,7 @@ Provides a systematic approach to improvement that avoids wasted effort on non-c
 - Single-point focus can blind teams to emerging secondary constraints
 
 ## Related
-- [[Throughput-Accounting]], [[Drum-Buffer-Rope]], [[Exploit-Then-Elevate]], [[Constraint-Types]]
+- [[concepts/Throughput-Accounting]], [[frameworks/Drum-Buffer-Rope]], [[concepts/Exploit-Then-Elevate]], [[concepts/Constraint-Types]]
 
 ## Source
-[[Goldratt-Theory-of-Constraints]]
+[[source-notes/Goldratt-Theory-of-Constraints]]

@@ -14,9 +14,9 @@ AI models consume text, not images. Many documents -- especially medical records
 - Often combined with LLMs for post-processing and error correction
 
 ## Related
-- [[OCR-Clinical-Document-Processing]] -- OCR applied to medical records
-- [[Full-Clinical-History-Processing]] -- the broader pipeline
-- [[RAG]] -- OCR feeds text into retrieval systems
+- [[concepts/OCR-Clinical-Document-Processing]] -- OCR applied to medical records
+- [[concepts/Full-Clinical-History-Processing]] -- the broader pipeline
+- [[glossary/RAG]] -- OCR feeds text into retrieval systems
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

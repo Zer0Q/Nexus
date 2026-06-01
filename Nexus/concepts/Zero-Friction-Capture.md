@@ -19,9 +19,10 @@ The problem with every other note-taking system is retrieval: you save things bu
 - Telegram bot requires N8N or similar automation infrastructure
 
 ## Related
-- [[Three-Capture-Surfaces]] -- the three channels that implement zero-friction capture
-- [[Automated-Capture-Pipeline]] -- processes the captures after they land
-- [[Inbox-First-Capture]] -- all captures land in an inbox-first daily note
+- [[concepts/Three-Capture-Surfaces]] -- the three channels that implement zero-friction capture
+- [[concepts/Automated-Capture-Pipeline]] -- processes the captures after they land
+- [[glossary/Inbox-First-Capture]] -- all captures land in an inbox-first daily note
+- [[concepts/Productivity-Theater]] -- the opposite: complex setups that add friction instead of removing it
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

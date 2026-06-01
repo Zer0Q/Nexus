@@ -19,9 +19,9 @@ Skills transform Claude from a chatbot into an extensible operating system. Know
 - Skill conflicts when multiple skills target same trigger
 
 ## Related
-- [[Skill-Based-AI-Agents]]
-- [[CLAUDE-MD-Project-Knowledge]]
-- [[Self-Evolving-Skills]]
+- [[concepts/Skill-Based-AI-Agents]]
+- [[tools/CLAUDE-MD-Project-Knowledge]]
+- [[concepts/Self-Evolving-Skills]]
 
 ## Source
-[[polydao-searched-whole-claude-skills-ecosystem-these-are]]
+[[source-notes/polydao-searched-whole-claude-skills-ecosystem-these-are]]

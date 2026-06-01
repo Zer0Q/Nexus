@@ -13,7 +13,7 @@ Offers a middle ground between vibe coding (no specs) and BMAD (full Agile simul
 - Suitable for teams wanting minimal ceremony
 
 ## Related
-- [[Spec-Driven-Development]], [[Spec-Kit]], [[BMAD-Method]]
+- [[frameworks/Spec-Driven-Development]], [[tools/Spec-Kit]], [[frameworks/BMAD-Method]]
 
 ## Source
-[[SDD-vs-BMAD-Frameworks-Comparison]]
+[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]

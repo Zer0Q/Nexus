@@ -9,7 +9,7 @@ Most AI conversations are ephemeral — close the tab and the context is gone. S
 ## Key Ideas
 - FTS5 full-text search engine indexes all conversation history
 - LLM summarization provides context-aware search results
-- Tier 2 of the [[Agent-Multi-Tier-Memory]] system
+- Tier 2 of the [[concepts/Agent-Multi-Tier-Memory]] system
 - Unlimited capacity — every session is logged
 - Example: "Remind me of every business idea we discussed last month"
 - What links you shared 2 months ago, what you were building 3 months ago
@@ -20,9 +20,9 @@ Most AI conversations are ephemeral — close the tab and the context is gone. S
 - Requires active search — not always-in-context like Tier 1 memory
 
 ## Related
-- [[Agent-Multi-Tier-Memory]] -- Tier 2: session search layer
-- [[Session-Recall]] -- the search technology behind it
-- [[Compounding-Knowledge-Context]] -- recall enables compounding across sessions
+- [[concepts/Agent-Multi-Tier-Memory]] -- Tier 2: session search layer
+- [[concepts/Session-Recall]] -- the search technology behind it
+- [[concepts/Compounding-Knowledge-Context]] -- recall enables compounding across sessions
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

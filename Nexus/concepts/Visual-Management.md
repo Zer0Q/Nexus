@@ -19,10 +19,10 @@ Most broken processes survive precisely because nobody can see them breaking. Vi
 - Requires a culture where visibility leads to improvement, not punishment
 
 ## Related
-- [[Poka-Yoke]]
-- [[Gemba]]
-- [[Bad-Data-as-Diagnostic]]
-- [[People-Process-Technology-Sequence]]
+- [[concepts/Poka-Yoke]]
+- [[concepts/Gemba]]
+- [[concepts/Bad-Data-as-Diagnostic]]
+- [[concepts/People-Process-Technology-Sequence]]
 
 ## Source
-[[Gellida-Broken-Process-Broken-AI]]
+[[source-notes/Gellida-Broken-Process-Broken-AI]]

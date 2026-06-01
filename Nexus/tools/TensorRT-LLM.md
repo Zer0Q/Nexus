@@ -20,8 +20,8 @@ Absolute performance on NVIDIA datacenter hardware (H100, B200, GB200). Trade po
 - Less features, more performance
 
 ## Related
-- [[Inference-Engine-Families]]
-- [[Quantization-Format-Portability]]
+- [[frameworks/Inference-Engine-Families]]
+- [[concepts/Quantization-Format-Portability]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

@@ -20,9 +20,9 @@ Eliminates the need to build custom tooling manually. Instead of spending evenin
 - Custom dashboards aren't portable between Hermes instances
 
 ## Related
-- [[Hermes-Dashboard]] -- the built-in dashboard that Mission Control extends
-- [[Goal-Command]] -- can be used to build mission control dashboards
-- [[Vault-Aware-Automation]] -- dashboard can integrate with vault operations
+- [[concepts/Hermes-Dashboard]] -- the built-in dashboard that Mission Control extends
+- [[concepts/Goal-Command]] -- can be used to build mission control dashboards
+- [[concepts/Vault-Aware-Automation]] -- dashboard can integrate with vault operations
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

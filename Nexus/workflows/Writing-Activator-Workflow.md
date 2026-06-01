@@ -23,11 +23,11 @@ Writing from a brief generated from accumulated notes is fundamentally different
 - May reveal gaps that require additional research before writing
 
 ## Related
-- [[Four-Uses-of-Notes]]
-- [[Active-Decision-Feeder]]
-- [[Output-Generator-Workflow]]
-- [[Three-Zone-Vault]]
-- [[Write-Time-Knowledge-Systems]]
+- [[concepts/Four-Uses-of-Notes]]
+- [[workflows/Active-Decision-Feeder]]
+- [[workflows/Output-Generator-Workflow]]
+- [[architectures/Three-Zone-Vault]]
+- [[concepts/Write-Time-Knowledge-Systems]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

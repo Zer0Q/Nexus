@@ -6,4 +6,4 @@ Model architecture where different "expert" subnetworks handle different inputs,
 - Stresses engine routing more than dense models
 - Supported by ExLlamaV3, SGLang, vLLM, TensorRT-LLM
 
-See also: [[Inference-Engine-Families]], [[Interconnect-Bottleneck]]
+See also: [[frameworks/Inference-Engine-Families]], [[concepts/Interconnect-Bottleneck]]

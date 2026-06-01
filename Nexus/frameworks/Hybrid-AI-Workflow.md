@@ -19,9 +19,9 @@ Local models are improving but still trail frontier cloud models for complex rea
 - Risk of accidentally sending sensitive data to cloud if boundaries blur
 
 ## Related
-- [[Local-AI-Privacy]]
-- [[On-Device-Knowledge-Base]]
-- [[Context-Aware-AI-Research]]
+- [[concepts/Local-AI-Privacy]]
+- [[concepts/On-Device-Knowledge-Base]]
+- [[concepts/Context-Aware-AI-Research]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

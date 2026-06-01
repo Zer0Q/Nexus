@@ -20,9 +20,9 @@ Manual weekly reviews are slow (30-45 minutes) and tend to produce shallow resul
 - May produce false connections in early stages when vault is thin
 
 ## Related
-- [[Structured-Source-Notes]]
-- [[Context-Aware-AI-Research]]
-- [[Capture-As-The-Weakest-Link]]
+- [[concepts/Structured-Source-Notes]]
+- [[concepts/Context-Aware-AI-Research]]
+- [[concepts/Capture-As-The-Weakest-Link]]
 
 ## Source
-[[DamiDefi-Obsidian-Claude-Research-Stack]]
+[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]

@@ -19,9 +19,9 @@ When organized by topic, a note about attention economics in crypto and a note a
 - May need topic tags as a secondary dimension for retrieval
 
 ## Related
-- [[Four-Layer-Vault-Architecture]]
-- [[Daily-Synthesis-Workflow]]
-- [[Three-Category-Tagging]]
+- [[concepts/Four-Layer-Vault-Architecture]]
+- [[concepts/Daily-Synthesis-Workflow]]
+- [[concepts/Three-Category-Tagging]]
 
 ## Source
-[[DamiDefi-Claude-Vault-Integration]]
+[[source-notes/DamiDefi-Claude-Vault-Integration]]

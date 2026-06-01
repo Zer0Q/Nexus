@@ -20,9 +20,9 @@ Enables proper semantic search over growing knowledge bases. At small scale, ind
 - Local embeddings require compute resources
 
 ## Related
-- [[Write-Time-Knowledge-Systems]]
-- [[Embedding-Based-Vault-Search]]
-- [[Automated-Research-Curation]]
+- [[concepts/Write-Time-Knowledge-Systems]]
+- [[concepts/Embedding-Based-Vault-Search]]
+- [[concepts/Automated-Research-Curation]]
 
 ## Source
-[[OmarSaridakis-Research-KB]]
+[[source-notes/OmarSaridakis-Research-KB]]

@@ -22,11 +22,11 @@ Most note systems measure success by note count or organizational neatness. This
 - May push toward over-processing if applied too rigidly to reference material
 
 ## Related
-- [[Note-Usefulness-Assessment]]
-- [[Capture-Use-Gap]]
-- [[Three-Zone-Vault]]
-- [[Feedback-Loop-Knowledge-System]]
-- [[Write-Time-Knowledge-Systems]]
+- [[concepts/Note-Usefulness-Assessment]]
+- [[concepts/Capture-Use-Gap]]
+- [[architectures/Three-Zone-Vault]]
+- [[concepts/Feedback-Loop-Knowledge-System]]
+- [[concepts/Write-Time-Knowledge-Systems]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

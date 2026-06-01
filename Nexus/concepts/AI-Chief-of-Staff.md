@@ -20,9 +20,9 @@ Transforms the relationship with your knowledge base from passive retrieval to a
 - Risk of AI becoming an echo chamber if not challenged
 
 ## Related
-- [[CLAUDE-MD-as-Context-Layer]]
-- [[Daily-Synthesis-Workflow]]
-- [[Four-Layer-Vault-Architecture]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Daily-Synthesis-Workflow]]
+- [[concepts/Four-Layer-Vault-Architecture]]
 
 ## Source
-[[CyrilXBT-Obsidian-Vellum]]
+[[source-notes/CyrilXBT-Obsidian-Vellum]]

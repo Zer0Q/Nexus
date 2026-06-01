@@ -12,7 +12,7 @@ Setting max_turns too low truncates complex tasks mid-execution. Setting it too 
 - Code refactoring, multi-step builds: raise to 50
 - Configure via: `hermes config set goals.max_turns <number>`
 - Don't go higher without a reason — every turn costs tokens
-- The 90-turn hard cap in [[Hermes-Agent-Architecture]] is the absolute ceiling
+- The 90-turn hard cap in [[concepts/Hermes-Agent-Architecture]] is the absolute ceiling
 
 ## Tradeoffs
 - Higher max_turns = more token cost per goal
@@ -20,9 +20,9 @@ Setting max_turns too low truncates complex tasks mid-execution. Setting it too 
 - No auto-scaling — you must judge the right number per task type
 
 ## Related
-- [[Goal-Command]] -- max_turns controls /goal execution depth
-- [[Overnight-Goal-Runs]] -- overnight tasks typically need higher max_turns
-- [[Hermes-Agent-Architecture]] -- 90-turn hard cap is the system ceiling
+- [[concepts/Goal-Command]] -- max_turns controls /goal execution depth
+- [[concepts/Overnight-Goal-Runs]] -- overnight tasks typically need higher max_turns
+- [[concepts/Hermes-Agent-Architecture]] -- 90-turn hard cap is the system ceiling
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

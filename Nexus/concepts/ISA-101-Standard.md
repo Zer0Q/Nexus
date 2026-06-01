@@ -23,10 +23,10 @@ Addresses the fact that most installed HMIs are not designed with operator situa
 - Most plants lack L2/L3 displays — significant redesign effort needed
 
 ## Related
-- [[High-Performance-HMI]]
-- [[Display-Hierarchy]]
-- [[Grayscale-HMI-Design]]
-- [[Operator-Situational-Awareness]]
+- [[concepts/High-Performance-HMI]]
+- [[concepts/Display-Hierarchy]]
+- [[concepts/Grayscale-HMI-Design]]
+- [[concepts/Operator-Situational-Awareness]]
 
 ## Source
-[[OBrien-ISA-101-HMI-Lifecycle]]
+[[source-notes/OBrien-ISA-101-HMI-Lifecycle]]

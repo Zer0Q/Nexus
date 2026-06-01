@@ -21,9 +21,9 @@ No single model is perfect. Running multiple models in parallel reveals where mo
 - Not all models are equally capable for all domains
 
 ## Related
-- [[Adversarial-Model-Spiral]] -- builds on this by adding iteration
-- [[Iterative-Model-Refinement]] -- the next step after initial convergence check
-- [[AI-Assisted-Medical-Research]] -- the domain where this is most critical
+- [[concepts/Adversarial-Model-Spiral]] -- builds on this by adding iteration
+- [[concepts/Iterative-Model-Refinement]] -- the next step after initial convergence check
+- [[concepts/AI-Assisted-Medical-Research]] -- the domain where this is most critical
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

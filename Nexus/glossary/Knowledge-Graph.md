@@ -11,12 +11,12 @@ A network structure for organizing knowledge where concepts are nodes and relati
 - Every new node is more valuable than the last because there are more existing nodes to connect to
 - Connections represent understanding; isolated nodes represent familiarity
 - Claude can reason across the full graph simultaneously, finding connections that sequential reading cannot produce
-- The [[Knowledge-Graph-as-Semantic-Layer]] concept in this vault applies the same principle to knowledge management; [[Knowledge-Graph-Learning]] applies it to study
+- The [[concepts/Knowledge-Graph-as-Semantic-Layer]] concept in this vault applies the same principle to knowledge management; [[concepts/Knowledge-Graph-Learning]] applies it to study
 
 ## Related
-- [[Knowledge-Graph-as-Semantic-Layer]]
-- [[Knowledge-Graph-Learning]]
-- [[Connection-Protocol]]
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]]
+- [[concepts/Knowledge-Graph-Learning]]
+- [[workflows/Connection-Protocol]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

@@ -6,4 +6,4 @@ Test-Driven Development. Write tests before code. Essential guardrail for AI-ass
 - Critical for agentic coding quality
 - Poor tests = poor AI-generated code
 
-See also: [[BDD]], [[Spec-Driven-Development]]
+See also: [[glossary/BDD]], [[frameworks/Spec-Driven-Development]]

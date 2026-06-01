@@ -14,5 +14,5 @@ Performance degradation of AI models over time as real-world data distributions 
 Also known as: data drift, concept drift.
 
 ## Related
-- [[AI-Risk-Management]] -- monitors drift as a key risk domain
-- [[AI-System-Life-Cycle]] -- continuous monitoring detects drift
+- [[frameworks/AI-Risk-Management]] -- monitors drift as a key risk domain
+- [[frameworks/AI-System-Life-Cycle]] -- continuous monitoring detects drift

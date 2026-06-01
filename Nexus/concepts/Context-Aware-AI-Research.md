@@ -19,9 +19,9 @@ A fresh AI session is smart but ignorant of your work. It cannot flag contradict
 - AI may over-weight your notes vs. its own knowledge if not prompted carefully
 
 ## Related
-- [[RAG-Retrieval-Augmented-Generation]]
-- [[Structured-Source-Notes]]
-- [[Unified-Knowledge-Environment]]
+- [[concepts/RAG-Retrieval-Augmented-Generation]]
+- [[concepts/Structured-Source-Notes]]
+- [[frameworks/Unified-Knowledge-Environment]]
 
 ## Source
-[[DamiDefi-Obsidian-Claude-Research-Stack]]
+[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]

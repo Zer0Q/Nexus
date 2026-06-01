@@ -23,11 +23,11 @@ A vault with 500 notes that each contributed to a decision, piece of writing, or
 - May undervalue notes that provide long-tail reference value
 
 ## Related
-- [[Output-Folder-Pattern]]
-- [[Four-Uses-of-Notes]]
-- [[Note-Usefulness-Assessment]]
-- [[Weekly-Note-Audit]]
-- [[Compounding-Knowledge-Context]]
+- [[concepts/Output-Folder-Pattern]]
+- [[concepts/Four-Uses-of-Notes]]
+- [[concepts/Note-Usefulness-Assessment]]
+- [[workflows/Weekly-Note-Audit]]
+- [[concepts/Compounding-Knowledge-Context]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

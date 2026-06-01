@@ -11,16 +11,16 @@ AI summaries inevitably drop nuances, reframe context, or introduce subtle error
 - Nuance loss is cumulative across rewrites
 - Errors become "facts" when baked into wiki pages
 - Hard to detect without comparing against source material
-- Mitigated by keeping a [[Knowledge-Source-of-Truth]] separate from synthesized views
+- Mitigated by keeping a [[concepts/Knowledge-Source-of-Truth]] separate from synthesized views
 
 ## Tradeoffs
 - Preventing drift requires storing raw sources (more storage)
 - Periodic re-sync adds operational overhead
 
 ## Related
-- [[Error-Compounding]]
-- [[Write-Time-Knowledge-Systems]]
-- [[Knowledge-Source-of-Truth]]
+- [[concepts/Error-Compounding]]
+- [[concepts/Write-Time-Knowledge-Systems]]
+- [[concepts/Knowledge-Source-of-Truth]]
 
 ## Source
-[[NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

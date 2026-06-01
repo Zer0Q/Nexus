@@ -11,7 +11,7 @@ Keyword search fails when the vocabulary differs between query and content. Embe
 - Similarity is measured by vector distance (cosine similarity)
 - Works across languages and synonyms automatically
 - Computed once per note, then reused for all queries
-- Foundation of [[RAG-Retrieval-Augmented-Generation]] systems
+- Foundation of [[concepts/RAG-Retrieval-Augmented-Generation]] systems
 
 ## Tradeoffs
 - Embedding quality varies by model choice
@@ -19,9 +19,9 @@ Keyword search fails when the vocabulary differs between query and content. Embe
 - Static embeddings do not update when notes change unless re-embedded
 
 ## Related
-- [[RAG-Retrieval-Augmented-Generation]]
-- [[Smart-Connections-Plugin]]
-- [[On-Device-Knowledge-Base]]
+- [[concepts/RAG-Retrieval-Augmented-Generation]]
+- [[tools/Smart-Connections-Plugin]]
+- [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

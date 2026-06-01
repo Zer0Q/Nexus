@@ -20,10 +20,10 @@ K2.6 can orchestrate up to 300 concurrent sub-agents across 4000 steps, tripling
 - 300-agent swarms require careful task decomposition to avoid conflicts
 
 ## Related
-- [[Long-Horizon-Coding]] -- K2.6's flagship capability
-- [[Swarm-Orchestration]] -- 300 concurrent sub-agents
-- [[Visual-to-Code-Generation]] -- UI sketch to production code
-- [[Five-Layer-AI-Stack]] -- K2.6 is the coding layer
+- [[concepts/Long-Horizon-Coding]] -- K2.6's flagship capability
+- [[concepts/Swarm-Orchestration]] -- 300 concurrent sub-agents
+- [[concepts/Visual-to-Code-Generation]] -- UI sketch to production code
+- [[concepts/Five-Layer-AI-Stack]] -- K2.6 is the coding layer
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

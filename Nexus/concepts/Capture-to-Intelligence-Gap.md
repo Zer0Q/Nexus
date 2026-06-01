@@ -19,9 +19,9 @@ Most knowledge systems treat capture and intelligence as separate phases. The lo
 - Token costs for immediate processing vs. batch processing
 
 ## Related
-- [[Capture-Use-Gap]] -- the broader concept this addresses
-- [[Telegram-Vault-Query]] -- the real-time implementation
-- [[Live-Vault-Memory]] -- the memory model enabling instant access
+- [[concepts/Capture-Use-Gap]] -- the broader concept this addresses
+- [[concepts/Telegram-Vault-Query]] -- the real-time implementation
+- [[concepts/Live-Vault-Memory]] -- the memory model enabling instant access
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

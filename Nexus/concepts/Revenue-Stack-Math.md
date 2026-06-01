@@ -21,10 +21,10 @@ Most people treat a knowledge vault as a personal tool. This framework reframes 
 - Affiliate income depends on platform algorithms and link performance
 
 ## Related
-- [[Six-Month-Revenue-Curve]] -- the compounding trajectory these numbers follow
-- [[Shipping-Discipline]] -- the differentiator between $0 and $30K
-- [[Four-Zone-Monetization-Vault]] -- the structure that enables these revenue streams
-- [[Output-Generator-Prompt]] -- produces the content that feeds each revenue line
+- [[concepts/Six-Month-Revenue-Curve]] -- the compounding trajectory these numbers follow
+- [[concepts/Shipping-Discipline]] -- the differentiator between $0 and $30K
+- [[concepts/Four-Zone-Monetization-Vault]] -- the structure that enables these revenue streams
+- [[concepts/Output-Generator-Prompt]] -- produces the content that feeds each revenue line
 
 ## Source
-[[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

@@ -19,10 +19,10 @@ Without SOUL.md, Hermes reads your vault as a generic content library. With a sp
 - Requires iteration: first draft is rarely right
 
 ## Related
-- [[Agent-Identity-Layer]] -- the broader concept
-- [[SOUL-MD-Current-Obsessions]] -- telling Hermes your active research
-- [[SOUL-MD-Challenge-Instructions]] -- how you want to be challenged
-- [[SOUL-MD-Negative-Constraints]] -- what you never want
+- [[concepts/Agent-Identity-Layer]] -- the broader concept
+- [[concepts/SOUL-MD-Current-Obsessions]] -- telling Hermes your active research
+- [[concepts/SOUL-MD-Challenge-Instructions]] -- how you want to be challenged
+- [[concepts/SOUL-MD-Negative-Constraints]] -- what you never want
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

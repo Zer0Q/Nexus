@@ -17,9 +17,9 @@ Changes the local inference equation: instead of "does it fit in VRAM?" the ques
 - Best for local/development use, not high-concurrency serving
 
 ## Related
-- [[Memory-Bandwidth-Bottleneck]]
-- [[MLX-and-MLX-LM]]
-- [[llama-cpp]]
+- [[concepts/Memory-Bandwidth-Bottleneck]]
+- [[tools/MLX-and-MLX-LM]]
+- [[tools/llama-cpp]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

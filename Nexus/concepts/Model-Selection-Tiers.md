@@ -18,9 +18,9 @@ Choosing the wrong model wastes money or produces poor results. This framework h
 - Model switching mid-session is possible but context-dependent
 
 ## Related
-- [[Goal-Command]] -- model choice affects /goal execution quality
-- [[Agent-Profiles]] -- different profiles can run different models
-- [[Hermes-Dashboard]] -- Models tab for instant model swapping
+- [[concepts/Goal-Command]] -- model choice affects /goal execution quality
+- [[concepts/Agent-Profiles]] -- different profiles can run different models
+- [[concepts/Hermes-Dashboard]] -- Models tab for instant model swapping
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

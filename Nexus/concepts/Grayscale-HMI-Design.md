@@ -19,9 +19,9 @@ Traditional colorful HMIs make it hard to distinguish critical from normal. Gray
 - Requires consistent application across all displays to be effective
 
 ## Related
-- [[High-Performance-HMI]]
-- [[Operator-Situational-Awareness]]
-- [[ISA-101-Standard]]
+- [[concepts/High-Performance-HMI]]
+- [[concepts/Operator-Situational-Awareness]]
+- [[concepts/ISA-101-Standard]]
 
 ## Source
-[[RealPars-High-Performance-HMI]]
+[[source-notes/RealPars-High-Performance-HMI]]

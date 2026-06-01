@@ -20,9 +20,9 @@ Without hierarchy, operators either see too much (overview cluttered with detail
 - Balancing detail vs. simplicity at each level
 
 ## Related
-- [[High-Performance-HMI]]
-- [[Operator-Situational-Awareness]]
-- [[ISA-101-Standard]]
+- [[concepts/High-Performance-HMI]]
+- [[concepts/Operator-Situational-Awareness]]
+- [[concepts/ISA-101-Standard]]
 
 ## Source
-[[RealPars-High-Performance-HMI]]
+[[source-notes/RealPars-High-Performance-HMI]]

@@ -4,6 +4,6 @@ Numerical vector representations of text that capture semantic meaning. Similar 
 
 - Computed once per document, reused for all queries
 - Quality varies by embedding model choice
-- Foundation of [[RAG-Retrieval-Augmented-Generation]] and [[Embedding-Based-Vault-Search]]
+- Foundation of [[concepts/RAG-Retrieval-Augmented-Generation]] and [[concepts/Embedding-Based-Vault-Search]]
 
-See also: [[Embedding-Based-Vault-Search]], [[RAG]]
+See also: [[concepts/Embedding-Based-Vault-Search]], [[glossary/RAG]]

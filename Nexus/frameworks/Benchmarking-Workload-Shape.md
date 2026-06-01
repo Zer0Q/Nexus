@@ -18,8 +18,8 @@ A single "180 tok/s" number is meaningless without context. Benchmarks that igno
 - Comprehensive benchmarking takes time; single-number benchmarks are tempting but misleading
 
 ## Related
-- [[Prefill-vs-Decode]]
-- [[Runtime-Overhead]]
+- [[concepts/Prefill-vs-Decode]]
+- [[concepts/Runtime-Overhead]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

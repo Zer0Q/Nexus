@@ -20,10 +20,10 @@ Not all alarms have the same lifecycle requirements. Classification allows organ
 - Over-classification creates management overhead without proportional benefit
 
 ## Related
-- [[Highly-Managed-Alarm]]
-- [[Alarm-Philosophy]]
-- [[Alarm-Management-Lifecycle]]
-- [[Alarm-Monitoring-and-Assessment]]
+- [[concepts/Highly-Managed-Alarm]]
+- [[concepts/Alarm-Philosophy]]
+- [[concepts/Alarm-Management-Lifecycle]]
+- [[concepts/Alarm-Monitoring-and-Assessment]]
 
 ## Source
-[[Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

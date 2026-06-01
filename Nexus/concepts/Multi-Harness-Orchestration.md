@@ -20,9 +20,9 @@ Single agents hit context limits and capability boundaries. Multi-harness orches
 - Debugging is harder with distributed state
 
 ## Related
-- [[Multi-Agent-Development]]
-- [[Swarm-Orchestration]]
-- [[AddyOsmani-Agent-Harness-Engineering]]
+- [[concepts/Multi-Agent-Development]]
+- [[concepts/Swarm-Orchestration]]
+- [[source-notes/AddyOsmani-Agent-Harness-Engineering]]
 
 ## Source
-[[zachlloydtweets-introducing-multi-harness-orchestration]]
+[[source-notes/zachlloydtweets-introducing-multi-harness-orchestration]]

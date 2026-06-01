@@ -20,9 +20,9 @@ AI that only knows rules but not when to override them fails in edge cases. Pres
 - Balancing structure with flexibility
 
 ## Related
-- [[Tacit-Knowledge]]
-- [[Knowledge-Graph-as-Semantic-Layer]]
-- [[Human-AI-Orchestration]]
+- [[concepts/Tacit-Knowledge]]
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]]
+- [[concepts/Human-AI-Orchestration]]
 
 ## Source
-[[TungRoussiere-Tacit-Knowledge-Moat]]
+[[source-notes/TungRoussiere-Tacit-Knowledge-Moat]]

@@ -19,9 +19,9 @@ As AI content generation becomes trivial, signal-to-noise ratio degrades. Qualit
 - Human review adds latency to workflows
 
 ## Related
-- [[Self-Improvement-Loop]]
-- [[Note-Usefulness-Assessment]]
-- [[Shipping-Discipline]]
+- [[concepts/Self-Improvement-Loop]]
+- [[concepts/Note-Usefulness-Assessment]]
+- [[concepts/Shipping-Discipline]]
 
 ## Source
-[[EXM7777-fix-ai-slop-hermes]]
+[[source-notes/EXM7777-fix-ai-slop-hermes]]

@@ -18,11 +18,11 @@ A vague CLAUDE.md produces vague outputs. A specific one turns a general-purpose
 - The 15-minute setup investment has permanent compound returns
 
 ## Related
-- [[Context-Aware-AI-Research]]
-- [[Weekly-AI-Synthesis]]
-- [[Unified-Knowledge-Environment]]
-- [[CLAUDE-MD-Five-Section-Template]]
-- [[System-Setup-Hierarchy]]
+- [[concepts/Context-Aware-AI-Research]]
+- [[frameworks/Weekly-AI-Synthesis]]
+- [[frameworks/Unified-Knowledge-Environment]]
+- [[frameworks/CLAUDE-MD-Five-Section-Template]]
+- [[concepts/System-Setup-Hierarchy]]
 
 ## Source
-[[DamiDefi-Obsidian-Claude-Research-Stack]]
+[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]

@@ -19,9 +19,9 @@ Transforms note searching from keyword matching to semantic exploration. "You're
 - Large graphs may exceed context window for full traversal
 
 ## Related
-- [[Browsable-Knowledge]]
-- [[Shared-Directory-Pattern]]
-- [[CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Browsable-Knowledge]]
+- [[concepts/Shared-Directory-Pattern]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
 
 ## Source
-[[Atenov-Self-Running-Brain]]
+[[source-notes/Atenov-Self-Running-Brain]]

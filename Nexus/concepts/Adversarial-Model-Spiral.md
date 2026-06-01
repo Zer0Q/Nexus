@@ -21,9 +21,9 @@ A single model's output is bounded by its own reasoning. Adversarial review forc
 - No guarantee of convergence -- some problems may never reach agreement
 
 ## Related
-- [[Multi-Model-Convergence]] -- the parallel approach this builds on
-- [[Iterative-Model-Refinement]] -- the iterative mechanism
-- [[Expert-Committee-Simulation]] -- the metaphor this method enacts
+- [[concepts/Multi-Model-Convergence]] -- the parallel approach this builds on
+- [[concepts/Iterative-Model-Refinement]] -- the iterative mechanism
+- [[concepts/Expert-Committee-Simulation]] -- the metaphor this method enacts
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

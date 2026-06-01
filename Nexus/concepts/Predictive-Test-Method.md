@@ -23,11 +23,11 @@ Tests genuine understanding rather than memorization. If you can predict outcome
 - May feel intimidating for learners early in the process
 
 ## Related
-- [[Synthesis-Session]]
-- [[Active-Recall-Learning]]
-- [[Knowledge-Graph-Learning]]
-- [[Pattern-Identification-Across-Notes]]
-- [[Gap-Analysis-Study]]
+- [[workflows/Synthesis-Session]]
+- [[concepts/Active-Recall-Learning]]
+- [[concepts/Knowledge-Graph-Learning]]
+- [[concepts/Pattern-Identification-Across-Notes]]
+- [[concepts/Gap-Analysis-Study]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

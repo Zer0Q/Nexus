@@ -12,9 +12,9 @@ Enables AI to maintain and evolve a knowledge base autonomously — updating lin
 - The key differentiator: understanding semantic relationships, not just file I/O
 
 ## Related
-- [[Persistent-AI-Helpers]]
-- [[Skill-Based-AI-Agents]]
-- [[Automated-Capture-Pipeline]]
+- [[concepts/Persistent-AI-Helpers]]
+- [[concepts/Skill-Based-AI-Agents]]
+- [[concepts/Automated-Capture-Pipeline]]
 
 ## Source
 [AI-Vault-Integration-Index], [Obsidian-Skills-Plugin], [OpenSourceProjects-Obsidian-Skills]

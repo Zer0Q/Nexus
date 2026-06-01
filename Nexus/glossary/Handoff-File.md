@@ -7,4 +7,4 @@ Structured artifact passed between agents in a pipeline, containing the output o
 - Examples: spec.md, changes.md, test-results.md
 - Enables sequential agent chains without shared memory
 
-See also: [[Agent-Pipeline-Pattern]], [[Multi-Agent-Development]]
+See also: [[concepts/Agent-Pipeline-Pattern]], [[concepts/Multi-Agent-Development]]

@@ -35,13 +35,13 @@ Traditional knowledge management relies on static documentation. CoPs capture ta
 - Balancing public/private spaces is essential for community health
 
 ## Related
-- [[Situated-Learning]] -- the learning theory underpinning communities of practice
-- [[Tacit-Knowledge]] -- knowledge shared through practice, not documentation
-- [[Legitimate-Peripheral-Participation]] -- how newcomers enter and grow in a CoP
-- [[Shared-Leadership]] -- flat participation model
-- [[Virtual-Communities-of-Practice]] -- digital CoPs transcending geography
-- [[CoP-Design-Principles]] -- Wenger's seven principles for building CoPs
-- [[CoP-Success-Wheel]] -- five-factor framework for community success
+- [[concepts/Situated-Learning]] -- the learning theory underpinning communities of practice
+- [[concepts/Tacit-Knowledge]] -- knowledge shared through practice, not documentation
+- [[glossary/Legitimate-Peripheral-Participation]] -- how newcomers enter and grow in a CoP
+- [[concepts/Shared-Leadership]] -- flat participation model
+- [[concepts/Virtual-Communities-of-Practice]] -- digital CoPs transcending geography
+- [[concepts/CoP-Design-Principles]] -- Wenger's seven principles for building CoPs
+- [[glossary/CoP-Success-Wheel]] -- five-factor framework for community success
 
 ## Source
-[[LuisMartinez-Situated-Learning]]
+[[source-notes/LuisMartinez-Situated-Learning]]

@@ -19,9 +19,9 @@ Without self-evolving skills, agents repeat the same trial-and-error cycles ever
 - Requires maintenance (Curator) to prevent skill bloat
 
 ## Related
-- [[Agent-Skill-Curator]] -- garbage collection for agent-created skills
-- [[GEPA-Prompt-Evolution]] -- offline optimization to fix bad skills
-- [[Agent-Identity-Layer]] -- skills created through the lens of identity
+- [[concepts/Agent-Skill-Curator]] -- garbage collection for agent-created skills
+- [[concepts/GEPA-Prompt-Evolution]] -- offline optimization to fix bad skills
+- [[concepts/Agent-Identity-Layer]] -- skills created through the lens of identity
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

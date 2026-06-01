@@ -12,9 +12,9 @@ Scales the research intake pipeline beyond what's manually feasible, ensuring th
 - Tools like qmd and LLM-Wiki pattern enable programmatic knowledge ingestion
 
 ## Related
-- [[Automated-Capture-Pipeline]]
-- [[LLM-Wiki-Pattern]]
-- [[Context-Aware-AI-Research]]
+- [[concepts/Automated-Capture-Pipeline]]
+- [[concepts/LLM-Wiki-Pattern]]
+- [[concepts/Context-Aware-AI-Research]]
 
 ## Source
 [qmd], [OmarSaridakis-Research-KB]

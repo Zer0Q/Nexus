@@ -17,9 +17,9 @@ Explains why a machine with more VRAM can be slower than one with less VRAM but 
 - HBM gives speed but requires expensive datacenter GPUs
 
 ## Related
-- [[Prefill-vs-Decode]]
-- [[Unified-Memory-Tradeoff]]
-- [[KV-Cache-Growth]]
+- [[concepts/Prefill-vs-Decode]]
+- [[concepts/Unified-Memory-Tradeoff]]
+- [[concepts/KV-Cache-Growth]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

@@ -20,9 +20,9 @@ Without maintenance, agent-created skills pile up into dozens of narrow, overlap
 - Pinning protects from deletion but still allows patches/edits
 
 ## Related
-- [[Self-Evolving-Skills]] -- creates the skills the Curator maintains
-- [[GEPA-Prompt-Evolution]] -- ensures skills actually work before the Curator sees them
-- [[Quarterly-Vault-Review]] -- similar periodic maintenance concept for knowledge vaults
+- [[concepts/Self-Evolving-Skills]] -- creates the skills the Curator maintains
+- [[concepts/GEPA-Prompt-Evolution]] -- ensures skills actually work before the Curator sees them
+- [[concepts/Quarterly-Vault-Review]] -- similar periodic maintenance concept for knowledge vaults
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

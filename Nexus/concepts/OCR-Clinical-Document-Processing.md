@@ -20,9 +20,9 @@ Many medical records exist as scanned PDFs or images that AI models cannot direc
 - Some data (images, charts) cannot be fully captured in text
 
 ## Related
-- [[Full-Clinical-History-Processing]] -- the broader pipeline
-- [[Adversarial-Model-Spiral]] -- what the processed text feeds into
-- [[Primary-Source-Over-Secondary]] -- the philosophy behind processing raw data
+- [[concepts/Full-Clinical-History-Processing]] -- the broader pipeline
+- [[concepts/Adversarial-Model-Spiral]] -- what the processed text feeds into
+- [[concepts/Primary-Source-Over-Secondary]] -- the philosophy behind processing raw data
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

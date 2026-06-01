@@ -20,9 +20,9 @@ In a volatile knowledge ecosystem with informal communities and ad hoc networks,
 - Risk of becoming outdated if not actively maintained
 
 ## Related
-- [[Communities-of-Practice]] -- the bridge between networks and knowledge centres
-- [[Knowledge-Source-of-Truth]] -- single source of truth for organizational knowledge
-- [[CoP-Success-Wheel]] -- framework that distinguishes knowledge centres from CoPs
+- [[concepts/Communities-of-Practice]] -- the bridge between networks and knowledge centres
+- [[concepts/Knowledge-Source-of-Truth]] -- single source of truth for organizational knowledge
+- [[glossary/CoP-Success-Wheel]] -- framework that distinguishes knowledge centres from CoPs
 
 ## Source
-[[EuropeanCommission-CoP-Playbook]]
+[[source-notes/EuropeanCommission-CoP-Playbook]]

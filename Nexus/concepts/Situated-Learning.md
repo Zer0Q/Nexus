@@ -9,7 +9,7 @@ tags:
 
 # Situated Learning
 
-Knowledge is constructed through social practice within authentic contexts, not through abstract propositional acquisition. Proposed by Jean Lave and Etienne Wenger within the context of [[Communities-of-Practice]].
+Knowledge is constructed through social practice within authentic contexts, not through abstract propositional acquisition. Proposed by Jean Lave and Etienne Wenger within the context of [[concepts/Communities-of-Practice]].
 
 ## Core Thesis
 - Learning is inseparable from the social and cultural context in which it occurs
@@ -28,9 +28,9 @@ Knowledge is constructed through social practice within authentic contexts, not 
 - Continuous learning through real problems generates better knowledge transfer
 
 ## Related
-- [[Tacit-Knowledge]] -- knowledge that's hard to codify but learned through practice
-- [[Communities-of-Practice]] -- the social structure where situated learning occurs
-- [[Knowledge-Mapping]] -- mapping what's known within a community
+- [[concepts/Tacit-Knowledge]] -- knowledge that's hard to codify but learned through practice
+- [[concepts/Communities-of-Practice]] -- the social structure where situated learning occurs
+- [[concepts/Knowledge-Mapping]] -- mapping what's known within a community
 
 ## Sources
-- [[LuisMartinez-Situated-Learning]]
+- [[source-notes/LuisMartinez-Situated-Learning]]

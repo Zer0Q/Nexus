@@ -17,9 +17,9 @@ In write-time wiki systems, a single incorrect synthesis can infect dozens of re
 - Manual review catches errors but doesn't scale
 
 ## Related
-- [[Editorial-Drift]]
-- [[Knowledge-Source-of-Truth]]
-- [[Graph-Knowledge-Layer]]
+- [[concepts/Editorial-Drift]]
+- [[concepts/Knowledge-Source-of-Truth]]
+- [[architectures/Graph-Knowledge-Layer]]
 
 ## Source
-[[NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

@@ -12,9 +12,9 @@ Maximizes the strengths of both: human intuition and contextual understanding co
 - The orchestration pattern scales personal knowledge systems beyond manual capacity
 
 ## Related
-- [[AI-Human-Division-of-Labor]]
-- [[Hybrid-AI-Workflow]]
-- [[Codify-without-Flattening]]
+- [[frameworks/AI-Human-Division-of-Labor]]
+- [[frameworks/Hybrid-AI-Workflow]]
+- [[concepts/Codify-without-Flattening]]
 
 ## Source
 [Codify-without-Flattening], [TungRoussiere-Tacit-Knowledge-Moat]

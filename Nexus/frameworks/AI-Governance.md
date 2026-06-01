@@ -35,9 +35,9 @@ AI Governance establishes the shared language, frameworks, and accountability st
 | Retirement | Hardware/OS end-of-life | Performance degradation or ethical thresholds |
 
 ## Related
-- [[AI-Risk-Management]] -- risk framework operationalizing governance vocabulary
-- [[AI-System-Life-Cycle]] -- lifecycle stages for accountability
-- [[Trustworthiness]] -- verifiable AI characteristics
+- [[frameworks/AI-Risk-Management]] -- risk framework operationalizing governance vocabulary
+- [[frameworks/AI-System-Life-Cycle]] -- lifecycle stages for accountability
+- [[glossary/Trustworthiness]] -- verifiable AI characteristics
 
 ## Sources
-- [[RamiroCid-ISO-22989-AI-Governance]]
+- [[source-notes/RamiroCid-ISO-22989-AI-Governance]]

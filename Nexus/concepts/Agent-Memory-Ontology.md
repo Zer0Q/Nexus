@@ -19,9 +19,9 @@ Flat text retrieval breaks on complex queries. Ontology-based memory structures 
 - Schema changes require data migration
 
 ## Related
-- [[Structured-Agent-Memory]]
-- [[Agent-Multi-Tier-Memory]]
-- [[Graph-Based-Knowledge-Discovery]]
+- [[concepts/Structured-Agent-Memory]]
+- [[concepts/Agent-Multi-Tier-Memory]]
+- [[frameworks/Graph-Based-Knowledge-Discovery]]
 
 ## Source
-[[akshaypachaar-pydantic-fixed-agent-memory]]
+[[source-notes/akshaypachaar-pydantic-fixed-agent-memory]]

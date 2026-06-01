@@ -19,10 +19,10 @@ HMAs represent the alarms where failure has the highest consequences. Extra mana
 - Requires dedicated resources for ongoing management and auditing
 
 ## Related
-- [[Alarm-Classification]]
-- [[Alarm-Philosophy]]
-- [[Alarm-Monitoring-and-Assessment]]
-- [[Alarm-Management-Lifecycle]]
+- [[concepts/Alarm-Classification]]
+- [[concepts/Alarm-Philosophy]]
+- [[concepts/Alarm-Monitoring-and-Assessment]]
+- [[concepts/Alarm-Management-Lifecycle]]
 
 ## Source
-[[Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

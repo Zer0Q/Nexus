@@ -19,9 +19,9 @@ Instead of describing UI changes in text, you can hand a visual input (screensho
 - Accessibility claims should be verified, not assumed
 
 ## Related
-- [[Kimi-K26-Model]] -- the model enabling visual-to-code generation
-- [[Design-Mode-UI]] -- Cursor's click-to-edit alternative for UI changes
-- [[Five-Layer-AI-Stack]] -- part of the coding layer capabilities
+- [[tools/Kimi-K26-Model]] -- the model enabling visual-to-code generation
+- [[concepts/Design-Mode-UI]] -- Cursor's click-to-edit alternative for UI changes
+- [[concepts/Five-Layer-AI-Stack]] -- part of the coding layer capabilities
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

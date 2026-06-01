@@ -14,9 +14,9 @@ A learning technique where the learner deliberately retrieves information from m
 - The discomfort of failing to recall is evidence that learning is occurring
 
 ## Related
-- [[Active-Recall-Learning]]
-- [[Spaced-Repetition-System]]
-- [[Retrieval-Practice]]
+- [[concepts/Active-Recall-Learning]]
+- [[concepts/Spaced-Repetition-System]]
+- [[glossary/Retrieval-Practice]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

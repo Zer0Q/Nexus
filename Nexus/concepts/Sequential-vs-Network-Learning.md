@@ -23,11 +23,11 @@ Traditional note-taking is linear: concept A on page 12, concept B on page 20, c
 - Sequential reading may be faster for initial exposure to a new subject
 
 ## Related
-- [[Knowledge-Graph-Learning]]
-- [[Knowledge-Graph-as-Semantic-Layer]]
-- [[Connection-Protocol]]
-- [[Situated-Learning]]
-- [[Active-Recall-Learning]]
+- [[concepts/Knowledge-Graph-Learning]]
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]]
+- [[workflows/Connection-Protocol]]
+- [[concepts/Situated-Learning]]
+- [[concepts/Active-Recall-Learning]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

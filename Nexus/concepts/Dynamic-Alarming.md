@@ -20,9 +20,9 @@ Static alarm settings generate nuisance alarms during normal transitions (startu
 - Requires sophisticated alarm management software
 
 ## Related
-- [[Advanced-Alarm-Methods]]
-- [[Alarm-Management-Lifecycle]]
-- [[ISA-18-2-Standard]]
+- [[concepts/Advanced-Alarm-Methods]]
+- [[concepts/Alarm-Management-Lifecycle]]
+- [[concepts/ISA-18-2-Standard]]
 
 ## Source
-[[ISA-18-Standards-Series]]
+[[source-notes/ISA-18-Standards-Series]]

@@ -18,7 +18,7 @@ End-to-end autonomous agent for code changes. Handles the full cycle from issue 
 - Variable PR quality
 
 ## Related
-- [[Agentic-SDLC]], [[Multi-Agent-Development]]
+- [[concepts/Agentic-SDLC]], [[concepts/Multi-Agent-Development]]
 
 ## Source
-[[SDD-vs-BMAD-Frameworks-Comparison]]
+[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]

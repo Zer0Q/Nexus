@@ -19,9 +19,9 @@ Removes the knowledge worker from 4-6 hours/day of administrative coordination. 
 - Risk of automated errors compounding if not reviewed
 
 ## Related
-- [[Three-Layer-Architecture]]
-- [[Async-Queue-Pattern]]
-- [[Compounding-Knowledge-Context]]
+- [[concepts/Three-Layer-Architecture]]
+- [[concepts/Async-Queue-Pattern]]
+- [[concepts/Compounding-Knowledge-Context]]
 
 ## Source
-[[CyrilXBT-Business-Operating-System]]
+[[source-notes/CyrilXBT-Business-Operating-System]]

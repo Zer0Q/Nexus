@@ -23,11 +23,11 @@ Active recall and spaced repetition build and maintain individual nodes. The syn
 - The synthesis document may reveal gaps that require additional study rounds
 
 ## Related
-- [[Pattern-Identification-Across-Notes]]
-- [[Predictive-Test-Method]]
-- [[Gap-Analysis-Study]]
-- [[Knowledge-Graph-Learning]]
-- [[Spaced-Repetition-System]]
+- [[concepts/Pattern-Identification-Across-Notes]]
+- [[concepts/Predictive-Test-Method]]
+- [[concepts/Gap-Analysis-Study]]
+- [[concepts/Knowledge-Graph-Learning]]
+- [[concepts/Spaced-Repetition-System]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

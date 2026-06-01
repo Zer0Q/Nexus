@@ -18,9 +18,9 @@ Ephemeral interaction means re-explaining everything every session — style pre
 - Persistent: setup cost, less flexible per-session, accumulates value over time
 
 ## Related
-- [[CLAUDE-MD-as-Context-Layer]]
-- [[Compound-Effect-of-Persistent-Instructions]]
-- [[Agent-Identity-Layer]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Compound-Effect-of-Persistent-Instructions]]
+- [[concepts/Agent-Identity-Layer]]
 
 ## Source
-[[Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]

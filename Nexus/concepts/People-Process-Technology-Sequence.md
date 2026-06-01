@@ -21,10 +21,10 @@ Most AI projects start with technology — buying tools, building models, deploy
 - Stakeholders may pressure for quick tech wins before process is ready
 
 ## Related
-- [[Visual-Management]]
-- [[Poka-Yoke]]
-- [[Gemba]]
-- [[AI-Amplifies-Process]]
+- [[concepts/Visual-Management]]
+- [[concepts/Poka-Yoke]]
+- [[concepts/Gemba]]
+- [[concepts/AI-Amplifies-Process]]
 
 ## Source
-[[Gellida-Broken-Process-Broken-AI]]
+[[source-notes/Gellida-Broken-Process-Broken-AI]]

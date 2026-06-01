@@ -14,9 +14,9 @@ Represents a process-level improvement to AI output quality that does not requir
 - The "spiral" metaphor: each iteration sharpens the output like sharpening a stake
 
 ## Related
-- [[Adversarial-Model-Spiral]] -- the full concept note
-- [[Multi-Model-Convergence]] -- the starting point
-- [[Iterative-Model-Refinement]] -- the iterative mechanism
+- [[concepts/Adversarial-Model-Spiral]] -- the full concept note
+- [[concepts/Multi-Model-Convergence]] -- the starting point
+- [[concepts/Iterative-Model-Refinement]] -- the iterative mechanism
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

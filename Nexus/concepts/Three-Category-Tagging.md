@@ -20,9 +20,9 @@ Solves the two extremes: no tags (unsearchable) vs. too many tags (noise). The p
 - Risk of tag proliferation without the 5-note rule
 
 ## Related
-- [[Retrieval-First-Organization]]
-- [[Date-Prefixed-Naming]]
-- [[Quarterly-Vault-Review]]
+- [[concepts/Retrieval-First-Organization]]
+- [[frameworks/Date-Prefixed-Naming]]
+- [[concepts/Quarterly-Vault-Review]]
 
 ## Source
-[[CyrilXBT-Vault-Organization]]
+[[source-notes/CyrilXBT-Vault-Organization]]

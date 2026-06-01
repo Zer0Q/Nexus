@@ -20,9 +20,9 @@ Markdown is Obsidian's native format, the cleanest format for LLMs to read, and 
 - Complex layouts (tables, diagrams) are harder in plain markdown
 
 ## Related
-- [[Shared-Directory-Pattern]]
-- [[Federated-Knowledge-Search]]
-- [[Knowledge-Source-of-Truth]]
+- [[concepts/Shared-Directory-Pattern]]
+- [[concepts/Federated-Knowledge-Search]]
+- [[concepts/Knowledge-Source-of-Truth]]
 
 ## Source
-[[KevinNguyen-ByteRover-Obsidian]]
+[[source-notes/KevinNguyen-ByteRover-Obsidian]]

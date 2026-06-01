@@ -18,9 +18,9 @@ KV cache fragmentation was the #1 cause of wasted GPU memory. PagedAttention inc
 - Block size tuning matters: too small = overhead, too large = fragmentation
 
 ## Related
-- [[KV-Cache-Growth]]
-- [[Continuous-Batching]]
-- [[Prefill-vs-Decode]]
+- [[concepts/KV-Cache-Growth]]
+- [[concepts/Continuous-Batching]]
+- [[concepts/Prefill-vs-Decode]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

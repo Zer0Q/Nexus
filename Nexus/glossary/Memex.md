@@ -6,4 +6,4 @@ Vannevar Bush's 1945 vision of a personal knowledge store with associative trail
 - Bush couldn't solve who does the maintenance -- the LLM handles that now
 - "Associative trail" = modern wikilinks
 
-See also: [[LLM-Wiki-Pattern]], [[Write-Time-Knowledge-Systems]]
+See also: [[concepts/LLM-Wiki-Pattern]], [[concepts/Write-Time-Knowledge-Systems]]

@@ -19,10 +19,10 @@ Most knowledge systems fail because they're designed for input, not output. Capt
 - Balance between push (daily brief) and pull (on-demand queries)
 
 ## Related
-- [[Communities-of-Practice]]
-- [[Anti-Graveyard-Capture]]
-- [[Daily-Synthesis-Workflow]]
-- [[Four-Layer-Vault-Architecture]]
+- [[concepts/Communities-of-Practice]]
+- [[concepts/Anti-Graveyard-Capture]]
+- [[concepts/Daily-Synthesis-Workflow]]
+- [[concepts/Four-Layer-Vault-Architecture]]
 
 ## Source
-[[CyrilXBT-Self-Improving-Vault]]
+[[source-notes/CyrilXBT-Self-Improving-Vault]]

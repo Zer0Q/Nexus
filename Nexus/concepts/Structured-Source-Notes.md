@@ -9,7 +9,7 @@ Inconsistent formatting breaks automation. When every source follows the same st
 ## Key Ideas
 - Template fields: title, source, date, type, core argument, key points, my reaction, connections, open question
 - The connections field is the most important -- it links new sources to existing knowledge
-- Consistent structure enables [[Weekly-AI-Synthesis]] and [[Context-Aware-AI-Research]]
+- Consistent structure enables [[frameworks/Weekly-AI-Synthesis]] and [[concepts/Context-Aware-AI-Research]]
 - Processing a source into the template is the work that replaces manual note-taking
 - Leave personal reaction fields blank for human input
 
@@ -19,9 +19,9 @@ Inconsistent formatting breaks automation. When every source follows the same st
 - Requires discipline to apply template consistently
 
 ## Related
-- [[Inbox-First-Capture]]
-- [[Weekly-AI-Synthesis]]
-- [[Context-Aware-AI-Research]]
+- [[glossary/Inbox-First-Capture]]
+- [[frameworks/Weekly-AI-Synthesis]]
+- [[concepts/Context-Aware-AI-Research]]
 
 ## Source
-[[DamiDefi-Obsidian-Claude-Research-Stack]]
+[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]

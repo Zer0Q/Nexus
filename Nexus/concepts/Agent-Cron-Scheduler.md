@@ -20,9 +20,9 @@ Agents that only respond to prompts require the user to remember to ask. Schedul
 - Isolated sessions mean jobs can't see intermediate conversation state
 
 ## Related
-- [[Agent-Profiles]] -- each profile has its own cron jobs
-- [[Automated-Business-Workflows]] -- broader concept of automated agent workflows
-- [[Daily-Synthesis-Workflow]] -- example use case: daily digest
+- [[concepts/Agent-Profiles]] -- each profile has its own cron jobs
+- [[concepts/Automated-Business-Workflows]] -- broader concept of automated agent workflows
+- [[concepts/Daily-Synthesis-Workflow]] -- example use case: daily digest
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

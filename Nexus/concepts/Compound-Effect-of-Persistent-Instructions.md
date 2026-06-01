@@ -19,9 +19,9 @@ Most AI interactions are stateless — every session starts from zero. Persisten
 - Portability: project-specific instructions don't transfer between contexts
 
 ## Related
-- [[CLAUDE-MD-as-Context-Layer]]
-- [[Compounding-Knowledge-Context]]
-- [[System-Setup-Hierarchy]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Compounding-Knowledge-Context]]
+- [[concepts/System-Setup-Hierarchy]]
 
 ## Source
-[[Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]

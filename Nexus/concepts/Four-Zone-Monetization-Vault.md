@@ -20,10 +20,10 @@ Most vaults optimize the inbox and leave the exit unstaffed. This structure forc
 - The output zone can accumulate drafts that never ship if shipping discipline is weak
 
 ## Related
-- [[Four-Layer-Vault-Architecture]] -- similar separation of concerns but focused on system layers, not monetization
-- [[Capture-Use-Gap]] -- this structure is designed to close that gap structurally
-- [[Output-Engine-Workflows]] -- the workflows that drive content through these zones
-- [[Three-Capture-Surfaces]] -- feeds the 00-CAPTURE zone
+- [[concepts/Four-Layer-Vault-Architecture]] -- similar separation of concerns but focused on system layers, not monetization
+- [[concepts/Capture-Use-Gap]] -- this structure is designed to close that gap structurally
+- [[concepts/Output-Engine-Workflows]] -- the workflows that drive content through these zones
+- [[concepts/Three-Capture-Surfaces]] -- feeds the 00-CAPTURE zone
 
 ## Source
-[[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

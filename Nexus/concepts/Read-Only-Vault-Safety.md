@@ -12,9 +12,9 @@ Prevents AI agents from corrupting the knowledge base through hallucinated edits
 - Git-based versioning provides rollback if write operations go wrong
 
 ## Related
-- [[Federated-Knowledge-Search]]
-- [[ByteRover]]
-- [[On-Device-Knowledge-Base]]
+- [[concepts/Federated-Knowledge-Search]]
+- [[tools/ByteRover]]
+- [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
 [Federated-Knowledge-Search], [ByteRover], [KevinNguyen-ByteRover-Obsidian]

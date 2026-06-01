@@ -19,9 +19,9 @@ Imperative prompting requires the user to know the steps. Goal-driven agents shi
 - Goal ambiguity leads to wasted effort
 
 ## Related
-- [[Goal-Command]]
-- [[Overnight-Goal-Runs]]
-- [[Agentic-SDLC]]
+- [[concepts/Goal-Command]]
+- [[concepts/Overnight-Goal-Runs]]
+- [[concepts/Agentic-SDLC]]
 
 ## Source
-[[aiedge-goal-ultimate]]
+[[source-notes/aiedge-goal-ultimate]]

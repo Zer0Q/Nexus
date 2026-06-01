@@ -19,9 +19,9 @@ Skills degrade as tasks evolve. Manual curation doesn't scale. An automated cura
 - Frozen executor limits adaptability during runs
 
 ## Related
-- [[Self-Evolving-Skills]]
-- [[Skill-Based-AI-Agents]]
-- [[Self-Improvement-Loop]]
+- [[concepts/Self-Evolving-Skills]]
+- [[concepts/Skill-Based-AI-Agents]]
+- [[concepts/Self-Improvement-Loop]]
 
 ## Source
-[[neuralavb-skill-curation-self-evolving-agents-explained-clearly]]
+[[source-notes/neuralavb-skill-curation-self-evolving-agents-explained-clearly]]

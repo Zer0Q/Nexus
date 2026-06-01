@@ -20,11 +20,11 @@ In the age of agentic AI, data and models are table stakes. Tacit knowledge is t
 - Maintaining accuracy as context evolves is ongoing work
 
 ## Related
-- [[Situated-Learning]]
-- [[Communities-of-Practice]]
-- [[Knowledge-Graph-as-Semantic-Layer]]
-- [[Codify-without-Flattening]]
-- [[Knowledge-Mapping]]
+- [[concepts/Situated-Learning]]
+- [[concepts/Communities-of-Practice]]
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]]
+- [[concepts/Codify-without-Flattening]]
+- [[concepts/Knowledge-Mapping]]
 
 ## Source
-[[TungRoussiere-Tacit-Knowledge-Moat]]
+[[source-notes/TungRoussiere-Tacit-Knowledge-Moat]]

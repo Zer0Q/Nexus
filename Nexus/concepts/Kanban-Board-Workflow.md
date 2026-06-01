@@ -20,10 +20,10 @@ Transforms a list of to-dos into an automated execution pipeline. By the time yo
 - Daemon consumes resources running continuously
 
 ## Related
-- [[Hermes-Dashboard]] -- where the Kanban board lives
-- [[Goal-Command]] -- Kanban automates /goal-style execution
-- [[Multi-Agent-Org-Chart]] -- agents claim tasks from the board
-- [[Agent-Cron-Scheduler]] -- daemon runs continuously vs cron polling
+- [[concepts/Hermes-Dashboard]] -- where the Kanban board lives
+- [[concepts/Goal-Command]] -- Kanban automates /goal-style execution
+- [[concepts/Multi-Agent-Org-Chart]] -- agents claim tasks from the board
+- [[concepts/Agent-Cron-Scheduler]] -- daemon runs continuously vs cron polling
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

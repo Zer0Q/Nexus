@@ -11,7 +11,7 @@ Smart Connections turns Obsidian from a note-taking app into a conversational kn
 - Semantic search finds relevant notes even without keyword matches
 - Connects to local LLM via `http://localhost:1234/v1` (or cloud API)
 - Answers are grounded in your vault content, not general training data
-- Core component of [[RAG-Retrieval-Augmented-Generation]] in Obsidian
+- Core component of [[concepts/RAG-Retrieval-Augmented-Generation]] in Obsidian
 
 ## Configuration
 - API provider: Local
@@ -19,9 +19,9 @@ Smart Connections turns Obsidian from a note-taking app into a conversational kn
 - Model: name of active LM Studio model
 
 ## Related
-- [[Embedding-Based-Vault-Search]]
-- [[RAG-Retrieval-Augmented-Generation]]
-- [[LM-Studio]]
+- [[concepts/Embedding-Based-Vault-Search]]
+- [[concepts/RAG-Retrieval-Augmented-Generation]]
+- [[tools/LM-Studio]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

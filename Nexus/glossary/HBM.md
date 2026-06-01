@@ -6,4 +6,4 @@ Stacked memory architecture used in datacenter GPUs (H100: 3.35 TB/s). Provides 
 - Not available on consumer hardware
 - HBM bandwidth is the key differentiator between consumer and datacenter inference
 
-See also: [[Memory-Bandwidth-Bottleneck]], [[Unified-Memory-Tradeoff]]
+See also: [[concepts/Memory-Bandwidth-Bottleneck]], [[concepts/Unified-Memory-Tradeoff]]

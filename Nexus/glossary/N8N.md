@@ -8,4 +8,4 @@ Open-source workflow automation tool. Connects apps and services via node-based 
 - Webhook triggers for external events (Stripe payments, calendar events)
 - Free to self-host, unlimited workflow runs
 
-See also: [[Automated-Capture-Pipeline]], [[Automated-Business-Workflows]]
+See also: [[concepts/Automated-Capture-Pipeline]], [[concepts/Automated-Business-Workflows]]

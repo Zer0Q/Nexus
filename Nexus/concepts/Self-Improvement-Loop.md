@@ -12,18 +12,19 @@ This is the compounding mechanism that separates Hermes from other agents. Where
 - You correct it once; it never makes that mistake again
 - Six months in: knows how you format things, which tools work, your tone preferences
 - Updates add new skills automatically without breaking existing ones
-- Distinct from [[Self-Evolving-Skills]] which focuses on the skill file mechanics; this covers the broader behavioral loop
+- Distinct from [[concepts/Self-Evolving-Skills]] which focuses on the skill file mechanics; this covers the broader behavioral loop
 
 ## Tradeoffs
 - Agent may save suboptimal approaches (self-congratulation tendency)
 - Requires occasional manual review of auto-generated skills
-- Skill bloat without [[Agent-Skill-Curator]] maintenance
+- Skill bloat without [[concepts/Agent-Skill-Curator]] maintenance
 
 ## Related
-- [[Self-Evolving-Skills]] -- the skill file mechanics that power this loop
-- [[Agent-Skill-Curator]] -- garbage collection for skills
-- [[Compounding-Knowledge-Context]] -- memory + skills compound over time
-- [[Hermes-Dashboard]] -- skills visible and editable in the Skills tab
+- [[concepts/Self-Evolving-Skills]] -- the skill file mechanics that power this loop
+- [[concepts/Agent-Skill-Curator]] -- garbage collection for skills
+- [[concepts/Compounding-Knowledge-Context]] -- memory + skills compound over time
+- [[concepts/Hermes-Dashboard]] -- skills visible and editable in the Skills tab
+- [[concepts/Echo-Chamber-Bias]] -- risk when feedback loops reinforce existing patterns
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

@@ -17,8 +17,8 @@ At low scale, 2% overheads are invisible. At high scale, they form a union and c
 - Every optimization adds complexity; the goal is to minimize the union of overheads
 
 ## Related
-- [[Continuous-Batching]]
-- [[Prefill-vs-Decode]]
+- [[concepts/Continuous-Batching]]
+- [[concepts/Prefill-vs-Decode]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

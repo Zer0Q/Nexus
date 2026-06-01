@@ -22,10 +22,10 @@ This is the primary mechanism for turning Hermes into a proactive employee rathe
 - No real-time visibility without checking status or using the dashboard
 
 ## Related
-- [[Max-Turns-Configuration]] -- controlling goal complexity
-- [[Overnight-Goal-Runs]] -- using /goal for long-running tasks during sleep
-- [[Kanban-Board-Workflow]] -- automated goal execution via the task board
-- [[Hermes-Dashboard]] -- visual status of running goals
+- [[concepts/Max-Turns-Configuration]] -- controlling goal complexity
+- [[concepts/Overnight-Goal-Runs]] -- using /goal for long-running tasks during sleep
+- [[concepts/Kanban-Board-Workflow]] -- automated goal execution via the task board
+- [[concepts/Hermes-Dashboard]] -- visual status of running goals
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

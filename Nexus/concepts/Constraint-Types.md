@@ -13,7 +13,7 @@ Policy constraints are often invisible and the hardest to eliminate because they
 - "All departments must operate at 100% utilization" is a classic policy constraint
 
 ## Related
-- [[Theory-of-Constraints]], [[Exploit-Then-Elevate]], [[Interconnect-Bottleneck]]
+- [[frameworks/Theory-of-Constraints]], [[concepts/Exploit-Then-Elevate]], [[concepts/Interconnect-Bottleneck]]
 
 ## Source
-[[Goldratt-Theory-of-Constraints]]
+[[source-notes/Goldratt-Theory-of-Constraints]]

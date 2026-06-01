@@ -14,9 +14,9 @@ The false sense of familiarity that results from passive review of study materia
 - The most popular study methods (re-reading, highlighting, cramming) are also the least effective
 
 ## Related
-- [[Active-Recall]]
-- [[Retrieval-Practice]]
-- [[Sequential-vs-Network-Learning]]
+- [[glossary/Active-Recall]]
+- [[glossary/Retrieval-Practice]]
+- [[concepts/Sequential-vs-Network-Learning]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

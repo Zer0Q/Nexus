@@ -19,9 +19,9 @@ Agents that store memory as free-text JSON drift over time — fields get rename
 - Initial setup overhead for defining models
 
 ## Related
-- [[Agent-Multi-Tier-Memory]]
-- [[Session-Recall]]
-- [[Self-Evolving-Skills]]
+- [[concepts/Agent-Multi-Tier-Memory]]
+- [[concepts/Session-Recall]]
+- [[concepts/Self-Evolving-Skills]]
 
 ## Source
-[[akshaypachaar-pydantic-fixed-agent-memory]]
+[[source-notes/akshaypachaar-pydantic-fixed-agent-memory]]

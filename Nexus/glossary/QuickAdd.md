@@ -7,4 +7,4 @@ An Obsidian community plugin that provides zero-friction idea capture via keyboa
 - Claude does the categorization and connection-finding later
 - Extends to any device via Telegram bot + N8N forwarding to vault inbox
 
-See also: [[Zero-Friction-Capture]], [[Three-Capture-Surfaces]], [[Inbox-First-Capture]]
+See also: [[concepts/Zero-Friction-Capture]], [[concepts/Three-Capture-Surfaces]], [[glossary/Inbox-First-Capture]]

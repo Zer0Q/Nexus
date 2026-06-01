@@ -19,9 +19,9 @@ A single generalist agent can't optimize for conflicting roles (e.g., creative d
 - Memory isolation means agents can't share learned facts
 
 ## Related
-- [[Agent-Identity-Layer]] -- each profile has its own SOUL.md
-- [[Multi-Agent-Development]] -- broader concept of coordinating multiple agents
-- [[Agent-Cron-Scheduler]] -- each profile can have its own scheduled jobs
+- [[concepts/Agent-Identity-Layer]] -- each profile has its own SOUL.md
+- [[concepts/Multi-Agent-Development]] -- broader concept of coordinating multiple agents
+- [[concepts/Agent-Cron-Scheduler]] -- each profile can have its own scheduled jobs
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

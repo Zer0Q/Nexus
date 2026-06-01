@@ -19,9 +19,9 @@ No single tool is the answer to everything. The operators getting real leverage 
 - Coordinating the stack requires understanding each tool's strengths and limitations
 
 ## Related
-- [[Five-Tool-AI-Stack]] -- similar concept from zeuuss_01, different tool assignments (N8N vs Hermes, slightly different framing)
-- [[Four-Layer-Vault-Architecture]] -- related but focuses on vault layers rather than tool layers
-- [[Hermes-Agent-Architecture]] -- the automation layer in this stack
+- [[concepts/Five-Tool-AI-Stack]] -- similar concept from zeuuss_01, different tool assignments (N8N vs Hermes, slightly different framing)
+- [[concepts/Four-Layer-Vault-Architecture]] -- related but focuses on vault layers rather than tool layers
+- [[concepts/Hermes-Agent-Architecture]] -- the automation layer in this stack
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

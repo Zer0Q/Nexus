@@ -19,10 +19,10 @@ Most automated synthesis tools look at a narrow window (7 days). The most valuab
 - Risk of stale connections if older notes are no longer relevant
 
 ## Related
-- [[Daily-Synthesis-Workflow]] -- the narrower-window alternative
-- [[Compounding-Knowledge-Context]] -- how vault depth enables this
-- [[Narrative-Signal-Detection]] -- what cross-month connections surface
-- [[Live-Vault-Memory]] -- the enabler
+- [[concepts/Daily-Synthesis-Workflow]] -- the narrower-window alternative
+- [[concepts/Compounding-Knowledge-Context]] -- how vault depth enables this
+- [[concepts/Narrative-Signal-Detection]] -- what cross-month connections surface
+- [[concepts/Live-Vault-Memory]] -- the enabler
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

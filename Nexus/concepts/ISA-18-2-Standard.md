@@ -19,10 +19,10 @@ Provides the framework that regulatory bodies (OSHA, EPA, FDA, PHMSA) recognize 
 - Requires organizational commitment beyond document compliance
 
 ## Related
-- [[Alarm-Management]]
-- [[Alarm-Philosophy]]
-- [[Alarm-Management-Lifecycle]]
-- [[ISA-101-Standard]]
+- [[concepts/Alarm-Management]]
+- [[concepts/Alarm-Philosophy]]
+- [[concepts/Alarm-Management-Lifecycle]]
+- [[concepts/ISA-101-Standard]]
 
 ## Source
-[[Dunn-Sands-Alarm-Management-FAQ]]
+[[source-notes/Dunn-Sands-Alarm-Management-FAQ]]

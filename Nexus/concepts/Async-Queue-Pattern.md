@@ -20,9 +20,9 @@ Enables the vault to "run your business while you sleep." You capture tasks when
 - Risk of queue items being missed if workflow fails
 
 ## Related
-- [[Three-Layer-Architecture]]
-- [[Automated-Business-Workflows]]
-- [[Daily-Synthesis-Workflow]]
+- [[concepts/Three-Layer-Architecture]]
+- [[concepts/Automated-Business-Workflows]]
+- [[concepts/Daily-Synthesis-Workflow]]
 
 ## Source
-[[CyrilXBT-Business-Operating-System]]
+[[source-notes/CyrilXBT-Business-Operating-System]]

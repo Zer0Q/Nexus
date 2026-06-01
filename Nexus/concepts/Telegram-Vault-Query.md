@@ -19,9 +19,9 @@ Multi-surface access removes the constraint of being at your desk to research. A
 - Token costs for vault reads on each query
 
 ## Related
-- [[Telegram-Bot-Capture]] -- the simpler unidirectional capture-only version
-- [[Capture-to-Intelligence-Gap]] -- what this collapses
-- [[Hermes-Obsidian-Integration]] -- the vault connection this queries
+- [[tools/Telegram-Bot-Capture]] -- the simpler unidirectional capture-only version
+- [[concepts/Capture-to-Intelligence-Gap]] -- what this collapses
+- [[concepts/Hermes-Obsidian-Integration]] -- the vault connection this queries
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

@@ -18,7 +18,7 @@ Represents the evolution from AI-assisted coding (single prompt) to AI-driven de
 - Governance overhead for enterprise adoption
 
 ## Related
-- [[Multi-Agent-Development]], [[BMAD-Method]], [[Spec-Driven-Development]]
+- [[concepts/Multi-Agent-Development]], [[frameworks/BMAD-Method]], [[frameworks/Spec-Driven-Development]]
 
 ## Source
-[[SDD-vs-BMAD-Frameworks-Comparison]]
+[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]

@@ -20,9 +20,9 @@ Real expert committees benefit from diverse perspectives and constructive disagr
 - Risk of performative disagreement (models disagreeing for its own sake)
 
 ## Related
-- [[Adversarial-Model-Spiral]] -- the method that implements this simulation
-- [[Multi-Model-Convergence]] -- the starting configuration
-- [[AI-Assisted-Medical-Research]] -- the domain where this is most impactful
+- [[concepts/Adversarial-Model-Spiral]] -- the method that implements this simulation
+- [[concepts/Multi-Model-Convergence]] -- the starting configuration
+- [[concepts/AI-Assisted-Medical-Research]] -- the domain where this is most impactful
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

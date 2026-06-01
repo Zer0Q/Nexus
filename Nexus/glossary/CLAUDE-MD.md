@@ -7,4 +7,4 @@ Plaintext configuration file in a project root that Claude Code reads before eve
 - Available in Claude Code (project root) and Claude Projects (Project System Prompt on claude.ai)
 - Equivalent patterns: AGENTS.md (Hermes), .cursorrules (Cursor), instructions.md (other tools)
 
-See also: [[CLAUDE-MD-Project-Knowledge]], [[CLAUDE-MD-as-Context-Layer]], [[CLAUDE-MD-Five-Section-Template]]
+See also: [[tools/CLAUDE-MD-Project-Knowledge]], [[concepts/CLAUDE-MD-as-Context-Layer]], [[frameworks/CLAUDE-MD-Five-Section-Template]]

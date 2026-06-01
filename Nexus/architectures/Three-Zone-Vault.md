@@ -19,16 +19,16 @@ Provides a lifecycle model for notes that enforces movement from raw capture tow
 - Zone 2 is the working layer; notes here must connect to at least one active project or decision
 
 ## Tradeoffs
-- Simpler than the [[Four-Layer-Vault-Architecture]] but may lack granularity for complex vaults
+- Simpler than the [[concepts/Four-Layer-Vault-Architecture]] but may lack granularity for complex vaults
 - Requires discipline to actually move notes between zones
 - Archive zone prevents vault bloat but risks losing context for future retrieval
 
 ## Related
-- [[Four-Layer-Vault-Architecture]]
-- [[Daily-Processing-Run]]
-- [[Note-Usefulness-Assessment]]
-- [[Weekly-Note-Audit]]
-- [[Output-Folder-Pattern]]
+- [[concepts/Four-Layer-Vault-Architecture]]
+- [[workflows/Daily-Processing-Run]]
+- [[concepts/Note-Usefulness-Assessment]]
+- [[workflows/Weekly-Note-Audit]]
+- [[concepts/Output-Folder-Pattern]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

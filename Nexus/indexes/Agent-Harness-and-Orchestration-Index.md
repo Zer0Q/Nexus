@@ -3,40 +3,40 @@
 ## Overview
 Concepts, patterns, and tools for building, managing, and orchestrating AI agent harnesses — from single-agent scaffolding to multi-harness swarms.
 
-- [[GStack-Software-Factory]] -- AI-native product organization
+- [[concepts/GStack-Software-Factory]] -- AI-native product organization
 
 ## Core Concepts
-- [[AddyOsmani-Agent-Harness-Engineering]] -- treating agent scaffolding as a living artifact
-- [[Agent-Harness-Layers]] -- three-layer architecture: model, agent, runtime
-- [[Multi-Harness-Orchestration]] -- coordinating multiple specialized harnesses
-- [[Agent-Pipeline-Pattern]] -- sequential agent chains with handoff files
-- [[Agent-Swarm-Architecture]] -- massively parallel agent execution
-- [[Single-Threaded-vs-Multi-Agent]] -- shifting from solo to swarm workflows
-- [[Swarm-Orchestration]] -- coordinating hundreds of parallel agents
-- [[Multi-Agent-Development]] -- building systems with multiple AI agents
+- [[source-notes/AddyOsmani-Agent-Harness-Engineering]] -- treating agent scaffolding as a living artifact
+- [[concepts/Agent-Harness-Layers]] -- three-layer architecture: model, agent, runtime
+- [[concepts/Multi-Harness-Orchestration]] -- coordinating multiple specialized harnesses
+- [[concepts/Agent-Pipeline-Pattern]] -- sequential agent chains with handoff files
+- [[concepts/Agent-Swarm-Architecture]] -- massively parallel agent execution
+- [[concepts/Single-Threaded-vs-Multi-Agent]] -- shifting from solo to swarm workflows
+- [[concepts/Swarm-Orchestration]] -- coordinating hundreds of parallel agents
+- [[concepts/Multi-Agent-Development]] -- building systems with multiple AI agents
 
 ## Hermes-Specific
-- [[Hermes-Agent-Architecture]] -- Hermes internal architecture
-- [[aparnadhinak-hermes-harness-architecture]] -- Hermes-specific harness design
-- [[Multi-Agent-Development]] -- Hermes multi-agent capabilities
-- [[Agent-Profiles]] -- Hermes agent personality configuration
-- [[Agent-Skill-Curator]] -- automated skill improvement
-- [[Self-Evolving-Skills]] -- agents that update their own skills
+- [[concepts/Hermes-Agent-Architecture]] -- Hermes internal architecture
+- [[source-notes/aparnadhinak-hermes-harness-architecture]] -- Hermes-specific harness design
+- [[concepts/Multi-Agent-Development]] -- Hermes multi-agent capabilities
+- [[concepts/Agent-Profiles]] -- Hermes agent personality configuration
+- [[concepts/Agent-Skill-Curator]] -- automated skill improvement
+- [[concepts/Self-Evolving-Skills]] -- agents that update their own skills
 
 ## Tools
-- [[MCP]] -- Model Context Protocol for tool integration
-- [[Agentic-Harness]] -- open-source reference implementation
+- [[glossary/MCP]] -- Model Context Protocol for tool integration
+- [[glossary/Agentic-Harness]] -- open-source reference implementation
 
 ## Glossary
-- [[Agentic-Harness]]
-- [[Handoff-File]]
-- [[SkillRepo]]
-- [[MCP]]
+- [[glossary/Agentic-Harness]]
+- [[glossary/Handoff-File]]
+- [[glossary/SkillRepo]]
+- [[glossary/MCP]]
 
 ## Sources
-- [[AddyOsmani-Agent-Harness-Engineering]]
-- [[Av1dlive-build-ai-agents-2026-course]]
-- [[zachlloydtweets-introducing-multi-harness-orchestration]]
-- [[zodchiii-build-agent-team-ships-feature-while-sleep]]
-- [[rohit4verse-slow-single-threaded-commanding-300-agents-one]]
-- [[aparnadhinak-hermes-harness-architecture]]
+- [[source-notes/AddyOsmani-Agent-Harness-Engineering]]
+- [[source-notes/Av1dlive-build-ai-agents-2026-course]]
+- [[source-notes/zachlloydtweets-introducing-multi-harness-orchestration]]
+- [[source-notes/zodchiii-build-agent-team-ships-feature-while-sleep]]
+- [[source-notes/rohit4verse-slow-single-threaded-commanding-300-agents-one]]
+- [[source-notes/aparnadhinak-hermes-harness-architecture]]

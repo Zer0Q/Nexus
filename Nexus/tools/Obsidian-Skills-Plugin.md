@@ -20,9 +20,9 @@ Moves beyond one-off AI prompts to persistent, reusable agents that understand v
 - Less flexible than custom agent setups (e.g., Hermes Agent + Obsidian)
 
 ## Related
-- [[Skill-Based-AI-Agents]]
-- [[Vault-Aware-Automation]]
-- [[Persistent-AI-Helpers]]
+- [[concepts/Skill-Based-AI-Agents]]
+- [[concepts/Vault-Aware-Automation]]
+- [[concepts/Persistent-AI-Helpers]]
 
 ## Source
-[[OpenSourceProjects-Obsidian-Skills]]
+[[source-notes/OpenSourceProjects-Obsidian-Skills]]

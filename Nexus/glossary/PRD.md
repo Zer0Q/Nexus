@@ -6,4 +6,4 @@ Product Requirements Document. Detailed specification of product features, user 
 - Drives architecture and story creation
 - Can grow large enough to cause context explosion
 
-See also: [[Spec-Driven-Development]], [[BMAD-Method]]
+See also: [[frameworks/Spec-Driven-Development]], [[frameworks/BMAD-Method]]

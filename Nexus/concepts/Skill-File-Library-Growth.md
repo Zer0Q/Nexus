@@ -20,9 +20,9 @@ Skill growth is the measurable output of agent self-improvement. Each skill repr
 - Requires maintenance to prevent skill bloat
 
 ## Related
-- [[Self-Evolving-Skills]] -- the mechanism behind skill creation
-- [[Agent-Skill-Curator]] -- garbage collection for skill libraries
-- [[Skill-Based-AI-Agents]] -- the broader architecture
+- [[concepts/Self-Evolving-Skills]] -- the mechanism behind skill creation
+- [[concepts/Agent-Skill-Curator]] -- garbage collection for skill libraries
+- [[concepts/Skill-Based-AI-Agents]] -- the broader architecture
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

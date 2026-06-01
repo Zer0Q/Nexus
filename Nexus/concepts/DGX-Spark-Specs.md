@@ -24,9 +24,9 @@ The spec sheet reveals why the DGX Spark is transformative: 128GB of unified mem
 - Single-unit limit around 200B parameters; 405B requires two boxes
 
 ## Related
-- [[DGX-Spark]] -- the product overview
-- [[Unified-Memory-Advantage-DGX]] -- why 128GB matters more than raw speed
-- [[Hardware-Reality-of-Local-AI]] -- broader hardware comparison context
+- [[concepts/DGX-Spark]] -- the product overview
+- [[concepts/Unified-Memory-Advantage-DGX]] -- why 128GB matters more than raw speed
+- [[concepts/Hardware-Reality-of-Local-AI]] -- broader hardware comparison context
 
 ## Source
-[[w1nklerr-DGX-Spark-Cost-Recovery]]
+[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]

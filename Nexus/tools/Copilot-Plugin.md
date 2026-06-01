@@ -13,9 +13,9 @@ Inline AI editing is faster than switching to a separate chat window. You can im
 - Works with both local and cloud models
 
 ## Related
-- [[LM-Studio]]
-- [[Local-LLM-API-Compatibility]]
-- [[BMO-Chatbot]]
+- [[tools/LM-Studio]]
+- [[concepts/Local-LLM-API-Compatibility]]
+- [[tools/BMO-Chatbot]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

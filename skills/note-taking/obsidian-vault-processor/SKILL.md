@@ -22,28 +22,40 @@ vault/
   architectures/  -- system design patterns
   workflows/      -- procedural pipelines and step-by-step workflows
   glossary/       -- quick-reference term definitions
-  source_notes/   -- one note per source, tied to a specific article
+  source-notes/   -- one note per source, tied to a specific article
   indexes/        -- index notes mapping related concepts
   raw/            -- incoming unprocessed articles
 ```
 
 ## Processing Flow
 
-### Step 0: Scan existing vault (duplicate prevention)
-Before creating any new notes, scan the existing vault to prevent duplicates:
+### Step 0: Scan existing vault (duplicate prevention + convention check)
+Before creating any new notes, scan the existing vault to prevent duplicates AND check filename convention consistency:
 ```python
 import os
 vault = "path_to_vault"
 existing = {}
-for folder in ["concepts", "frameworks", "tools", "architectures", "workflows", "glossary"]:
+convention_issues = []
+for folder in ["concepts", "frameworks", "tools", "architectures", "workflows", "glossary", "source-notes"]:
     path = os.path.join(vault, folder)
     if os.path.isdir(path):
         for f in os.listdir(path):
             if f.endswith('.md'):
                 existing[f[:-3].lower()] = os.path.join(folder, f)
+                # Check for spaces AND underscores (should be hyphens)
+                if ' ' in f or '_' in f:
+                    convention_issues.append(os.path.join(folder, f))
 # Print for reference
 for k, v in sorted(existing.items()):
     print(f"  {v}")
+# Report convention issues
+if convention_issues:
+    print(f"\nCONVENTION ISSUES ({len(convention_issues)} files with spaces or underscores):")
+    for ci in convention_issues:
+        print(f"  RENAME: {ci} -> {ci.replace(' ', '-').replace('_', '-')}")
+    print("FIX THESE BEFORE CREATING NEW NOTES")
+else:
+    print("\nPASS: all filenames follow kebab-case convention")
 ```
 When extracting concepts from a new article, compare against this list. If a concept already exists (exact match or semantic overlap), UPDATE the existing note with new insights instead of creating a duplicate.
 
@@ -60,7 +72,7 @@ read_file(path="vault/raw/<filename>.md")
 Read ALL articles in raw/. If an article is very long (>500 lines), read in chunks with offset/limit.
 
 ### Step 3: Create source note per article
-For each article, create `source_notes/<Author>-<Short-Topic>.md`:
+For each article, create `source-notes/<Author>-<Short-Topic>.md`:
 ```markdown
 ---
 title: "<original title>"
@@ -100,9 +112,29 @@ Compressed 2-3 sentence summary.
 ### Step 4: Extract atomic knowledge notes
 For each article, extract 10-25 atomic notes. Each note represents ONE idea and follows this structure:
 
-**File naming:** `Folder/Concept-Name.md` (kebab-case, no accents, no spaces, NO dots except the final `.md` extension, max 64 chars). If a tool name contains a dot (e.g., `CLAUDE.md`), replace it with `-MD-` (e.g., `CLAUDE-MD-Project-Knowledge.md`).
+**File naming:** `Folder/Concept-Name.md` (kebab-case, no accents, no spaces, no underscores, NO dots except the final `.md` extension, max 64 chars). If a tool name contains a dot (e.g., `CLAUDE.md`), replace it with `-MD-` (e.g., `CLAUDE-MD-Project-Knowledge.md`).
 
-**Wikilink rule:** `[[wikilinks]]` must match the EXACT filename stem (without `.md`). Example: `[[Concept-Name]]` points to `Concept-Name.md`. Never use spaces, accents, dots, or underscores inside `[[...]]`. Always use kebab-case (hyphens). If the file is `AddyOsmani-Agent-Harness-Engineering.md`, the link MUST be `[[AddyOsmani-Agent-Harness-Engineering]]` — never `[[Agent-Harness-Engineering]]` (that is a broken link to a non-existent file).
+**HARD RULE — no spaces or underscores in filenames:** Every file in the vault MUST use hyphens as word separators. A file named `My Concept.md` or `my_concept.md` will break wikilinks because `[[My Concept]]` does not resolve to `My-Concept.md` and `[[my_concept]]` does not resolve to `my-concept.md`. Obsidian does NOT auto-match spaces or underscores to hyphens. This rule applies to ALL folders equally (concepts/, source-notes/, glossary/, etc.). Mixed conventions (some files with spaces/underscores, others with hyphens in the same folder) is the #1 cause of broken links.
+
+**Pre-flight filename check (run BEFORE creating files):**
+```python
+import os, re
+vault = "path_to_vault"
+bad_files = []
+for r, ds, fs in os.walk(vault):
+    if '.obsidian' in r or 'raw' in r: continue
+    for f in fs:
+        if f.endswith('.md') and (' ' in f or '_' in f):
+            bad_files.append(os.path.join(os.path.relpath(r, vault), f))
+if bad_files:
+    print(f"FAIL: {len(bad_files)} files with spaces or underscores — rename before proceeding:")
+    for bf in bad_files:
+        print(f"  {bf} -> {bf.replace(' ', '-').replace('_', '-')}")
+else:
+    print("PASS: all filenames use hyphens")
+```
+
+**Wikilink rule:** `[[wikilinks]]` must match the EXACT filename stem (without `.md`). Example: `[[Concept-Name]]` points to `Concept-Name.md`. Never use spaces, accents, dots, or underscores inside `[[...]]`. Always use kebab-case (hyphens). If the file is `AddyOsmani-Agent-Harness-Engineering.md`, the link MUST be `[[source-notes/AddyOsmani-Agent-Harness-Engineering]]` — never `[[Agent-Harness-Engineering]]` (that is a broken link to a non-existent file).
 
 **Wikilink normalization rule:** Every `[[wikilink]]` in every note MUST follow the same normalization as filenames:
 - **Hyphens, not spaces:** `[[Multi-Agent]]` not `[[Multi Agent]]`
@@ -193,11 +225,12 @@ One-line description.
 - [[Source-Note]]
 ```
 
-### Step 7: Normalize wikilinks
-Before verifying, run a normalization script that fixes all `[[wikilinks]]` to match actual filenames. The script must:
+### Step 7: Normalize wikilinks AND validate filename conventions
+Before verifying, run a normalization script that fixes all `[[wikilinks]]` to match actual filenames AND checks filename convention consistency. The script must:
 1. Collect all `.md` files in the vault and build a normalized map (strip accents, lowercase, spaces->hyphens)
-2. Walk each file and replace `[[link]]` with the correct name
-3. Report unresolved links
+2. **CHECK for files with spaces** — if any exist, RENAME them to use hyphens before proceeding
+3. Walk each file and replace `[[link]]` with the correct name
+4. Report unresolved links
 
 ```python
 import os, re, unicodedata
@@ -211,14 +244,40 @@ def norm(n):
 def in_dir(r, name):
     return os.path.basename(r) == name
 SKIP_DIRS = {'obsidian', 'raw'}
-fmap = {}
+
+# --- PHASE 1: Check and fix filenames with spaces or underscores ---
+bad_files = []
+for r,ds,fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
+    for f in fs:
+        if f.endswith('.md') and (' ' in f or '_' in f):
+            bad_files.append(os.path.join(r, f))
+if bad_files:
+    print(f"RENAMING {len(bad_files)} files with spaces or underscores:")
+    for old_path in bad_files:
+        new_path = old_path.replace(' ', '-').replace('_', '-')
+        os.rename(old_path, new_path)
+        print(f"  {os.path.relpath(old_path, vault)} -> {os.path.relpath(new_path, vault)}")
+else:
+    print("PASS: all filenames use hyphens")
+
+# --- PHASE 2: Build file map with FULL paths and normalize wikilinks ---
+# CRITICAL: map to relative paths (folder/filename), NOT just basename.
+# A bare link [[SAM]] should resolve to concepts/SAM, not just SAM.
+# A wrong-folder link [[concepts/Agentic-RAG]] should resolve to source-notes/Agentic-RAG.
+fmap_by_norm = {}   # norm(basename) -> relative path (e.g., "concepts/SAM")
+fmap_by_path = {}   # norm(full_rel) -> relative path (e.g., "concepts/Agentic-RAG" -> "source-notes/Agentic-RAG")
 for r,ds,fs in os.walk(vault):
     if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
     ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if f.endswith('.md'):
-            fmap[norm(f)] = f[:-3]
-counter = [0]  # list wrapper — nonlocal fails in execute_code sandbox
+            rel = os.path.relpath(os.path.join(r, f), vault)[:-3]  # remove .md
+            basename = os.path.basename(rel)
+            fmap_by_norm[norm(basename)] = rel
+            fmap_by_path[norm(rel)] = rel
+counter = [0]
 for r,ds,fs in os.walk(vault):
     if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
     ds[:] = [d for d in ds if d not in SKIP_DIRS]
@@ -226,15 +285,33 @@ for r,ds,fs in os.walk(vault):
         if not f.endswith('.md'): continue
         p = os.path.join(r,f)
         with open(p) as fh: content = fh.read()
-        def make_fix(fmap_map, cnt):
+        def make_fix(fmap_norm, fmap_path, cnt):
             def fix(m):
-                lk = m.group(1).split('|')[0]
-                if norm(lk) in fmap_map and lk != fmap_map[norm(lk)]:
+                raw = m.group(1)
+                anchor = ''
+                label = ''
+                # Parse [[target#anchor|label]] or [[target|label]]
+                if '|' in raw:
+                    raw, label = raw.split('|', 1)
+                    label = '|' + label
+                if '#' in raw:
+                    raw, anchor = raw.split('#', 1)
+                    anchor = '#' + anchor
+                target = raw.strip()
+                # Try exact path match first (e.g., concepts/SAM)
+                if norm(target) in fmap_path:
+                    resolved = fmap_path[norm(target)]
+                # Then try basename match (e.g., SAM -> concepts/SAM)
+                elif norm(os.path.basename(target)) in fmap_norm:
+                    resolved = fmap_norm[norm(os.path.basename(target))]
+                else:
+                    return m.group(0)  # cannot resolve, leave as-is
+                if target != resolved:
                     cnt[0] += 1
-                    return '[[{0}]]'.format(fmap_map[norm(lk)])
+                    return '[[{0}{1}{2}]]'.format(resolved, anchor, label)
                 return m.group(0)
             return fix
-        fix_fn = make_fix(fmap, counter)
+        fix_fn = make_fix(fmap_by_norm, fmap_by_path, counter)
         nc = re.sub(r'\[\[([^\]]+)\]\]', fix_fn, content)
         if nc != content:
             with open(p,'w') as fh: fh.write(nc)
@@ -283,7 +360,7 @@ else:
 ```
 
 ### Step 8a: Verify cross-link coherence AND source note connectivity
-Run a Python script to verify all `[[wikilinks]]` resolve to existing files AND that every source note has at least one outgoing wikilink:
+Run a Python script to verify all `[[wikilinks]]` resolve to existing files AND that every source note has at least one outgoing wikilink. This script checks BOTH basename resolution AND folder path correctness:
 ```python
 import os, re, unicodedata
 vault = "path_to_vault"
@@ -295,14 +372,24 @@ def norm(n):
 def in_dir(r, name):
     return os.path.basename(r) == name
 SKIP_DIRS = {'obsidian', 'raw'}
-existing = {}
+
+# Build maps: basename-norm -> rel path, AND full-path-norm -> rel path
+existing_by_name = {}
+existing_by_path = {}
+all_rel_paths = set()
 for r,ds,fs in os.walk(vault):
     if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
     ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if f.endswith('.md'):
-            existing[norm(f)] = f[:-3]
+            rel = os.path.relpath(os.path.join(r, f), vault)[:-3]
+            basename = os.path.basename(rel)
+            existing_by_name[norm(basename)] = rel
+            existing_by_path[norm(rel)] = rel
+            all_rel_paths.add(rel)
+
 broken = []
+wrong_folder = []
 no_links = []
 for r,ds,fs in os.walk(vault):
     if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
@@ -313,18 +400,39 @@ for r,ds,fs in os.walk(vault):
         with open(fp) as fh:
             content = fh.read()
         links = re.findall(r'\[\[([^\]]+)\]\]', content)
-        if in_dir(r, 'source_notes') and not links:
+        if in_dir(r, 'source-notes') and not links:
             no_links.append(f)
         for link in links:
             target = link.split('|')[0].strip()
             if not target or target.startswith('@') or target.startswith('http') or target.startswith('mailto:'):
                 continue
-            if norm(target) not in existing:
-                broken.append((f, target))
+            # Strip anchor
+            target = target.split('#')[0]
+            # Check if target has a folder prefix
+            if '/' in target:
+                # Has folder — verify it matches the actual location
+                if norm(target) in existing_by_path:
+                    actual = existing_by_path[norm(target)]
+                    if target != actual:
+                        wrong_folder.append((f, target, actual))
+                elif norm(os.path.basename(target)) in existing_by_name:
+                    actual = existing_by_name[norm(os.path.basename(target))]
+                    if os.path.dirname(target) and target != actual:
+                        wrong_folder.append((f, target, actual))
+                else:
+                    broken.append((f, target))
+            else:
+                # Bare link — check if it resolves at all
+                if norm(target) not in existing_by_name:
+                    broken.append((f, target))
 if broken:
     print(f"BROKEN ({len(broken)}): {broken}")
 else:
-    print("All links coherent.")
+    print("All links resolve.")
+if wrong_folder:
+    print(f"WRONG FOLDER ({len(wrong_folder)}):")
+    for src, bad, good in wrong_folder:
+        print(f"  {src}: [[{bad}]] -> should be [[{good}]]")
 if no_links:
     print(f"SOURCE NOTES WITHOUT LINKS ({len(no_links)}): {no_links} -- FIX BEFORE CLEANING raw/")
 else:
@@ -347,6 +455,12 @@ When broken links are found, classify each one and apply the appropriate fix:
 - Author/team names: `[[Open-source Projects Team]]`, `[[Author Name]]`
 - Remove the `[[wikilink]]` wrapper entirely.
 
+**Category D: Wrong folder path (file exists but link points to wrong folder)**
+- Example: `[[concepts/Agentic-RAG]]` when the file lives in `source-notes/Agentic-RAG.md`
+- Fix: replace with the correct folder path `[[source-notes/Agentic-RAG]]`
+- This is the most common "silent" broken link — Obsidian resolves it by basename so it looks fine, but the link is technically wrong and will break if two folders share a basename.
+- The Step 7 normalization script fixes these automatically. The Step 8a script reports them as "WRONG FOLDER".
+
 **Triage script:**
 ```python
 import os, re, unicodedata, collections
@@ -359,14 +473,22 @@ def norm(n):
 def in_dir(r, name):
     return os.path.basename(r) == name
 SKIP_DIRS = {'obsidian', 'raw'}
-existing = {}
+
+# Build resolution maps
+existing_by_name = {}
+existing_by_path = {}
 for r,ds,fs in os.walk(vault):
     if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
     ds[:] = [d for d in ds if d not in SKIP_DIRS]
     for f in fs:
         if f.endswith('.md'):
-            existing[norm(f)] = f[:-3]
+            rel = os.path.relpath(os.path.join(r, f), vault)[:-3]
+            basename = os.path.basename(rel)
+            existing_by_name[norm(basename)] = rel
+            existing_by_path[norm(rel)] = rel
+
 broken_counts = collections.Counter()
+wrong_folder_counts = collections.Counter()
 broken_sources = collections.defaultdict(list)
 for r,ds,fs in os.walk(vault):
     if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
@@ -375,11 +497,27 @@ for r,ds,fs in os.walk(vault):
         if not f.endswith('.md'): continue
         with open(os.path.join(r,f)) as fh:
             for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
-                target = link.split('|')[0].strip()
-                if target and not target.startswith('@') and not target.startswith('http'):
-                    if norm(target) not in existing:
+                target = link.split('|')[0].strip().split('#')[0]
+                if not target or target.startswith('@') or target.startswith('http'):
+                    continue
+                # Check if target has folder prefix
+                if '/' in target:
+                    if norm(target) in existing_by_path:
+                        actual = existing_by_path[norm(target)]
+                        if target != actual:
+                            wrong_folder_counts[target] += 1
+                    elif norm(os.path.basename(target)) in existing_by_name:
+                        actual = existing_by_name[norm(os.path.basename(target))]
+                        if target != actual:
+                            wrong_folder_counts[target] += 1
+                    else:
                         broken_counts[target] += 1
                         broken_sources[target].append(f)
+                else:
+                    if norm(target) not in existing_by_name:
+                        broken_counts[target] += 1
+                        broken_sources[target].append(f)
+
 placeholders_kw = {'topic-name', 'your-topic', 'insert-topic'}
 reusable = {k:v for k,v in broken_counts.items() if v >= 2}
 single_use = {k:v for k,v in broken_counts.items() if v == 1 and k.lower().replace('_','-') not in placeholders_kw}
@@ -387,10 +525,14 @@ placeholder = {k:v for k,v in broken_counts.items() if k.lower().replace('_','-'
 print(f"CREATE NOTES ({len(reusable)}): {dict(reusable)}")
 print(f"REMOVE LINKS ({len(single_use)}): {dict(single_use)}")
 print(f"PLACEHOLDERS ({len(placeholder)}): {dict(placeholder)}")
+if wrong_folder_counts:
+    print(f"WRONG FOLDER ({len(wrong_folder_counts)}) — fix with Step 7 normalization:")
+    for k,v in wrong_folder_counts.most_common(10):
+        print(f"  [[{k}]] (x{v})")
 ```
 
 ### Step 10: Clean raw/
-**GATE:** Only proceed if Step 8a reports BOTH "All links coherent" AND "All source notes have outgoing links" AND Step 8b reports "No plain-text references found." If any check fails, DO NOT delete raw/ files — fix the issues first. Raw files are the only source material; once deleted, information cannot be recovered.
+**GATE:** Only proceed if Step 8a reports ALL THREE: "All links resolve" AND "no WRONG FOLDER issues" AND "All source notes have outgoing links" AND Step 8b reports "No plain-text references found." If any check fails, DO NOT delete raw/ files — fix the issues first. Raw files are the only source material; once deleted, information cannot be recovered.
 
 After successful processing and zero broken links, delete processed articles from `raw/`.
 
@@ -398,12 +540,36 @@ After successful processing and zero broken links, delete processed articles fro
 
 Run these checks every 10-15 new articles processed:
 
+### Filename convention audit
+Run this check every batch. Mixed conventions (spaces/underscores vs hyphens) are the #1 cause of broken links:
+```python
+import os
+vault = "path_to_vault"
+bad = []
+for r, ds, fs in os.walk(vault):
+    if '.obsidian' in r or 'raw' in r: continue
+    for f in fs:
+        if f.endswith('.md'):
+            if ' ' in f:
+                bad.append(os.path.join(os.path.relpath(r, vault), f))
+            if '_' in f:
+                bad.append(os.path.join(os.path.relpath(r, vault), f) + " (has underscore)")
+            if any(c in 'áéíóúñÁÉÍÓÚÑ' for c in f):
+                bad.append(os.path.join(os.path.relpath(r, vault), f) + " (has accents)")
+if bad:
+    print(f"FAIL: {len(bad)} files violate naming convention:")
+    for b in bad:
+        print(f"  {b}")
+else:
+    print("PASS: all filenames use kebab-case, no accents, no spaces, no underscores")
+```
+
 ### Source note link audit
 When processing new articles, also scan ALL existing source notes for link coverage. A source note with zero `[[wikilinks]]` is disconnected from the knowledge graph. Fix by adding wikilinks to relevant concepts that now exist in the vault:
 ```python
 import os, re
 vault = "path_to_vault"
-source_dir = os.path.join(vault, "source_notes")
+source_dir = os.path.join(vault, "source-notes")
 for f in os.listdir(source_dir):
     if not f.endswith('.md'): continue
     fp = os.path.join(source_dir, f)
@@ -509,3 +675,6 @@ After renaming a concept note (e.g., `Management-of-Change-for-Alarms.md` → `M
 - **Plain text references in Related/See also sections are invisible broken links** — e.g., `- Agent-Harness-Engineering` without `[[ ]]` looks like a reference but Obsidian won't resolve it. Step 8b catches these.
 - **When referencing source notes, use the FULL filename stem** — if the file is `AddyOsmani-Agent-Harness-Engineering.md`, the link must be `[[AddyOsmani-Agent-Harness-Engineering]]`. Never shorten it to `[[Agent-Harness-Engineering]]`.
 - **When renaming a concept note, delete the old file.** Creating a new note with a refined name (e.g., `Management-of-Change-for-Alarms.md` → `Management-of-Change.md`) does NOT automatically remove the old one. Always delete the stale duplicate immediately after creating the replacement.
+- **NEVER mix space and hyphen conventions.** If 119 files use hyphens and 15 use spaces (all in source-notes/), those 15 files will cause 200+ broken links because wikilinks like `[[Stable Diffusion]]` won't resolve to `Stable-Diffusion.md`. Obsidian does NOT fuzzy-match spaces to hyphens. Run the pre-flight filename check above before every batch. If you find files with spaces, rename them AND update all wikilinks that reference them.
+- **NEVER use underscores in filenames or wikilinks.** Underscores are the most common mistake — e.g., `my_concept.md` or `[[my_concept]]` will NOT resolve to `my-concept.md`. Obsidian does NOT fuzzy-match underscores to hyphens. The normalization script (Step 7) catches and renames these automatically, but prevention is better.
+- **Wikilinks must include the folder path.** `[[SAM]]` relies on Obsidian basename resolution — if two files share the same basename in different folders, or if the vault structure changes, those links break. Always write `[[concepts/SAM]]` or `[[source-notes/My-Note]]` explicitly. After creating notes, run a pass that adds folder prefixes to bare wikilinks.

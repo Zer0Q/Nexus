@@ -6,4 +6,4 @@ Spec-Driven Development. Methodology where the specification is the central arti
 - Tools: Spec-Kit, OpenSpec, BMAD
 - Contrasts with vibe coding (no specs)
 
-See also: [[Spec-Driven-Development]], [[BMAD-Method]], [[Vibe-Coding]]
+See also: [[frameworks/Spec-Driven-Development]], [[frameworks/BMAD-Method]], [[concepts/Vibe-Coding]]

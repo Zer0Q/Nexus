@@ -15,7 +15,7 @@ Prevents inefficient studying by targeting the concepts that would produce the h
 - Analyzes what is known and what is missing from the knowledge graph
 - Identifies concepts whose absence most limits understanding of existing concepts
 - Prioritizes by impact: which missing concept would most increase understanding of what is already there
-- Part of the [[Synthesis-Session]] workflow, run every two weeks per subject
+- Part of the [[workflows/Synthesis-Session]] workflow, run every two weeks per subject
 - Produces a targeted study list rather than a sequential syllabus
 
 ## Tradeoffs
@@ -23,11 +23,11 @@ Prevents inefficient studying by targeting the concepts that would produce the h
 - Depends on Claude's domain knowledge to identify truly important gaps
 
 ## Related
-- [[Synthesis-Session]]
-- [[Knowledge-Graph-Learning]]
-- [[Mastery-Score-Tracking]]
-- [[Sequential-vs-Network-Learning]]
-- [[Predictive-Test-Method]]
+- [[workflows/Synthesis-Session]]
+- [[concepts/Knowledge-Graph-Learning]]
+- [[concepts/Mastery-Score-Tracking]]
+- [[concepts/Sequential-vs-Network-Learning]]
+- [[concepts/Predictive-Test-Method]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

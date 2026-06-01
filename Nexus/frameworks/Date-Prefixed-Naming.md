@@ -19,9 +19,9 @@ Consistent naming means you can find any note by typing a partial match into sea
 - Retroactive renaming of existing notes is tedious
 
 ## Related
-- [[Retrieval-First-Organization]]
-- [[Three-Category-Tagging]]
-- [[PARA-Method]]
+- [[concepts/Retrieval-First-Organization]]
+- [[concepts/Three-Category-Tagging]]
+- [[concepts/PARA-Method]]
 
 ## Source
-[[CyrilXBT-Vault-Organization]]
+[[source-notes/CyrilXBT-Vault-Organization]]

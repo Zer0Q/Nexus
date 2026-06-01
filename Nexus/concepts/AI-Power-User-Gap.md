@@ -18,10 +18,10 @@ The gap is not intelligence, access, or prompting skill — it is system archite
 - Casual approach has lower barrier to entry but hits a quality ceiling quickly
 
 ## Related
-- [[System-Setup-Hierarchy]]
-- [[Compound-Effect-of-Persistent-Instructions]]
-- [[Ephemeral-vs-Persistent-AI-Interaction]]
-- [[Human-AI-Orchestration]]
+- [[concepts/System-Setup-Hierarchy]]
+- [[concepts/Compound-Effect-of-Persistent-Instructions]]
+- [[concepts/Ephemeral-vs-Persistent-AI-Interaction]]
+- [[concepts/Human-AI-Orchestration]]
 
 ## Source
-[[Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]

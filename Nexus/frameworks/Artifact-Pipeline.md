@@ -16,7 +16,7 @@ Defining the artifact pipeline is more important than choosing a specific tool. 
 - Verification: final validation against acceptance criteria
 
 ## Related
-- [[Spec-Driven-Development]], [[BMAD-Method]], [[Agentic-SDLC]]
+- [[frameworks/Spec-Driven-Development]], [[frameworks/BMAD-Method]], [[concepts/Agentic-SDLC]]
 
 ## Source
-[[SDD-vs-BMAD-Frameworks-Comparison]]
+[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]

@@ -6,4 +6,4 @@ Industrial control system for monitoring and controlling distributed processes.
 - Pump/valve status feedback from field devices to SCADA determines HMI display state
 - Medium gray HMI status indicates no feedback from SCADA
 
-See also: [[HMI]], [[High-Performance-HMI]]
+See also: [[glossary/HMI]], [[concepts/High-Performance-HMI]]

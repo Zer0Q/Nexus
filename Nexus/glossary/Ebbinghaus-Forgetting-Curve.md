@@ -11,11 +11,11 @@ Hermann Ebbinghaus's 1885 discovery that memory retention follows a predictable 
 - Retention drops sharply in the first 24 hours
 - Each successful review flattens the curve, extending the interval before the next review
 - Reviews timed at the point of near-forgetfulness produce the strongest memory traces
-- The curve is the scientific basis for [[Spaced-Repetition-System]]
+- The curve is the scientific basis for [[concepts/Spaced-Repetition-System]]
 
 ## Related
-- [[Spaced-Repetition-System]]
-- [[Active-Recall-Learning]]
+- [[concepts/Spaced-Repetition-System]]
+- [[concepts/Active-Recall-Learning]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

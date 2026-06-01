@@ -24,11 +24,11 @@ Research by Roediger and Karpicke showed students who tested themselves through 
 - May reveal gaps that feel discouraging
 
 ## Related
-- [[Spaced-Repetition-System]]
-- [[Concept-Note-Template]]
-- [[Mastery-Score-Tracking]]
-- [[Predictive-Test-Method]]
-- [[Knowledge-Graph-Learning]]
+- [[concepts/Spaced-Repetition-System]]
+- [[frameworks/Concept-Note-Template]]
+- [[concepts/Mastery-Score-Tracking]]
+- [[concepts/Predictive-Test-Method]]
+- [[concepts/Knowledge-Graph-Learning]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

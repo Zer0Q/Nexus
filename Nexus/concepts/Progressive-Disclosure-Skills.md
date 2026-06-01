@@ -19,9 +19,9 @@ Loading all skill content into context every turn wastes tokens. Progressive dis
 - Agent may load skills it doesn't actually need (over-cautious scanning)
 
 ## Related
-- [[Self-Evolving-Skills]] -- the skills that use progressive disclosure
-- [[Context-Explosion]] -- mitigates context growth from too many loaded resources
-- [[Compounding-Knowledge-Context]] -- efficient context management enables compounding
+- [[concepts/Self-Evolving-Skills]] -- the skills that use progressive disclosure
+- [[concepts/Context-Explosion]] -- mitigates context growth from too many loaded resources
+- [[concepts/Compounding-Knowledge-Context]] -- efficient context management enables compounding
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

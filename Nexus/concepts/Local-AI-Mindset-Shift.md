@@ -20,10 +20,10 @@ The real value of local AI isn't just the dollar savings on paper — it's the u
 - Local models may be less capable than frontier cloud models for some tasks
 
 ## Related
-- [[Cloud-GPU-Cost-Recovery]] -- the financial calculation behind the shift
-- [[Local-AI-Privacy]] -- data sovereignty as a driver
-- [[Hardware-Reality-of-Local-AI]] -- hardware options for going local
-- [[DGX-Spark]] -- the hardware enabling this shift for large models
+- [[concepts/Cloud-GPU-Cost-Recovery]] -- the financial calculation behind the shift
+- [[concepts/Local-AI-Privacy]] -- data sovereignty as a driver
+- [[concepts/Hardware-Reality-of-Local-AI]] -- hardware options for going local
+- [[concepts/DGX-Spark]] -- the hardware enabling this shift for large models
 
 ## Source
-[[w1nklerr-DGX-Spark-Cost-Recovery]]
+[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]

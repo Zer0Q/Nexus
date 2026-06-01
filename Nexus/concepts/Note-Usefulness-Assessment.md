@@ -23,11 +23,11 @@ Without assessment, every capture enters the vault with equal weight. Assessment
 - Risk of archiving notes that would become useful for future, not-yet-defined work
 
 ## Related
-- [[Four-Uses-of-Notes]]
-- [[Daily-Processing-Run]]
-- [[Three-Zone-Vault]]
-- [[Weekly-Note-Audit]]
-- [[CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Four-Uses-of-Notes]]
+- [[workflows/Daily-Processing-Run]]
+- [[architectures/Three-Zone-Vault]]
+- [[workflows/Weekly-Note-Audit]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

@@ -19,9 +19,9 @@ AI knowledge alone doesn't generate revenue. Structured monetization paths turn 
 - Product requires technical + business skills
 
 ## Related
-- [[Revenue-Stack-Math]]
-- [[Six-Month-Revenue-Curve]]
-- [[Expected-Revenue-Stamp]]
+- [[concepts/Revenue-Stack-Math]]
+- [[concepts/Six-Month-Revenue-Curve]]
+- [[concepts/Expected-Revenue-Stamp]]
 
 ## Source
-[[aiedge-if-wanted-get-rich-ai-2026]]
+[[source-notes/aiedge-if-wanted-get-rich-ai-2026]]

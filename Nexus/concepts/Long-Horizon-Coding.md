@@ -20,9 +20,9 @@ Most AI coding tools complete a function or a file. Long-horizon agents complete
 - Requires careful scoping to prevent the agent from going off-track
 
 ## Related
-- [[Kimi-K26-Model]] -- the model that enables this capability
-- [[Swarm-Orchestration]] -- parallel execution at scale
-- [[Five-Layer-AI-Stack]] -- the coding layer of the stack
+- [[tools/Kimi-K26-Model]] -- the model that enables this capability
+- [[concepts/Swarm-Orchestration]] -- parallel execution at scale
+- [[concepts/Five-Layer-AI-Stack]] -- the coding layer of the stack
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

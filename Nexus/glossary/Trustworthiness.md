@@ -16,5 +16,5 @@ ISO/IEC 22989:2022 decomposes trustworthiness into verifiable characteristics:
 - **Transparency** -- ensuring information about design, data, and limitations is available
 
 ## Related
-- [[AI-Governance]] -- trustworthiness as shared language
-- [[AI-Risk-Management]] -- trust as the strategic ceiling
+- [[frameworks/AI-Governance]] -- trustworthiness as shared language
+- [[frameworks/AI-Risk-Management]] -- trust as the strategic ceiling

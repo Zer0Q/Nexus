@@ -19,9 +19,9 @@ The stakes are higher with AI than with any previous technology. A supervisor fo
 - Some processes can improve iteratively alongside AI deployment
 
 ## Related
-- [[People-Process-Technology-Sequence]]
-- [[Bad-Data-as-Diagnostic]]
-- [[Visual-Management]]
+- [[concepts/People-Process-Technology-Sequence]]
+- [[concepts/Bad-Data-as-Diagnostic]]
+- [[concepts/Visual-Management]]
 
 ## Source
-[[Gellida-Broken-Process-Broken-AI]]
+[[source-notes/Gellida-Broken-Process-Broken-AI]]

@@ -23,11 +23,11 @@ Most note-taking systems never include an output layer. Without it, there is no 
 - May duplicate content already published elsewhere
 
 ## Related
-- [[Three-Zone-Vault]]
-- [[Note-Contribution-Rate]]
-- [[Output-Generator-Workflow]]
-- [[Four-Uses-of-Notes]]
-- [[Compounding-Knowledge-Context]]
+- [[architectures/Three-Zone-Vault]]
+- [[concepts/Note-Contribution-Rate]]
+- [[workflows/Output-Generator-Workflow]]
+- [[concepts/Four-Uses-of-Notes]]
+- [[concepts/Compounding-Knowledge-Context]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

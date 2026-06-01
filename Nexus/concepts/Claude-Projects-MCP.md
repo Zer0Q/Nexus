@@ -20,9 +20,9 @@ No other model has an equivalent native implementation. Projects give Claude per
 - Persistent memory means errors or bad context can compound negatively
 
 ## Related
-- [[CLAUDE-MD-as-Context-Layer]] -- the context file uploaded to projects
-- [[Five-Layer-AI-Stack]] -- Claude Projects enable the reasoning layer to persist
-- [[Compounding-Knowledge-Context]] -- the compounding effect of persistent memory
+- [[concepts/CLAUDE-MD-as-Context-Layer]] -- the context file uploaded to projects
+- [[concepts/Five-Layer-AI-Stack]] -- Claude Projects enable the reasoning layer to persist
+- [[concepts/Compounding-Knowledge-Context]] -- the compounding effect of persistent memory
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

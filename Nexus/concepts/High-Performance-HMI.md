@@ -22,10 +22,10 @@ Poorly designed HMIs have been identified as contributing factors in industrial 
 - Requires training: new display hierarchy changes operator workflow
 
 ## Related
-- [[Grayscale-HMI-Design]]
-- [[Display-Hierarchy]]
-- [[Operator-Situational-Awareness]]
-- [[ISA-101-Standard]]
+- [[concepts/Grayscale-HMI-Design]]
+- [[concepts/Display-Hierarchy]]
+- [[concepts/Operator-Situational-Awareness]]
+- [[concepts/ISA-101-Standard]]
 
 ## Source
-[[RealPars-High-Performance-HMI]]
+[[source-notes/RealPars-High-Performance-HMI]]

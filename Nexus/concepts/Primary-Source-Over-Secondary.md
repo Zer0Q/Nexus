@@ -19,9 +19,9 @@ Information that has passed through multiple layers of interpretation accumulate
 - Requires the ability to evaluate raw data without guidance
 
 ## Related
-- [[Vault-Aware-Research]] -- the agent implementation of this principle
-- [[Full-Clinical-History-Processing]] -- primary source applied to medicine
-- [[SOUL-MD-Configuration]] -- where this principle is encoded as an agent rule
+- [[concepts/Vault-Aware-Research]] -- the agent implementation of this principle
+- [[concepts/Full-Clinical-History-Processing]] -- primary source applied to medicine
+- [[concepts/SOUL-MD-Configuration]] -- where this principle is encoded as an agent rule
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]], [[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]], [[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

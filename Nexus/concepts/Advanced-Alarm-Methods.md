@@ -22,9 +22,9 @@ Basic alarm design addresses static conditions; advanced methods handle the comp
 - Validation: adaptive systems must be tested to ensure they don't suppress genuine alarms
 
 ## Related
-- [[Dynamic-Alarming]]
-- [[Alarm-Monitoring-and-Assessment]]
-- [[ISA-18-2-Standard]]
+- [[concepts/Dynamic-Alarming]]
+- [[concepts/Alarm-Monitoring-and-Assessment]]
+- [[concepts/ISA-18-2-Standard]]
 
 ## Source
-[[ISA-18-Standards-Series]]
+[[source-notes/ISA-18-Standards-Series]]

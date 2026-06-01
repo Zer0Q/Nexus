@@ -17,7 +17,7 @@ Traditional cost accounting incentivizes perverse behaviors (overproduction to r
 - Harder to communicate to stakeholders used to P&L statements
 
 ## Related
-- [[Theory-of-Constraints]], [[Exploit-Then-Elevate]]
+- [[frameworks/Theory-of-Constraints]], [[concepts/Exploit-Then-Elevate]]
 
 ## Source
-[[Goldratt-Theory-of-Constraints]]
+[[source-notes/Goldratt-Theory-of-Constraints]]

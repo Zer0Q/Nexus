@@ -7,4 +7,4 @@ NVIDIA's high-speed networking interface built into the DGX Spark. Enables chain
 - Two units combined: 405B parameter models
 - Bypasses network bottlenecks for multi-box inference
 
-See also: [[DGX-Spark-Specs]], [[Interconnect-Bottleneck]]
+See also: [[concepts/DGX-Spark-Specs]], [[concepts/Interconnect-Bottleneck]]

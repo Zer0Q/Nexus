@@ -19,10 +19,10 @@ Without situational awareness, operators cannot make timely decisions. Poor HMI 
 - Balancing detail with simplicity: too much data overwhelms, too little leaves gaps
 
 ## Related
-- [[High-Performance-HMI]]
-- [[Alarm-Management]]
-- [[Display-Hierarchy]]
-- [[Information-over-Data]]
+- [[concepts/High-Performance-HMI]]
+- [[concepts/Alarm-Management]]
+- [[concepts/Display-Hierarchy]]
+- [[concepts/Information-over-Data]]
 
 ## Source
-[[OBrien-ISA-101-HMI-Lifecycle]]
+[[source-notes/OBrien-ISA-101-HMI-Lifecycle]]

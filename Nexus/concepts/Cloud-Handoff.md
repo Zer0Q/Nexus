@@ -20,9 +20,9 @@ Long coding tasks (database migrations, full refactors, test suite generation) c
 - Sensitive code runs on Cursor's infrastructure, not your local machine
 
 ## Related
-- [[Cursor-Agents-Window]] -- the interface where cloud handoff is initiated
-- [[Five-Layer-AI-Stack]] -- part of Cursor's execution layer capabilities
-- [[Long-Horizon-Coding]] -- cloud handoff enables long-horizon tasks on limited hardware
+- [[concepts/Cursor-Agents-Window]] -- the interface where cloud handoff is initiated
+- [[concepts/Five-Layer-AI-Stack]] -- part of Cursor's execution layer capabilities
+- [[concepts/Long-Horizon-Coding]] -- cloud handoff enables long-horizon tasks on limited hardware
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

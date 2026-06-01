@@ -8,4 +8,4 @@ An Anthropic feature that gives Claude persistent memory across every conversati
 - Project Instructions hold operating rules and context
 - Turns Claude from a chat interface into a compounding system
 
-See also: [[Claude-Projects-MCP]], [[CLAUDE-MD]], [[MCP]]
+See also: [[concepts/Claude-Projects-MCP]], [[glossary/CLAUDE-MD]], [[glossary/MCP]]

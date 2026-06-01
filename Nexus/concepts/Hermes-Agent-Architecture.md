@@ -20,9 +20,9 @@ Platform-agnostic design means the same agent logic works across terminals, Tele
 - Synchronous loop blocks other work during API calls
 
 ## Related
-- [[Agent-Multi-Tier-Memory]] -- memory layers loaded into the system prompt
-- [[Agent-Identity-Layer]] -- SOUL.md as slot #1 in system prompt
-- [[Multi-Agent-Development]] -- spawning subagents within the same architecture
+- [[concepts/Agent-Multi-Tier-Memory]] -- memory layers loaded into the system prompt
+- [[concepts/Agent-Identity-Layer]] -- SOUL.md as slot #1 in system prompt
+- [[concepts/Multi-Agent-Development]] -- spawning subagents within the same architecture
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

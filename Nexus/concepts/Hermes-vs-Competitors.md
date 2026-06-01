@@ -18,9 +18,9 @@ Understanding where each tool fits prevents tool fatigue and ensures you reach f
 - Context switching between tools has a cognitive cost
 
 ## Related
-- [[Hermes-Agent-Architecture]] -- unified core vs OpenClaw's gateway-first design
-- [[Goal-Command]] -- what makes Hermes a general-purpose employee
-- [[Multi-Agent-Org-Chart]] -- Hermes' multi-agent advantage over single-purpose tools
+- [[concepts/Hermes-Agent-Architecture]] -- unified core vs OpenClaw's gateway-first design
+- [[concepts/Goal-Command]] -- what makes Hermes a general-purpose employee
+- [[concepts/Multi-Agent-Org-Chart]] -- Hermes' multi-agent advantage over single-purpose tools
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

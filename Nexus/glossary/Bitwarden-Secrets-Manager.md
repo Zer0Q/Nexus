@@ -5,6 +5,6 @@ A credential management service that stores API keys, tokens, and sensitive conf
 - Free tier available
 - Instant revocation from the web UI
 - Rotate a key once, every instance picks it up on next restart
-- Composes with [[Iron-Proxy-Egress-Firewall]] for two-layer security
+- Composes with [[concepts/Iron-Proxy-Egress-Firewall]] for two-layer security
 
-See also: [[Bitwarden-Secrets-Integration]]
+See also: [[concepts/Bitwarden-Secrets-Integration]]

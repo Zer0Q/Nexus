@@ -20,10 +20,10 @@ Without automated workflows, a vault is a library. With them, it becomes a produ
 - Over-automation risks producing output that sounds generic rather than personal
 
 ## Related
-- [[Four-Zone-Monetization-Vault]] -- workflows drive content through the four zones
-- [[Daily-Synthesis-Workflow]] -- similar to Workflow 2 (Morning Brief)
-- [[Output-Generator-Prompt]] -- the specific prompt for Workflow 5
-- [[Automated-Capture-Pipeline]] -- handles the mechanical routing Workflow 1 performs
+- [[concepts/Four-Zone-Monetization-Vault]] -- workflows drive content through the four zones
+- [[concepts/Daily-Synthesis-Workflow]] -- similar to Workflow 2 (Morning Brief)
+- [[concepts/Output-Generator-Prompt]] -- the specific prompt for Workflow 5
+- [[concepts/Automated-Capture-Pipeline]] -- handles the mechanical routing Workflow 1 performs
 
 ## Source
-[[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

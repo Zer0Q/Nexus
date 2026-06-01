@@ -21,9 +21,9 @@ Eliminates the security risk of embedding API keys and credentials in config fil
 - Overkill for personal single-agent use
 
 ## Related
-- [[Iron-Proxy-Egress-Firewall]] -- Layer 2 of the security stack; composes with Bitwarden
-- [[Agent-Profiles]] -- each profile pulls secrets independently
-- [[Local-AI-Privacy]] -- broader context of data security
+- [[concepts/Iron-Proxy-Egress-Firewall]] -- Layer 2 of the security stack; composes with Bitwarden
+- [[concepts/Agent-Profiles]] -- each profile pulls secrets independently
+- [[concepts/Local-AI-Privacy]] -- broader context of data security
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

@@ -18,9 +18,9 @@ People equate "better prompts" with "better results." The reality is that prompt
 - System setup is project-specific — no universal config works everywhere
 
 ## Related
-- [[Compound-Effect-of-Persistent-Instructions]]
-- [[CLAUDE-MD-as-Context-Layer]]
-- [[Prompt-Validation-Over-Construction]]
+- [[concepts/Compound-Effect-of-Persistent-Instructions]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Prompt-Validation-Over-Construction]]
 
 ## Source
-[[Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]

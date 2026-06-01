@@ -20,9 +20,9 @@ Solves the knowledge gap between personal notes and coding agents. When you ask 
 - May add latency to agent queries with large vaults
 
 ## Related
-- [[Federated-Knowledge-Search]]
-- [[Markdown-as-Universal-Format]]
-- [[Read-Only-Vault-Safety]]
+- [[concepts/Federated-Knowledge-Search]]
+- [[concepts/Markdown-as-Universal-Format]]
+- [[concepts/Read-Only-Vault-Safety]]
 
 ## Source
-[[KevinNguyen-ByteRover-Obsidian]]
+[[source-notes/KevinNguyen-ByteRover-Obsidian]]

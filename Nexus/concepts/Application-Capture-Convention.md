@@ -15,18 +15,18 @@ Application captures are the most likely to trigger actual use. They come pre-lo
 - Links abstract ideas to concrete current situations
 - Pre-specifies the action to take if the idea is correct
 - Creates automatic retrieval: when the situation arises, the note is relevant
-- Bridges the [[Capture-Use-Gap]] by encoding the use case at capture time
+- Bridges the [[concepts/Capture-Use-Gap]] by encoding the use case at capture time
 
 ## Tradeoffs
 - Applications may become stale if the specific situation changes
 - Requires the user to think concretely at capture time, which adds cognitive load
 
 ## Related
-- [[Connection-Capture-Convention]]
-- [[Question-Capture-Convention]]
-- [[Four-Uses-of-Notes]]
-- [[Capture-Use-Gap]]
-- [[Active-Decision-Feeder]]
+- [[concepts/Connection-Capture-Convention]]
+- [[concepts/Question-Capture-Convention]]
+- [[concepts/Four-Uses-of-Notes]]
+- [[concepts/Capture-Use-Gap]]
+- [[workflows/Active-Decision-Feeder]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

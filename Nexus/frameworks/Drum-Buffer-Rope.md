@@ -17,7 +17,7 @@ Prevents system overload and work-in-progress accumulation by synchronizing all 
 - Buffer sizing is a balancing act: too small = starvation, too large = hidden waste
 
 ## Related
-- [[Theory-of-Constraints]], [[Continuous-Batching]], [[Async-Queue-Pattern]]
+- [[frameworks/Theory-of-Constraints]], [[concepts/Continuous-Batching]], [[concepts/Async-Queue-Pattern]]
 
 ## Source
-[[Goldratt-Theory-of-Constraints]]
+[[source-notes/Goldratt-Theory-of-Constraints]]

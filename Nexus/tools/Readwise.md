@@ -20,9 +20,9 @@ The backbone of automated capture for written content. Every highlight flows int
 - Requires discipline to highlight selectively (not everything)
 
 ## Related
-- [[Automated-Capture-Pipeline]]
-- [[Inbox-First-Capture]]
-- [[Four-Layer-Vault-Architecture]]
+- [[concepts/Automated-Capture-Pipeline]]
+- [[glossary/Inbox-First-Capture]]
+- [[concepts/Four-Layer-Vault-Architecture]]
 
 ## Source
-[[CyrilXBT-Self-Improving-Vault]]
+[[source-notes/CyrilXBT-Self-Improving-Vault]]

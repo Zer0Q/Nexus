@@ -9,4 +9,4 @@ Static identity file for AI agents defining personality, tone, communication sty
 
 A vague SOUL.md produces vague outputs. A specific SOUL.md makes the agent read your vault through the lens of who you are and what you are trying to do.
 
-See also: [[Agent-Identity-Layer]], [[Agent-Profiles]], [[SOUL-MD-Configuration]], [[SOUL-MD-Current-Obsessions]], [[SOUL-MD-Challenge-Instructions]], [[SOUL-MD-Negative-Constraints]]
+See also: [[concepts/Agent-Identity-Layer]], [[concepts/Agent-Profiles]], [[concepts/SOUL-MD-Configuration]], [[concepts/SOUL-MD-Current-Obsessions]], [[concepts/SOUL-MD-Challenge-Instructions]], [[concepts/SOUL-MD-Negative-Constraints]]

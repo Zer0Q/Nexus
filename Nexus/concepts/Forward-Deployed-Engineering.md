@@ -19,9 +19,9 @@ As intelligence becomes commoditized, competitive advantage shifts from model qu
 - Career path less clear than pure engineering or sales
 
 ## Related
-- [[Human-AI-Orchestration]]
-- [[Communities-of-Practice]]
-- [[Boundary-Spanning]]
+- [[concepts/Human-AI-Orchestration]]
+- [[concepts/Communities-of-Practice]]
+- [[concepts/Boundary-Spanning]]
 
 ## Source
-[[vasuman-forward-deployed-engineering-101]]
+[[source-notes/vasuman-forward-deployed-engineering-101]]

@@ -23,12 +23,14 @@ Most note-taking systems optimize for capture (files, folders, tags, search) whi
 - The discomfort of not having a quick capture path may cause some useful information to be lost
 
 ## Related
-- [[Four-Uses-of-Notes]]
-- [[Three-Zone-Vault]]
-- [[Note-Usefulness-Assessment]]
-- [[Daily-Processing-Run]]
-- [[Capture-As-The-Weakest-Link]]
-- [[Automated-Capture-Pipeline]]
+- [[concepts/Four-Uses-of-Notes]]
+- [[architectures/Three-Zone-Vault]]
+- [[concepts/Note-Usefulness-Assessment]]
+- [[workflows/Daily-Processing-Run]]
+- [[concepts/Capture-As-The-Weakest-Link]]
+- [[concepts/Automated-Capture-Pipeline]]
+- [[concepts/Productivity-Theater]] -- the optimization trap that widens the gap
+- [[concepts/Information-over-Data]] -- collecting ≠ building intelligence
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

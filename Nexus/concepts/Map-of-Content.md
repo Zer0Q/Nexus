@@ -20,9 +20,9 @@ As vaults grow from hundreds to thousands of notes, flat search becomes insuffic
 - Risk of MOC becoming stale if not updated
 
 ## Related
-- [[Retrieval-First-Organization]]
-- [[Browsable-Knowledge]]
-- [[Quarterly-Vault-Review]]
+- [[concepts/Retrieval-First-Organization]]
+- [[concepts/Browsable-Knowledge]]
+- [[concepts/Quarterly-Vault-Review]]
 
 ## Source
-[[CyrilXBT-Vault-Organization]]
+[[source-notes/CyrilXBT-Vault-Organization]]

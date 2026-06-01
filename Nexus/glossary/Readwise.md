@@ -7,4 +7,4 @@ Highlight aggregation service ($7/month). Collects highlights from articles, Kin
 - Connects to Kindle, Twitter, Instapaper, Pocket
 - Backbone of automated capture for written content
 
-See also: [[Automated-Capture-Pipeline]], [[Inbox-First-Capture]]
+See also: [[concepts/Automated-Capture-Pipeline]], [[glossary/Inbox-First-Capture]]

@@ -6,4 +6,4 @@ Behavior-Driven Development. Methodology using executable behavior specification
 - Business rule validation
 - AI can generate scenarios (risk: plausible but false scenarios)
 
-See also: [[Spec-Driven-Development]], [[TDD]]
+See also: [[frameworks/Spec-Driven-Development]], [[glossary/TDD]]

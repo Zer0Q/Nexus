@@ -13,7 +13,7 @@ Prevents Zone 1 from becoming a graveyard. The daily rhythm ensures raw captures
 
 ## Key Steps
 1. Process all notes in Zone 1 from the current day
-2. For each note, run [[Note-Usefulness-Assessment]] against active projects, decisions, and writing topics
+2. For each note, run [[concepts/Note-Usefulness-Assessment]] against active projects, decisions, and writing topics
 3. If useful: rewrite in own words, identify connections to existing permanent notes, determine most likely future use case
 4. Create permanent note with idea-based title, own-words content, links, and tags
 5. Archive original capture to Zone 3
@@ -24,11 +24,11 @@ Prevents Zone 1 from becoming a graveyard. The daily rhythm ensures raw captures
 - Claude-assisted processing reduces friction but adds dependency on AI availability
 
 ## Related
-- [[Three-Zone-Vault]]
-- [[Note-Usefulness-Assessment]]
-- [[Daily-Synthesis-Workflow]]
-- [[Weekly-Note-Audit]]
-- [[Connection-Capture-Convention]]
+- [[architectures/Three-Zone-Vault]]
+- [[concepts/Note-Usefulness-Assessment]]
+- [[concepts/Daily-Synthesis-Workflow]]
+- [[workflows/Weekly-Note-Audit]]
+- [[concepts/Connection-Capture-Convention]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

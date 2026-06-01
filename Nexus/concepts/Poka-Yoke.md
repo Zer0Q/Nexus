@@ -20,9 +20,9 @@ Training is a weak control — it relies on memory and willpower under pressure,
 - Requires upfront design investment and understanding of actual user workflows
 
 ## Related
-- [[Visual-Management]]
-- [[Gemba]]
-- [[People-Process-Technology-Sequence]]
+- [[concepts/Visual-Management]]
+- [[concepts/Gemba]]
+- [[concepts/People-Process-Technology-Sequence]]
 
 ## Source
-[[Gellida-Broken-Process-Broken-AI]]
+[[source-notes/Gellida-Broken-Process-Broken-AI]]

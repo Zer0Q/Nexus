@@ -19,9 +19,9 @@ Always produces fresh synthesis without stale cached knowledge. Scalable for tea
 - Repeated synthesis of same concepts wastes compute
 
 ## Related
-- [[Write-Time-Knowledge-Systems]]
-- [[Knowledge-Source-of-Truth]]
-- [[Compilation-Agent]]
+- [[concepts/Write-Time-Knowledge-Systems]]
+- [[concepts/Knowledge-Source-of-Truth]]
+- [[frameworks/Compilation-Agent]]
 
 ## Source
-[[NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

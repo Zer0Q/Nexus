@@ -23,11 +23,11 @@ Non-obvious connections are where understanding changes. Without this protocol, 
 - Quality of connections depends on the diversity and depth of existing concept notes
 
 ## Related
-- [[Connection-Surface-Workflow]]
-- [[Knowledge-Graph-Learning]]
-- [[Pattern-Identification-Across-Notes]]
-- [[Knowledge-Graph-as-Semantic-Layer]]
-- [[Synthesis-Session]]
+- [[workflows/Connection-Surface-Workflow]]
+- [[concepts/Knowledge-Graph-Learning]]
+- [[concepts/Pattern-Identification-Across-Notes]]
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]]
+- [[workflows/Synthesis-Session]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

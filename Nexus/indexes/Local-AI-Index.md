@@ -4,37 +4,37 @@
 This index maps the concepts, tools, and workflows related to running AI models locally for privacy and data sovereignty.
 
 ## Core Concepts
-- [[Local-AI-Privacy]] -- keeping sensitive thinking on your machine
-- [[On-Device-Knowledge-Base]] -- all processing happens locally
-- [[Local-LLM-API-Compatibility]] -- OpenAI-compatible local endpoints
-- [[RAG-Retrieval-Augmented-Generation]] -- grounded answers from your content
-- [[Embedding-Based-Vault-Search]] -- semantic search without cloud
-- [[Hardware-Reality-of-Local-AI]] -- consumer hardware is sufficient
-- [[Three-Mode-AI-Workflow]] -- deep work, research, confidential
-- [[Memory-Bandwidth-Bottleneck]] -- decode speed tracks bandwidth, not compute
-- [[KV-Cache-Growth]] -- KV cache grows with batch size and context
-- [[Prefill-vs-Decode]] -- two phases with different resource profiles
-- [[Unified-Memory-Tradeoff]] -- capacity superpower with bandwidth tradeoffs
-- [[Interconnect-Bottleneck]] -- communication cost dominates multi-GPU
-- [[Quantization-Format-Portability]] -- formats are engine-specific
+- [[concepts/Local-AI-Privacy]] -- keeping sensitive thinking on your machine
+- [[concepts/On-Device-Knowledge-Base]] -- all processing happens locally
+- [[concepts/Local-LLM-API-Compatibility]] -- OpenAI-compatible local endpoints
+- [[concepts/RAG-Retrieval-Augmented-Generation]] -- grounded answers from your content
+- [[concepts/Embedding-Based-Vault-Search]] -- semantic search without cloud
+- [[concepts/Hardware-Reality-of-Local-AI]] -- consumer hardware is sufficient
+- [[concepts/Three-Mode-AI-Workflow]] -- deep work, research, confidential
+- [[concepts/Memory-Bandwidth-Bottleneck]] -- decode speed tracks bandwidth, not compute
+- [[concepts/KV-Cache-Growth]] -- KV cache grows with batch size and context
+- [[concepts/Prefill-vs-Decode]] -- two phases with different resource profiles
+- [[concepts/Unified-Memory-Tradeoff]] -- capacity superpower with bandwidth tradeoffs
+- [[concepts/Interconnect-Bottleneck]] -- communication cost dominates multi-GPU
+- [[concepts/Quantization-Format-Portability]] -- formats are engine-specific
 
 ## Frameworks
-- [[Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
-- [[Hardware-First-Engine-Selection]] -- engine follows hardware strategy
-- [[Inference-Engine-Families]] -- four engine categories
-- [[Benchmarking-Workload-Shape]] -- proper benchmarking methodology
+- [[frameworks/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
+- [[frameworks/Hardware-First-Engine-Selection]] -- engine follows hardware strategy
+- [[frameworks/Inference-Engine-Families]] -- four engine categories
+- [[frameworks/Benchmarking-Workload-Shape]] -- proper benchmarking methodology
 
 ## Tools
-- [[LM-Studio]] -- local model runner (Mistral, Llama, DeepSeek)
-- [[llama-cpp]] -- most portable inference runtime (GGUF, CPU/GPU hybrid)
-- [[Smart-Connections-Plugin]] -- vault search with local embeddings
-- [[BMO-Chatbot]] -- local chat interface in Obsidian
-- [[Copilot-Plugin]] -- inline AI assistant in Obsidian
-- [[ExLlamaV2-and-V3]] -- consumer CUDA quant engines
-- [[vLLM]] -- default open-source production server
-- [[SGLang]] -- complex serving (long context, MoE, disaggregation)
-- [[TensorRT-LLM]] -- NVIDIA max-performance stack
-- [[MLX-and-MLX-LM]] -- Apple Silicon native ML stack
+- [[tools/LM-Studio]] -- local model runner (Mistral, Llama, DeepSeek)
+- [[tools/llama-cpp]] -- most portable inference runtime (GGUF, CPU/GPU hybrid)
+- [[tools/Smart-Connections-Plugin]] -- vault search with local embeddings
+- [[tools/BMO-Chatbot]] -- local chat interface in Obsidian
+- [[tools/Copilot-Plugin]] -- inline AI assistant in Obsidian
+- [[tools/ExLlamaV2-and-V3]] -- consumer CUDA quant engines
+- [[tools/vLLM]] -- default open-source production server
+- [[tools/SGLang]] -- complex serving (long context, MoE, disaggregation)
+- [[tools/TensorRT-LLM]] -- NVIDIA max-performance stack
+- [[tools/MLX-and-MLX-LM]] -- Apple Silicon native ML stack
 
 ## Hardware
 - Apple Silicon M1/M2/M3: 7B-13B models
@@ -44,14 +44,14 @@ This index maps the concepts, tools, and workflows related to running AI models 
 - H100/H200: vLLM or SGLang, TensorRT-LLM for max performance
 
 ## Glossary
-- [[Local-LLM]]
-- [[RAG]]
-- [[Embeddings]]
-- [[KV-Cache]]
-- [[MoE]]
-- [[HBM]]
-- [[GGUF]]
+- [[glossary/Local-LLM]]
+- [[glossary/RAG]]
+- [[glossary/Embeddings]]
+- [[glossary/KV-Cache]]
+- [[glossary/MoE]]
+- [[glossary/HBM]]
+- [[glossary/GGUF]]
 
 ## Sources
-- [[KanikaBK-Offline-AI-Workflow]]
-- [[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+- [[source-notes/KanikaBK-Offline-AI-Workflow]]
+- [[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

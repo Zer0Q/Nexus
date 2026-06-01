@@ -21,9 +21,9 @@ A single round of model comparison shows agreement/disagreement. Multiple rounds
 - May never converge on genuinely novel or controversial topics
 
 ## Related
-- [[Adversarial-Model-Spiral]] -- the broader methodology
-- [[Multi-Model-Convergence]] -- the starting point for iteration
-- [[Expert-Committee-Simulation]] -- the metaphor for this process
+- [[concepts/Adversarial-Model-Spiral]] -- the broader methodology
+- [[concepts/Multi-Model-Convergence]] -- the starting point for iteration
+- [[concepts/Expert-Committee-Simulation]] -- the metaphor for this process
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

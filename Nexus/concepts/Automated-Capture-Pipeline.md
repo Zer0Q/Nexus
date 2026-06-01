@@ -20,9 +20,9 @@ Capture friction is the #1 reason knowledge systems fail. Every friction point i
 - Readwise subscription cost (~$7/month)
 
 ## Related
-- [[Four-Layer-Vault-Architecture]]
-- [[Inbox-First-Capture]]
-- [[Anti-Graveyard-Capture]]
+- [[concepts/Four-Layer-Vault-Architecture]]
+- [[glossary/Inbox-First-Capture]]
+- [[concepts/Anti-Graveyard-Capture]]
 
 ## Source
-[[CyrilXBT-Self-Improving-Vault]]
+[[source-notes/CyrilXBT-Self-Improving-Vault]]

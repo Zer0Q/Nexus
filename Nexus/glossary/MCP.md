@@ -6,4 +6,4 @@ An open protocol that gives AI models live access to external tools, data source
 - Claude Code supports MCP server installation for research, data, and productivity integrations
 - Examples: Exa and Tavily for research, CoinGecko and LunarCrush for data, Notion and Linear for productivity
 
-See also: [[Claude-Projects-MCP]], [[Five-Layer-AI-Stack]]
+See also: [[concepts/Claude-Projects-MCP]], [[concepts/Five-Layer-AI-Stack]]

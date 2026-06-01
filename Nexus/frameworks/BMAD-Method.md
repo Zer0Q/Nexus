@@ -20,7 +20,7 @@ Replaces unstructured "vibe coding" with traceable workflows, PRDs, explicit arc
 - Not revolutionary — operationalizes classic Agile for LLM agents
 
 ## Related
-- [[Spec-Driven-Development]], [[Multi-Agent-Development]], [[Vibe-Coding]], [[Context-Explosion]]
+- [[frameworks/Spec-Driven-Development]], [[concepts/Multi-Agent-Development]], [[concepts/Vibe-Coding]], [[concepts/Context-Explosion]]
 
 ## Source
-[[BMAD-Method-Getting-Started]], [[SDD-vs-BMAD-Frameworks-Comparison]]
+[[source-notes/BMAD-Method-Getting-Started]], [[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]

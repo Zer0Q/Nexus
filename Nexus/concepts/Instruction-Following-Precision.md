@@ -19,9 +19,9 @@ When your prompt has ten specific formatting rules, five constraints, and a defi
 - Complex prompts cost more tokens
 
 ## Related
-- [[Long-Document-Reasoning]] -- companion capability of Claude's reasoning layer
-- [[Prompt-Validation-Over-Construction]] -- precision matters more than prompt length
-- [[Five-Layer-AI-Stack]] -- Claude's instruction following enables reliable automation
+- [[concepts/Long-Document-Reasoning]] -- companion capability of Claude's reasoning layer
+- [[concepts/Prompt-Validation-Over-Construction]] -- precision matters more than prompt length
+- [[concepts/Five-Layer-AI-Stack]] -- Claude's instruction following enables reliable automation
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

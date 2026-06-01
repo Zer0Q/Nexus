@@ -21,10 +21,10 @@ Rationalization is the core transformation step — it removes notifications tha
 - Requires cross-functional team: operators, automation engineers, process engineers
 
 ## Related
-- [[Alarm-Management]]
-- [[Alarm-Philosophy]]
-- [[Alarm-Classification]]
-- [[ISA-18-2-Standard]]
+- [[concepts/Alarm-Management]]
+- [[concepts/Alarm-Philosophy]]
+- [[concepts/Alarm-Classification]]
+- [[concepts/ISA-18-2-Standard]]
 
 ## Source
-[[Dunn-Sands-Alarm-Management-FAQ]]
+[[source-notes/Dunn-Sands-Alarm-Management-FAQ]]

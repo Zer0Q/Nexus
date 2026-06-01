@@ -20,10 +20,10 @@ Eliminates the bookkeeping bottleneck that causes humans to abandon wikis. The L
 - At very large scale (1000+ pages), index files may need vector search augmentation
 
 ## Related
-- [[Write-Time-Knowledge-Systems]]
-- [[Compilation-Agent]]
-- [[Knowledge-Source-of-Truth]]
-- [[Anti-Graveyard-Capture]]
+- [[concepts/Write-Time-Knowledge-Systems]]
+- [[frameworks/Compilation-Agent]]
+- [[concepts/Knowledge-Source-of-Truth]]
+- [[concepts/Anti-Graveyard-Capture]]
 
 ## Source
-[[Karpathy-LLM-Wiki-Pattern]]
+[[source-notes/Karpathy-LLM-Wiki-Pattern]]

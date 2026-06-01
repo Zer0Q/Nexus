@@ -9,4 +9,4 @@ A code editor rebuilt around AI agents (Cursor 3, released April 2026). Not a ch
 - Agent users outnumber Tab autocomplete users 2:1
 - Pro plan: $20/month, used by 64% of Fortune 500
 
-See also: [[Cursor-Agents-Window]], [[Cloud-Handoff]], [[Design-Mode-UI]]
+See also: [[concepts/Cursor-Agents-Window]], [[concepts/Cloud-Handoff]], [[concepts/Design-Mode-UI]]

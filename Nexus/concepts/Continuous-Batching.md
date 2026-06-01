@@ -17,9 +17,9 @@ Traditional batching waits for all requests to finish before starting new ones. 
 - Fairness vs throughput tradeoff: long prompts can starve short requests
 
 ## Related
-- [[PagedAttention]]
-- [[Prefill-vs-Decode]]
-- [[Runtime-Overhead]]
+- [[concepts/PagedAttention]]
+- [[concepts/Prefill-vs-Decode]]
+- [[concepts/Runtime-Overhead]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

@@ -20,9 +20,9 @@ Provides a clear distinction between active work and reference material. Project
 - Not all content fits neatly into one category
 
 ## Related
-- [[Retrieval-First-Organization]]
-- [[Quarterly-Vault-Review]]
-- [[Inbox-First-Capture]]
+- [[concepts/Retrieval-First-Organization]]
+- [[concepts/Quarterly-Vault-Review]]
+- [[glossary/Inbox-First-Capture]]
 
 ## Source
-[[CyrilXBT-Vault-Organization]]
+[[source-notes/CyrilXBT-Vault-Organization]]

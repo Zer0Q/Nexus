@@ -20,9 +20,9 @@ Separating concerns prevents the system from collapsing under its own complexity
 - Token costs for daily/weekly AI processing
 
 ## Related
-- [[Inbox-First-Capture]]
-- [[Automated-Capture-Pipeline]]
-- [[Organize-by-Type-not-Topic]]
+- [[glossary/Inbox-First-Capture]]
+- [[concepts/Automated-Capture-Pipeline]]
+- [[concepts/Organize-by-Type-not-Topic]]
 
 ## Source
-[[DamiDefi-Claude-Vault-Integration]]
+[[source-notes/DamiDefi-Claude-Vault-Integration]]

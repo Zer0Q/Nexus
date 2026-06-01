@@ -19,9 +19,9 @@ Without revenue tracking, you cannot optimize your capture strategy. The stamp t
 - Adds metadata overhead to every output note
 
 ## Related
-- [[Output-Generator-Prompt]] -- the prompt that applies the stamp
-- [[Revenue-Stack-Math]] -- the revenue categories the stamp maps to
-- [[Shipping-Discipline]] -- the stamp provides data to sustain discipline
+- [[concepts/Output-Generator-Prompt]] -- the prompt that applies the stamp
+- [[concepts/Revenue-Stack-Math]] -- the revenue categories the stamp maps to
+- [[concepts/Shipping-Discipline]] -- the stamp provides data to sustain discipline
 
 ## Source
-[[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

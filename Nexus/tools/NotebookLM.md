@@ -19,9 +19,9 @@ Unlike general-purpose LLMs that hallucinate, NotebookLM stays grounded in provi
 - Not suitable for creative or open-ended tasks
 
 ## Related
-- [[RAG-Retrieval-Augmented-Generation]]
-- [[LLM-Wiki-Pattern]]
-- [[Primary-Source-Over-Secondary]]
+- [[concepts/RAG-Retrieval-Augmented-Generation]]
+- [[concepts/LLM-Wiki-Pattern]]
+- [[concepts/Primary-Source-Over-Secondary]]
 
 ## Source
-[[hooeem-be-notebooklm-maxxing]]
+[[source-notes/hooeem-be-notebooklm-maxxing]]

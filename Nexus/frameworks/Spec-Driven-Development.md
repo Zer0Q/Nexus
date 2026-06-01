@@ -18,8 +18,8 @@ Provides traceability from requirements to code, reduces LLM drift in AI-assiste
 - Large specs cause context explosion in LLM agents
 
 ## Related
-- [[Risk-by-Design]]
-- [[BMAD-Method]], [[Vibe-Coding]], [[Agentic-SDLC]], [[Artifact-Pipeline]]
+- [[concepts/Risk-by-Design]]
+- [[frameworks/BMAD-Method]], [[concepts/Vibe-Coding]], [[concepts/Agentic-SDLC]], [[frameworks/Artifact-Pipeline]]
 
 ## Source
-[[SDD-vs-BMAD-Frameworks-Comparison]]
+[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]

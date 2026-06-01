@@ -19,10 +19,10 @@ Memory capacity is the hard ceiling for local model size. When a model is fatter
 - Not suitable for high-concurrency serving of thousands of users
 
 ## Related
-- [[DGX-Spark-Specs]] -- detailed hardware specs
-- [[Unified-Memory-Tradeoff]] -- Apple Silicon's similar approach (different hardware context)
-- [[Memory-Bandwidth-Bottleneck]] -- the bandwidth tradeoff behind unified memory
-- [[Hardware-Reality-of-Local-AI]] -- broader hardware comparison
+- [[concepts/DGX-Spark-Specs]] -- detailed hardware specs
+- [[concepts/Unified-Memory-Tradeoff]] -- Apple Silicon's similar approach (different hardware context)
+- [[concepts/Memory-Bandwidth-Bottleneck]] -- the bandwidth tradeoff behind unified memory
+- [[concepts/Hardware-Reality-of-Local-AI]] -- broader hardware comparison
 
 ## Source
-[[w1nklerr-DGX-Spark-Cost-Recovery]]
+[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]

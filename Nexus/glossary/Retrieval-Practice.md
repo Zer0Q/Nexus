@@ -14,9 +14,9 @@ The umbrella term for any learning activity that requires pulling information fr
 - The Obsidian-Claude learning system is essentially a systematic retrieval practice machine
 
 ## Related
-- [[Active-Recall]]
-- [[Active-Recall-Learning]]
-- [[Concept-Note-Template]]
+- [[glossary/Active-Recall]]
+- [[concepts/Active-Recall-Learning]]
+- [[frameworks/Concept-Note-Template]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

@@ -10,7 +10,7 @@ Organisation at capture time is the enemy of capture speed. If saving something 
 - Capture speed is non-negotiable; organisation is deferred
 - Inbox is a temporary holding zone, not a destination
 - Processing happens during scheduled review sessions
-- Prevents the [[Anti-Graveyard-Capture]] problem of bookmarks dying in folders
+- Prevents the [[concepts/Anti-Graveyard-Capture]] problem of bookmarks dying in folders
 - Works with any tool: Telegram bot, browser extension, mobile app
 
 ## Tradeoffs
@@ -19,10 +19,10 @@ Organisation at capture time is the enemy of capture speed. If saving something 
 - Not suitable for time-critical information that needs immediate categorisation
 
 ## Related
-- [[Connection-Cost]]
-- [[Anti-Graveyard-Capture]]
-- [[Capture-As-The-Weakest-Link]]
-- [[Structured-Source-Notes]]
+- [[glossary/Connection-Cost]]
+- [[concepts/Anti-Graveyard-Capture]]
+- [[concepts/Capture-As-The-Weakest-Link]]
+- [[concepts/Structured-Source-Notes]]
 
 ## Source
-[[DamiDefi-Obsidian-Claude-Research-Stack]]
+[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]

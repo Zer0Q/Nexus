@@ -24,11 +24,11 @@ The answer to your current question may already exist in past captures across di
 - Most valuable after 90 days of accumulated notes
 
 ## Related
-- [[Four-Uses-of-Notes]]
-- [[Three-Zone-Vault]]
-- [[Federated-Knowledge-Search]]
-- [[Writing-Activator-Workflow]]
-- [[Compounding-Knowledge-Context]]
+- [[concepts/Four-Uses-of-Notes]]
+- [[architectures/Three-Zone-Vault]]
+- [[concepts/Federated-Knowledge-Search]]
+- [[workflows/Writing-Activator-Workflow]]
+- [[concepts/Compounding-Knowledge-Context]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

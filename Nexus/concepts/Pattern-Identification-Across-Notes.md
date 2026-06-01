@@ -15,7 +15,7 @@ Individual concept notes capture discrete ideas. Pattern identification reveals 
 - Patterns emerge only when reading across the full set of concept notes
 - Not stated in any individual note; they are properties of the collection
 - Claude can identify patterns across the vault simultaneously that sequential reading cannot produce
-- Pattern identification is the first step of the [[Synthesis-Session]]
+- Pattern identification is the first step of the [[workflows/Synthesis-Session]]
 - The pattern is the insight that restructures everything that comes after it
 
 ## Tradeoffs
@@ -23,11 +23,11 @@ Individual concept notes capture discrete ideas. Pattern identification reveals 
 - May produce abstract patterns that are hard to apply concretely
 
 ## Related
-- [[Synthesis-Session]]
-- [[Connection-Surface-Workflow]]
-- [[Knowledge-Graph-Learning]]
-- [[Pattern-Identification-Across-Notes]]
-- [[Connection-Protocol]]
+- [[workflows/Synthesis-Session]]
+- [[workflows/Connection-Surface-Workflow]]
+- [[concepts/Knowledge-Graph-Learning]]
+- [[concepts/Pattern-Identification-Across-Notes]]
+- [[workflows/Connection-Protocol]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

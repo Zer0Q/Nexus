@@ -27,10 +27,10 @@ ISO/IEC 22989:2022 defines a comprehensive AI System Life Cycle Model for establ
 - Logic is learned from data, not explicitly coded
 
 ## Related
-- [[AI-Governance]] -- governance framework for AI systems
-- [[AI-Risk-Management]] -- risk across the lifecycle
-- [[Model-Drift]] -- performance degradation over time
+- [[frameworks/AI-Governance]] -- governance framework for AI systems
+- [[frameworks/AI-Risk-Management]] -- risk across the lifecycle
+- [[glossary/Model-Drift]] -- performance degradation over time
 
 ## Sources
-- [[RamiroCid-ISO-22989-AI-Governance]]
-- [[RamiroCid-ISO-23894-AI-Risk-Management]]
+- [[source-notes/RamiroCid-ISO-22989-AI-Governance]]
+- [[source-notes/RamiroCid-ISO-23894-AI-Risk-Management]]

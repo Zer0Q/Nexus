@@ -20,9 +20,9 @@ Provides an alternative AI intelligence layer for vault-based knowledge systems.
 - May lack some automation features (e.g., N8N integration)
 
 ## Related
-- [[AI-Chief-of-Staff]]
-- [[CLAUDE-MD-as-Context-Layer]]
-- [[Four-Layer-Vault-Architecture]]
+- [[concepts/AI-Chief-of-Staff]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Four-Layer-Vault-Architecture]]
 
 ## Source
-[[CyrilXBT-Obsidian-Vellum]]
+[[source-notes/CyrilXBT-Obsidian-Vellum]]

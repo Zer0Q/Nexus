@@ -17,9 +17,9 @@ Tensor parallelism requires frequent all-reduce collectives. Pipeline parallelis
 - Pipeline parallelism: less communication but risk of GPU idle time (bubble)
 
 ## Related
-- [[Memory-Bandwidth-Bottleneck]]
-- [[Prefill-vs-Decode]]
-- [[Unified-Memory-Tradeoff]]
+- [[concepts/Memory-Bandwidth-Bottleneck]]
+- [[concepts/Prefill-vs-Decode]]
+- [[concepts/Unified-Memory-Tradeoff]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

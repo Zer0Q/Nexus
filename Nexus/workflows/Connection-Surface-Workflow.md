@@ -23,11 +23,11 @@ Connections you did not intentionally create become visible when Claude reads ac
 - Value increases with vault size and diversity of topics
 
 ## Related
-- [[Connection-Protocol]]
-- [[Knowledge-Graph-Learning]]
-- [[Compounding-Knowledge-Context]]
-- [[Knowledge-Graph-as-Semantic-Layer]]
-- [[Pattern-Identification-Across-Notes]]
+- [[workflows/Connection-Protocol]]
+- [[concepts/Knowledge-Graph-Learning]]
+- [[concepts/Compounding-Knowledge-Context]]
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]]
+- [[concepts/Pattern-Identification-Across-Notes]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

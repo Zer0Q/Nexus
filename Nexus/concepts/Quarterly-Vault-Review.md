@@ -20,9 +20,9 @@ Organization degrades over time without maintenance. Tags accumulate that no lon
 - May reveal that the system needs fundamental changes, not just cleanup
 
 ## Related
-- [[Retrieval-First-Organization]]
-- [[PARA-Method]]
-- [[Map-of-Content]]
+- [[concepts/Retrieval-First-Organization]]
+- [[concepts/PARA-Method]]
+- [[concepts/Map-of-Content]]
 
 ## Source
-[[CyrilXBT-Vault-Organization]]
+[[source-notes/CyrilXBT-Vault-Organization]]

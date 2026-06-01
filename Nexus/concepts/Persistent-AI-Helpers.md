@@ -12,9 +12,9 @@ Enables AI to act as a true knowledge partner rather than a one-off tool — und
 - Bridge between ephemeral AI chat and durable knowledge systems
 
 ## Related
-- [[AI-Chief-of-Staff]]
-- [[Skill-Based-AI-Agents]]
-- [[Vault-Aware-Automation]]
+- [[concepts/AI-Chief-of-Staff]]
+- [[concepts/Skill-Based-AI-Agents]]
+- [[concepts/Vault-Aware-Automation]]
 
 ## Source
 [AI-Vault-Integration-Index], [Obsidian-Skills-Plugin], [OpenSourceProjects-Obsidian-Skills]

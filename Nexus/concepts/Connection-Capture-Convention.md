@@ -22,11 +22,11 @@ Preserves the context of relevance present at capture time, which fades rapidly.
 - The "might use for" field may become stale if the use case changes
 
 ## Related
-- [[Question-Capture-Convention]]
-- [[Application-Capture-Convention]]
-- [[Daily-Processing-Run]]
-- [[Structured-Source-Notes]]
-- [[Connection-Surface-Workflow]]
+- [[concepts/Question-Capture-Convention]]
+- [[concepts/Application-Capture-Convention]]
+- [[workflows/Daily-Processing-Run]]
+- [[concepts/Structured-Source-Notes]]
+- [[workflows/Connection-Surface-Workflow]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

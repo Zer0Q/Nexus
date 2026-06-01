@@ -19,9 +19,9 @@ Most AI tools lose coherence as the context window fills. Long-document reasonin
 - Token limits still exist; extremely large corpora may exceed even 200K
 
 ## Related
-- [[Instruction-Following-Precision]] -- companion capability of Claude's reasoning layer
-- [[Five-Layer-AI-Stack]] -- Claude is the reasoning layer enabled by this capability
-- [[Vault-Context]] -- the context that fills the window
+- [[concepts/Instruction-Following-Precision]] -- companion capability of Claude's reasoning layer
+- [[concepts/Five-Layer-AI-Stack]] -- Claude is the reasoning layer enabled by this capability
+- [[glossary/Vault-Context]] -- the context that fills the window
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

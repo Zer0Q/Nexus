@@ -19,9 +19,9 @@ Without an identity layer, every agent instance feels interchangeable — same m
 - Requires iteration: first draft is rarely right
 
 ## Related
-- [[Agent-Multi-Tier-Memory]] -- the moving parts inside the identity frame
-- [[Self-Evolving-Skills]] -- skills created through the lens of identity
-- [[Agent-Profiles]] -- each profile has its own SOUL.md
+- [[concepts/Agent-Multi-Tier-Memory]] -- the moving parts inside the identity frame
+- [[concepts/Self-Evolving-Skills]] -- skills created through the lens of identity
+- [[concepts/Agent-Profiles]] -- each profile has its own SOUL.md
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

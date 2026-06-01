@@ -19,9 +19,9 @@ Prevents long prefill batches from interrupting decode, reducing token latency s
 - Not beneficial for workloads with uniformly short prompts
 
 ## Related
-- [[Prefill-vs-Decode]]
-- [[KV-Cache-Growth]]
-- [[SGLang]]
+- [[concepts/Prefill-vs-Decode]]
+- [[concepts/KV-Cache-Growth]]
+- [[tools/SGLang]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

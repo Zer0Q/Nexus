@@ -7,4 +7,4 @@ ByteRover's structured index of knowledge sources. Obsidian vaults map directly 
 - Searchable via `brv search` and `brv query`
 - Read-only when linked as source to projects
 
-See also: [[ByteRover]], [[Federated-Knowledge-Search]]
+See also: [[tools/ByteRover]], [[concepts/Federated-Knowledge-Search]]

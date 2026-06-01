@@ -7,4 +7,4 @@ Centralized database containing all alarm configuration requirements, rationaliz
 - Used by alarm management software for monitoring and assessment
 - Prevents inadvertent deletion or modification of classified alarms
 
-See also: [[Alarm-Rationalization]], [[Alarm-Classification]], [[Alarm-Management]]
+See also: [[glossary/Alarm-Rationalization]], [[concepts/Alarm-Classification]], [[concepts/Alarm-Management]]

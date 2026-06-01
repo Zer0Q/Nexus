@@ -24,12 +24,12 @@ Without it, every AI synthesis is generic. With it, outputs are calibrated to yo
 - Over-constraint risk: too many rules can make the AI rigid and uncreative
 
 ## Related
-- [[Four-Layer-Vault-Architecture]]
-- [[Daily-Synthesis-Workflow]]
-- [[AI-Chief-of-Staff]]
-- [[Compound-Effect-of-Persistent-Instructions]]
-- [[System-Setup-Hierarchy]]
-- [[CLAUDE-MD-Five-Section-Template]]
+- [[concepts/Four-Layer-Vault-Architecture]]
+- [[concepts/Daily-Synthesis-Workflow]]
+- [[concepts/AI-Chief-of-Staff]]
+- [[concepts/Compound-Effect-of-Persistent-Instructions]]
+- [[concepts/System-Setup-Hierarchy]]
+- [[frameworks/CLAUDE-MD-Five-Section-Template]]
 
 ## Source
-[[DamiDefi-Claude-Vault-Integration]]
+[[source-notes/DamiDefi-Claude-Vault-Integration]]

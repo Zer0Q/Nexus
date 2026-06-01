@@ -20,9 +20,9 @@ Eliminates the setup friction of building a local AI environment. The DGX OS com
 - Updates controlled by NVIDIA's release cycle
 
 ## Related
-- [[DGX-Spark]] -- the hardware that ships with DGX OS
-- [[Ollama-Local-Serving]] -- runs on top of the DGX OS stack
-- [[Local-LLM]] -- the broader concept of local model serving
+- [[concepts/DGX-Spark]] -- the hardware that ships with DGX OS
+- [[concepts/Ollama-Local-Serving]] -- runs on top of the DGX OS stack
+- [[glossary/Local-LLM]] -- the broader concept of local model serving
 
 ## Source
-[[w1nklerr-DGX-Spark-Cost-Recovery]]
+[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]

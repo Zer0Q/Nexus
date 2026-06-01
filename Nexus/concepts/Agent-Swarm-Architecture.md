@@ -20,9 +20,9 @@ Single agents are sequential bottlenecks. Swarms parallelize work across hundred
 - Token cost scales with agent count
 
 ## Related
-- [[Swarm-Orchestration]]
-- [[Single-Threaded-vs-Multi-Agent]]
-- [[Multi-Agent-Development]]
+- [[concepts/Swarm-Orchestration]]
+- [[concepts/Single-Threaded-vs-Multi-Agent]]
+- [[concepts/Multi-Agent-Development]]
 
 ## Source
-[[rohit4verse-slow-single-threaded-commanding-300-agents-one]]
+[[source-notes/rohit4verse-slow-single-threaded-commanding-300-agents-one]]

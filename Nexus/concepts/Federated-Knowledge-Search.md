@@ -20,9 +20,9 @@ Solves the problem of knowledge siloed in your vault being invisible to your cod
 - May add latency to agent queries if vault is large
 
 ## Related
-- [[Markdown-as-Universal-Format]]
-- [[Read-Only-Vault-Safety]]
-- [[Context-Tree-Indexing]]
+- [[concepts/Markdown-as-Universal-Format]]
+- [[concepts/Read-Only-Vault-Safety]]
+- [[concepts/Context-Tree-Indexing]]
 
 ## Source
-[[KevinNguyen-ByteRover-Obsidian]]
+[[source-notes/KevinNguyen-ByteRover-Obsidian]]

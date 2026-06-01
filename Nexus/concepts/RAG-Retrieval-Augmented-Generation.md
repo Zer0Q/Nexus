@@ -19,9 +19,9 @@ RAG turns a general-purpose AI into a domain-specific assistant that answers fro
 - Adds latency compared to direct model queries
 
 ## Related
-- [[Embedding-Based-Vault-Search]]
-- [[Context-Aware-AI-Research]]
-- [[On-Device-Knowledge-Base]]
+- [[concepts/Embedding-Based-Vault-Search]]
+- [[concepts/Context-Aware-AI-Research]]
+- [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

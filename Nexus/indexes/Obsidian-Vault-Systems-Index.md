@@ -4,91 +4,91 @@
 Vault architecture patterns, the capture-use gap, output engine workflows, learning systems, and knowledge graph construction in Obsidian.
 
 ## Core Concepts
-- [[Capture-Use-Gap]] -- the problem of notes gathering dust without application
-- [[Capture-to-Intelligence-Gap]] -- raw notes vs. actionable insights
-- [[Four-Uses-of-Notes]] -- reference, learning, creation, decision-making
-- [[Zero-Friction-Capture]] -- effortless note-taking to prevent loss
-- [[Anti-Graveyard-Capture]] -- ensuring notes lead to action
-- [[Capture-As-The-Weakest-Link]] -- capture quality determines system quality
-- [[Three-Capture-Surfaces]] -- multiple entry points for different contexts
-- [[Automated-Capture-Pipeline]] -- systematized note intake
-- [[Structured-Source-Notes]] -- standardized source documentation
-- [[Four-Layer-Vault-Architecture]] -- capture, pipeline, storage, intelligence
-- [[Four-Zone-Monetization-Vault]] -- revenue-oriented vault organization
-- [[Output-Engine-Workflows]] -- turning notes into shipped content
-- [[Output-Generator-Prompt]] -- AI prompt for content generation from notes
-- [[Output-Folder-Pattern]] -- organizing work-in-progress content
-- [[Shipping-Discipline]] -- regular output cadence
-- [[Note-Usefulness-Assessment]] -- evaluating note ROI
-- [[Note-Contribution-Rate]] -- measuring note impact
-- [[Knowledge-Graph-Learning]] -- learning through note connections
-- [[Knowledge-Graph-as-Semantic-Layer]] -- vault graph as meaning structure
-- [[Active-Recall-Learning]] -- testing yourself to strengthen memory
-- [[Spaced-Repetition-System]] -- timed review for long-term retention
-- [[Gap-Analysis-Study]] -- identifying knowledge gaps from note graph
-- [[Mastery-Score-Tracking]] -- measuring learning progress
-- [[Sequential-vs-Network-Learning]] -- linear study vs. web of connections
-- [[Write-Time-Knowledge-Systems]] -- capturing knowledge at point of creation
-- [[Query-Time-Knowledge-Systems]] -- searching knowledge at point of need
-- [[Feedback-Loop-Knowledge-System]] -- continuous improvement cycle
-- [[Compounding-Knowledge-Context]] -- notes grow more valuable over time
-- [[Connection-Capture-Convention]] -- how to record note relationships
-- [[Question-Capture-Convention]] -- capturing open questions
-- [[Application-Capture-Convention]] -- recording how to apply knowledge
-- [[Organize-by-Type-not-Topic]] -- structure by note kind, not subject
-- [[Retrieval-First-Organization]] -- design for finding, not filing
-- [[Three-Category-Tagging]] -- minimal tagging system
-- [[Quarterly-Vault-Review]] -- periodic vault health check
-- [[Embedding-Based-Vault-Search]] -- semantic search across notes
-- [[Federated-Knowledge-Search]] -- searching vault + external sources
-- [[Knowledge-Centers]] -- hub notes for major topics
-- [[Knowledge-Mapping]] -- visualizing knowledge structure
-- [[Map-of-Content]] -- comprehensive topic inventory
-- [[Daily-Synthesis-Workflow]] -- end-of-day note processing
-- [[Telegram-Vault-Query]] -- asking your vault via Telegram
-- [[Vault-Aware-Automation]] -- agents that understand the knowledge graph
-- [[Vault-Aware-Research]] -- research grounded in existing notes
-- [[Cross-Month-Connections]] -- linking ideas across time periods
-- [[Pattern-Identification-Across-Notes]] -- finding themes in the vault
-- [[On-Device-Knowledge-Base]] -- all knowledge stored locally
-- [[Knowledge-Source-of-Truth]] -- vault as definitive reference
-- [[Browsable-Knowledge]] -- navigable knowledge structure
-- [[Markdown-as-Universal-Format]] -- .md as the bridge format
+- [[concepts/Capture-Use-Gap]] -- the problem of notes gathering dust without application
+- [[concepts/Capture-to-Intelligence-Gap]] -- raw notes vs. actionable insights
+- [[concepts/Four-Uses-of-Notes]] -- reference, learning, creation, decision-making
+- [[concepts/Zero-Friction-Capture]] -- effortless note-taking to prevent loss
+- [[concepts/Anti-Graveyard-Capture]] -- ensuring notes lead to action
+- [[concepts/Capture-As-The-Weakest-Link]] -- capture quality determines system quality
+- [[concepts/Three-Capture-Surfaces]] -- multiple entry points for different contexts
+- [[concepts/Automated-Capture-Pipeline]] -- systematized note intake
+- [[concepts/Structured-Source-Notes]] -- standardized source documentation
+- [[concepts/Four-Layer-Vault-Architecture]] -- capture, pipeline, storage, intelligence
+- [[concepts/Four-Zone-Monetization-Vault]] -- revenue-oriented vault organization
+- [[concepts/Output-Engine-Workflows]] -- turning notes into shipped content
+- [[concepts/Output-Generator-Prompt]] -- AI prompt for content generation from notes
+- [[concepts/Output-Folder-Pattern]] -- organizing work-in-progress content
+- [[concepts/Shipping-Discipline]] -- regular output cadence
+- [[concepts/Note-Usefulness-Assessment]] -- evaluating note ROI
+- [[concepts/Note-Contribution-Rate]] -- measuring note impact
+- [[concepts/Knowledge-Graph-Learning]] -- learning through note connections
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]] -- vault graph as meaning structure
+- [[concepts/Active-Recall-Learning]] -- testing yourself to strengthen memory
+- [[concepts/Spaced-Repetition-System]] -- timed review for long-term retention
+- [[concepts/Gap-Analysis-Study]] -- identifying knowledge gaps from note graph
+- [[concepts/Mastery-Score-Tracking]] -- measuring learning progress
+- [[concepts/Sequential-vs-Network-Learning]] -- linear study vs. web of connections
+- [[concepts/Write-Time-Knowledge-Systems]] -- capturing knowledge at point of creation
+- [[concepts/Query-Time-Knowledge-Systems]] -- searching knowledge at point of need
+- [[concepts/Feedback-Loop-Knowledge-System]] -- continuous improvement cycle
+- [[concepts/Compounding-Knowledge-Context]] -- notes grow more valuable over time
+- [[concepts/Connection-Capture-Convention]] -- how to record note relationships
+- [[concepts/Question-Capture-Convention]] -- capturing open questions
+- [[concepts/Application-Capture-Convention]] -- recording how to apply knowledge
+- [[concepts/Organize-by-Type-not-Topic]] -- structure by note kind, not subject
+- [[concepts/Retrieval-First-Organization]] -- design for finding, not filing
+- [[concepts/Three-Category-Tagging]] -- minimal tagging system
+- [[concepts/Quarterly-Vault-Review]] -- periodic vault health check
+- [[concepts/Embedding-Based-Vault-Search]] -- semantic search across notes
+- [[concepts/Federated-Knowledge-Search]] -- searching vault + external sources
+- [[concepts/Knowledge-Centers]] -- hub notes for major topics
+- [[concepts/Knowledge-Mapping]] -- visualizing knowledge structure
+- [[concepts/Map-of-Content]] -- comprehensive topic inventory
+- [[concepts/Daily-Synthesis-Workflow]] -- end-of-day note processing
+- [[concepts/Telegram-Vault-Query]] -- asking your vault via Telegram
+- [[concepts/Vault-Aware-Automation]] -- agents that understand the knowledge graph
+- [[concepts/Vault-Aware-Research]] -- research grounded in existing notes
+- [[concepts/Cross-Month-Connections]] -- linking ideas across time periods
+- [[concepts/Pattern-Identification-Across-Notes]] -- finding themes in the vault
+- [[concepts/On-Device-Knowledge-Base]] -- all knowledge stored locally
+- [[concepts/Knowledge-Source-of-Truth]] -- vault as definitive reference
+- [[concepts/Browsable-Knowledge]] -- navigable knowledge structure
+- [[concepts/Markdown-as-Universal-Format]] -- .md as the bridge format
 
 ## Frameworks
-- [[Inbox-First-Capture]] -- everything lands in inbox first
-- [[Concept-Note-Template]] -- standardized concept documentation
-- [[Graph-Based-Knowledge-Discovery]] -- following backlinks to explore
-- [[Unified-Knowledge-Environment]] -- single source of truth
-- [[Compilation-Agent]] -- LLM as wiki maintainer
-- [[Connection-Cost]] -- the expense of maintaining links
+- [[glossary/Inbox-First-Capture]] -- everything lands in inbox first
+- [[frameworks/Concept-Note-Template]] -- standardized concept documentation
+- [[frameworks/Graph-Based-Knowledge-Discovery]] -- following backlinks to explore
+- [[frameworks/Unified-Knowledge-Environment]] -- single source of truth
+- [[frameworks/Compilation-Agent]] -- LLM as wiki maintainer
+- [[glossary/Connection-Cost]] -- the expense of maintaining links
 
 ## Tools
-- [[Obsidian-Skills-Plugin]] -- AI agents inside Obsidian
-- [[Smart-Connections-Plugin]] -- embedding-based vault search
-- [[Copilot-Plugin]] -- inline AI in Obsidian
-- [[QuickAdd]] -- fast capture automation
-- [[Readwise]] -- highlight sync service
-- [[Vellum]] -- visual note organization
-- [[Telegram-Bot-Capture]] -- instant capture via Telegram
-- [[N8N]] -- workflow automation
+- [[tools/Obsidian-Skills-Plugin]] -- AI agents inside Obsidian
+- [[tools/Smart-Connections-Plugin]] -- embedding-based vault search
+- [[tools/Copilot-Plugin]] -- inline AI in Obsidian
+- [[glossary/QuickAdd]] -- fast capture automation
+- [[glossary/Readwise]] -- highlight sync service
+- [[tools/Vellum]] -- visual note organization
+- [[tools/Telegram-Bot-Capture]] -- instant capture via Telegram
+- [[glossary/N8N]] -- workflow automation
 
 ## Glossary
-- [[Knowledge-Graph]] -- interconnected web of notes
-- [[Active-Recall]] -- testing yourself to strengthen memory
-- [[Spaced-Repetition]] -- timed review for retention
-- [[Retrieval-Practice]] -- pulling information from memory
-- [[Ebbinghaus-Forgetting-Curve]] -- rate of memory decay
-- [[Illusion-of-Knowledge]] -- confusing familiarity with mastery
-- [[FTS5]] -- full-text search engine
-- [[TOC]] -- Table of Contents
-- [[VELLUM-MD]] -- visual vault organization file
+- [[glossary/Knowledge-Graph]] -- interconnected web of notes
+- [[glossary/Active-Recall]] -- testing yourself to strengthen memory
+- [[glossary/Spaced-Repetition]] -- timed review for retention
+- [[glossary/Retrieval-Practice]] -- pulling information from memory
+- [[glossary/Ebbinghaus-Forgetting-Curve]] -- rate of memory decay
+- [[glossary/Illusion-of-Knowledge]] -- confusing familiarity with mastery
+- [[glossary/FTS5]] -- full-text search engine
+- [[glossary/TOC]] -- Table of Contents
+- [[glossary/VELLUM-MD]] -- visual vault organization file
 
 ## Sources
-- [[CyrilXBT-Obsidian-Note-Utility-System]]
-- [[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
-- [[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
-- [[CyrilXBT-Self-Improving-Vault]]
-- [[CyrilXBT-Vault-Organization]]
-- [[CyrilXBT-Trading-Brain]]
-- [[NickSpisak-Second-Brain-Guide]]
+- [[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+- [[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+- [[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+- [[source-notes/CyrilXBT-Self-Improving-Vault]]
+- [[source-notes/CyrilXBT-Vault-Organization]]
+- [[source-notes/CyrilXBT-Trading-Brain]]
+- [[source-notes/NickSpisak-Second-Brain-Guide]]

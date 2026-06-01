@@ -19,9 +19,9 @@ A pressure reading of "900 psi" is meaningless without context. By showing norma
 - Normal ranges must be maintained and updated as processes change
 
 ## Related
-- [[High-Performance-HMI]]
-- [[Operator-Situational-Awareness]]
-- [[Display-Hierarchy]]
+- [[concepts/High-Performance-HMI]]
+- [[concepts/Operator-Situational-Awareness]]
+- [[concepts/Display-Hierarchy]]
 
 ## Source
-[[RealPars-High-Performance-HMI]]
+[[source-notes/RealPars-High-Performance-HMI]]

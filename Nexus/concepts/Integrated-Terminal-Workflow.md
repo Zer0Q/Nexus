@@ -19,9 +19,9 @@ Interface friction kills adoption. When the terminal fights you (separate window
 - May not support all terminal features (colors, interactive tools)
 
 ## Related
-- [[Shared-Directory-Pattern]]
-- [[CLAUDE-MD-as-Context-Layer]]
-- [[Graph-Based-Knowledge-Discovery]]
+- [[concepts/Shared-Directory-Pattern]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
+- [[frameworks/Graph-Based-Knowledge-Discovery]]
 
 ## Source
-[[Atenov-Self-Running-Brain]]
+[[source-notes/Atenov-Self-Running-Brain]]

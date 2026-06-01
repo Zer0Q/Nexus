@@ -17,8 +17,8 @@ Best performance per dollar for enthusiast local setups. Makes quantized models 
 - CUDA-only, no Apple/AMD portability
 
 ## Related
-- [[Inference-Engine-Families]]
-- [[Quantization-Format-Portability]]
+- [[frameworks/Inference-Engine-Families]]
+- [[concepts/Quantization-Format-Portability]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

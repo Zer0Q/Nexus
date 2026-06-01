@@ -7,4 +7,4 @@ NVIDIA's framework for building, training, and deploying generative AI models. P
 - Used for custom model development on local hardware
 - Complements inference tools like Ollama and vLLM
 
-See also: [[DGX-OS-Stack]], [[NIM]]
+See also: [[concepts/DGX-OS-Stack]], [[glossary/NIM]]

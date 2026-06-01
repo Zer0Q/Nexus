@@ -21,10 +21,10 @@ For AI freelancers and builders who rent compute by the hour, the cloud GPU bill
 - Hardware can become obsolete; cloud always has the latest
 
 ## Related
-- [[DGX-Spark]] -- the hardware enabling this cost recovery
-- [[DGX-Spark-Specs]] -- what you're buying
-- [[Local-AI-Mindset-Shift]] -- the behavioral change after going local
-- [[Hardware-Reality-of-Local-AI]] -- broader hardware economics
+- [[concepts/DGX-Spark]] -- the hardware enabling this cost recovery
+- [[concepts/DGX-Spark-Specs]] -- what you're buying
+- [[concepts/Local-AI-Mindset-Shift]] -- the behavioral change after going local
+- [[concepts/Hardware-Reality-of-Local-AI]] -- broader hardware economics
 
 ## Source
-[[w1nklerr-DGX-Spark-Cost-Recovery]]
+[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]

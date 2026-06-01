@@ -22,10 +22,10 @@ Questions are often more useful than answers in a knowledge system. A question s
 - Requires a mechanism to track which questions have been answered
 
 ## Related
-- [[Connection-Capture-Convention]]
-- [[Application-Capture-Convention]]
-- [[Active-Decision-Feeder]]
-- [[Structured-Source-Notes]]
+- [[concepts/Connection-Capture-Convention]]
+- [[concepts/Application-Capture-Convention]]
+- [[workflows/Active-Decision-Feeder]]
+- [[concepts/Structured-Source-Notes]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

@@ -24,11 +24,11 @@ Enforces the core principle: notes that do not connect to anything active are no
 - Risk of archiving notes that are useful but infrequently accessed
 
 ## Related
-- [[Three-Zone-Vault]]
-- [[Note-Usefulness-Assessment]]
-- [[Quarterly-Vault-Review]]
-- [[Daily-Processing-Run]]
-- [[Note-Contribution-Rate]]
+- [[architectures/Three-Zone-Vault]]
+- [[concepts/Note-Usefulness-Assessment]]
+- [[concepts/Quarterly-Vault-Review]]
+- [[workflows/Daily-Processing-Run]]
+- [[concepts/Note-Contribution-Rate]]
 
 ## Source
-[[CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]

@@ -19,9 +19,9 @@ The common mistake is using one tool for all five layers (ChatGPT for everything
 - Each tool has its own learning curve and configuration surface
 
 ## Related
-- [[Five-Layer-AI-Stack]] -- similar concept from a different article, different tool assignments
-- [[Four-Layer-Vault-Architecture]] -- related but focuses on vault layers rather than tool layers
-- [[Model-Selection-Tiers]] -- cost-optimized routing within the automation layer
+- [[concepts/Five-Layer-AI-Stack]] -- similar concept from a different article, different tool assignments
+- [[concepts/Four-Layer-Vault-Architecture]] -- related but focuses on vault layers rather than tool layers
+- [[concepts/Model-Selection-Tiers]] -- cost-optimized routing within the automation layer
 
 ## Source
-[[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

@@ -19,10 +19,10 @@ Manual context systems (Claude Projects, uploaded context files) require you to 
 - Requires trust in the agent's write permissions
 
 ## Related
-- [[Hermes-Obsidian-Integration]] -- the technical mechanism enabling this
-- [[Compounding-Knowledge-Context]] -- how quality improves over time
-- [[Agent-Multi-Tier-Memory]] -- Hermes's broader memory architecture
-- [[CLAUDE-MD-as-Context-Layer]] -- the manual alternative this replaces
+- [[concepts/Hermes-Obsidian-Integration]] -- the technical mechanism enabling this
+- [[concepts/Compounding-Knowledge-Context]] -- how quality improves over time
+- [[concepts/Agent-Multi-Tier-Memory]] -- Hermes's broader memory architecture
+- [[concepts/CLAUDE-MD-as-Context-Layer]] -- the manual alternative this replaces
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

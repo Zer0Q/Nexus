@@ -5,7 +5,7 @@ type: glossary
 # Spaced Repetition
 
 ## Definition
-A learning technique that schedules review of material at increasing intervals based on the [[Ebbinghaus-Forgetting-Curve]]. Each successful recall extends the interval before the next review; each failure resets it. The goal is to review material at the point of near-forgetfulness.
+A learning technique that schedules review of material at increasing intervals based on the [[glossary/Ebbinghaus-Forgetting-Curve]]. Each successful recall extends the interval before the next review; each failure resets it. The goal is to review material at the point of near-forgetfulness.
 
 ## Key Properties
 - Standard intervals: 1 day, 3 days, 7 days, 14 days, 30 days, then 60 days
@@ -14,9 +14,9 @@ A learning technique that schedules review of material at increasing intervals b
 - Combined with active recall, improves exam performance by 15-20%
 
 ## Related
-- [[Spaced-Repetition-System]]
-- [[Mastery-Score-Tracking]]
-- [[Active-Recall]]
+- [[concepts/Spaced-Repetition-System]]
+- [[concepts/Mastery-Score-Tracking]]
+- [[glossary/Active-Recall]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

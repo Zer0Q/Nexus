@@ -22,10 +22,10 @@ Poor alarm management leads to alarm floods, operator overload, missed critical 
 - Cultural resistance: paradigm shift not embraced by everyone
 
 ## Related
-- [[ISA-18-2-Standard]]
-- [[Alarm-Rationalization]]
-- [[Alarm-Management-Lifecycle]]
-- [[Operator-Situational-Awareness]]
+- [[concepts/ISA-18-2-Standard]]
+- [[glossary/Alarm-Rationalization]]
+- [[concepts/Alarm-Management-Lifecycle]]
+- [[concepts/Operator-Situational-Awareness]]
 
 ## Source
-[[Dunn-Sands-Alarm-Management-FAQ]]
+[[source-notes/Dunn-Sands-Alarm-Management-FAQ]]

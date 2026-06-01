@@ -19,10 +19,10 @@ Most transformation projects diagnose process and data issues in meetings with p
 - Frontline feedback can challenge assumptions held by decision-makers
 
 ## Related
-- [[Visual-Management]]
-- [[Poka-Yoke]]
-- [[People-Process-Technology-Sequence]]
-- [[Tacit-Knowledge]]
+- [[concepts/Visual-Management]]
+- [[concepts/Poka-Yoke]]
+- [[concepts/People-Process-Technology-Sequence]]
+- [[concepts/Tacit-Knowledge]]
 
 ## Source
-[[Gellida-Broken-Process-Broken-AI]]
+[[source-notes/Gellida-Broken-Process-Broken-AI]]

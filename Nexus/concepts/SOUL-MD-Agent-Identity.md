@@ -19,9 +19,9 @@ Default agent prompts produce compliant but useless output. SOUL.md gives agents
 - Agent may push back when user just wants quick output
 
 ## Related
-- [[SOUL-MD-Configuration]]
-- [[SOUL-MD-Challenge-Instructions]]
-- [[Compound-Effect-of-Persistent-Instructions]]
+- [[concepts/SOUL-MD-Configuration]]
+- [[concepts/SOUL-MD-Challenge-Instructions]]
+- [[concepts/Compound-Effect-of-Persistent-Instructions]]
 
 ## Source
-[[tonysimons-170-line-soul-md-hermes-agent-dangerous]]
+[[source-notes/tonysimons-170-line-soul-md-hermes-agent-dangerous]]

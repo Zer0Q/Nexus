@@ -12,9 +12,9 @@ Provides structured navigation without the rigidity of folder hierarchies. Enabl
 - Used by tools like ByteRover to navigate knowledge bases programmatically
 
 ## Related
-- [[Federated-Knowledge-Search]]
-- [[Graph-Based-Knowledge-Discovery]]
-- [[Map-of-Content]]
+- [[concepts/Federated-Knowledge-Search]]
+- [[frameworks/Graph-Based-Knowledge-Discovery]]
+- [[concepts/Map-of-Content]]
 
 ## Source
 [Federated-Knowledge-Search], [KevinNguyen-ByteRover-Obsidian]

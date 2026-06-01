@@ -12,9 +12,9 @@ Choosing an engine before answering hardware and workload questions leads to mis
 - The same engine is wrong for different workloads even on identical hardware
 
 ## Related
-- [[Prefill-vs-Decode]]
-- [[Memory-Bandwidth-Bottleneck]]
-- [[Interconnect-Bottleneck]]
+- [[concepts/Prefill-vs-Decode]]
+- [[concepts/Memory-Bandwidth-Bottleneck]]
+- [[concepts/Interconnect-Bottleneck]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

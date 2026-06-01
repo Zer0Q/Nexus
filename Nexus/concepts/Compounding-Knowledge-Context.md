@@ -21,9 +21,9 @@ The system's value doesn't peak at setup -- it compounds. At 2 weeks it's occasi
 - Token costs increase with vault size
 
 ## Related
-- [[Daily-Synthesis-Workflow]]
-- [[Anti-Graveyard-Capture]]
-- [[Feedback-Loop-Knowledge-System]]
+- [[concepts/Daily-Synthesis-Workflow]]
+- [[concepts/Anti-Graveyard-Capture]]
+- [[concepts/Feedback-Loop-Knowledge-System]]
 
 ## Source
-[[DamiDefi-Claude-Vault-Integration]]
+[[source-notes/DamiDefi-Claude-Vault-Integration]]

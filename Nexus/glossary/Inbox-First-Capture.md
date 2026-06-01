@@ -7,4 +7,4 @@ A capture strategy where all incoming information lands in a single unorganised 
 - Processing happens during scheduled review
 - Prevents bookmark graveyards
 
-See also: [[Inbox-First-Capture]], [[Anti-Graveyard-Capture]]
+See also: [[glossary/Inbox-First-Capture]], [[concepts/Anti-Graveyard-Capture]]

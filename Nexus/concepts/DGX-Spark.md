@@ -25,10 +25,10 @@ Democratizes access to frontier-class model sizes. Where a $2,000 consumer GPU t
 - $2,999 upfront is a real check, even if it pays back fast
 
 ## Related
-- [[DGX-Spark-Specs]] -- detailed hardware specifications
-- [[Cloud-GPU-Cost-Recovery]] -- ROI calculation vs cloud GPU rental
-- [[Unified-Memory-Advantage-DGX]] -- the 128GB memory advantage
-- [[Hardware-Reality-of-Local-AI]] -- broader hardware landscape
+- [[concepts/DGX-Spark-Specs]] -- detailed hardware specifications
+- [[concepts/Cloud-GPU-Cost-Recovery]] -- ROI calculation vs cloud GPU rental
+- [[concepts/Unified-Memory-Advantage-DGX]] -- the 128GB memory advantage
+- [[concepts/Hardware-Reality-of-Local-AI]] -- broader hardware landscape
 
 ## Source
-[[w1nklerr-DGX-Spark-Cost-Recovery]]
+[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]

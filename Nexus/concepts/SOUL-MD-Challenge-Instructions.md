@@ -19,9 +19,9 @@ AI assistants are trained to be agreeable. Without explicit challenge instructio
 - Requires honest notes (garbage in produces garbage challenges)
 
 ## Related
-- [[SOUL-MD-Configuration]] -- the broader SOUL.md framework
-- [[Daily-Synthesis-Workflow]] -- contradictions section in morning brief
-- [[Vault-Aware-Research]] -- the capability this instruction activates
+- [[concepts/SOUL-MD-Configuration]] -- the broader SOUL.md framework
+- [[concepts/Daily-Synthesis-Workflow]] -- contradictions section in morning brief
+- [[concepts/Vault-Aware-Research]] -- the capability this instruction activates
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

@@ -19,9 +19,9 @@ The "clock and nervous system" of automated knowledge systems. Routes informatio
 - Cloud version has execution limits
 
 ## Related
-- [[Four-Layer-Vault-Architecture]]
-- [[Automated-Capture-Pipeline]]
-- [[Automated-Business-Workflows]]
+- [[concepts/Four-Layer-Vault-Architecture]]
+- [[concepts/Automated-Capture-Pipeline]]
+- [[concepts/Automated-Business-Workflows]]
 
 ## Source
-[[CyrilXBT-Business-Operating-System]]
+[[source-notes/CyrilXBT-Business-Operating-System]]

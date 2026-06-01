@@ -7,4 +7,4 @@ A flat-rate model access service built by the Hermes team: $20/month for curated
 - Built into Hermes Agent
 - Alternative to per-token billing from Anthropic, OpenAI, etc.
 
-See also: [[Model-Selection-Tiers]]
+See also: [[concepts/Model-Selection-Tiers]]

@@ -19,9 +19,9 @@ RAG systems storing millions of vectors face massive memory costs. Binary embedd
 - Binary quantization works best with high-dimensional embeddings (128+)
 
 ## Related
-- [[RAG-Retrieval-Augmented-Generation]]
-- [[PagedAttention]]
-- [[KV-Cache]]
+- [[concepts/RAG-Retrieval-Augmented-Generation]]
+- [[concepts/PagedAttention]]
+- [[glossary/KV-Cache]]
 
 ## Source
-[[avichawla-make-rag-32x-memory-efficient-explained-code]]
+[[source-notes/avichawla-make-rag-32x-memory-efficient-explained-code]]

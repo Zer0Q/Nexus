@@ -19,9 +19,9 @@ Traditional software scaling required hiring more engineers. GStack demonstrates
 - Not suitable for highly regulated domains yet
 
 ## Related
-- [[Multi-Agent-Development]]
-- [[Agentic-SDLC]]
-- [[Human-AI-Orchestration]]
+- [[concepts/Multi-Agent-Development]]
+- [[concepts/Agentic-SDLC]]
+- [[concepts/Human-AI-Orchestration]]
 
 ## Source
-[[Suryanshti777-garry-tan-built-24-ai-engineering-team]]
+[[source-notes/Suryanshti777-garry-tan-built-24-ai-engineering-team]]

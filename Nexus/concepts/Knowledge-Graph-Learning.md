@@ -23,11 +23,11 @@ The connection is where understanding lives. A student who knows three separate 
 - Connection quality depends on Claude's reasoning across the vault
 
 ## Related
-- [[Knowledge-Graph-as-Semantic-Layer]]
-- [[Connection-Protocol]]
-- [[Sequential-vs-Network-Learning]]
-- [[Connection-Surface-Workflow]]
-- [[Pattern-Identification-Across-Notes]]
+- [[concepts/Knowledge-Graph-as-Semantic-Layer]]
+- [[workflows/Connection-Protocol]]
+- [[concepts/Sequential-vs-Network-Learning]]
+- [[workflows/Connection-Surface-Workflow]]
+- [[concepts/Pattern-Identification-Across-Notes]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

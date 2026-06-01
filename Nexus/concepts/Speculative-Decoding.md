@@ -19,8 +19,8 @@ Decode is memory-bandwidth-bound and generates one token at a time. Speculative 
 - Not effective for highly creative/divergent outputs
 
 ## Related
-- [[Prefill-vs-Decode]]
-- [[Memory-Bandwidth-Bottleneck]]
+- [[concepts/Prefill-vs-Decode]]
+- [[concepts/Memory-Bandwidth-Bottleneck]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

@@ -20,9 +20,9 @@ Eliminates the tab-switching friction between agent and notes. "Death by a thous
 - Requires discipline to keep everything in markdown
 
 ## Related
-- [[CLAUDE-MD-as-Context-Layer]]
-- [[Integrated-Terminal-Workflow]]
-- [[Markdown-as-Universal-Format]]
+- [[concepts/CLAUDE-MD-as-Context-Layer]]
+- [[concepts/Integrated-Terminal-Workflow]]
+- [[concepts/Markdown-as-Universal-Format]]
 
 ## Source
-[[Atenov-Self-Running-Brain]]
+[[source-notes/Atenov-Self-Running-Brain]]

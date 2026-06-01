@@ -20,11 +20,11 @@ An unmonitored alarm system is essentially a poorly performing one. Monitoring i
 - Metrics without action are meaningless — requires dedicated alarm team and biweekly review
 
 ## Related
-- [[Alarm-Management-Lifecycle]]
-- [[Alarm-Classification]]
-- [[Highly-Managed-Alarm]]
-- [[Management-of-Change]]
-- [[ISA-18-2-Standard]]
+- [[concepts/Alarm-Management-Lifecycle]]
+- [[concepts/Alarm-Classification]]
+- [[concepts/Highly-Managed-Alarm]]
+- [[concepts/Management-of-Change]]
+- [[concepts/ISA-18-2-Standard]]
 
 ## Source
-[[Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

@@ -22,12 +22,12 @@ The harness is the software layer between the user's prompt and the language mod
 - Complex prompts are less necessary — the harness does work users used to do manually
 - Three elements still matter: expected deliverable, end use case, output format
 - Specifying the "how" usually worsens results — the harness's internal method is often superior
-- [[Prompt-Validation-Over-Construction]] -- effort shifts from building prompts to validating results
+- [[concepts/Prompt-Validation-Over-Construction]] -- effort shifts from building prompts to validating results
 
 ## Related
-- [[Multi-Agent-Development]] -- harnesses orchestrate agent workflows
-- [[Context-Explosion]] -- harnesses help manage but don't eliminate context limits
-- [[Skill-Based-AI-Agents]] -- skills are harness-level abstractions
+- [[concepts/Multi-Agent-Development]] -- harnesses orchestrate agent workflows
+- [[concepts/Context-Explosion]] -- harnesses help manage but don't eliminate context limits
+- [[concepts/Skill-Based-AI-Agents]] -- skills are harness-level abstractions
 
 ## Sources
-- [[DavidHurtado-Harness-and-Prompting]]
+- [[source-notes/DavidHurtado-Harness-and-Prompting]]

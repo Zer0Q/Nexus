@@ -20,9 +20,9 @@ Enables AI to reason with contextual understanding that structured data alone ca
 - Risk of encoding incorrect assumptions if not validated
 
 ## Related
-- [[Tacit-Knowledge]]
-- [[Codify-without-Flattening]]
-- [[Graph-Knowledge-Layer]]
+- [[concepts/Tacit-Knowledge]]
+- [[concepts/Codify-without-Flattening]]
+- [[architectures/Graph-Knowledge-Layer]]
 
 ## Source
-[[TungRoussiere-Tacit-Knowledge-Moat]]
+[[source-notes/TungRoussiere-Tacit-Knowledge-Moat]]

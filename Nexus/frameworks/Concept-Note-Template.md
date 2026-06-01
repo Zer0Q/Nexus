@@ -25,11 +25,11 @@ The template enforces the first act of retrieval practice: writing the concept i
 - The "Where It Breaks Down" section requires deeper understanding than most learners have initially
 
 ## Related
-- [[Active-Recall-Learning]]
-- [[Mastery-Score-Tracking]]
-- [[Spaced-Repetition-System]]
-- [[Structured-Source-Notes]]
-- [[Connection-Protocol]]
+- [[concepts/Active-Recall-Learning]]
+- [[concepts/Mastery-Score-Tracking]]
+- [[concepts/Spaced-Repetition-System]]
+- [[concepts/Structured-Source-Notes]]
+- [[workflows/Connection-Protocol]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

@@ -7,4 +7,4 @@ Low-Power Double Data Rate 5x memory, the type used in the DGX Spark's 128GB uni
 - Enables loading 70B-200B parameter models on desktop hardware
 - Tradeoff: capacity superpower, bandwidth compromise
 
-See also: [[Unified-Memory-Advantage-DGX]], [[HBM]], [[Memory-Bandwidth-Bottleneck]]
+See also: [[concepts/Unified-Memory-Advantage-DGX]], [[glossary/HBM]], [[concepts/Memory-Bandwidth-Bottleneck]]

@@ -20,9 +20,9 @@ Removes the knowledge worker from 4-6 hours/day of administrative overhead. The 
 - Risk of automated errors if outputs not reviewed
 
 ## Related
-- [[Three-Layer-Architecture]]
-- [[Automated-Business-Workflows]]
-- [[Async-Queue-Pattern]]
+- [[concepts/Three-Layer-Architecture]]
+- [[concepts/Automated-Business-Workflows]]
+- [[concepts/Async-Queue-Pattern]]
 
 ## Source
-[[CyrilXBT-Business-Operating-System]]
+[[source-notes/CyrilXBT-Business-Operating-System]]

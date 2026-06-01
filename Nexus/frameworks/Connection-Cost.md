@@ -11,16 +11,16 @@ Connection cost is invisible during setup but compounds over time. A five-tool s
 - Scales with the number of tools squared (each pair needs a bridge)
 - Includes: context switching, manual linking, duplicate searching, lost information
 - Often the dominant cost in mature multi-tool workflows
-- Eliminated by moving to a [[Unified-Knowledge-Environment]]
+- Eliminated by moving to a [[frameworks/Unified-Knowledge-Environment]]
 
 ## Tradeoffs
 - Reducing connection cost may mean accepting fewer features per tool
 - Single-environment systems require more upfront architecture design
 
 ## Related
-- [[Unified-Knowledge-Environment]]
-- [[Inbox-First-Capture]]
-- [[Capture-As-The-Weakest-Link]]
+- [[frameworks/Unified-Knowledge-Environment]]
+- [[glossary/Inbox-First-Capture]]
+- [[concepts/Capture-As-The-Weakest-Link]]
 
 ## Source
-[[DamiDefi-Obsidian-Claude-Research-Stack]]
+[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]

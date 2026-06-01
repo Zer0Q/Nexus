@@ -20,10 +20,10 @@ Lowers the barrier to managing a running Hermes agent. Instead of CLI commands f
 - Skills tab can overwhelm new users with 87+ bundled skills
 
 ## Related
-- [[Kanban-Board-Workflow]] -- the most powerful dashboard screen
-- [[Agent-Profiles]] -- managed through the Profiles tab
-- [[Agent-Cron-Scheduler]] -- managed through the Cron tab
-- [[Self-Improvement-Loop]] -- skills visible and editable in the Skills tab
+- [[concepts/Kanban-Board-Workflow]] -- the most powerful dashboard screen
+- [[concepts/Agent-Profiles]] -- managed through the Profiles tab
+- [[concepts/Agent-Cron-Scheduler]] -- managed through the Cron tab
+- [[concepts/Self-Improvement-Loop]] -- skills visible and editable in the Skills tab
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

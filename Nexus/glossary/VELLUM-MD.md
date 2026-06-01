@@ -7,4 +7,4 @@ Context file for Vellum AI, equivalent to CLAUDE.md. Teaches the AI about vault 
 - Quality of VELLUM.md directly determines AI output quality
 - Must be updated regularly -- stale context produces stale output
 
-See also: [[CLAUDE-MD-as-Context-Layer]], [[AI-Chief-of-Staff]]
+See also: [[concepts/CLAUDE-MD-as-Context-Layer]], [[concepts/AI-Chief-of-Staff]]

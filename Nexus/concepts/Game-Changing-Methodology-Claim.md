@@ -20,9 +20,9 @@ If true, this means the quality ceiling of individual AI models can be systemati
 - The methodology assumes access to top-tier paid models
 
 ## Related
-- [[Adversarial-Model-Spiral]] -- the methodology being claimed as universal
-- [[Multi-Model-Convergence]] -- the foundation this claim rests on
-- [[Iterative-Model-Refinement]] -- the mechanism that produces improvement
+- [[concepts/Adversarial-Model-Spiral]] -- the methodology being claimed as universal
+- [[concepts/Multi-Model-Convergence]] -- the foundation this claim rests on
+- [[concepts/Iterative-Model-Refinement]] -- the mechanism that produces improvement
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

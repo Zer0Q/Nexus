@@ -13,9 +13,9 @@ Gives you a familiar chat experience without sending data to the cloud. Useful f
 - Supports drafting, rewriting, summarising, ideation
 
 ## Related
-- [[LM-Studio]]
-- [[Local-AI-Privacy]]
-- [[On-Device-Knowledge-Base]]
+- [[tools/LM-Studio]]
+- [[concepts/Local-AI-Privacy]]
+- [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

@@ -20,9 +20,9 @@ Agents limited to API calls can't interact with the open web. Browser control vi
 - Rate limiting and bot detection
 
 ## Related
-- [[Hermes-Agent-Architecture]]
-- [[Scoped-Vault-Access]]
-- [[Read-Only-Vault-Safety]]
+- [[concepts/Hermes-Agent-Architecture]]
+- [[concepts/Scoped-Vault-Access]]
+- [[concepts/Read-Only-Vault-Safety]]
 
 ## Source
-[[NeoAIForecast-hermes-has-browser-escape-hatch-agents-don]]
+[[source-notes/NeoAIForecast-hermes-has-browser-escape-hatch-agents-don]]

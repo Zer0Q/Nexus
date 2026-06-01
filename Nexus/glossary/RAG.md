@@ -7,7 +7,7 @@ A technique where an AI model answers questions by first retrieving relevant doc
 - Can run entirely on-device
 - Quality depends on retrieval accuracy and context window size
 
-See also: [[RAG-Retrieval-Augmented-Generation]], [[Embedding-Based-Vault-Search]]
+See also: [[concepts/RAG-Retrieval-Augmented-Generation]], [[concepts/Embedding-Based-Vault-Search]]
 
 ## Related
-- [[Model-Drift]]
+- [[glossary/Model-Drift]]

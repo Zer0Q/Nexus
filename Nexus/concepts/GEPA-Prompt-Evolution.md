@@ -21,9 +21,9 @@ The in-agent learning loop has a known weakness: agents tend toward self-congrat
 - Overkill for simple skills — best for high-value, frequently-used ones
 
 ## Related
-- [[Self-Evolving-Skills]] -- creates the skills GEPA optimizes
-- [[Agent-Skill-Curator]] -- maintains skill library quality
-- [[LLM-Harness]] -- evaluation harnesses for structured LLM testing
+- [[concepts/Self-Evolving-Skills]] -- creates the skills GEPA optimizes
+- [[concepts/Agent-Skill-Curator]] -- maintains skill library quality
+- [[concepts/LLM-Harness]] -- evaluation harnesses for structured LLM testing
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

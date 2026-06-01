@@ -21,10 +21,10 @@ No other open-source model can coordinate 300 concurrent specialized sub-agents.
 - Debugging a swarm failure is harder than debugging a single agent
 
 ## Related
-- [[Kimi-K26-Model]] -- the model enabling swarm orchestration
-- [[Long-Horizon-Coding]] -- swarms enable long-horizon tasks
-- [[Multi-Agent-Org-Chart]] -- similar concept for agent organization
-- [[Five-Layer-AI-Stack]] -- the coding layer uses swarm orchestration
+- [[tools/Kimi-K26-Model]] -- the model enabling swarm orchestration
+- [[concepts/Long-Horizon-Coding]] -- swarms enable long-horizon tasks
+- [[concepts/Multi-Agent-Org-Chart]] -- similar concept for agent organization
+- [[concepts/Five-Layer-AI-Stack]] -- the coding layer uses swarm orchestration
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

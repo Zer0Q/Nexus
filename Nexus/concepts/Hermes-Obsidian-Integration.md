@@ -19,10 +19,10 @@ This transforms Hermes from a stateless Q&A tool into a persistent research part
 - REST API plugin adds a network service on your local machine
 
 ## Related
-- [[Live-Vault-Memory]] -- the memory model this integration enables
-- [[Scoped-Vault-Access]] -- safe onboarding pattern
-- [[Vault-Aware-Automation]] -- broader category of vault-interacting systems
-- [[Hermes-Agent-Architecture]] -- Hermes's overall design
+- [[concepts/Live-Vault-Memory]] -- the memory model this integration enables
+- [[concepts/Scoped-Vault-Access]] -- safe onboarding pattern
+- [[concepts/Vault-Aware-Automation]] -- broader category of vault-interacting systems
+- [[concepts/Hermes-Agent-Architecture]] -- Hermes's overall design
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

@@ -11,7 +11,7 @@ For knowledge workers handling sensitive information, on-device processing is th
 - Replicates cloud AI features without data transfer
 - Requires sufficient hardware (16GB+ RAM recommended)
 - Supports multiple operating systems (Mac, Windows, Linux)
-- Can be combined with cloud AI in [[Hybrid-AI-Workflow]] mode
+- Can be combined with cloud AI in [[frameworks/Hybrid-AI-Workflow]] mode
 
 ## Tradeoffs
 - Local models are less capable than frontier cloud models
@@ -19,9 +19,9 @@ For knowledge workers handling sensitive information, on-device processing is th
 - Ongoing maintenance of models and plugins
 
 ## Related
-- [[Local-AI-Privacy]]
-- [[LM-Studio]]
-- [[Hybrid-AI-Workflow]]
+- [[concepts/Local-AI-Privacy]]
+- [[tools/LM-Studio]]
+- [[frameworks/Hybrid-AI-Workflow]]
 
 ## Source
-[[KanikaBK-Offline-AI-Workflow]]
+[[source-notes/KanikaBK-Offline-AI-Workflow]]

@@ -7,4 +7,4 @@
 - Higher throughput for inference at the cost of precision
 - Common metric for comparing AI accelerator performance
 
-See also: [[DGX-Spark-Specs]], [[MoE]]
+See also: [[concepts/DGX-Spark-Specs]], [[glossary/MoE]]

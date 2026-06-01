@@ -7,4 +7,4 @@ A network-level egress firewall for AI agent sandboxes. Instead of injecting rea
 - Tokens are useless outside the proxy
 - Composes with Bitwarden Secrets Manager
 
-See also: [[Iron-Proxy-Egress-Firewall]], [[Bitwarden-Secrets-Manager]]
+See also: [[concepts/Iron-Proxy-Egress-Firewall]], [[glossary/Bitwarden-Secrets-Manager]]

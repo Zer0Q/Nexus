@@ -20,10 +20,10 @@ Initial alarm management improvements are common, but gradual benefit erosion is
 - Philosophy documents that fall out of sync with practice will be abandoned
 
 ## Related
-- [[Alarm-Management]]
-- [[Alarm-Classification]]
-- [[Alarm-Monitoring-and-Assessment]]
-- [[Management-of-Change]]
+- [[concepts/Alarm-Management]]
+- [[concepts/Alarm-Classification]]
+- [[concepts/Alarm-Monitoring-and-Assessment]]
+- [[concepts/Management-of-Change]]
 
 ## Source
-[[Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

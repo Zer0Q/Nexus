@@ -26,11 +26,11 @@ Stops the forgetting curve by timing reviews at the exact moment material is abo
 - Less flexible than Anki's SM-2 algorithm for individual calibration
 
 ## Related
-- [[Active-Recall-Learning]]
-- [[Mastery-Score-Tracking]]
-- [[Concept-Note-Template]]
-- [[Synthesis-Session]]
-- [[Sequential-vs-Network-Learning]]
+- [[concepts/Active-Recall-Learning]]
+- [[concepts/Mastery-Score-Tracking]]
+- [[frameworks/Concept-Note-Template]]
+- [[workflows/Synthesis-Session]]
+- [[concepts/Sequential-vs-Network-Learning]]
 
 ## Source
-[[NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

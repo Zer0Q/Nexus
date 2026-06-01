@@ -15,7 +15,7 @@ ISO/IEC 23894:2023 extends ISO 31000 risk management to the AI lifecycle, addres
 ## AI-Specific Risk Domains
 - **Algorithmic Bias and Fairness** -- systematic discrimination in training data
 - **Explainability Gap** -- reputational and operational liability of black-box decisions
-- **Model Performance Degradation** -- [[Model-Drift]] as real-world data shifts
+- **Model Performance Degradation** -- [[glossary/Model-Drift]] as real-world data shifts
 - **Adversarial Vulnerabilities** -- data poisoning and model evasion
 
 ## Lifecycle Integration
@@ -24,9 +24,9 @@ ISO/IEC 23894:2023 extends ISO 31000 risk management to the AI lifecycle, addres
 3. **Continuous Monitoring** -- governance workflows tracking behavior under production stress
 
 ## Related Standards
-- [[AI-Governance]] -- shared vocabulary and governance frameworks
-- [[AI-System-Life-Cycle]] -- stages from inception to retirement
-- [[Risk-by-Design]] -- proactive risk methodology
+- [[frameworks/AI-Governance]] -- shared vocabulary and governance frameworks
+- [[frameworks/AI-System-Life-Cycle]] -- stages from inception to retirement
+- [[concepts/Risk-by-Design]] -- proactive risk methodology
 
 ## Sources
-- [[RamiroCid-ISO-23894-AI-Risk-Management]]
+- [[source-notes/RamiroCid-ISO-23894-AI-Risk-Management]]

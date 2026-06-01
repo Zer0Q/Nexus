@@ -7,4 +7,4 @@ Centralized repository of reusable agent skills, queryable by the agent at runti
 - Curator agent evaluates and updates skills based on performance
 - Agents load skills on-demand rather than carrying all in context
 
-See also: [[Skill-Based-AI-Agents]], [[Self-Evolving-Skills]], [[Skill-Curation-System]]
+See also: [[concepts/Skill-Based-AI-Agents]], [[concepts/Self-Evolving-Skills]], [[concepts/Skill-Curation-System]]

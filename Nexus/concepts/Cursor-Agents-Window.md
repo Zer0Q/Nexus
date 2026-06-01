@@ -20,9 +20,9 @@ Parallel agents compress development time: one refactors a module, one writes te
 - Each agent needs precise scoping to avoid working on overlapping files
 
 ## Related
-- [[Cloud-Handoff]] -- extends Cursor agents to the cloud for long-running tasks
-- [[Design-Mode-UI]] -- another Cursor 3 feature for UI editing
-- [[Five-Layer-AI-Stack]] -- Cursor is the execution layer
+- [[concepts/Cloud-Handoff]] -- extends Cursor agents to the cloud for long-running tasks
+- [[concepts/Design-Mode-UI]] -- another Cursor 3 feature for UI editing
+- [[concepts/Five-Layer-AI-Stack]] -- Cursor is the execution layer
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

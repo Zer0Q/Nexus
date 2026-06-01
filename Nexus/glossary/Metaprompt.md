@@ -18,8 +18,8 @@ A technique where you describe the desired result to the AI and ask it to draft 
 4. Execute
 
 ## Related
-- [[Prompt-Validation-Over-Construction]] -- metaprompts reduce construction effort
-- [[LLM-Harness]] -- harnesses can automate metaprompting
+- [[concepts/Prompt-Validation-Over-Construction]] -- metaprompts reduce construction effort
+- [[concepts/LLM-Harness]] -- harnesses can automate metaprompting
 
 ## Sources
-- [[DavidHurtado-Harness-and-Prompting]]
+- [[source-notes/DavidHurtado-Harness-and-Prompting]]

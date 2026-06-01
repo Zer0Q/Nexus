@@ -21,9 +21,9 @@ AI models cannot effectively analyze fragmented medical records. Spreading clini
 - Privacy concerns: full clinical history in a single file
 
 ## Related
-- [[OCR-Clinical-Document-Processing]] -- the technical mechanism
-- [[Adversarial-Model-Spiral]] -- the pipeline this feeds into
-- [[Primary-Source-Over-Secondary]] -- the philosophy behind full processing
+- [[concepts/OCR-Clinical-Document-Processing]] -- the technical mechanism
+- [[concepts/Adversarial-Model-Spiral]] -- the pipeline this feeds into
+- [[concepts/Primary-Source-Over-Secondary]] -- the philosophy behind full processing
 
 ## Source
-[[JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]

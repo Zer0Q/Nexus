@@ -32,8 +32,8 @@ The primary prompting skill has shifted from constructing elaborate prompts to v
 - Specific corrections are more effective than general prompt changes
 
 ## Related
-- [[LLM-Harness]] -- harnesses enable simpler prompts by handling context
-- [[Metaprompt]] -- shortcut when prompts get complex
+- [[concepts/LLM-Harness]] -- harnesses enable simpler prompts by handling context
+- [[glossary/Metaprompt]] -- shortcut when prompts get complex
 
 ## Sources
-- [[DavidHurtado-Harness-and-Prompting]]
+- [[source-notes/DavidHurtado-Harness-and-Prompting]]

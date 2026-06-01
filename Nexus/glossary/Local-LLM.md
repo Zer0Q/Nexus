@@ -7,4 +7,4 @@ A large language model running on your own hardware rather than a cloud provider
 - Requires 16GB+ RAM for comfortable operation
 - Exposes OpenAI-compatible API at localhost
 
-See also: [[Local-AI-Privacy]], [[LM-Studio]], [[Local-LLM-API-Compatibility]]
+See also: [[concepts/Local-AI-Privacy]], [[tools/LM-Studio]], [[concepts/Local-LLM-API-Compatibility]]

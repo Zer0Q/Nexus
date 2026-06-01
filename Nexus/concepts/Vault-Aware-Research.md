@@ -19,10 +19,10 @@ A standard AI session is smart but context-blind. It cannot flag contradictions 
 - Agent may over-weight your notes vs. its own knowledge without careful prompting
 
 ## Related
-- [[Context-Aware-AI-Research]] -- the broader concept this implements
-- [[SOUL-MD-Configuration]] -- what instructs the agent to read first
-- [[Live-Vault-Memory]] -- the memory model enabling this
-- [[Primary-Source-Over-Secondary]] -- the research philosophy behind it
+- [[concepts/Context-Aware-AI-Research]] -- the broader concept this implements
+- [[concepts/SOUL-MD-Configuration]] -- what instructs the agent to read first
+- [[concepts/Live-Vault-Memory]] -- the memory model enabling this
+- [[concepts/Primary-Source-Over-Secondary]] -- the research philosophy behind it
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

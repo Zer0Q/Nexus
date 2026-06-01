@@ -19,9 +19,9 @@ The bottleneck in software development is no longer individual coding speed but 
 - Quality variance across agents requires curation
 
 ## Related
-- [[Multi-Agent-Development]]
-- [[Swarm-Orchestration]]
-- [[Human-AI-Orchestration]]
+- [[concepts/Multi-Agent-Development]]
+- [[concepts/Swarm-Orchestration]]
+- [[concepts/Human-AI-Orchestration]]
 
 ## Source
-[[rohit4verse-slow-single-threaded-commanding-300-agents-one]]
+[[source-notes/rohit4verse-slow-single-threaded-commanding-300-agents-one]]

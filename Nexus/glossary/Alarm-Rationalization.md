@@ -8,4 +8,4 @@ Systematic review and justification of potential alarms against defined criteria
 - Typical result: 50% of alarms removed/added, 80% modified
 - Covered by ISA-TR18.2.2
 
-See also: [[Alarm-Rationalization]], [[Alarm-Philosophy]], [[ISA-18-2-Standard]]
+See also: [[glossary/Alarm-Rationalization]], [[concepts/Alarm-Philosophy]], [[concepts/ISA-18-2-Standard]]

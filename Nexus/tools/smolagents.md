@@ -13,7 +13,7 @@ Low-barrier entry to building custom AI agents. Good for prototyping agent behav
 - Not a complete SDLC solution
 
 ## Related
-- [[Multi-Agent-Development]], [[Skill-Based-AI-Agents]]
+- [[concepts/Multi-Agent-Development]], [[concepts/Skill-Based-AI-Agents]]
 
 ## Source
-[[SDD-vs-BMAD-Frameworks-Comparison]]
+[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]

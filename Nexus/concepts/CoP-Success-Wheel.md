@@ -23,9 +23,9 @@ Without measurable success criteria, CoPs operate blindly — it's unclear wheth
 - Community management is often perceived as cumbersome and lacking resources
 
 ## Related
-- [[Communities-of-Practice]] -- the structure this framework evaluates
-- [[CoP-Design-Principles]] -- design principles that feed into success factors
-- [[Knowledge-Centers]] -- formal knowledge bodies within the community ecosystem
+- [[concepts/Communities-of-Practice]] -- the structure this framework evaluates
+- [[concepts/CoP-Design-Principles]] -- design principles that feed into success factors
+- [[concepts/Knowledge-Centers]] -- formal knowledge bodies within the community ecosystem
 
 ## Source
-[[EuropeanCommission-CoP-Playbook]]
+[[source-notes/EuropeanCommission-CoP-Playbook]]

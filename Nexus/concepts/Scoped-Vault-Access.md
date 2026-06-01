@@ -19,9 +19,9 @@ AI agents can read and write files. Without scoped testing, a misconfigured agen
 - Some users skip this step and regret it
 
 ## Related
-- [[Hermes-Obsidian-Integration]] -- the setup this pattern applies to
-- [[Read-Only-Vault-Safety]] -- stricter alternative: read-only access only
-- [[Risk-by-Design]] -- broader safety-by-default philosophy
+- [[concepts/Hermes-Obsidian-Integration]] -- the setup this pattern applies to
+- [[concepts/Read-Only-Vault-Safety]] -- stricter alternative: read-only access only
+- [[concepts/Risk-by-Design]] -- broader safety-by-default philosophy
 
 ## Source
-[[DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]

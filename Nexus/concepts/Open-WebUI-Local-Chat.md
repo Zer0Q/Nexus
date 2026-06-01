@@ -20,10 +20,10 @@ Bridges the gap between raw local inference and a usable chat interface. Instead
 - UI features may lag behind ChatGPT's continuous updates
 
 ## Related
-- [[Ollama-Local-Serving]] -- the backend Open WebUI connects to
-- [[Local-AI-Privacy]] -- no data leaves your network
-- [[Local-LLM]] -- broader concept of local inference
-- [[LM-Studio]] -- alternative local chat interface
+- [[concepts/Ollama-Local-Serving]] -- the backend Open WebUI connects to
+- [[concepts/Local-AI-Privacy]] -- no data leaves your network
+- [[glossary/Local-LLM]] -- broader concept of local inference
+- [[tools/LM-Studio]] -- alternative local chat interface
 
 ## Source
-[[w1nklerr-DGX-Spark-Cost-Recovery]]
+[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]

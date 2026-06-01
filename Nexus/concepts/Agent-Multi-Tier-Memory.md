@@ -17,9 +17,9 @@ Single-memory agents either forget everything between sessions or waste tokens l
 - Tier 3: powerful but adds latency per turn
 
 ## Related
-- [[Agent-Identity-Layer]] -- the fixed frame above memory
-- [[Self-Evolving-Skills]] -- procedural memory (companion to factual memory)
-- [[Compounding-Knowledge-Context]] -- memory enables compounding across sessions
+- [[concepts/Agent-Identity-Layer]] -- the fixed frame above memory
+- [[concepts/Self-Evolving-Skills]] -- procedural memory (companion to factual memory)
+- [[concepts/Compounding-Knowledge-Context]] -- memory enables compounding across sessions
 
 ## Source
-[[AkshayPachaar-Hermes-Agent-Masterclass]]
+[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]

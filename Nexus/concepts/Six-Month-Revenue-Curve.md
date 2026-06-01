@@ -20,9 +20,9 @@ The six-month curve is the moat. Anyone can install Obsidian today. Almost nobod
 - Platform changes (algorithm shifts, policy changes) can disrupt the curve mid-flight
 
 ## Related
-- [[Revenue-Stack-Math]] -- the monthly numbers this curve produces
-- [[Shipping-Discipline]] -- the behavioral driver of the curve
-- [[Compounding-Knowledge-Context]] -- the mechanism behind the compounding effect
+- [[concepts/Revenue-Stack-Math]] -- the monthly numbers this curve produces
+- [[concepts/Shipping-Discipline]] -- the behavioral driver of the curve
+- [[concepts/Compounding-Knowledge-Context]] -- the mechanism behind the compounding effect
 
 ## Source
-[[Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

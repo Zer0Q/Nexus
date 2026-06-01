@@ -20,10 +20,10 @@ Processes continually change — raw materials, product specifications, debottle
 - Balance between control and agility is essential
 
 ## Related
-- [[Alarm-Management-Lifecycle]]
-- [[Highly-Managed-Alarm]]
-- [[Alarm-Monitoring-and-Assessment]]
-- [[Alarm-Philosophy]]
+- [[concepts/Alarm-Management-Lifecycle]]
+- [[concepts/Highly-Managed-Alarm]]
+- [[concepts/Alarm-Monitoring-and-Assessment]]
+- [[concepts/Alarm-Philosophy]]
 
 ## Source
-[[Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

@@ -21,9 +21,9 @@ Describing UI changes in text is error-prone and slow. Design Mode lets you poin
 - Complex layout changes may still require text instructions
 
 ## Related
-- [[Cursor-Agents-Window]] -- the interface where Design Mode is accessed
-- [[Visual-to-Code-Generation]] -- alternative approach: describe UI and get code
-- [[Five-Layer-AI-Stack]] -- part of Cursor's execution layer
+- [[concepts/Cursor-Agents-Window]] -- the interface where Design Mode is accessed
+- [[concepts/Visual-to-Code-Generation]] -- alternative approach: describe UI and get code
+- [[concepts/Five-Layer-AI-Stack]] -- part of Cursor's execution layer
 
 ## Source
-[[Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]

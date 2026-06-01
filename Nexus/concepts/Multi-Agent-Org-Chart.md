@@ -22,10 +22,10 @@ Simulates an organizational structure with specialized roles. Instead of one gen
 - Coordination complexity grows with agent count
 
 ## Related
-- [[Agent-Profiles]] -- the mechanism enabling separate agent instances
-- [[Kanban-Board-Workflow]] -- agents claim tasks from the shared board
-- [[Multi-Agent-Development]] -- broader concept of coordinating multiple agents
-- [[Hermes-Dashboard]] -- Profiles tab for managing the org chart
+- [[concepts/Agent-Profiles]] -- the mechanism enabling separate agent instances
+- [[concepts/Kanban-Board-Workflow]] -- agents claim tasks from the shared board
+- [[concepts/Multi-Agent-Development]] -- broader concept of coordinating multiple agents
+- [[concepts/Hermes-Dashboard]] -- Profiles tab for managing the org chart
 
 ## Source
-[[IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]

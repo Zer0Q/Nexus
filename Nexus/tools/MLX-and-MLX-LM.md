@@ -18,8 +18,8 @@ Enables large quantized models on Macs where they would be impossible on 24 GB c
 - Server lacks production security, observability, autoscaling
 
 ## Related
-- [[Unified-Memory-Tradeoff]]
-- [[Inference-Engine-Families]]
+- [[concepts/Unified-Memory-Tradeoff]]
+- [[frameworks/Inference-Engine-Families]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

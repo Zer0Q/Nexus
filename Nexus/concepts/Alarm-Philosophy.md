@@ -20,10 +20,10 @@ Without a philosophy, alarm decisions are ad hoc and inconsistent. The philosoph
 - Maintenance burden: must be reviewed and updated regularly
 
 ## Related
-- [[ISA-18-2-Standard]]
-- [[Alarm-Rationalization]]
-- [[Alarm-Classification]]
-- [[Alarm-Management-Lifecycle]]
+- [[concepts/ISA-18-2-Standard]]
+- [[glossary/Alarm-Rationalization]]
+- [[concepts/Alarm-Classification]]
+- [[concepts/Alarm-Management-Lifecycle]]
 
 ## Source
-[[ISA-18-Standards-Series]]
+[[source-notes/ISA-18-Standards-Series]]

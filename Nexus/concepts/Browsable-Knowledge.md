@@ -9,18 +9,18 @@ Humans discover connections through exploration, not just targeted queries. Brow
 ## Key Ideas
 - Wiki pages, linked notes, and visual graphs enable browsing
 - Write-time systems naturally produce browsable output
-- Query-time systems lack this without a [[Compilation-Agent]]
+- Query-time systems lack this without a [[frameworks/Compilation-Agent]]
 - Serendipity is a feature, not a bug, in knowledge work
-- The [[Graph-Knowledge-Layer]] bridges browsability with reliability
+- The [[architectures/Graph-Knowledge-Layer]] bridges browsability with reliability
 
 ## Tradeoffs
 - Browsable views can become stale without regular refresh
 - Generating browsable layers adds complexity
 
 ## Related
-- [[Write-Time-Knowledge-Systems]]
-- [[Graph-Knowledge-Layer]]
-- [[Query-Time-Knowledge-Systems]]
+- [[concepts/Write-Time-Knowledge-Systems]]
+- [[architectures/Graph-Knowledge-Layer]]
+- [[concepts/Query-Time-Knowledge-Systems]]
 
 ## Source
-[[NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

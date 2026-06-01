@@ -14,9 +14,9 @@ Each family optimizes for a different axis. Picking from the wrong family is the
 - **Orchestration:** NVIDIA Dynamo -- sits above engines, coordinates fleets
 
 ## Related
-- [[Hardware-First-Engine-Selection]]
-- [[llama-cpp]]
-- [[vLLM]]
+- [[frameworks/Hardware-First-Engine-Selection]]
+- [[tools/llama-cpp]]
+- [[tools/vLLM]]
 
 ## Source
-[[TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
