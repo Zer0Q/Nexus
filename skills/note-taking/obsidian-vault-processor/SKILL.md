@@ -102,7 +102,14 @@ For each article, extract 10-25 atomic notes. Each note represents ONE idea and 
 
 **File naming:** `Folder/Concept-Name.md` (kebab-case, no accents, no spaces, NO dots except the final `.md` extension, max 64 chars). If a tool name contains a dot (e.g., `CLAUDE.md`), replace it with `-MD-` (e.g., `CLAUDE-MD-Project-Knowledge.md`).
 
-**Wikilink rule:** `[[wikilinks]]` must match the EXACT filename (without `.md`). Example: `[[Concept-Name]]` points to `Concept-Name.md`. Never use spaces, accents, or dots inside `[[...]]`.
+**Wikilink rule:** `[[wikilinks]]` must match the EXACT filename stem (without `.md`). Example: `[[Concept-Name]]` points to `Concept-Name.md`. Never use spaces, accents, dots, or underscores inside `[[...]]`. Always use kebab-case (hyphens). If the file is `AddyOsmani-Agent-Harness-Engineering.md`, the link MUST be `[[AddyOsmani-Agent-Harness-Engineering]]` — never `[[Agent-Harness-Engineering]]` (that is a broken link to a non-existent file).
+
+**Wikilink normalization rule:** Every `[[wikilink]]` in every note MUST follow the same normalization as filenames:
+- **Hyphens, not spaces:** `[[Multi-Agent]]` not `[[Multi Agent]]`
+- **No accents/diacritics:** `[[ingenieria]]` not `[[ingeniería]]`
+- **No dots:** `[[CLAUDE-MD-Project]]` not `[[CLAUDE.md-Project]]`
+- **No underscores:** `[[my-concept]]` not `[[my_concept]]`
+- **Preserve original case:** `[[AddyOsmani-...]]` not `[[addyosmani-...]]`
 
 **Template:**
 ```markdown
@@ -211,7 +218,7 @@ for r,ds,fs in os.walk(vault):
     for f in fs:
         if f.endswith('.md'):
             fmap[norm(f)] = f[:-3]
-fixed = 0
+counter = [0]  # list wrapper — nonlocal fails in execute_code sandbox
 for r,ds,fs in os.walk(vault):
     if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
     ds[:] = [d for d in ds if d not in SKIP_DIRS]
@@ -219,20 +226,63 @@ for r,ds,fs in os.walk(vault):
         if not f.endswith('.md'): continue
         p = os.path.join(r,f)
         with open(p) as fh: content = fh.read()
-        def fix(m):
-            nonlocal fixed
-            lk = m.group(1).split('|')[0]
-            if norm(lk) in fmap and lk != fmap[norm(lk)]:
-                fixed += 1
-                return '[[{0}]]'.format(fmap[norm(lk)])
-            return m.group(0)
-        nc = re.sub(r'\[\[([^\]]+)\]\]', fix, content)
+        def make_fix(fmap_map, cnt):
+            def fix(m):
+                lk = m.group(1).split('|')[0]
+                if norm(lk) in fmap_map and lk != fmap_map[norm(lk)]:
+                    cnt[0] += 1
+                    return '[[{0}]]'.format(fmap_map[norm(lk)])
+                return m.group(0)
+            return fix
+        fix_fn = make_fix(fmap, counter)
+        nc = re.sub(r'\[\[([^\]]+)\]\]', fix_fn, content)
         if nc != content:
             with open(p,'w') as fh: fh.write(nc)
-print(f"Normalized: {fixed} links")
+print(f"Normalized: {counter[0]} links")
 ```
 
-### Step 8: Verify cross-link coherence AND source note connectivity
+### Step 8b: Detect plain text where wikilinks belong
+Run a script that scans `## Related`, `## Core Concepts`, `## Sources`, `## Glossary`, and `See also:` sections for bullet points or entries that look like concept names but are NOT wrapped in `[[ ]]`. These are "invisible broken links" — they look like references but Obsidian won't resolve them:
+```python
+import os, re
+vault = "path_to_vault"
+def in_dir(r, name):
+    return os.path.basename(r) == name
+SKIP_DIRS = {'obsidian', 'raw'}
+# Pattern: bullet point with text that looks like a concept name (contains hyphens or is TitleCase)
+# but is NOT a wikilink
+plain_ref_pattern = re.compile(r'^- ([A-Z][A-Za-z]+(?:[- ][A-Z][A-Za-z]+)+)\s*$')
+# Also: "See also:" line with non-wikilink text
+see_also_pattern = re.compile(r'^See also:.*?([A-Z][A-Za-z]+(?:[- ][A-Z][A-Za-z]+)+)')
+plain_refs = []
+for r, ds, fs in os.walk(vault):
+    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
+    ds[:] = [d for d in ds if d not in SKIP_DIRS]
+    for f in fs:
+        if not f.endswith('.md'): continue
+        fp = os.path.join(r, f)
+        with open(fp) as fh:
+            for i, line in enumerate(fh, 1):
+                m = plain_ref_pattern.match(line.strip())
+                if m:
+                    text = m.group(1)
+                    # Check it's not already a wikilink on this line
+                    if '[[{0}]'.format(text) not in line and '[[' not in line:
+                        plain_refs.append((f, i, text))
+                m2 = see_also_pattern.match(line.strip())
+                if m2:
+                    text = m2.group(1)
+                    if '[[{0}]'.format(text) not in line:
+                        plain_refs.append((f, i, text))
+if plain_refs:
+    print(f"PLAIN TEXT REFS (should be wikilinks) ({len(plain_refs)}):")
+    for fn, ln, txt in plain_refs:
+        print(f"  {fn}:{ln}  '{txt}' -> should be [[{txt}]] or full filename")
+else:
+    print("No plain-text references found.")
+```
+
+### Step 8a: Verify cross-link coherence AND source note connectivity
 Run a Python script to verify all `[[wikilinks]]` resolve to existing files AND that every source note has at least one outgoing wikilink:
 ```python
 import os, re, unicodedata
@@ -340,13 +390,28 @@ print(f"PLACEHOLDERS ({len(placeholder)}): {dict(placeholder)}")
 ```
 
 ### Step 10: Clean raw/
-**GATE:** Only proceed if Step 8 reports BOTH "All links coherent" AND "All source notes have outgoing links". If either check fails, DO NOT delete raw/ files — fix the issues first. Raw files are the only source material; once deleted, information cannot be recovered.
+**GATE:** Only proceed if Step 8a reports BOTH "All links coherent" AND "All source notes have outgoing links" AND Step 8b reports "No plain-text references found." If any check fails, DO NOT delete raw/ files — fix the issues first. Raw files are the only source material; once deleted, information cannot be recovered.
 
 After successful processing and zero broken links, delete processed articles from `raw/`.
 
 ## Maintenance (periodic)
 
 Run these checks every 10-15 new articles processed:
+
+### Source note link audit
+When processing new articles, also scan ALL existing source notes for link coverage. A source note with zero `[[wikilinks]]` is disconnected from the knowledge graph. Fix by adding wikilinks to relevant concepts that now exist in the vault:
+```python
+import os, re
+vault = "path_to_vault"
+source_dir = os.path.join(vault, "source_notes")
+for f in os.listdir(source_dir):
+    if not f.endswith('.md'): continue
+    fp = os.path.join(source_dir, f)
+    with open(fp) as fh:
+        links = re.findall(r'\[\[([^\]]+)\]\]', fh.read())
+    if not links:
+        print(f"DISCONNECTED: {f} — add wikilinks to Core Concepts")
+```
 
 ### Orphan detection
 Find notes that are not referenced by any other note:
@@ -379,6 +444,40 @@ else:
 ```
 Orphaned notes are not necessarily bad — they may be leaf concepts. But if a note has been orphaned for multiple processing cycles, consider whether it should be merged into a parent concept or removed.
 
+### Orphan resolution strategy
+- **Glossary orphans**: Often created as quick references but never linked back. Run a content search to find notes that mention the orphan's topic and add a `See also: [[Orphan-Name]]` link.
+- **Concept/Framework orphans**: Check if the concept was superseded by a broader note. If so, merge content and remove the orphan. If it's genuinely standalone, add it to a relevant index note.
+- **Persistent orphans (3+ cycles)**: Strong signal the note doesn't fit the vault's knowledge model — merge or delete.
+
+### Index consolidation
+Indexes grow with each ingest but are never pruned or reorganized. After every 15-20 new articles (or when the user asks), run an index audit:
+
+1. **List all indexes with their link counts:**
+```python
+import os, re
+vault = "path_to_vault"
+index_dir = os.path.join(vault, "indexes")
+for f in sorted(os.listdir(index_dir)):
+    fp = os.path.join(index_dir, f)
+    with open(fp) as fh:
+        content = fh.read()
+    links = re.findall(r'\[\[([^\]]+)\]\]', content)
+    print(f"{f}: {len(links)} links, {len(content)} chars")
+```
+
+2. **Detect overlap** — indexes that share 3+ concepts likely have overlapping scope. Consider merging them into a broader index or clearly differentiating their boundaries.
+
+3. **Merge small indexes** — indexes with fewer than 15 links often fit better as a section within a broader parent index. Merge the content and remove the small index.
+
+4. **Add a meta-index** — `indexes/Vault-Index.md` that maps all indexes to each other with one-line descriptions. This gives users a navigation map of the vault's knowledge domains.
+
+5. **Add frontmatter to indexes** — `created:` and `last_updated:` dates so stale indexes are identifiable.
+
+6. **Remove stale entries** — concepts that have been merged or deleted may leave dead links in indexes. The cross-link verification (Step 8) catches these.
+
+### Stale file cleanup
+After renaming a concept note (e.g., `Management-of-Change-for-Alarms.md` → `Management-of-Change.md`), the old file MUST be explicitly deleted. The rename creates a new file but leaves the old one behind, creating a duplicate that confuses future scans. Always verify by listing files matching the concept name pattern and delete any stale duplicates.
+
 ## Key Principles
 - **Dense over verbose** -- compress knowledge, don't summarize
 - **Atomic over large** -- one idea per note
@@ -407,3 +506,6 @@ Orphaned notes are not necessarily bad — they may be leaf concepts. But if a n
 - **Source notes MUST use `[[wikilinks]]` in the Core Concepts section** — never plain text. Each bullet should be `[[Concept-Name]] -- one-line description`. This is the primary connection mechanism between source notes and the knowledge graph.
 - **Atomic notes MUST use `[[wikilinks]]` in `## Related` and `## Source` sections** — never plain text.
 - **Glossary entries MUST use `[[wikilinks]]` in `See also:`** — never plain text.
+- **Plain text references in Related/See also sections are invisible broken links** — e.g., `- Agent-Harness-Engineering` without `[[ ]]` looks like a reference but Obsidian won't resolve it. Step 8b catches these.
+- **When referencing source notes, use the FULL filename stem** — if the file is `AddyOsmani-Agent-Harness-Engineering.md`, the link must be `[[AddyOsmani-Agent-Harness-Engineering]]`. Never shorten it to `[[Agent-Harness-Engineering]]`.
+- **When renaming a concept note, delete the old file.** Creating a new note with a refined name (e.g., `Management-of-Change-for-Alarms.md` → `Management-of-Change.md`) does NOT automatically remove the old one. Always delete the stale duplicate immediately after creating the replacement.

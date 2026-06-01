@@ -7,4 +7,4 @@ The complete scaffolding around an LLM model that enables autonomous task execut
 - Includes: system prompt, tool definitions, memory management, session control
 - Open source reference: agentic-harness on GitHub
 
-See also: Agent-Harness-Engineering, [[Hermes-Agent-Architecture]]
+See also: [[AddyOsmani-Agent-Harness-Engineering]], [[Hermes-Agent-Architecture]]

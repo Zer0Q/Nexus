@@ -6,7 +6,7 @@ Concepts, patterns, and tools for building, managing, and orchestrating AI agent
 - [[GStack-Software-Factory]] -- AI-native product organization
 
 ## Core Concepts
-- Agent-Harness-Engineering -- treating agent scaffolding as a living artifact
+- [[AddyOsmani-Agent-Harness-Engineering]] -- treating agent scaffolding as a living artifact
 - [[Agent-Harness-Layers]] -- three-layer architecture: model, agent, runtime
 - [[Multi-Harness-Orchestration]] -- coordinating multiple specialized harnesses
 - [[Agent-Pipeline-Pattern]] -- sequential agent chains with handoff files
@@ -17,7 +17,7 @@ Concepts, patterns, and tools for building, managing, and orchestrating AI agent
 
 ## Hermes-Specific
 - [[Hermes-Agent-Architecture]] -- Hermes internal architecture
-- Hermes-Harness-Architecture -- Hermes-specific harness design
+- [[aparnadhinak-hermes-harness-architecture]] -- Hermes-specific harness design
 - [[Multi-Agent-Development]] -- Hermes multi-agent capabilities
 - [[Agent-Profiles]] -- Hermes agent personality configuration
 - [[Agent-Skill-Curator]] -- automated skill improvement
