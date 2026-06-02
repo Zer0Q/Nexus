@@ -9,21 +9,25 @@ type: article
 # 60 Days with Hermes Analyst
 
 ## Summary
-Jeff shares lessons from 60 days running Hermes as an investment/data analyst agent. Key insight: agents fail on architecture, not intelligence — tools fighting each other, not model limitations. Covers provider selection, tool hierarchy, memory strategies, feedback loops, x402 payments, and skill bundling patterns.
+Six lessons from running Hermes as an investment/data analyst: provider selection matters less than tools and skills, external memory (Hindsight) enables better recall, feedback loops are the easiest way to train personal agents, x402 solves tool access economics, and skill bundling as directories saves tokens and reduces re-derivation.
 
 ## Core Concepts
-- [[concepts/Agent-Architecture-over-Intelligence]] -- Agents fail due to architectural issues (tool conflicts), not model intelligence
-- [[concepts/Tool-Selection-Hierarchy]] -- Direct API > MCP > Browser CDP > Headless browser, ranked by reliability and cost
-- [[concepts/Skill-Bundling]] -- Structuring skills as directories with references/scripts instead of monolithic prompts
-- [[concepts/Echo-Chamber-Bias]] -- Self-reinforcing analysis loops where AI gravitates toward existing holdings
+- [[concepts/Tool-Selection-Hierarchy]] -- direct API > MCP > skill file > Browser CDP > manual web search
+- [[concepts/Feedback-Loop-Training]] -- 6-step cycle: produce, flag, correct, encode, tighten, repeat
+- [[concepts/Skill-Bundling]] -- treat skills as directories with SKILL.md + references/ + scripts/ instead of monolithic prompts
+- [[concepts/Echo-Chamber-Bias]] -- sources gravitate toward same big-cap names, reinforcing existing holdings
+- [[glossary/x402-Payments]] -- pay-per-use agentic wallet for premium tools without subscriptions
 
 ## Key Insights
-- Provider switching costs 2-3 debugging sessions per swap; stick with one provider
-- Direct API access beats aggregator multi-hop (5-10s latency overhead)
-- External memory (Hindsight) enables relationship-building but costs more than native recall
-- Skill bundling saves ~5000 tokens per session vs monolithic prompts
-- x402 agentic wallets eliminate tool discovery friction — $5-10 USDC unlocks hundreds of premium tools
+- Agents fail on architecture, not intelligence; most bugs are tools fighting each other
+- Open-weight models measure up to frontier labs while keeping costs low
+- Direct API providers give better discounts/connectivity than multi-hop aggregators
+- Skill bundling saves 5000+ tokens per session vs monolithic prompts (500 tokens to load vs 5000 to re-explain)
+- External memory (Hindsight) + native memory = highly relevant outputs
+- "Reflect" takes 240s and times out; use "Recall" for time-sensitive cron jobs
+- x402: seed wallet with $5-10 USDC, access hundreds of premium tools at cents per call
+- Building an agent is 90% architecture, 10% AI
 
 ## Open Questions
-- How to solve echo chamber bias in recurring analysis workflows?
-- What's the optimal balance between reflect (deep) and recall (fast) for cron jobs?
+- How do you solve echo chamber bias in agent-curated research feeds?
+- What's the optimal balance between native and external memory for cost vs accuracy?

@@ -1,27 +1,29 @@
 # Tool Selection Hierarchy
 
 ## Definition
-A ranked hierarchy for selecting tools when building agent workflows, ordered by reliability, output quality, and cost efficiency: Direct API > MCP > Markdown skill files > Browser CDP > Headless browser.
+A ranking of tool access methods by effectiveness: direct API > MCP > skill file > Browser CDP > manual web search. Direct tool access yields far better outputs and saves time and cost compared to indirect methods.
 
 ## Why It Matters
-Choosing the right tool tier for each task significantly impacts output quality, latency, and cost. Using the wrong tier (e.g., headless browser when an API exists) wastes resources and introduces failure points.
+The tool you choose determines the quality, speed, and cost of agent operations. Using the wrong tool for the job wastes inference tokens, time, and money. Understanding the hierarchy helps route tasks to the right tool.
 
 ## Key Ideas
-- **Direct API access**: Best outputs, lowest latency, saves time and cost. Use for recurring workflows and cron jobs.
-- **MCP (Model Context Protocol)**: Standardized tool integration, good for structured data access.
-- **Markdown skill files**: Self-contained context for specific tasks, no runtime overhead.
-- **Browser CDP**: Better than headless browsers for interactive exploration; avoids Cloudflare blocks. Good for one-off scraping.
-- **Headless browser (Playwright)**: Most fragile — blocked by Cloudflare, highest maintenance. Last resort.
+- Direct API: best output quality, lowest latency, structured data
+- MCP: structured access to external tools, good for recurring workflows
+- Skill file: markdown instructions, good for one-off or domain-specific tasks
+- Browser CDP: interactive exploration, good for JS-heavy sites
+- Manual web search: fallback when no direct tool exists
+- For recurring workflows/cron jobs, having the right tool is best
+- For one-off scraping or interactive exploration, Browser CDP/agentic search is great
 
 ## Tradeoffs
-- Direct APIs require authentication setup and rate limit management
-- Browser CDP is slower but handles JS-heavy sites that APIs don't cover
-- One-off tasks justify higher-friction tools; recurring tasks demand the highest tier
+- Setup cost of direct APIs/MCPs vs convenience of web search
+- Tool maintenance -- APIs change, MCPs break, skills need updates
+- Coverage -- not every task has a direct tool available
 
 ## Related
-- [[concepts/Agent-Architecture-over-Intelligence]]
-- [[concepts/Browser-CDP-Control]]
-- [[concepts/Skill-Bundling]]
+- [[concepts/Cost-Tracking]]
+- [[concepts/Research-First-Architecture]]
+- [[tools/Firecrawl]]
 
 ## Source
 [[source-notes/0xJeff-Hermes-Analyst-60-Days]]

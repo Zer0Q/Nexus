@@ -1,28 +1,27 @@
 # Retrieval-First Organization
 
 ## Definition
-Designing vault organization from the retrieval end, not the capture end. Every structural decision (folders, tags, naming) is evaluated against one question: does this make retrieval faster or slower?
+Designing a knowledge system backward from retrieval rather than forward from capture. The primary question is "how will I find this when I need it?" not "where should I file this?" Structure, links, and naming conventions all serve retrieval.
 
 ## Why It Matters
-Filing cabinets optimize for storage; thinking systems optimize for retrieval. Most organizational systems fail because they make sense at capture time but tell you nothing at retrieval time. A folder called "Ideas" helps when creating but not when searching months later.
+Most note apps optimize capture friction but ignore retrieval. The result is a graveyard of saved content that can't be found when needed. Retrieval-first design ensures every captured item is findable, connectable, and actionable.
 
 ## Key Ideas
-- Four things you always know about a note: type, date, topic, status
-- Organize for the moment of retrieval, not capture
-- Every folder/tag/naming convention evaluated on retrieval speed
-- Progressive reorganization beats starting over
-- Quarterly vault review maintains organizational accuracy
+- Three non-negotiable properties: permanent (local files), linkable (wikilinks), queryable (consistent structure + model access)
+- Folders mimic organization, not thinking -- thoughts connect associatively
+- Wikilinks build the retrieval web automatically; every backlink reveals lost context
+- The gap between "I read something useful" and "I shipped something using it" is a retrieval problem
+- Contribution rate (how often notes feed output) is the only metric that matters
 
 ## Tradeoffs
-- May feel less satisfying at capture time (less "neat")
-- Requires discipline to maintain naming/tagging conventions
-- Initial learning curve for the retrieval dimensions
+- More upfront structure vs faster initial capture
+- Consistency enforcement vs flexibility
+- Link density vs noise -- too many links dilute signal
 
 ## Related
-- [[concepts/PARA-Method]]
-- [[frameworks/Date-Prefixed-Naming]]
-- [[concepts/Three-Category-Tagging]]
-- [[concepts/Quarterly-Vault-Review]]
+- [[concepts/Note-Contribution-Rate]]
+- [[concepts/Zero-Friction-Capture]]
+- workflows/Nightly-Processing
 
 ## Source
-[[source-notes/CyrilXBT-Vault-Organization]]
+[[source-notes/Zeuuss-30-Minute-Obsidian-System]]

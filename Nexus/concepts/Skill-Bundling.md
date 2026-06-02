@@ -1,28 +1,29 @@
 # Skill Bundling
 
 ## Definition
-Structuring agent skills as directories containing a lean SKILL.md pipeline file plus supporting reference files and scripts, rather than monolithic prompts. The SKILL.md stays ~100 lines while noise (endpoints, field names, error codes) lives in separate reference files.
+Treating skills as directories with SKILL.md + references/ + scripts/ instead of monolithic prompts. The pipeline logic stays lean (~100 lines in SKILL.md) while noise (endpoint URLs, field names, error codes) lives in reference files that load only when relevant.
 
 ## Why It Matters
-Monolithic skill prompts grow into unmaintainable spaghetti with each bug fix. Bundled skills cost ~500 tokens to load but save 5000+ tokens of re-explaining context every session. Over 60+ days and hundreds of sessions, the savings compound significantly.
+Monolithic skill prompts grow into spaghetti walls of text. Every new session re-derives context from the growing prompt. Bundled skills cost ~500 tokens to load but save 5000+ tokens of re-explaining context per session.
 
 ## Key Ideas
-- SKILL.md contains pipeline logic only (~100 lines)
-- `references/` holds API-specific details: endpoint shapes, field quirks, RPC patterns
-- `scripts/` contains executable helpers (shell scripts, validation tools)
-- Agent loads full context on skill activation — pipeline + references + scripts
-- Reference files only load when relevant, keeping the prompt lean
-- Each new session starts with full context instead of re-deriving from scratch
+- SKILL.md: pipeline logic and instructions (~100 lines, stays lean)
+- references/: API specifics, endpoint shapes, field quirks, query templates
+- scripts/: executable helpers for common operations
+- Agent gets full context when skill loads, but noise is lazy-loaded
+- Over 60+ days and hundreds of sessions, the savings compound significantly
+- Early workflows as one giant prompt: 2000+ words covering everything
+- Bundled approach: prompt stays lean because details live in reference files
 
 ## Tradeoffs
-- More files to maintain vs single prompt
-- Reference files must stay in sync with actual API changes
-- Initial setup cost is higher; pays off after ~10+ sessions
+- Directory structure overhead vs monolithic simplicity
+- Reference file maintenance -- keeping API docs and endpoints up to date
+- Loading strategy -- when to lazy-load reference files vs eager-load all
 
 ## Related
-- [[concepts/Agent-Architecture-over-Intelligence]]
-- [[concepts/Self-Evolving-Skills]]
-- [[concepts/Progressive-Disclosure-Skills]]
+- [[concepts/Skill-Curation-System]]
+- [[concepts/Skill-Bundling]]
+- [[concepts/Feedback-Loop-Training]]
 
 ## Source
 [[source-notes/0xJeff-Hermes-Analyst-60-Days]]

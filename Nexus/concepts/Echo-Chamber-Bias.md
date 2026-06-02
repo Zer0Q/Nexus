@@ -1,27 +1,27 @@
 # Echo Chamber Bias
 
 ## Definition
-Self-reinforcing analysis loops where AI-generated insights gravitate toward existing beliefs, holdings, or frequently-mentioned entities, amplifying confirmation bias in recurring workflows.
+The tendency of agent-curated research feeds to gravitate toward the same sources, topics, and big-cap names, reinforcing existing holdings and perspectives. Sources/analysts mention the same names (NVIDIA, TSMC, etc.), exacerbating the chamber effect.
 
 ## Why It Matters
-When agents run daily briefs or analysis on tracked sources, the output tends to mention the same big-cap names and reinforce existing positions. Sources and analysts reference the same entities, creating a feedback loop that narrows rather than broadens perspective.
+When an agent's research feeds its own outputs, which then influence future research queries, the system creates a self-reinforcing loop. This is especially dangerous in investment analysis where confirmation bias leads to poor decisions.
 
 ## Key Ideas
-- AI analysis gravitates toward existing holdings/positions
-- Sources/analysts tend to mention the same entities (e.g., NVIDIA, TSMC)
-- Compounds over time as the agent's memory reinforces these patterns
-- "Why it matters" sections become biased toward existing narratives
-- Currently unsolved problem in recurring analysis workflows
+- Sources gravitate toward same big-cap names and popular narratives
+- "Why it matters" sections tend to align with existing holdings
+- The problem compounds over time as the agent's memory reinforces the bias
+- No reliable solution yet -- acknowledged as an open problem
+- Countermeasures: diverse source selection, contrarian analysis prompts, explicit diversity requirements
 
 ## Tradeoffs
-- Adding more diverse sources helps but doesn't eliminate the bias
-- Explicitly prompting for contrarian views adds tokens and complexity
-- The bias is inherent in how LLMs optimize for relevance to existing context
+- Source diversity vs signal quality -- niche sources may be noisy
+- Contrarian prompts vs natural analysis -- forced contrarianism can be artificial
+- Manual curation vs automated diversity -- who decides what "diverse" means?
 
 ## Related
-- [[concepts/Self-Improvement-Loop]]
-- [[concepts/Feedback-Loop-Knowledge-System]]
-- [[concepts/Narrative-Signal-Detection]]
+- [[concepts/Research-First-Architecture]]
+- [[concepts/Feedback-Loop-Training]]
+- [[concepts/Vault-Aware-Research]]
 
 ## Source
 [[source-notes/0xJeff-Hermes-Analyst-60-Days]]

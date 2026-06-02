@@ -1,27 +1,28 @@
-# Visual-to-Code Generation
+# Visual to Code Generation
 
 ## Definition
-The ability to transform a UI sketch, screenshot, or text description into production-ready frontend code with structured layouts, interactive elements, and responsive design. Kimi K2.6 demonstrates this with deliberate aesthetic precision.
+Converting structured design data (components, tokens, layout) directly into production code via MCP connection, rather than interpreting screenshots or text descriptions. The code generator reads actual design specifications and rebuilds them faithfully.
 
 ## Why It Matters
-Instead of describing UI changes in text, you can hand a visual input (screenshot, sketch, or description) and get working code. This compresses the design-to-code cycle from hours to minutes and eliminates the translation gap between design intent and implementation.
+Screenshot-based code generation is lossy -- the model guesses at spacing, colors, and interactions. Structured design data preserves the designer's intent exactly, producing production-grade UI matching the design in minutes.
 
 ## Key Ideas
-- Input: UI description, sketch, or screenshot
-- Output: Production-ready component code, not a prototype
-- Includes all interactive states, responsive across mobile and desktop, accessible by default
-- Uses realistic example data, not placeholder content
-- Kimi K2.6 is the primary model for this capability in the five-tool stack
+- MCP connection gives code generator direct access to design output
+- Not screenshots -- actual design data: components, tokens, layout, everything
+- Code generator references design system and writes code matching it exactly
+- Adds hover states, transitions, edge-case handling from real design data
+- Replaces the Figma-to-designer-to-developer pipeline with a single workflow
+- Interactive preview catches flow issues before code is written
 
 ## Tradeoffs
-- Generated code may need refinement for complex business logic
-- Aesthetic quality depends on the specificity of the input
-- Accessibility claims should be verified, not assumed
+- Tool lock-in -- MCP connection ties you to specific design/code tool pairs
+- Complex interactions -- animated states and custom patterns need manual passes
+- Design system dependency -- output quality depends entirely on system quality
 
 ## Related
-- [[tools/Kimi-K26-Model]] -- the model enabling visual-to-code generation
-- [[concepts/Design-Mode-UI]] -- Cursor's click-to-edit alternative for UI changes
-- [[concepts/Five-Layer-AI-Stack]] -- part of the coding layer capabilities
+- [[concepts/Design-System-First]]
+- [[tools/Moonchild]]
+- [[concepts/PRD-to-UI]]
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[source-notes/PrajwalTomar-Codex-Moonchild-Design-Workflow]]

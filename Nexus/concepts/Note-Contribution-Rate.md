@@ -1,33 +1,27 @@
----
-type: concept
-related: [Output-Folder-Pattern, Four-Uses-of-Notes, Note-Usefulness-Assessment]
----
-
-# Note-Contribution-Rate
+# Note Contribution Rate
 
 ## Definition
-The metric that measures how often notes contribute to output -- decisions, writing, actions, or conversations. Replaces note count as the primary measure of vault value.
+The percentage of captured notes that actually contribute to a decision, published piece, deliverable, or action. A vault of 400 notes where every one contributed is worth more than 8,000 where 7,800 were never opened again.
 
 ## Why It Matters
-A vault with 500 notes that each contributed to a decision, piece of writing, or action is dramatically more valuable than a vault with 5,000 notes captured and never used. This metric shifts focus from accumulation to utility.
+Note count is a vanity metric. Contribution rate measures whether a knowledge system actually generates value or just accumulates digital clutter. It's the calibration signal that separates a system that gets smarter from one that just gets bigger.
 
 ## Key Ideas
-- The only metric that matters: number of times a note contributed to something
-- Every workflow in the system is designed to increase the contribution rate
-- Every capture convention is designed to preserve the context that makes future contribution possible
-- After 6 months, the Output folder shows which notes were generative and which were never used
-- The system learns what kind of knowledge is useful for you through this calibration
+- Measured by tracing output back to the notes that fed it
+- The output folder makes contribution rate visible -- every finished piece links back to source notes
+- Three months of data reveals which captures were generative vs filler
+- Low contribution rate signals capture style problems (too broad, too shallow, wrong format)
+- High contribution rate validates the retrieval-first approach
 
 ## Tradeoffs
-- Hard to measure precisely without tracking systems
-- May undervalue notes that provide long-tail reference value
+- Aggressive pruning (deleting low-contribution notes) vs keeping potential future references
+- Measuring contribution requires explicit linking from output back to sources
+- Short-term vs long-term contribution -- some notes contribute months later
 
 ## Related
-- [[concepts/Output-Folder-Pattern]]
-- [[concepts/Four-Uses-of-Notes]]
+- [[concepts/Retrieval-First-Organization]]
 - [[concepts/Note-Usefulness-Assessment]]
-- [[workflows/Weekly-Note-Audit]]
-- [[concepts/Compounding-Knowledge-Context]]
+- [[workflows/Output-Generator-Workflow]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[source-notes/Zeuuss-30-Minute-Obsidian-System]]
