@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Knowledge-Graph-as-Semantic-Layer.md",
+                "file": "raw/What an Enterprise Context Layer Actually Is.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge-Graph-as-Semantic-Layer"
-            }
-          },
-          {
-            "id": "565124717c9fd5a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/Tacit-Knowledge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tacit-Knowledge"
+              "title": "What an Enterprise Context Layer Actually Is"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ratchet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,35 +183,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "565124717c9fd5a5",
+  "active": "4dcbe81ab519e10a",
   "lastOpenFiles": [
-    "concepts/Knowledge-Graph-as-Semantic-Layer.md",
-    "source_notes/ashwingop-building-company-brain-over-last-year-taught.md",
+    "raw/Top AI Papers of the Week.md",
+    "raw/THE 30-MINUTE OBSIDIAN SYSTEM THAT TURNS 4,000 SCATTERED NOTES INTO 1 RETRIEVABLE BRAIN.md",
+    "raw/Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3.md",
+    "raw/Codex is CRACKED at Design. Here's the Workflow That Actually Works.md",
+    "raw/Claude tops by @humzaakhalid on X.md",
+    "raw/Beyond LLMs Why Scalable Enterprise AI Adoption Depends on Agent Logic.md",
+    "raw/21 painful mistakes I made building AI agents so you don't have to.md",
+    "raw/20 GitHub Repos That Let You Scrape Any Website Without Getting Blocked. The Full Stack.md",
     "raw/6 Workflows, 6 Lessons, 60 Days with Hermes Analyst.md",
-    "raw/Most Obsidian Beginners Accidentally Turn Their Vault Into a Productivity Trap.md",
-    "raw/How to Become a Second Brain Architect Using Obsidian in 6 Months (Full Course).md",
+    "raw/What an Enterprise Context Layer Actually Is.md",
+    "concepts/Zero-Shot-Ontology.md",
+    "source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures.md",
+    "concepts/Three-Layer-Semantic-Infrastructure.md",
+    "concepts/Semantic-Model.md",
+    "tools/OntoGPT.md",
+    "tools/ODKE-Plus.md",
+    "tools/KnoBuilder.md",
+    "tools/KGGen.md",
+    "glossary/RRF.md",
+    "glossary/LP-Measure.md",
+    "glossary/KGrEaT.md",
+    "glossary/KGTtm.md",
+    "concepts/RAG-then-Long-Context.md",
+    "concepts/Ontology-Enforcement.md",
+    "concepts/Entity-Resolution.md",
+    "concepts/Contextual-Retrieval.md",
+    "source-notes",
     "raw",
-    "indexes/Prompting-and-Harnesses.md",
-    "indexes/Research-Workflow-Index.md",
-    "indexes/Vault-Index.md",
-    "indexes/Agent-Harness-and-Orchestration-Index.md",
-    "raw/Cómo crear un vault en Obsidian que aprende solo.md",
-    "raw/Hermes Agent Masterclass The Complete Course From Zero to Full Autonomous Agent Operation.md",
-    "raw/Delete 90% of Your Obsidian Notes. The Vault Gets Smarter When You Do.md",
-    "raw/Pydantic fixed my Agent's Memory.md",
-    "raw/30 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know.md",
-    "raw/How To Fix AI Slop (Using Hermes).md",
-    "raw/If I Wanted to Get Rich with AI in 2026, I'd Do This.md",
-    "raw/What Building a Company Brain over the last Year Taught Me.md",
-    "raw/How to Steer Hermes Agent Mid-Task Without Interrupting It.md",
-    "raw/Hermes Agents Most Underrated Feature AI Agents That Can Delegate.md",
-    "raw/Hermes Agent Optional Skills How to Install New Capabilities on Demand.md",
-    "raw/Hermes Kanban Turns Multi-Agent Work Into a Real Board.md",
-    "raw/Hermes Workspace Is What Hermes Agent Is Missing.md",
-    "raw/Hermes Has a Browser Escape Hatch Most Agents Don’t.md",
-    "raw/How Hermes Saves You Money With Auxiliary Models, If You Configure Them Right.md",
-    "raw/How to Give Hermes Agent a Persistent Browser Identity with Camofox.md",
-    "raw/Why Hermes Agent Tool Gateway Matters More Than It Seems.md",
     "Sin título.canvas",
     "indexes",
     "source_notes",
