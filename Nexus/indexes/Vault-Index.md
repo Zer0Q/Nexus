@@ -7,6 +7,7 @@ Map of all thematic indexes in the Nexus vault. Shared entries across indexes sh
 
 ### AI Development and Tooling
 - [[indexes/AI-Development-Index]] — Agentic workflows, coding agents, spec-driven development, TDD/BDD
+- [[indexes/Pydantic-and-Data-Validation-Index]] — Pydantic models, validators, field aliases, PydanticAI agent framework
 - [[indexes/Prompting-and-Harnesses]] — LLM harnesses, prompt validation, system setup hierarchy
 
 ### AI Governance and Risk
@@ -39,6 +40,6 @@ Concepts that appear in multiple indexes (showing domain connections):
 - **Inbox-First-Capture** — Knowledge-Management, Research-Workflow
 
 ## Stats
-- 9 thematic indexes
-- 241 total notes (concepts, frameworks, tools, architectures, glossary, source notes)
-- Last updated: 2026-05-29
+- 10 thematic indexes
+- 376 total notes (concepts, frameworks, tools, architectures, glossary, source notes)
+- Last updated: 2026-06-02

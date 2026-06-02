@@ -16,6 +16,7 @@ Frameworks, tools, and concepts for AI-assisted software development — from vi
 - [[frameworks/Artifact-Pipeline]] -- structured artifact flow
 
 ## Tools
+- [[tools/PydanticAI]] -- Python agent framework by Pydantic team, type-safe, model-agnostic
 - [[frameworks/BMAD-Method]] -- full Agile simulation (npx bmad-method)
 - [[tools/Spec-Kit]] -- GitHub's minimalist SDD toolkit
 - [[tools/OpenSpec]] -- lightweight iterative specs
@@ -38,5 +39,12 @@ Frameworks, tools, and concepts for AI-assisted software development — from vi
 - [[glossary/TDD]]
 
 ## Sources
+- [[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
+- [[source-notes/KusCamara-PydanticAI-Agent-Creation]]
+- [[source-notes/Pydantic-Team-Pydantic-Models]]
+- [[source-notes/Pydantic-Team-Pydantic-Validators]]
+- [[source-notes/RealPython-Pydantic-Data-Validation]]
+- [[source-notes/Torque-Pydantic-Data-Transformation]]
+- [[source-notes/Anthropic-Building-Effective-AI-Agents]]
 - [[source-notes/BMAD-Method-Getting-Started]]
 - [[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]

@@ -4,6 +4,18 @@
 Patterns and anti-patterns for building reliable, scalable AI agent systems.
 
 ## Core Concepts
+- [[concepts/Agentic-System-Architecture]] -- workflows vs agents distinction, start simple
+- [[concepts/Augmented-LLM]] -- LLM + retrieval, tools, memory as foundational building block
+- [[concepts/Agent-Computer-Interface]] -- tool design principles: tokens to think, natural formats, poka-yoke
+- [[concepts/Prompt-Chaining-Workflow]] -- sequential LLM calls with gates between steps
+- [[concepts/Routing-Workflow]] -- classify input, route to specialized handlers
+- [[concepts/Parallelization-Workflow]] -- simultaneous LLM calls: sectioning and voting
+- [[concepts/Orchestrator-Workers-Workflow]] -- central LLM delegates to workers dynamically
+- [[concepts/Evaluator-Optimizer-Workflow]] -- iterative generation + feedback loop
+- [[concepts/Agent-Dependency-Injection]] -- type-safe runtime data into agent tools
+- [[concepts/Agent-Structured-Output]] -- constrain LLM responses to predefined schemas
+- [[concepts/Durable-Agent-Execution]] -- preserve agent progress across failures and restarts
+- [[concepts/Agent-Graph-Support]] -- type-hinted graph definitions for complex workflows
 - [[concepts/Specialized-Agent-Crews]] -- multiple focused agents with clear ownership
 - [[concepts/Research-First-Architecture]] -- research agent as input intelligence layer
 - [[concepts/Runtime-Monitoring]] -- supervisor watching intended vs actual flow
@@ -17,6 +29,7 @@ Patterns and anti-patterns for building reliable, scalable AI agent systems.
 - [[concepts/Tool-Selection-Hierarchy]] -- direct API > MCP > skill > Browser CDP > web search
 
 ## Tools
+- [[tools/PydanticAI]] -- Python agent framework by Pydantic team, type-safe, model-agnostic
 - [[tools/Firecrawl]] -- URL-to-markdown/JSON with JS rendering and CAPTCHA handling
 - [[tools/Crawl4AI]] -- LLM-pipeline-focused scraper with clean structured output
 - [[tools/Browser-Use]] -- full browser control for AI agents
@@ -28,6 +41,9 @@ Patterns and anti-patterns for building reliable, scalable AI agent systems.
 - [[concepts/Vault-Aware-Research]] -- agent research that queries existing knowledge vaults
 
 ## Sources
+- [[source-notes/Anthropic-Building-Effective-AI-Agents]]
+- [[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
+- [[source-notes/KusCamara-PydanticAI-Agent-Creation]]
 - [[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
 - [[source-notes/0xJeff-Hermes-Analyst-60-Days]]
 - [[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
