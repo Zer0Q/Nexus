@@ -1,9 +1,9 @@
 # Embeddings
 
-Numerical vector representations of text that capture semantic meaning. Similar texts produce similar vectors, measured by cosine distance. Used for semantic search across document collections.
+Representación vectorial del significado semántico de texto. Cada palabra, oración o documento se convierte en un vector (lista larga de números) donde significado similar = números similares = cercanía en el espacio vectorial.
 
-- Computed once per document, reused for all queries
-- Quality varies by embedding model choice
-- Foundation of [[concepts/RAG-Retrieval-Augmented-Generation]] and [[concepts/Embedding-Based-Vault-Search]]
+- Potencia búsqueda semántica, recomendaciones, RAG y "chat with PDF"
+- "Doctor" cerca de "Nurse"; "Apple fruta" lejos de "Apple compañía"
+- La IA no entiende significado como humanos: entiende distancia
 
-See also: [[concepts/Embedding-Based-Vault-Search]], [[glossary/RAG]]
+See also: [[Tokenization]], [[Attention-Mechanism]], [[RAG]]

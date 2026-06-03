@@ -1,13 +1,9 @@
 # RAG (Retrieval-Augmented Generation)
 
-A technique where an AI model answers questions by first retrieving relevant documents from a specific collection, then generating its response grounded in those documents.
+Patrones de arquitectura donde un LLM primero busca en una base de conocimiento antes de responder. Flujo: pregunta → embedding → búsqueda en vector DB → documentos relevantes + pregunta → modelo responde con datos reales.
 
-- Solves hallucination by grounding answers in real content
-- Requires embeddings for document search
-- Can run entirely on-device
-- Quality depends on retrieval accuracy and context window size
+- Mejor que fine-tuning para la mayoría de casos: datos cambiantes sin reentrenamiento
+- Citas de fuente disponibles, reduce alucinación dramáticamente
+- Funciona con datos privados que nunca deben estar en entrenamiento
 
-See also: [[concepts/RAG-Retrieval-Augmented-Generation]], [[concepts/Embedding-Based-Vault-Search]]
-
-## Related
-- [[glossary/Model-Drift]]
+See also: [[LLM-Hallucination]], [[Embeddings]], [[Context-Window]]
