@@ -14,6 +14,7 @@ How Perplexity, Azure, HubSpot, and many others use binary quantization to make 
 - HubSpot uses it in its AI assistant
 
 ## Core Concepts
+
 - [[concepts/Agent-Multi-Tier-Memory]] -- related concept
 - [[concepts/Session-Recall]] -- related concept
 - [[concepts/RAG-Retrieval-Augmented-Generation]] -- related concept
@@ -24,7 +25,7 @@ How Perplexity, Azure, HubSpot, and many others use binary quantization to make 
 - 1) Load data
 - 2) Generate Binary Embeddings
 - 3) Vector indexing
-
+- [[glossary/RRF]] -- Reciprocal Rank Fusion for result ranking in RAG
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?

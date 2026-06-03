@@ -12,12 +12,13 @@ type: article
 Behavior change framework based on identity transformation rather than surface-level goal setting. Covers teleological behavior (all behavior is goal-oriented), ego development stages, identity-protective cognition, and cybernetic feedback loops. Includes a practical protocol for uncovering true goals through self-inquiry.
 
 ## Core Concepts
+
 - [[concepts/Identity-Based-Behavior-Change]] -- Changing who you are so behavior follows naturally
 - [[concepts/Teleological-Behavior]] -- All behavior serves unconscious goals, even self-sabotage
 - [[concepts/Ego-Development-Stages]] -- Nine stages from impulsive to unitive (Greuter model)
 - [[concepts/Cybernetic-Intelligence]] -- Intelligence as goal-directed feedback loop: act, sense, compare, adjust
 - [[concepts/Identity-Protective-Cognition]] -- Defending psychological identity maintains status quo
-
+- [[concepts/Identity-Protective-Cognition]] -- How identity shapes information processing
 ## Key Insights
 - Surface goals fail because they don't address the identity foundation
 - Procrastination often serves unconscious goals (protection from judgment, maintaining safety)
@@ -27,6 +28,5 @@ Behavior change framework based on identity transformation rather than surface-l
 - Most adults hover between stages 4-8
 - Cybernetics definition of intelligence: ability to iterate, persist, and understand the big picture
 - Low intelligence = inability to learn from mistakes (not IQ)
-
 ## Open Questions
 - How do the ego development stages map to practical self-assessment tools?

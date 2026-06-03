@@ -12,6 +12,8 @@ type: article
 The more workflows you teach them, the more instructions they carry around all the time. That means more prompt weight, more context clutter, and more chances for irrelevant behavior to leak into a ta Instead of forcing every capability into the core prompt, Hermes uses skills: on-demand Markdown instruction packs that teach the agent how to do specific things. Some skills ship enabled by default.
 
 ## Core Concepts
+
+- [[glossary/x402]] -- HTTP extension for machine-to-machine payments
 - [[concepts/Hermes-Agent-Architecture]] -- related concept
 - [[concepts/Agent-Profiles]] -- related concept
 - [[concepts/Agent-Skill-Curator]] -- related concept
@@ -21,7 +23,7 @@ The more workflows you teach them, the more instructions they carry around all t
 - What optional skills are
 - Why Hermes keeps them optional
 - How to browse optional skills
-
+- [[glossary/iron-proxy]] -- Egress firewall for controlling AI agent network access
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?

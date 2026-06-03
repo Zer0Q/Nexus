@@ -12,6 +12,7 @@ type: article
 Andrej Karpathy does not use Obsidian as a note-taking app. The distinction sounds subtle. The difference in outcome is enormous. A note-taking app is a place you put information so you do not have to remember it.
 
 ## Core Concepts
+
 - [[concepts/Agent-Multi-Tier-Memory]] -- related concept
 - [[concepts/Session-Recall]] -- related concept
 - [[glossary/MCP]] -- related concept
@@ -23,7 +24,7 @@ Andrej Karpathy does not use Obsidian as a note-taking app. The distinction soun
 - Layer 3: The Synthesis Layer
 - Layer 4: The Intelligence Layer
 - Stage 1: Capture
-
+- [[frameworks/Inbox-First-Capture]] -- Capture-first workflow for knowledge management
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?

@@ -12,6 +12,7 @@ type: article
 Karpathy, Garry Tan, and the best builders in tech are all converging on AI second brains. The article covers a full 100% local setup guide. This is moving faster than most people realize. In 6 months Karpathy's LLM Wiki compiles raw sources into a persistent Markdown wiki with backlinks and cross-references. The LLM reads papers, extracts concepts, writes encyclopedia-style articles, and maintain
 
 ## Core Concepts
+
 - [[concepts/Agent-Multi-Tier-Memory]] -- related concept
 - [[concepts/Session-Recall]] -- related concept
 - [[glossary/MCP]] -- related concept
@@ -19,7 +20,7 @@ Karpathy, Garry Tan, and the best builders in tech are all converging on AI seco
 - [[concepts/RAG-Retrieval-Augmented-Generation]] -- related concept
 ## Key Insights
 - (don't forget to star it
-
+- [[tools/N8N]] -- Visual workflow automation platform
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?

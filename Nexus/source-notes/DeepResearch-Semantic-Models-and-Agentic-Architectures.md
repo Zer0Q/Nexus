@@ -13,6 +13,8 @@ type: article
 Deep research analysis on the convergence of generative AI (LLMs) with semantic models (knowledge graphs, ontologies, schemas). Covers state-of-the-art extraction frameworks (KnoBuilder, ODKE+, OntoGPT), entity resolution methods (KGGen), and the evolution of RAG architectures from naive to agentic graph-based retrieval. Emphasizes the three-layer semantic data infrastructure as the foundation for reliable autonomous agents.
 
 ## Core Concepts
+
+- [[concepts/Cybernetic-Intelligence]] -- Self-regulating intelligence systems
 - [[concepts/Semantic-Model]] -- Formal knowledge representation structures (KGs, ontologies, schemas) as deterministic substrates for LLM reasoning
 - [[concepts/Three-Layer-Semantic-Infrastructure]] -- Semantic Model → Domain Ontologies → Knowledge Graph layered architecture for enterprise agents
 - [[concepts/Zero-Shot-Ontology]] -- Dynamic schema inference from corpus analysis without predefined ontologies
@@ -26,7 +28,7 @@ Deep research analysis on the convergence of generative AI (LLMs) with semantic 
 - [[tools/KGGen]] -- Entity resolution system using k-means clustering + hybrid BM25/cosine search + LLM disambiguation
 - [[tools/ODKE-Plus]] -- Apple's ontology-guided extraction pipeline: 19M facts from 9M Wikipedia pages at 98.8% precision
 - [[tools/OntoGPT]] -- Schema-guided extraction using SPIRES methodology with LinkML schemas and mandatory grounding
-
+- [[concepts/Augmented-LLM]] -- LLM enhanced with external tools and knowledge sources
 ## Key Insights
 - Semantic layer transforms integration complexity from N(N-1) to N (linear scaling vs exponential)
 - KnoBuilder achieves 85% F1 on semantic extraction, 46% improvement in data acquisition efficiency over GraphRAG
@@ -34,7 +36,6 @@ Deep research analysis on the convergence of generative AI (LLMs) with semantic 
 - Context-Graph RAG reduces logical hallucinations by 40% with governance metadata injection
 - Contextual Retrieval reduces retrieval failures by 35-49% vs isolated chunk embedding
 - Two-phase extraction (Ontology LLM + Entailment LLM) reduces cognitive load and implicit relation omissions
-
 ## Open Questions
 - How does Zero-Shot Ontology scale when corpus quality varies significantly?
 - What are the practical latency tradeoffs of ontology enforcement loops in production?

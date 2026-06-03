@@ -12,6 +12,7 @@ type: article
 Official overview of Pydantic AI, a Python agent framework designed to bring the "FastAPI feeling" to GenAI development. Key features: model-agnostic, type-safe, composable capabilities, dependency injection, structured outputs, MCP/A2A integration, durable execution, graph support, and seamless Logfire observability.
 
 ## Core Concepts
+
 - [[tools/PydanticAI]] -- Agent framework built by Pydantic team with FastAPI-like ergonomics
 - [[concepts/Agent-Dependency-Injection]] -- Type-safe way to pass data/connections into agent tools and instructions
 - [[concepts/Agent-Structured-Output]] -- Constraining LLM output to Pydantic models with automatic validation
@@ -20,7 +21,7 @@ Official overview of Pydantic AI, a Python agent framework designed to bring the
 - [[concepts/Agent-Capabilities]] -- Composable units bundling tools, hooks, instructions, and model settings
 - [[concepts/Durable-Agent-Execution]] -- Preserving agent progress across failures and restarts
 - [[concepts/Agent-Graph-Support]] -- Type-hinted graph definitions for complex control flow
-
+- [[tools/PydanticAI]] -- Python framework for building AI agents with type safety
 ## Key Insights
 - Pydantic Validation underlies OpenAI SDK, Google ADK, Anthropic SDK, LangChain, LlamaIndex, CrewAI, Instructor
 - Model-agnostic: supports OpenAI, Anthropic, Gemini, Ollama, LiteLLM, 20+ providers
@@ -30,6 +31,5 @@ Official overview of Pydantic AI, a Python agent framework designed to bring the
 - Graph support replaces spaghetti code in complex multi-agent applications
 - YAML/JSON agent specification -- define agents without code
 - Human-in-the-loop tool approval based on arguments, history, or user preferences
-
 ## Open Questions
 - How does Pydantic AI's graph support compare to LangGraph or temporal workflows?
