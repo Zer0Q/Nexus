@@ -13,7 +13,7 @@ Principio A1 de gobernanza: dirección a nivel de junta directiva, roles y respo
 
 ## Core Concepts
 - [[Cyber-Security-Governance]] -- dirección de ciberseguridad a nivel de junta directiva
-- [[Risk-Appetite]] -- nivel de riesgo que la organización está dispuesta a aceptar
+- Risk-Appetite -- nivel de riesgo que la organización está dispuesta a aceptar
 - [[Cyber-Assessment-Framework]] -- marco que incluye gobernanza como primer principio
 
 ## Key Insights

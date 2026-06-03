@@ -13,7 +13,7 @@ Estrategia canary en CI/CD: despliegue gradual a un grupo pequeño (1-5% del tr�
 
 ## Core Concepts
 - [[Canary-Deployment]] -- estrategia de despliegue gradual con monitoreo progresivo
-- [[Observability]] -- métricas de error_rate, latency_p95 y business_success_rate como mínimo
+- Observability -- métricas de error_rate, latency_p95 y business_success_rate como mínimo
 
 ## Key Insights
 - Diferencia con blue/green: canary es gradual, blue/green es cambio casi instantáneo

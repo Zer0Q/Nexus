@@ -1,22 +1,23 @@
 ---
 title: "Introduction to the Cyber Assessment Framework"
 source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-to-caf"
-author: "NCSC UK"
+author: "None"
 published: "2024-04-18"
 type: article
 ---
 
-# CAF Introduction
+# Introduction to the Cyber Assessment Framework
 
 ## Summary
-Guía de uso del CAF: estructura de principios, resultados contribuyentes, tablas de IGPs y perfiles CAF para establecer niveles objetivo de seguridad cibernética.
+Artículo sobre introduction to the cyber assessment framework. Fuente: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-to-caf.
 
 ## Core Concepts
-- [[Cyber-Assessment-Framework]] -- 41 resultados contribuyentes evaluados mediante IGPs
-- [[Indicators-of-Good-Practice]] -- tablas con columnas logrado/no logrado/parcialmente logrado
-- [[CAF-Profiles]] -- subconjunto priorizado de resultados para establecer objetivos sectoriales
+- [[concepts/Cyber-Assessment-Framework]] -- Marco NCSC UK para evaluar resiliencia cibernética
+- [[concepts/CAF-Profiles]] -- Perfiles de nivel objetivo CAF
+
 
 ## Key Insights
-- Los IGPs informan el juicio experto, no son una checklist rígida
-- Un resultado "achieved" en los 41 indicadores supera la higiene básica de ciberseguridad
-- Los perfiles CAF se definen por el cuerpo de supervisión, no por el NCSC
+- Refer to extracted concepts for details
+
+## Source
+[[source-notes/NCSC-CAF-Introduction]]

@@ -1,22 +1,23 @@
 ---
 title: "Introduction to the CAF Collection"
 source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-caf-collection"
-author: "NCSC UK"
+author: "None"
 published: "2024-04-18"
 type: article
 ---
 
-# CAF Collection Introduction
+# Introduction to the CAF Collection
 
 ## Summary
-Introducción a la colección CAF del NCSC: por qué se creó, para qué sirve y cómo debe usarse. Enfocado en organizaciones con funciones esenciales sujetas a regulación cibernética como NIS Regulations y COMAH.
+Artículo sobre introduction to the caf collection. Fuente: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-caf-collection.
 
 ## Core Concepts
-- [[Cyber-Assessment-Framework]] -- marco orientado a resultados para funciones esenciales
-- [[Cyber-Resilience]] -- resiliencia ante ataques cibernéticos, no solo higiene básica
-- [[Essential-Functions]] -- funciones cuya falla causaría consecuencias inaceptables
+- [[concepts/Cyber-Assessment-Framework]] -- Marco NCSC UK para evaluar resiliencia cibernética
+- [[concepts/Indicators-of-Good-Practice]] -- Indicadores para evaluaciones CAF
+
 
 ## Key Insights
-- La colección cubre tanto IT como OT, a diferencia de prácticas genéricas de ciberseguridad
-- "Achieve and demonstrate" significa gestionar riesgos y demostrar cumplimiento ante reguladores
-- Los IGPs guían pero no reemplazan el juicio experto
+- Refer to extracted concepts for details
+
+## Source
+[[source-notes/NCSC-CAF-Collection-Introduction]]

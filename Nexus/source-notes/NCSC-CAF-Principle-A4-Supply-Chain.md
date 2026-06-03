@@ -13,7 +13,7 @@ Principio A4 de cadena de suministro: gestión de riesgos de proveedores, desarr
 
 ## Core Concepts
 - [[Supply-Chain-Security]] -- gestión de riesgos cibernéticos en la cadena de suministro
-- [[Secure-Software-Development]] -- prácticas de desarrollo y soporte de software confiable
+- Secure-Software-Development -- prácticas de desarrollo y soporte de software confiable
 - [[Cloud-Security]] -- confianza en medidas de ciberseguridad de servicios cloud
 
 ## Key Insights

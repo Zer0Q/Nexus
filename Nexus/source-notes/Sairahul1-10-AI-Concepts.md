@@ -20,7 +20,7 @@ type: article
 - [[Temperature-Parameter]] -- control de aleatoriedad en la generación de tokens
 - [[Context-Window]] -- límite de memoria de trabajo de un modelo
 - [[RAG]] -- Retrieval-Augmented Generation para usar datos propios
-- [[AI-Agents]] -- sistemas de IA que planifican, usan herramientas y verifican resultados
+- AI-Agents -- sistemas de IA que planifican, usan herramientas y verifican resultados
 
 ## Key Insights
 - Los LLMs no son bases de datos: predicen patrones, no buscan respuestas

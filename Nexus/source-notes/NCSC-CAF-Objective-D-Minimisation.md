@@ -1,19 +1,23 @@
 ---
-title: "CAF Objective D - Minimising the impact of cyber security incidents"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-d"
-author: "NCSC UK"
-published: "2025-08-06"
+title: "Cyber Assessment Framework"
+source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework"
+author: "None"
+published: "2024-04-18"
 type: article
 ---
 
-# CAF Objective D - Minimisation
+# Cyber Assessment Framework
 
 ## Summary
-Objetivo D del CAF: capacidades para minimizar el impacto adverso de incidentes de ciberseguridad en funciones esenciales, incluyendo restauración cuando sea necesario.
+Artículo sobre cyber assessment framework. Fuente: https://www.ncsc.gov.uk/collection/cyber-assessment-framework.
 
 ## Core Concepts
-- [[Cyber-Assessment-Framework]] -- marco con objetivo de minimización de impacto
-- [[Incident-Recovery]] -- capacidades de restauración de funciones esenciales tras incidentes
+- [[concepts/Cyber-Assessment-Framework]] -- Marco NCSC UK para evaluar resiliencia cibernética
+- [[concepts/Cyber-Resilience]] -- Capacidad de mantener funciones esenciales ante eventos cibernéticos
+
 
 ## Key Insights
-- La minimización de impacto incluye planes de recuperación y restauración de funciones esenciales
+- Refer to extracted concepts for details
+
+## Source
+[[source-notes/NCSC-CAF-Objective-D-Minimisation]]

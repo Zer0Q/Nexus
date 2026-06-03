@@ -1,27 +1,24 @@
 ---
 title: "Cyber Assessment Framework"
 source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework"
-author: "NCSC UK"
+author: "NCSC"
 published: "2024-04-18"
 type: article
 ---
 
-# NCSC Cyber Assessment Framework
+# Cyber Assessment Framework
 
 ## Summary
-El CAF del NCSC UK es un marco de evaluación de ciberseguridad y resiliencia para organizaciones que operan infraestructuras críticas y funciones esenciales. Proporciona objetivos y principios basados en resultados, no en checklists de cumplimiento.
+Marco del NCSC UK para evaluar y mejorar la resiliencia cibernética en organizaciones con funciones esenciales. Define 4 objetivos y 10 principios con indicadores de buena práctica.
 
 ## Core Concepts
-- [[Cyber-Assessment-Framework]] -- marco del NCSC para evaluar resiliencia cibernética en infraestructuras críticas
-- [[Cyber-Resilience]] -- capacidad de mantener funciones esenciales ante eventos cibernéticos adversos
-- [[CAF-Profiles]] -- perfiles de nivel objetivo (Básico y Mejorado) para evaluar organizaciones
-- [[Indicators-of-Good-Practice]] -- indicadores que guían evaluaciones de logro de resultados
+- [[concepts/Cyber-Assessment-Framework]] -- Marco NCSC UK para evaluar resiliencia cibernética
+- [[concepts/Cyber-Resilience]] -- Capacidad de mantener funciones esenciales ante eventos cibernéticos
 
 ## Key Insights
-- El CAF tiene 4 objetivos y 14 principios organizados en resultados contribuyentes
-- Distingue entre IT y OT a diferencia de marcos genéricos
-- Permite evaluaciones autoevaluadas o externas por reguladores
-- Extensible a sectores específicos con perfiles propios
+- El CAF es voluntario y se aplica a organizaciones del sector público y privado con funciones esenciales
+- Estructura en 4 objetivos: Proteger, Detectar, Minimizar, Gobernar
+- 10 principios con indicadores de buena práctica estructurados
 
-## Open Questions
-- ¿Cómo se mapea el CAF con ISO 27001:2022 en la práctica?
+## Source
+[[source-notes/NCSC-Cyber-Assessment-Framework]]

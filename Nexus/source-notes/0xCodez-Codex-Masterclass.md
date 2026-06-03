@@ -1,25 +1,23 @@
 ---
 title: "Master 97% of Codex in 30 Minutes (Full Course)"
 source: "https://x.com/0xCodez/status/2061795739575963935"
-author: "@0xCodez"
+author: "0xCodez"
 published: "2026-06-02"
 type: article
 ---
 
-# Codex Masterclass
+# Master 97 of Codex in 30 Minutes Full Course
 
 ## Summary
-Roadmap de 14 pasos para dominar Codex de OpenAI: desde la configuración básica (AGENTS.md, .env.local) hasta flujos avanzados (Skills, MCP, Automations, Browser Use). Codex tiene ~4M usuarios semanales y es el competidor directo de Claude Code.
+Artículo sobre master 97% of codex in 30 minutes (full course). Fuente: https://x.com/0xCodez/status/2061795739575963935.
 
 ## Core Concepts
-- [[Codex-Agent]] -- plataforma de codificación agéntica de OpenAI con CLI, app desktop y extensión IDE
-- [[AGENTS-MD]] -- archivo de configuración que define contexto, objetivos y restricciones del proyecto
-- [[Agent-Skills-Standard]] -- estándar cross-platform para skills de agentes (Codex, Claude Code, Gemini CLI)
-- [[Context-Engineering]] -- curación sistemática de información de proyecto para inyección en memoria de IA
+- [[concepts/Specification-Driven-Development]] -- Definir especificaciones antes de generar código
+- [[glossary/Codex-Agent]] -- Plataforma de codificación agéntica de OpenAI
+
 
 ## Key Insights
-- Plan mode es el paso más importante para evitar builds equivocados
-- Los Skills son archivos markdown reutilizables con frontmatter (nombre + descripción)
-- Worktree mode aísla cambios en Git para builds ambiciosos sin riesgo
-- El built-in browser de Codex sirve como loop de QA automatizado
-- Automations permiten flujos end-to-end sin intervención (pull → process → deploy)
+- Refer to extracted concepts for details
+
+## Source
+[[source-notes/0xCodez-Codex-Masterclass]]
