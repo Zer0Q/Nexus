@@ -29,5 +29,5 @@ Situated learning theory (Lave & Wenger) proposes that knowledge is constructed 
 
 ## Source
 
+- **Raw Note**: [[raw-LuisMartinez-Situated-Learning]]
 - **Original URL:** https://psicologiaymente.com/desarrollo/teoria-aprendizaje-situado
-- **Note:** raw article not found in vault

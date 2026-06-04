@@ -42,5 +42,5 @@ Author moved from cloud AI (Claude, ChatGPT) to a fully local AI stack after a p
 
 ## Source
 
+- **Raw Note**: [[raw-KanikaBK-Offline-LLM-workflow]]
 - **Original URL:** https://x.com/KanikaBK/status/2059177736648987072
-- **Note:** raw article not found in vault

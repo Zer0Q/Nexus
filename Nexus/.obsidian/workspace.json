@@ -4,20 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "07fd83312ba16551",
+        "id": "ef08f893ea75c66d",
         "type": "tabs",
         "children": [
           {
-            "id": "4dcbe81ab519e10a",
+            "id": "f95ae2eb04c2da27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "summaries/LuisMartinez-Situated-Learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LuisMartinez-Situated-Learning"
+            }
+          },
+          {
+            "id": "085e5cd6e75c78a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summaries/0xJeff-Hermes-Analyst-60-Days.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0xJeff-Hermes-Analyst-60-Days"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -49,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "27001",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,34 +218,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "4dcbe81ab519e10a",
+  "active": "085e5cd6e75c78a9",
   "lastOpenFiles": [
-    "raw/Industrial Cybersecurity Standards.md",
-    "raw/Comparison between ISOIEC 270012013 and ISOIEC 270012005.md",
-    "raw/CI-CD-Canary.md",
-    "raw/CAF-Consolidated view of CAF Guidance.md",
-    "raw/CAF Terms and Definitions.md",
-    "raw/Master 97% of Codex in 30 Minutes (Full Course).md",
-    "raw/ISO 270012022 Annex A Explained & Simplified.md",
-    "raw/La ineficiencia oculta de JSON frente a la revolución de TOON.md",
-    "raw/CAF-Introduction to the Cyber Assessment Framework.md",
-    "raw/CAF-Introduction to the CAF Collection.md",
-    "raw/CAF-Cyber Assessment Framework (CAF) changelog.md",
-    "raw/CAF-Cyber Assessment Framework.md",
-    "raw/CAF-Principle A4 Supply Chain.md",
-    "raw/CAF-Principle A3 Asset Management.md",
-    "raw/CAF-Principle A2 Risk Management.md",
-    "raw/CAF-Principle A1 Governance.md",
-    "raw/CAF Objective D - Minimising the impact of cyber security incidents.md",
-    "raw/CAF Objective C - Detecting cyber security events.md",
-    "raw/CAF Objective B - Protecting against cyber attacks.md",
-    "raw/A Practical Guide to Becoming an AI-Native Engineer.md",
-    "raw/10 AI Concepts Every Builder Must Understand Before Writing a Single Line of Code.md",
-    "concepts/Communities-of-Practice.md",
-    "source-notes/LuisMartinez-Comunidades-de-Practica.md",
-    "concepts/CoP-Design-Principles.md",
-    "concepts/Connection-Capture-Convention.md",
-    "concepts/Compounding-Learning-Loops.md",
+    "summaries/0xCodez-Master-97-of-Codex-in-30-Minutes-Full-Co.md",
+    "summaries/SDD-vs-BMAD.md",
+    "summaries/NCSC-Cyber-Assessment-Framework.md",
+    "summaries/MushtaqBilalPhD-claude-code-101-academic-researchers.md",
+    "summaries/KusCamara-PydanticAI-Agent-Creation.md",
+    "summaries/LuisMartinez-Situated-Learning.md",
+    "summaries/LuisMartinez-Comunidades-de-Practica.md",
+    "raw-notes/raw-LuisMartinez-Situated-Learning.md",
+    "raw/Step-By-Step LLM Engineering Projects (2026 Edition).md",
+    "summaries/Khairallah-Second-Brain-Architect-Roadmap.md",
+    "summaries/Khairallah-30-Obsidian-Workflows-Plugins-Setups.md",
+    "summaries/KevinNguyen-ByteRover-Obsidian.md",
+    "summaries/Karpathy-LLM-Wiki-Pattern.md",
+    "summaries/Karpathy-LLM-Knowledge-Bases.md",
+    "raw-notes/raw-LuisMartinez-Comunidades-de-Practica.md",
+    "summaries/KanikaBK-Offline-AI-Workflow.md",
+    "raw-notes/raw-KanikaBK-Offline-LLM-workflow.md",
+    "raw-notes/276-hermes-use-cases.md",
+    "raw-notes/10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code.md",
+    "summaries/InduTripati-Hermes-Agent-276-Use-Cases.md",
+    "raw-notes/hermes-browser-escape-hatch.md",
+    "summaries/InduTripati-Obsidian-Productivity-Trap.md",
+    "summaries/MushtaqBilalPhD-claude-code-102-academic-researchers.md",
+    "summaries/MushtaqBilalPhD-claude-code-103-academic-researchers.md",
+    "summaries/MushtaqBilalPhD-claude-code-104-building-ai-powered-research.md",
+    "summaries/MushtaqBilalPhD-codex-101-academic-researchers.md",
+    "summaries",
+    "raw-notes",
     "raw",
     "source-notes",
     "Sin título.canvas",
@@ -215,8 +256,6 @@
     "glossary",
     "workflows",
     "architectures",
-    "tools",
-    "frameworks",
-    "concepts"
+    "tools"
   ]
 }

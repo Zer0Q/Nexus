@@ -37,5 +37,5 @@ A Reddit megathread documented 276 real-world Hermes Agent use cases across 16 c
 
 ## Source
 
+- **Raw Note**: [[276-hermes-use-cases]]
 - **Original URL:** https://x.com/InduTripat82427/status/2057017304144298383
-- **Note:** raw article not found in vault

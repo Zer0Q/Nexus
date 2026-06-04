@@ -39,5 +39,6 @@ JaviLopen spent a month helping a metastatic cancer patient using an AI-assisted
 
 ## Source
 
+- **Raw Note:** [[post-JaviLopen-AI-Medical-Research-ARROWHEAD]]
 - **Original URL:** https://x.com/javilopen/status/2060421067546792004
-- **Note:** raw article not found in vault
+

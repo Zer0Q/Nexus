@@ -30,5 +30,5 @@ Most AI browser agents break when the page gets weird. A button hides inside an 
 
 ## Source
 
+- **Raw Note**: [[hermes-browser-escape-hatch]]
 - **Original URL:** https://x.com/NeoAIForecast/status/2047521653954089113
-- **Note:** raw article not found in vault

@@ -30,5 +30,5 @@ Overview of Communities of Practice (CoP): groups of people sharing a common fie
 
 ## Source
 
+- **Raw Note**: [[raw-LuisMartinez-Comunidades-de-Practica]]
 - **Original URL:** https://psicologiaymente.com/desarrollo/comunidades-de-practica
-- **Note:** raw article not found in vault
