@@ -38,17 +38,23 @@ Nexus/
 
 **Red flags:** Summary starts with "Today, we're launching...", "Artículo sobre...", summary is a single fragmented sentence, summary contains marketing language.
 
-### 2. CONCEPTS (¿los conceptos están definidos?)
+### 2. CONCEPTS (¿los conceptos están wikilinked y definidos?)
 
 | Score | Signal |
 |-------|--------|
-| 5 | Every concept has a specific, concrete description. Descriptions explain WHAT and WHY. |
-| 4 | Concepts defined, but some descriptions are brief or could be more specific. |
-| 3 | Mix of good definitions and vague ones. Some concepts feel generic. |
-| 2 | Most concepts use `-- related concept` or equally vague placeholders. |
-| 1 | All concepts are placeholders (`-- related concept`) or completely generic. |
+| 5 | Every concept is a `[[wikilink]]` with a concrete description explaining WHAT it is and WHY it matters. |
+| 4 | All concepts wikilinked and defined, but some descriptions are brief. |
+| 3 | Most concepts wikilinked and defined. Some use `-- related concept` or vague placeholders. |
+| 2 | Mix of wikilinked and plain text. Some concepts are NOT wrapped in `[[ ]]`. |
+| 1 | All concepts are placeholders (`-- related concept`), plain text without wikilinks, or completely generic. |
 
-**Red flags:** `-- related concept`, `-- see article`, `-- mentioned in source`, descriptions that don't say what the concept IS.
+**Red flags:** `-- related concept`, `-- see article`, `-- mentioned in source`, concepts written as plain text (not wikilinked), descriptions that don't say what the concept IS.
+
+**Insufficient source info:** If the original article mentions a concept but doesn't provide enough detail to define it, use this format:
+```markdown
+- [[Concept-Name]] -- needs research: article mentions this but lacks detail for a proper definition
+```
+This creates a research task for a future agent pass. Never leave concepts as plain text or use vague placeholders — either define them or mark them as needing research.
 
 ### 3. INSIGHTS (¿hay insights concretos?)
 
@@ -158,9 +164,11 @@ Group failures by pattern:
 |---------|-------------|-----|
 | `copy-paste-summary` | Summary copies source text | Re-process with explicit "synthesize, don't copy" instruction |
 | `placeholder-concepts` | All concepts use `-- related concept` | Re-process with concept definitions required |
+| `plain-text-concepts` | Concepts mentioned as plain text, NOT wikilinked | Wrap in `[[ ]]` or mark as `needs research` |
 | `empty-insights` | Key Insights section empty or headers only | Re-process with insight extraction required |
 | `template-questions` | Same questions across notes | Re-process with article-specific questions |
 | `thin-note` | Note under 500 bytes | Re-process with raw article for context |
+| `needs-research` | Concepts marked with `needs research` | Run research pass to augment definitions |
 
 ### Step 5: Remediation (if user approves)
 
@@ -171,9 +179,12 @@ For each FAIL note:
 ```
 QUALITY CONSTRAINTS (add to re-processing prompt):
 - Summary: Write 2-3 sentences of YOUR OWN synthesis. Do NOT copy phrases from the source.
-- Core Concepts: Each concept MUST have a concrete description explaining WHAT it is and WHY it matters. Never use "-- related concept".
+- Core Concepts: Every concept MUST be a `[[wikilink]]` with a concrete description explaining WHAT it is and WHY it matters.
+  - If the source article mentions a concept but lacks detail, use: `[[Concept-Name]] -- needs research: article mentions this but lacks detail`
+  - Never use "-- related concept" or leave concepts as plain text without wikilinks.
+  - Concepts written as plain text (not wikilinked) are broken links — Obsidian will NOT resolve them.
 - Key Insights: Extract 5+ specific insights with data, quotes, numbers, or actionable takeaways. Each insight must be a complete sentence.
-- Open Questions: Write 2-3 questions specific to THIS article's content. Reference concepts from the note.
+- Open Questions: Write 2-3 questions specific to THIS article's content. Reference concepts from the note with `[[wikilinks]]`.
 - Every section must have substantive content. No empty sections.
 ```
 
@@ -196,6 +207,15 @@ for f in os.listdir(summaries_dir):
     # Check 1: "-- related concept" placeholder
     if '-- related concept' in content:
         issues.append(f"  {f}: placeholder concepts ('-- related concept')")
+    # Check 1b: concepts as plain text (not wikilinked)
+    concepts_match = re.search(r'## Core Concepts\n+(.*?)(?:\n##|\Z)', content, re.DOTALL)
+    if concepts_match:
+        concept_lines = [l.strip() for l in concepts_match.group(1).split('\n') if l.strip().startswith('- ')]
+        for cl in concept_lines:
+            # Line has a concept name but NOT wrapped in [[ ]]
+            if '--' in cl and '[[' not in cl:
+                plain_text = cl.split('--')[0].strip().lstrip('- ').strip()
+                issues.append(f"  {f}: plain text concept (not wikilinked): '{plain_text}'")
     # Check 2: empty Key Insights
     if '## Key Insights\n\n' in content or '## Key Insights\n\n##' in content:
         issues.append(f"  {f}: empty Key Insights")
@@ -211,6 +231,9 @@ for f in os.listdir(summaries_dir):
     # Check 6: "Artículo sobre"
     if 'Artículo sobre' in content:
         issues.append(f"  {f}: lazy summary ('Artículo sobre...')")
+    # Check 7: "needs research" markers (info, not error)
+    if 'needs research' in content:
+        issues.append(f"  {f}: has concepts marked 'needs research' (research task pending)")
 if issues:
     print(f"ISSUES ({len(issues)}):")
     for i in issues:

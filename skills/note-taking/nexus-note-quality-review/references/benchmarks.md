@@ -32,6 +32,17 @@ Use these as calibration points when scoring notes.
 
 ---
 
+## MID QUALITY — Score: 15-18/25
+
+### Example: `Zeuuss-30-Minute-Obsidian-System.md`
+**Score: 18/25 — PASS but with issues**
+- **Summary (5/5):** Good synthesis. Captures 3 properties + 5 workflows + key metric.
+- **Concepts (3/5):** **3 of 8 concepts are plain text, NOT wikilinked** — `workflows/Nightly-Processing`, `workflows/Decision-Feeder`, `concepts/Weekly-Review`. Obsidian will NOT resolve these. This is a critical error.
+- **Insights (3/5):** 4 insights, good data (400 vs 8000), but one is generic ("Claude MCP connection turns vault from archive into thinking partner")
+- **Questions (3/5):** Relevant but don't reference concepts with wikilinks
+- **Density (4/5):** 1909 bytes, no empty sections
+- **Lesson:** Even good notes can have silent failures — plain text concepts look fine but are broken links.
+
 ## LOW QUALITY — Score: 1-10/25
 
 ### Example 1: `NainsiDwiv50980-rag-doesn-learn-karpathy-llm-wiki-changes.md`
