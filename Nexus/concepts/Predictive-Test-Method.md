@@ -30,4 +30,4 @@ Tests genuine understanding rather than memorization. If you can predict outcome
 - [[concepts/Gap-Analysis-Study]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

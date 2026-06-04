@@ -23,4 +23,4 @@ Free-text LLM output is unreliable for programmatic consumption. Structured outp
 - [[concepts/Pydantic-JSON-Schema]]
 
 ## Source
-[[source-notes/KusCamara-PydanticAI-Agent-Creation]]
+[[summaries/KusCamara-PydanticAI-Agent-Creation]]

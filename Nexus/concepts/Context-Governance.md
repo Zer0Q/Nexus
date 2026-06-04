@@ -24,4 +24,4 @@ Without governance, context decays into a fog of unverified prompts, drifted def
 - [[concepts/Compounding-Learning-Loops]]
 
 ## Source
-[[source-notes/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]]

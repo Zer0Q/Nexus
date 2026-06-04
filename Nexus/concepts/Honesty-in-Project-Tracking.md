@@ -13,8 +13,8 @@ Database status fields (Notion, Trello, etc.) encourage false organisation. You 
 - Reduces maintenance overhead of keeping status fields updated
 
 ## Related
-- [[frameworks/Unified-Knowledge-Environment]]
-- [[glossary/Connection-Cost]]
+- [[tools/Unified-Knowledge-Environment]]
+- [[concepts/Connection-Cost]]
 
 ## Source
-[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]
+[[summaries/DamiDefi-Obsidian-Claude-Research-Stack]]

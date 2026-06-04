@@ -13,7 +13,7 @@ Enables discovery of non-obvious connections, helps identify gaps in understandi
 
 ## Related
 - [[concepts/Communities-of-Practice]]
-- [[frameworks/Graph-Based-Knowledge-Discovery]]
+- [[tools/Graph-Based-Knowledge-Discovery]]
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]]
 - [[concepts/Tacit-Knowledge]]
 

@@ -24,4 +24,4 @@ Action-conditioned world models are the bridge between perception and control. T
 - [[concepts/Synthetic-Data-Generation]]
 
 ## Source
-[[source-notes/NVIDIA-Cosmos-3-Physical-AI]]
+[[summaries/NVIDIA-Cosmos-3-Physical-AI]]

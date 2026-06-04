@@ -25,15 +25,15 @@ How LLMs work internally, how to run them efficiently, and the hardware that pow
 - [[tools/llama-cpp]] -- C++ GGUF inference
 
 ## Glossary
-- [[glossary/KV-Cache]]
-- [[glossary/GGUF]]
-- [[glossary/MoE]]
-- [[glossary/FP4]]
-- [[glossary/HBM]]
-- [[glossary/NIM]]
+- [[concepts/KV-Cache]]
+- [[concepts/GGUF]]
+- [[concepts/MoE]]
+- [[concepts/FP4]]
+- [[concepts/HBM]]
+- [[concepts/NIM]]
 
 ## Sources
-- [[source-notes/RoyvanRijn-anatomy-llm-interactive-visual-language-models-work]]
-- [[source-notes/TheAhmadOsman-llms-101-practical-2026-edition]]
-- [[source-notes/avichawla-make-rag-32x-memory-efficient-explained-code]]
-- [[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+- [[summaries/RoyvanRijn-anatomy-llm-interactive-visual-language-models-work]]
+- [[summaries/TheAhmadOsman-llms-101-practical-2026-edition]]
+- [[summaries/avichawla-make-rag-32x-memory-efficient-explained-code]]
+- [[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

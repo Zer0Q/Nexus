@@ -23,4 +23,4 @@ LLM output is imperfect. Reflection allows agents to catch and fix their own mis
 - [[concepts/Evaluator-Optimizer-Workflow]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
+[[summaries/Pydantic-Team-Pydantic-AI-Overview]]

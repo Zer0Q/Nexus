@@ -28,4 +28,4 @@ Understanding your developmental stage explains why certain ideas resonate or fe
 - [[concepts/Cybernetic-Intelligence]]
 
 ## Source
-[[source-notes/DanKoe-Life-Change-Protocol]]
+[[summaries/DanKoe-Life-Change-Protocol]]

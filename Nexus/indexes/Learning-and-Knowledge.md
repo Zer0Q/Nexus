@@ -15,7 +15,7 @@ Theories of learning and knowledge acquisition, from situated learning to tacit 
 - [[concepts/Shared-Leadership]] -- flat participation model in learning communities
 - [[concepts/Virtual-Communities-of-Practice]] -- digital CoPs transcending geography
 - [[concepts/CoP-Design-Principles]] -- Wenger's seven principles for building CoPs
-- [[glossary/CoP-Success-Wheel]] -- five-factor framework for community success
+- [[concepts/CoP-Success-Wheel]] -- five-factor framework for community success
 - [[concepts/Knowledge-Centers]] -- formal bodies that structure and synthesize knowledge
 - [[concepts/Boundary-Spanning]] -- connecting knowledge across organizational silos
 
@@ -24,10 +24,10 @@ Theories of learning and knowledge acquisition, from situated learning to tacit 
 - [[concepts/Feedback-Loop-Knowledge-System]] -- communities create feedback loops
 
 ## Glossary
-- [[glossary/Legitimate-Peripheral-Participation]] -- newcomers learning from periphery to core
-- [[glossary/CoP-Success-Wheel]] -- five-factor evaluation framework
+- [[concepts/Legitimate-Peripheral-Participation]] -- newcomers learning from periphery to core
+- [[concepts/CoP-Success-Wheel]] -- five-factor evaluation framework
 
 ## Sources
-- [[source-notes/LuisMartinez-Situated-Learning]]
-- [[source-notes/LuisMartinez-Comunidades-de-Practica]]
-- [[source-notes/EuropeanCommission-CoP-Playbook]]
+- [[summaries/LuisMartinez-Situated-Learning]]
+- [[summaries/LuisMartinez-Comunidades-de-Practica]]
+- [[summaries/EuropeanCommission-CoP-Playbook]]

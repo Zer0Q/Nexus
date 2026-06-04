@@ -24,4 +24,4 @@ Functions outside of models still need input validation. @validate_call brings P
 - [[concepts/Pydantic-Field-Constraints]]
 
 ## Source
-[[source-notes/RealPython-Pydantic-Data-Validation]]
+[[summaries/RealPython-Pydantic-Data-Validation]]

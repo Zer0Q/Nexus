@@ -21,7 +21,7 @@ Most AI tools lose coherence as the context window fills. Long-document reasonin
 ## Related
 - [[concepts/Instruction-Following-Precision]] -- companion capability of Claude's reasoning layer
 - [[concepts/Five-Layer-AI-Stack]] -- Claude is the reasoning layer enabled by this capability
-- [[glossary/Vault-Context]] -- the context that fills the window
+- [[concepts/Vault-Context]] -- the context that fills the window
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

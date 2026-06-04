@@ -24,4 +24,4 @@ PRD-to-UI eliminates the iterative screen-by-screen design process. A single str
 - [[tools/Moonchild]]
 
 ## Source
-[[source-notes/PrajwalTomar-Codex-Moonchild-Design-Workflow]]
+[[summaries/PrajwalTomar-Codex-Moonchild-Design-Workflow]]

@@ -30,4 +30,4 @@ Connections you did not intentionally create become visible when Claude reads ac
 - [[concepts/Pattern-Identification-Across-Notes]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

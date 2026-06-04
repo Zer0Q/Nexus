@@ -25,4 +25,4 @@ Autonomous loops running continuously can generate unexpected bills. Cost tracki
 - [[concepts/Context-Efficiency-Frontier]]
 
 ## Source
-[[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
+[[summaries/gkisokay-21-Mistakes-Building-AI-Agents]]

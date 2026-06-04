@@ -27,4 +27,4 @@ No other open-source model can coordinate 300 concurrent specialized sub-agents.
 - [[concepts/Five-Layer-AI-Stack]] -- the coding layer uses swarm orchestration
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

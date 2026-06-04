@@ -25,4 +25,4 @@ Depending on a single model/provider creates single points of failure. Outages, 
 - [[concepts/Local-AI-Mindset-Shift]]
 
 ## Source
-[[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
+[[summaries/gkisokay-21-Mistakes-Building-AI-Agents]]

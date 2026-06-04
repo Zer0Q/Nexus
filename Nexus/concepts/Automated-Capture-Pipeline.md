@@ -21,8 +21,8 @@ Capture friction is the #1 reason knowledge systems fail. Every friction point i
 
 ## Related
 - [[concepts/Four-Layer-Vault-Architecture]]
-- [[glossary/Inbox-First-Capture]]
+- [[concepts/Inbox-First-Capture]]
 - [[concepts/Anti-Graveyard-Capture]]
 
 ## Source
-[[source-notes/CyrilXBT-Self-Improving-Vault]]
+[[summaries/CyrilXBT-Self-Improving-Vault]]

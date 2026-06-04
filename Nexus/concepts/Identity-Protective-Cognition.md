@@ -25,4 +25,4 @@ Identity protection is the primary barrier to behavior change. People don't reje
 - [[concepts/Ego-Development-Stages]]
 
 ## Source
-[[source-notes/DanKoe-Life-Change-Protocol]]
+[[summaries/DanKoe-Life-Change-Protocol]]

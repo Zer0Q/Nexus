@@ -21,7 +21,7 @@ A fresh AI session is smart but ignorant of your work. It cannot flag contradict
 ## Related
 - [[concepts/RAG-Retrieval-Augmented-Generation]]
 - [[concepts/Structured-Source-Notes]]
-- [[frameworks/Unified-Knowledge-Environment]]
+- [[tools/Unified-Knowledge-Environment]]
 
 ## Source
-[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]
+[[summaries/DamiDefi-Obsidian-Claude-Research-Stack]]

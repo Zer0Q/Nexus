@@ -29,4 +29,4 @@ The spec sheet reveals why the DGX Spark is transformative: 128GB of unified mem
 - [[concepts/Hardware-Reality-of-Local-AI]] -- broader hardware comparison context
 
 ## Source
-[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+[[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

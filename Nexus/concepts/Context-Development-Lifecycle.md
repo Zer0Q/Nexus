@@ -24,4 +24,4 @@ Software engineering created the SDLC to manage how code is built, reviewed, ver
 - [[concepts/Context-Governance]]
 
 ## Source
-[[source-notes/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]]

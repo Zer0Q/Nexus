@@ -24,4 +24,4 @@ Long-horizon agents face the quadratic cost of attention as context grows. Sleep
 - [[concepts/Long-Horizon-Coding]]
 
 ## Source
-[[source-notes/DAIR-Top-AI-Papers-of-the-Week]]
+[[summaries/DAIR-Top-AI-Papers-of-the-Week]]

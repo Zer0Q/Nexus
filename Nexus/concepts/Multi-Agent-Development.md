@@ -19,7 +19,7 @@ Simulates the role separation of human Agile teams, reducing the cognitive load 
 
 ## Related
 - [[concepts/LLM-Harness]]
-- [[frameworks/BMAD-Method]], [[concepts/Agentic-SDLC]], [[concepts/Skill-Based-AI-Agents]]
+- [[tools/BMAD-Method]], [[concepts/Agentic-SDLC]], [[concepts/Skill-Based-AI-Agents]]
 
 ## Source
-[[source-notes/BMAD-Method-Getting-Started]], [[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]
+[[summaries/BMAD-Method-Getting-Started]], [[summaries/SDD-vs-BMAD-Frameworks-Comparison]]

@@ -22,7 +22,7 @@ The ARROWHEAD methodology requires access to ChatGPT 5 Pro and Claude Opus 4.8 M
 ## Related
 - [[concepts/AI-Assisted-Medical-Research]] -- what public investment would enable
 - [[concepts/Adversarial-Model-Spiral]] -- the methodology that needs access
-- [[glossary/Local-LLM]] -- potential alternative for cost-conscious deployment
+- [[concepts/Local-LLM]] -- potential alternative for cost-conscious deployment
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

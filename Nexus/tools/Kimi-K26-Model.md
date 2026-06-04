@@ -26,4 +26,4 @@ K2.6 can orchestrate up to 300 concurrent sub-agents across 4000 steps, tripling
 - [[concepts/Five-Layer-AI-Stack]] -- K2.6 is the coding layer
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

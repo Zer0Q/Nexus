@@ -23,4 +23,4 @@ Most debugging time is spent resolving tools fighting each other (API incompatib
 - [[concepts/Model-Selection-Tiers]]
 
 ## Source
-[[source-notes/0xJeff-Hermes-Analyst-60-Days]]
+[[summaries/0xJeff-Hermes-Analyst-60-Days]]

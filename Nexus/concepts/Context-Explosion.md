@@ -14,7 +14,7 @@ The fundamental scalability bottleneck of AI-assisted development frameworks. To
 
 ## Related
 - [[concepts/LLM-Harness]]
-- [[frameworks/BMAD-Method]], [[frameworks/Spec-Driven-Development]], [[concepts/Multi-Agent-Development]], [[concepts/KV-Cache-Growth]]
+- [[tools/BMAD-Method]], [[tools/Spec-Driven-Development]], [[concepts/Multi-Agent-Development]], [[concepts/KV-Cache-Growth]]
 
 ## Source
-[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]
+[[summaries/SDD-vs-BMAD-Frameworks-Comparison]]

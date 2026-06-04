@@ -30,4 +30,4 @@ Traditional note-taking is linear: concept A on page 12, concept B on page 20, c
 - [[concepts/Active-Recall-Learning]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

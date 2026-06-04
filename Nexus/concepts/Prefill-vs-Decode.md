@@ -24,4 +24,4 @@ The dominant phase determines which hardware and engine optimizations matter. Sh
 - [[concepts/Disaggregated-Prefill-Decode]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

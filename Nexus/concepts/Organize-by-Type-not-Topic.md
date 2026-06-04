@@ -24,4 +24,4 @@ When organized by topic, a note about attention economics in crypto and a note a
 - [[concepts/Three-Category-Tagging]]
 
 ## Source
-[[source-notes/DamiDefi-Claude-Vault-Integration]]
+[[summaries/DamiDefi-Claude-Vault-Integration]]

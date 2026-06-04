@@ -30,5 +30,5 @@ Built-in type validation covers basic cases, but real-world data needs custom ru
 - [[concepts/Pydantic-Data-Conversion]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-Validators]]
-[[source-notes/Torque-Pydantic-Data-Transformation]]
+[[summaries/Pydantic-Team-Pydantic-Validators]]
+[[summaries/Torque-Pydantic-Data-Transformation]]

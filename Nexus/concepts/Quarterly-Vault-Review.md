@@ -25,4 +25,4 @@ Organization degrades over time without maintenance. Tags accumulate that no lon
 - [[concepts/Map-of-Content]]
 
 ## Source
-[[source-notes/CyrilXBT-Vault-Organization]]
+[[summaries/CyrilXBT-Vault-Organization]]

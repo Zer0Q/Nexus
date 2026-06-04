@@ -21,7 +21,7 @@ Flat text retrieval breaks on complex queries. Ontology-based memory structures 
 ## Related
 - [[concepts/Structured-Agent-Memory]]
 - [[concepts/Agent-Multi-Tier-Memory]]
-- [[frameworks/Graph-Based-Knowledge-Discovery]]
+- [[tools/Graph-Based-Knowledge-Discovery]]
 
 ## Source
-[[source-notes/akshaypachaar-pydantic-fixed-agent-memory]]
+[[summaries/akshaypachaar-pydantic-fixed-agent-memory]]

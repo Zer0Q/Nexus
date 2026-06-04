@@ -22,7 +22,7 @@ Ideas lost at capture are lost forever. The three surfaces ensure zero friction 
 - [[concepts/Four-Zone-Monetization-Vault]] -- feeds the 00-CAPTURE zone
 - [[concepts/Automated-Capture-Pipeline]] -- the pipeline that processes captures from these surfaces
 - [[concepts/Zero-Friction-Capture]] -- same principle, different implementation details
-- [[glossary/Inbox-First-Capture]] -- all three surfaces land in an inbox-first daily note
+- [[concepts/Inbox-First-Capture]] -- all three surfaces land in an inbox-first daily note
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

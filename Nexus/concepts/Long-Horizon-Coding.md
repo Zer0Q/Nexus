@@ -25,4 +25,4 @@ Most AI coding tools complete a function or a file. Long-horizon agents complete
 - [[concepts/Five-Layer-AI-Stack]] -- the coding layer of the stack
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

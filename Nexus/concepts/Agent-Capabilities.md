@@ -23,4 +23,4 @@ Capabilities allow building agents from reusable, tested components rather than 
 - [[concepts/Augmented-LLM]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
+[[summaries/Pydantic-Team-Pydantic-AI-Overview]]

@@ -24,4 +24,4 @@ Traditional colorful HMIs make it hard to distinguish critical from normal. Gray
 - [[concepts/ISA-101-Standard]]
 
 ## Source
-[[source-notes/RealPars-High-Performance-HMI]]
+[[summaries/RealPars-High-Performance-HMI]]

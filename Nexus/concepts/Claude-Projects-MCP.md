@@ -25,4 +25,4 @@ No other model has an equivalent native implementation. Projects give Claude per
 - [[concepts/Compounding-Knowledge-Context]] -- the compounding effect of persistent memory
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

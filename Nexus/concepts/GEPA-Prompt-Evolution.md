@@ -26,4 +26,4 @@ The in-agent learning loop has a known weakness: agents tend toward self-congrat
 - [[concepts/LLM-Harness]] -- evaluation harnesses for structured LLM testing
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

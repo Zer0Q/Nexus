@@ -25,4 +25,4 @@ Replaces custom point-to-point integrations between every system pair with a sin
 - [[concepts/Entity-Resolution]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

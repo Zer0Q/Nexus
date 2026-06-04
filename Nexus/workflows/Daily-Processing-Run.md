@@ -31,4 +31,4 @@ Prevents Zone 1 from becoming a graveyard. The daily rhythm ensures raw captures
 - [[concepts/Connection-Capture-Convention]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

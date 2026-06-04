@@ -24,4 +24,4 @@ Most companies overestimate their AI maturity. Concrete metrics (PR auto-merge r
 - [[concepts/Verifiable-Automation]]
 
 ## Source
-[[source-notes/BusinessBarista-Software-Factory]]
+[[summaries/BusinessBarista-Software-Factory]]

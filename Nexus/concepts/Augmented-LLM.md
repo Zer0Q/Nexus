@@ -24,4 +24,4 @@ Every agentic system, from simple workflows to autonomous agents, starts with an
 - [[concepts/Agent-Tool-Use]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]

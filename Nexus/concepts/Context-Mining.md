@@ -24,4 +24,4 @@ Most business context was never written down. The durable methods are system-led
 - [[concepts/Context-Development-Lifecycle]]
 
 ## Source
-[[source-notes/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]]

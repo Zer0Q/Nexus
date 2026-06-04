@@ -19,10 +19,10 @@ Every prompt sent to cloud AI is a data transfer. For knowledge workers handling
 - Maintenance burden of updating models manually
 
 ## Related
-- [[glossary/Adversarial-Vulnerabilities]]
-- [[frameworks/Hybrid-AI-Workflow]]
+- [[concepts/Adversarial-Vulnerabilities]]
+- [[tools/Hybrid-AI-Workflow]]
 - [[concepts/On-Device-Knowledge-Base]]
 - [[tools/LM-Studio]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

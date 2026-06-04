@@ -26,4 +26,4 @@ A single round of model comparison shows agreement/disagreement. Multiple rounds
 - [[concepts/Expert-Committee-Simulation]] -- the metaphor for this process
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

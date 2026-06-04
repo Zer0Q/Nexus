@@ -26,4 +26,4 @@ Describing UI changes in text is error-prone and slow. Design Mode lets you poin
 - [[concepts/Five-Layer-AI-Stack]] -- part of Cursor's execution layer
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

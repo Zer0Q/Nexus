@@ -22,4 +22,4 @@ Changes the local inference equation: instead of "does it fit in VRAM?" the ques
 - [[tools/llama-cpp]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

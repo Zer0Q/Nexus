@@ -26,4 +26,4 @@ The real value of local AI isn't just the dollar savings on paper — it's the u
 - [[concepts/DGX-Spark]] -- the hardware enabling this shift for large models
 
 ## Source
-[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+[[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

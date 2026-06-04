@@ -26,4 +26,4 @@ A single model's output is bounded by its own reasoning. Adversarial review forc
 - [[concepts/Expert-Committee-Simulation]] -- the metaphor this method enacts
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

@@ -27,4 +27,4 @@ If the sandbox is compromised, the attacker only gets proxy tokens that work exc
 - [[concepts/Agent-Profiles]] -- each profile can have its own egress configuration
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

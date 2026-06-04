@@ -25,4 +25,4 @@ Moves beyond one-off AI prompts to persistent, reusable agents that understand v
 - [[concepts/Persistent-AI-Helpers]]
 
 ## Source
-[[source-notes/OpenSourceProjects-Obsidian-Skills]]
+[[summaries/OpenSourceProjects-Obsidian-Skills]]

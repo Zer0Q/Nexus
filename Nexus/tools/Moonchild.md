@@ -26,4 +26,4 @@ Most AI design tools look decent on the first screen then fall apart on consiste
 - [[concepts/PRD-to-UI]]
 
 ## Source
-[[source-notes/PrajwalTomar-Codex-Moonchild-Design-Workflow]]
+[[summaries/PrajwalTomar-Codex-Moonchild-Design-Workflow]]

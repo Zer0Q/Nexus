@@ -25,4 +25,4 @@ Enables the vault to "run your business while you sleep." You capture tasks when
 - [[concepts/Daily-Synthesis-Workflow]]
 
 ## Source
-[[source-notes/CyrilXBT-Business-Operating-System]]
+[[summaries/CyrilXBT-Business-Operating-System]]

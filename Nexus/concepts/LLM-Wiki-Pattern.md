@@ -21,9 +21,9 @@ Eliminates the bookkeeping bottleneck that causes humans to abandon wikis. The L
 
 ## Related
 - [[concepts/Write-Time-Knowledge-Systems]]
-- [[frameworks/Compilation-Agent]]
+- [[tools/Compilation-Agent]]
 - [[concepts/Knowledge-Source-of-Truth]]
 - [[concepts/Anti-Graveyard-Capture]]
 
 ## Source
-[[source-notes/Karpathy-LLM-Wiki-Pattern]]
+[[summaries/Karpathy-LLM-Wiki-Pattern]]

@@ -25,4 +25,4 @@ Skill growth is the measurable output of agent self-improvement. Each skill repr
 - [[concepts/Skill-Based-AI-Agents]] -- the broader architecture
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

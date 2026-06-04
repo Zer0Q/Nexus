@@ -22,7 +22,7 @@ In a volatile knowledge ecosystem with informal communities and ad hoc networks,
 ## Related
 - [[concepts/Communities-of-Practice]] -- the bridge between networks and knowledge centres
 - [[concepts/Knowledge-Source-of-Truth]] -- single source of truth for organizational knowledge
-- [[glossary/CoP-Success-Wheel]] -- framework that distinguishes knowledge centres from CoPs
+- [[concepts/CoP-Success-Wheel]] -- framework that distinguishes knowledge centres from CoPs
 
 ## Source
-[[source-notes/EuropeanCommission-CoP-Playbook]]
+[[summaries/EuropeanCommission-CoP-Playbook]]

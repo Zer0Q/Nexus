@@ -21,8 +21,8 @@ In regulated environments, reasoning can be autonomous but decision rights must 
 
 ## Related
 - [[concepts/Agent-Logic]]
-- [[frameworks/AI-Governance]]
+- [[tools/AI-Governance]]
 - [[concepts/Enterprise-Context-Layer]]
 
 ## Source
-[[source-notes/NicholasFuller-Agent-Logic-Enterprise-AI]]
+[[summaries/NicholasFuller-Agent-Logic-Enterprise-AI]]

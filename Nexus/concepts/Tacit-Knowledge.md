@@ -27,4 +27,4 @@ In the age of agentic AI, data and models are table stakes. Tacit knowledge is t
 - [[concepts/Knowledge-Mapping]]
 
 ## Source
-[[source-notes/TungRoussiere-Tacit-Knowledge-Moat]]
+[[summaries/TungRoussiere-Tacit-Knowledge-Moat]]

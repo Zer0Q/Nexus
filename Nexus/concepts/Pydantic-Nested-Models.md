@@ -25,4 +25,4 @@ Real-world data is rarely flat. APIs return nested JSON, configurations have hie
 - [[concepts/Pydantic-JSON-Schema]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-Models]]
+[[summaries/Pydantic-Team-Pydantic-Models]]

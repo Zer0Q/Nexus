@@ -25,4 +25,4 @@ Without maintenance, agent-created skills pile up into dozens of narrow, overlap
 - [[concepts/Quarterly-Vault-Review]] -- similar periodic maintenance concept for knowledge vaults
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

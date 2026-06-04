@@ -22,5 +22,5 @@ External systems rarely use the same naming conventions as your codebase. Aliase
 - [[concepts/Pydantic-Model-Config]]
 
 ## Source
-[[source-notes/Torque-Pydantic-Data-Transformation]]
-[[source-notes/RealPython-Pydantic-Data-Validation]]
+[[summaries/Torque-Pydantic-Data-Transformation]]
+[[summaries/RealPython-Pydantic-Data-Validation]]

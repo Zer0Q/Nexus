@@ -22,8 +22,8 @@ Bridges the gap between raw local inference and a usable chat interface. Instead
 ## Related
 - [[concepts/Ollama-Local-Serving]] -- the backend Open WebUI connects to
 - [[concepts/Local-AI-Privacy]] -- no data leaves your network
-- [[glossary/Local-LLM]] -- broader concept of local inference
+- [[concepts/Local-LLM]] -- broader concept of local inference
 - [[tools/LM-Studio]] -- alternative local chat interface
 
 ## Source
-[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+[[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

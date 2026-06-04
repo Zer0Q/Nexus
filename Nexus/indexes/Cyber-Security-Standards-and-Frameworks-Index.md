@@ -45,5 +45,5 @@ Mapa de estándares, marcos y regulaciones de ciberseguridad: desde marcos de ev
 - [[NCSC-CAF-Terms-Definitions]]
 - [[NCSC-CAF-Changelog]]
 - [[ISMSOnline-ISO27001-Annex-A-2022]]
-- [[RamiroCid-ISO27001-Version-Comparison]]
-- [[RamiroCid-Industrial-Cybersecurity-Standards]]
+- [[summaries/Ramiro-Cid-Comparison-between-ISOIEC-270012013-and]]
+- [[summaries/Ramiro-Cid-Industrial-Cybersecurity-Standards]]

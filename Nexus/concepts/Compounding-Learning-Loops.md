@@ -24,4 +24,4 @@ This is where the tenth agent gets dramatically smarter than the first. Without 
 - [[concepts/Agent-Multi-Tier-Memory]]
 
 ## Source
-[[source-notes/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]]

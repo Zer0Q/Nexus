@@ -26,4 +26,4 @@ Voice replication alone produces content that sounds right but lacks the author'
 - [[concepts/Self-Improvement-Loop]]
 
 ## Source
-[[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
+[[summaries/gkisokay-21-Mistakes-Building-AI-Agents]]

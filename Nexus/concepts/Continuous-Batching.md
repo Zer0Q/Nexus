@@ -22,4 +22,4 @@ Traditional batching waits for all requests to finish before starting new ones. 
 - [[concepts/Runtime-Overhead]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

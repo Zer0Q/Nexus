@@ -21,7 +21,7 @@ RAG systems storing millions of vectors face massive memory costs. Binary embedd
 ## Related
 - [[concepts/RAG-Retrieval-Augmented-Generation]]
 - [[concepts/PagedAttention]]
-- [[glossary/KV-Cache]]
+- [[concepts/KV-Cache]]
 
 ## Source
-[[source-notes/avichawla-make-rag-32x-memory-efficient-explained-code]]
+[[summaries/avichawla-make-rag-32x-memory-efficient-explained-code]]

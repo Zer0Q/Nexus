@@ -25,4 +25,4 @@ Most multi-agent research systems funnel decisions through a planner that become
 - [[concepts/Agent-Logic]]
 
 ## Source
-[[source-notes/DAIR-Top-AI-Papers-of-the-Week]]
+[[summaries/DAIR-Top-AI-Papers-of-the-Week]]

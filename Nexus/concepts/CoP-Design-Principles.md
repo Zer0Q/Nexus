@@ -23,7 +23,7 @@ Without intentional design, CoPs either stagnate (no activity) or burn out (too 
 ## Related
 - [[concepts/Communities-of-Practice]] -- the structure these principles apply to
 - [[concepts/Shared-Leadership]] -- principle 3 supports flat participation
-- [[glossary/CoP-Success-Wheel]] -- operational framework built on these principles
+- [[concepts/CoP-Success-Wheel]] -- operational framework built on these principles
 
 ## Source
-[[source-notes/LuisMartinez-Comunidades-de-Practica]]
+[[summaries/LuisMartinez-Comunidades-de-Practica]]

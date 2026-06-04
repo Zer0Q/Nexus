@@ -19,9 +19,9 @@ Flat note systems lose connections. Knowledge graphs surface hidden relationship
 - Query language has learning curve
 
 ## Related
-- [[frameworks/Graph-Based-Knowledge-Discovery]]
+- [[tools/Graph-Based-Knowledge-Discovery]]
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]]
 - [[concepts/Embedding-Based-Vault-Search]]
 
 ## Source
-[[source-notes/avichawla-months-either-have-ai-second-brain-wish]]
+[[summaries/avichawla-months-either-have-ai-second-brain-wish]]

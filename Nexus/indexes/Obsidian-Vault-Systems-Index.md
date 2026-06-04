@@ -56,39 +56,39 @@ Vault architecture patterns, the capture-use gap, output engine workflows, learn
 - [[concepts/Markdown-as-Universal-Format]] -- .md as the bridge format
 
 ## Frameworks
-- [[glossary/Inbox-First-Capture]] -- everything lands in inbox first
-- [[frameworks/Concept-Note-Template]] -- standardized concept documentation
-- [[frameworks/Graph-Based-Knowledge-Discovery]] -- following backlinks to explore
-- [[frameworks/Unified-Knowledge-Environment]] -- single source of truth
-- [[frameworks/Compilation-Agent]] -- LLM as wiki maintainer
-- [[glossary/Connection-Cost]] -- the expense of maintaining links
+- [[concepts/Inbox-First-Capture]] -- everything lands in inbox first
+- [[tools/Concept-Note-Template]] -- standardized concept documentation
+- [[tools/Graph-Based-Knowledge-Discovery]] -- following backlinks to explore
+- [[tools/Unified-Knowledge-Environment]] -- single source of truth
+- [[tools/Compilation-Agent]] -- LLM as wiki maintainer
+- [[concepts/Connection-Cost]] -- the expense of maintaining links
 
 ## Tools
 - [[tools/Obsidian-Skills-Plugin]] -- AI agents inside Obsidian
 - [[tools/Smart-Connections-Plugin]] -- embedding-based vault search
 - [[tools/Copilot-Plugin]] -- inline AI in Obsidian
-- [[glossary/QuickAdd]] -- fast capture automation
-- [[glossary/Readwise]] -- highlight sync service
+- [[concepts/QuickAdd]] -- fast capture automation
+- [[concepts/Readwise]] -- highlight sync service
 - [[tools/Vellum]] -- visual note organization
 - [[tools/Telegram-Bot-Capture]] -- instant capture via Telegram
-- [[glossary/N8N]] -- workflow automation
+- [[concepts/N8N]] -- workflow automation
 
 ## Glossary
-- [[glossary/Knowledge-Graph]] -- interconnected web of notes
-- [[glossary/Active-Recall]] -- testing yourself to strengthen memory
-- [[glossary/Spaced-Repetition]] -- timed review for retention
-- [[glossary/Retrieval-Practice]] -- pulling information from memory
-- [[glossary/Ebbinghaus-Forgetting-Curve]] -- rate of memory decay
-- [[glossary/Illusion-of-Knowledge]] -- confusing familiarity with mastery
-- [[glossary/FTS5]] -- full-text search engine
-- [[glossary/TOC]] -- Table of Contents
-- [[glossary/VELLUM-MD]] -- visual vault organization file
+- [[concepts/Knowledge-Graph]] -- interconnected web of notes
+- [[concepts/Active-Recall]] -- testing yourself to strengthen memory
+- [[concepts/Spaced-Repetition]] -- timed review for retention
+- [[concepts/Retrieval-Practice]] -- pulling information from memory
+- [[concepts/Ebbinghaus-Forgetting-Curve]] -- rate of memory decay
+- [[concepts/Illusion-of-Knowledge]] -- confusing familiarity with mastery
+- [[concepts/FTS5]] -- full-text search engine
+- [[concepts/TOC]] -- Table of Contents
+- [[concepts/VELLUM-MD]] -- visual vault organization file
 
 ## Sources
-- [[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
-- [[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
-- [[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
-- [[source-notes/CyrilXBT-Self-Improving-Vault]]
-- [[source-notes/CyrilXBT-Vault-Organization]]
-- [[source-notes/CyrilXBT-Trading-Brain]]
-- [[source-notes/NickSpisak-Second-Brain-Guide]]
+- [[summaries/CyrilXBT-Obsidian-Note-Utility-System]]
+- [[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+- [[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+- [[summaries/CyrilXBT-Self-Improving-Vault]]
+- [[summaries/CyrilXBT-Vault-Organization]]
+- [[summaries/CyrilXBT-Trading-Brain]]
+- [[summaries/NickSpisak-Second-Brain-Guide]]

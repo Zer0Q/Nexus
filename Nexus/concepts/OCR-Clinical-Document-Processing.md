@@ -25,4 +25,4 @@ Many medical records exist as scanned PDFs or images that AI models cannot direc
 - [[concepts/Primary-Source-Over-Secondary]] -- the philosophy behind processing raw data
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

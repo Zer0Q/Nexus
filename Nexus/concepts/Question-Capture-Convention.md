@@ -28,4 +28,4 @@ Questions are often more useful than answers in a knowledge system. A question s
 - [[concepts/Structured-Source-Notes]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

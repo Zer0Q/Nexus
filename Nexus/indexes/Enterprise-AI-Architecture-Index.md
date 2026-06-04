@@ -19,9 +19,9 @@ Concepts and patterns for building AI systems at enterprise scale -- context lay
 - [[concepts/Context-Space-Reduction]] -- using structured analysis to reduce LLM context needs
 
 ## Related
-- [[frameworks/AI-Governance]] -- governance frameworks for AI systems
+- [[tools/AI-Governance]] -- governance frameworks for AI systems
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]] -- KG as semantic layer for reasoning
 
 ## Sources
-- [[source-notes/Prukalpa-Enterprise-Context-Layer]]
-- [[source-notes/NicholasFuller-Agent-Logic-Enterprise-AI]]
+- [[summaries/Prukalpa-Enterprise-Context-Layer]]
+- [[summaries/NicholasFuller-Agent-Logic-Enterprise-AI]]

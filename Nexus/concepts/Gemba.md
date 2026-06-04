@@ -25,4 +25,4 @@ Most transformation projects diagnose process and data issues in meetings with p
 - [[concepts/Tacit-Knowledge]]
 
 ## Source
-[[source-notes/Gellida-Broken-Process-Broken-AI]]
+[[summaries/Gellida-Broken-Process-Broken-AI]]

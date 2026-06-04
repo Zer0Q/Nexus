@@ -24,4 +24,4 @@ Context is only valuable if it reaches its consumer. Tying the context layer to 
 - [[concepts/Context-Efficiency-Frontier]]
 
 ## Source
-[[source-notes/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]]

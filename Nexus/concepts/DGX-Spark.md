@@ -31,4 +31,4 @@ Democratizes access to frontier-class model sizes. Where a $2,000 consumer GPU t
 - [[concepts/Hardware-Reality-of-Local-AI]] -- broader hardware landscape
 
 ## Source
-[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+[[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

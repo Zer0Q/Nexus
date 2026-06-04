@@ -24,4 +24,4 @@ Imperative prompting requires the user to know the steps. Goal-driven agents shi
 - [[concepts/Agentic-SDLC]]
 
 ## Source
-[[source-notes/aiedge-goal-ultimate]]
+[[summaries/aiedge-goal-ultimate]]

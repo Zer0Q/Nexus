@@ -26,4 +26,4 @@ No single model is perfect. Running multiple models in parallel reveals where mo
 - [[concepts/AI-Assisted-Medical-Research]] -- the domain where this is most critical
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

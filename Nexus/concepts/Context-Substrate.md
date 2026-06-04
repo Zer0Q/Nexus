@@ -25,4 +25,4 @@ Each part answers a question an agent needs before acting: "What data can I trus
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]]
 
 ## Source
-[[source-notes/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]]

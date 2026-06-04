@@ -28,4 +28,4 @@ Without measurable success criteria, CoPs operate blindly — it's unclear wheth
 - [[concepts/Knowledge-Centers]] -- formal knowledge bodies within the community ecosystem
 
 ## Source
-[[source-notes/EuropeanCommission-CoP-Playbook]]
+[[summaries/EuropeanCommission-CoP-Playbook]]

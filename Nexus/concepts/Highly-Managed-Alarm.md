@@ -25,4 +25,4 @@ HMAs represent the alarms where failure has the highest consequences. Extra mana
 - [[concepts/Alarm-Management-Lifecycle]]
 
 ## Source
-[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[summaries/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

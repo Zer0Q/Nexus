@@ -22,4 +22,4 @@ Long-context workloads can run out of memory even when model weights fit. KV cac
 - [[concepts/Prefill-vs-Decode]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

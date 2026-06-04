@@ -24,4 +24,4 @@ The gap is not intelligence, access, or prompting skill — it is system archite
 - [[concepts/Human-AI-Orchestration]]
 
 ## Source
-[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[summaries/Hanakoxbt-CLAUDE-MD-Second-Employee]]

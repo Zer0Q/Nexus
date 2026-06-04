@@ -18,13 +18,13 @@ Proactive methodology that integrates risk management into every phase of the AI
 - Continuous monitoring replaces point-in-time assessments
 
 ## Application
-- Embed [[frameworks/AI-Risk-Management]] into the Secure Development Life Cycle (SDLC)
-- Aligns with [[frameworks/Spec-Driven-Development]] -- risk constraints defined in specs
+- Embed [[tools/AI-Risk-Management]] into the Secure Development Life Cycle (SDLC)
+- Aligns with [[tools/Spec-Driven-Development]] -- risk constraints defined in specs
 - Enables faster innovation by defining safe boundaries upfront
 
 ## Related
-- [[frameworks/AI-Risk-Management]] -- ISO 23894 operationalizes risk-by-design
-- [[frameworks/AI-Governance]] -- governance framework providing accountability
+- [[tools/AI-Risk-Management]] -- ISO 23894 operationalizes risk-by-design
+- [[tools/AI-Governance]] -- governance framework providing accountability
 
 ## Sources
-- [[source-notes/RamiroCid-ISO-23894-AI-Risk-Management]]
+- [[summaries/RamiroCid-ISO-23894-AI-Risk-Management]]

@@ -27,4 +27,4 @@ For AI freelancers and builders who rent compute by the hour, the cloud GPU bill
 - [[concepts/Hardware-Reality-of-Local-AI]] -- broader hardware economics
 
 ## Source
-[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+[[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

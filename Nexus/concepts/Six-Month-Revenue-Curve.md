@@ -25,4 +25,4 @@ The six-month curve is the moat. Anyone can install Obsidian today. Almost nobod
 - [[concepts/Compounding-Knowledge-Context]] -- the mechanism behind the compounding effect
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

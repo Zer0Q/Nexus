@@ -26,4 +26,4 @@ Eliminates the security risk of embedding API keys and credentials in config fil
 - [[concepts/Local-AI-Privacy]] -- broader context of data security
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

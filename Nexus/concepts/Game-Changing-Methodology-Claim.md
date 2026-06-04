@@ -25,4 +25,4 @@ If true, this means the quality ceiling of individual AI models can be systemati
 - [[concepts/Iterative-Model-Refinement]] -- the mechanism that produces improvement
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

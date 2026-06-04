@@ -23,4 +23,4 @@ KV cache fragmentation was the #1 cause of wasted GPU memory. PagedAttention inc
 - [[concepts/Prefill-vs-Decode]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

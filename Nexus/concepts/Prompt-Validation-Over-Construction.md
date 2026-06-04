@@ -33,7 +33,7 @@ The primary prompting skill has shifted from constructing elaborate prompts to v
 
 ## Related
 - [[concepts/LLM-Harness]] -- harnesses enable simpler prompts by handling context
-- [[glossary/Metaprompt]] -- shortcut when prompts get complex
+- [[concepts/Metaprompt]] -- shortcut when prompts get complex
 
 ## Sources
-- [[source-notes/DavidHurtado-Harness-and-Prompting]]
+- [[summaries/DavidHurtado-Harness-and-Prompting]]

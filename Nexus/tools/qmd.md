@@ -25,4 +25,4 @@ Enables proper semantic search over growing knowledge bases. At small scale, ind
 - [[concepts/Automated-Research-Curation]]
 
 ## Source
-[[source-notes/OmarSaridakis-Research-KB]]
+[[summaries/OmarSaridakis-Research-KB]]

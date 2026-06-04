@@ -24,4 +24,4 @@ Traditional scrapers break when sites change their structure. Browser Use gives 
 - [[concepts/Tool-Selection-Hierarchy]]
 
 ## Source
-[[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
+[[summaries/DamiDefi-20-GitHub-Scraping-Repos]]

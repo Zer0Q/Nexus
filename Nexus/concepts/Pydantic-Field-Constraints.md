@@ -27,5 +27,5 @@ Type annotations define the data type, but Field() adds the business rules: mini
 - [[concepts/Pydantic-Field-Aliases]]
 
 ## Source
-[[source-notes/RealPython-Pydantic-Data-Validation]]
-[[source-notes/Torque-Pydantic-Data-Transformation]]
+[[summaries/RealPython-Pydantic-Data-Validation]]
+[[summaries/Torque-Pydantic-Data-Transformation]]

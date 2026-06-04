@@ -26,4 +26,4 @@ The tool you choose determines the quality, speed, and cost of agent operations.
 - [[tools/Firecrawl]]
 
 ## Source
-[[source-notes/0xJeff-Hermes-Analyst-60-Days]]
+[[summaries/0xJeff-Hermes-Analyst-60-Days]]

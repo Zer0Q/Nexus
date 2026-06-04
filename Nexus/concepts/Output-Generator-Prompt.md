@@ -26,4 +26,4 @@ This is the prompt that turns 4000 dormant notes into shippable, billable work. 
 - [[concepts/Four-Zone-Monetization-Vault]] -- reads from zones 01 and 02, writes to zone 03
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

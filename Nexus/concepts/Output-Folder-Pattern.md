@@ -30,4 +30,4 @@ Most note-taking systems never include an output layer. Without it, there is no 
 - [[concepts/Compounding-Knowledge-Context]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

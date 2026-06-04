@@ -24,4 +24,4 @@ Skills degrade as tasks evolve. Manual curation doesn't scale. An automated cura
 - [[concepts/Self-Improvement-Loop]]
 
 ## Source
-[[source-notes/neuralavb-skill-curation-self-evolving-agents-explained-clearly]]
+[[summaries/neuralavb-skill-curation-self-evolving-agents-explained-clearly]]

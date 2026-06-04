@@ -25,4 +25,4 @@ Complex agent workflows (multi-step reasoning, conditional branching, parallel e
 - [[concepts/Orchestrator-Workers-Workflow]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
+[[summaries/Pydantic-Team-Pydantic-AI-Overview]]

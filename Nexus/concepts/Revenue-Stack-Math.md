@@ -27,4 +27,4 @@ Most people treat a knowledge vault as a personal tool. This framework reframes 
 - [[concepts/Output-Generator-Prompt]] -- produces the content that feeds each revenue line
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

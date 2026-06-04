@@ -27,4 +27,4 @@ An unmonitored alarm system is essentially a poorly performing one. Monitoring i
 - [[concepts/ISA-18-2-Standard]]
 
 ## Source
-[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[summaries/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

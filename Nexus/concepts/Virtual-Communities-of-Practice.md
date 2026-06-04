@@ -25,4 +25,4 @@ Physical proximity is no longer required for effective knowledge sharing. Virtua
 - [[concepts/Federated-Knowledge-Search]] -- searching across distributed knowledge sources
 
 ## Source
-[[source-notes/LuisMartinez-Comunidades-de-Practica]]
+[[summaries/LuisMartinez-Comunidades-de-Practica]]

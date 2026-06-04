@@ -23,4 +23,4 @@ Ephemeral interaction means re-explaining everything every session — style pre
 - [[concepts/Agent-Identity-Layer]]
 
 ## Source
-[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[summaries/Hanakoxbt-CLAUDE-MD-Second-Employee]]

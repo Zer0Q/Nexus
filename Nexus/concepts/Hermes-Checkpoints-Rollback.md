@@ -24,4 +24,4 @@ Autonomous agents can make irreversible mistakes. Checkpoints provide safety net
 - [[concepts/Shipping-Discipline]]
 
 ## Source
-[[source-notes/NeoAIForecast-checkpoints-rollback-make-hermes-safer-use-real]]
+[[summaries/NeoAIForecast-checkpoints-rollback-make-hermes-safer-use-real]]

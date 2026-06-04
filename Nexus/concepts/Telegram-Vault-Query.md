@@ -24,4 +24,4 @@ Multi-surface access removes the constraint of being at your desk to research. A
 - [[concepts/Hermes-Obsidian-Integration]] -- the vault connection this queries
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

@@ -22,9 +22,9 @@ Agents without tools are limited to their training data. Tool use enables real-t
 ## Related
 - [[concepts/Augmented-LLM]]
 - [[concepts/Agent-Computer-Interface]]
-- [[glossary/MCP]]
-- [[glossary/Tool-Use]]
+- [[concepts/MCP]]
+- [[concepts/Tool-Use]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
-[[source-notes/KusCamara-PydanticAI-Agent-Creation]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/KusCamara-PydanticAI-Agent-Creation]]

@@ -30,4 +30,4 @@ Prevents inefficient studying by targeting the concepts that would produce the h
 - [[concepts/Predictive-Test-Method]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

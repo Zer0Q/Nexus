@@ -24,4 +24,4 @@ This compatibility layer means you do not need to rewrite your tools to go local
 - [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

@@ -22,4 +22,4 @@ In write-time wiki systems, a single incorrect synthesis can infect dozens of re
 - [[architectures/Graph-Knowledge-Layer]]
 
 ## Source
-[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[summaries/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

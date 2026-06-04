@@ -31,5 +31,5 @@ Type-hint-based data validation and serialization library for Python. Uses Pytho
 - [[concepts/Pydantic-Data-Conversion]]
 
 ## Source
-[[source-notes/RealPython-Pydantic-Data-Validation]]
-[[source-notes/Pydantic-Team-Pydantic-Models]]
+[[summaries/RealPython-Pydantic-Data-Validation]]
+[[summaries/Pydantic-Team-Pydantic-Models]]

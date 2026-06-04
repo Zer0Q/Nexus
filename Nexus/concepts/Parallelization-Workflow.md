@@ -23,4 +23,4 @@ Parallel execution reduces latency for complex tasks. Multiple perspectives impr
 - [[concepts/Routing-Workflow]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]

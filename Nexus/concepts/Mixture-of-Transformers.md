@@ -24,4 +24,4 @@ MoT unifies capabilities that previously required separate models and orchestrat
 - [[tools/NVIDIA-Cosmos]]
 
 ## Source
-[[source-notes/NVIDIA-Cosmos-3-Physical-AI]]
+[[summaries/NVIDIA-Cosmos-3-Physical-AI]]

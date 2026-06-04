@@ -30,4 +30,4 @@ Without assessment, every capture enters the vault with equal weight. Assessment
 - [[concepts/CLAUDE-MD-as-Context-Layer]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

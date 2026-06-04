@@ -28,4 +28,4 @@ Simulates an organizational structure with specialized roles. Instead of one gen
 - [[concepts/Hermes-Dashboard]] -- Profiles tab for managing the org chart
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

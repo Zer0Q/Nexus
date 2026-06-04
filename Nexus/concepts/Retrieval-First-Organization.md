@@ -24,4 +24,4 @@ Most note apps optimize capture friction but ignore retrieval. The result is a g
 - workflows/Nightly-Processing
 
 ## Source
-[[source-notes/Zeuuss-30-Minute-Obsidian-System]]
+[[summaries/Zeuuss-30-Minute-Obsidian-System]]

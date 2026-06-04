@@ -25,4 +25,4 @@ Built specifically for LLM pipelines, Crawl4AI eliminates the data cleaning step
 - [[concepts/Tool-Selection-Hierarchy]]
 
 ## Source
-[[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
+[[summaries/DamiDefi-20-GitHub-Scraping-Repos]]

@@ -25,4 +25,4 @@ Without situational awareness, operators cannot make timely decisions. Poor HMI 
 - [[concepts/Information-over-Data]]
 
 ## Source
-[[source-notes/OBrien-ISA-101-HMI-Lifecycle]]
+[[summaries/OBrien-ISA-101-HMI-Lifecycle]]

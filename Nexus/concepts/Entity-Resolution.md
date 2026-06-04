@@ -26,4 +26,4 @@ Raw LLM extraction produces fragmented graphs: "Wind Turbine A-1" and "Wind Gene
 - [[concepts/Three-Layer-Semantic-Infrastructure]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

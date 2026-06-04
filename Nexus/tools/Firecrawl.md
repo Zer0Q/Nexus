@@ -25,4 +25,4 @@ Firecrawl is the most popular AI-native scraping tool. It turns any URL into cle
 - [[concepts/Tool-Selection-Hierarchy]]
 
 ## Source
-[[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
+[[summaries/DamiDefi-20-GitHub-Scraping-Repos]]

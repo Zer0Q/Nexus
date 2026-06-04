@@ -29,4 +29,4 @@ Application captures are the most likely to trigger actual use. They come pre-lo
 - [[workflows/Active-Decision-Feeder]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

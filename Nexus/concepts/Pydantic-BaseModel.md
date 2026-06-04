@@ -31,4 +31,4 @@ BaseModel is the primary abstraction for structured data in Pydantic. Every vali
 - [[concepts/Pydantic-JSON-Schema]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-Models]]
+[[summaries/Pydantic-Team-Pydantic-Models]]

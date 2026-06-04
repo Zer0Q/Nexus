@@ -26,4 +26,4 @@ This is the easiest and most direct way to train a personal agent. Unlike fine-t
 - [[concepts/Echo-Chamber-Bias]]
 
 ## Source
-[[source-notes/0xJeff-Hermes-Analyst-60-Days]]
+[[summaries/0xJeff-Hermes-Analyst-60-Days]]

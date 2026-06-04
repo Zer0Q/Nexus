@@ -19,7 +19,7 @@ Enables large quantized models on Macs where they would be impossible on 24 GB c
 
 ## Related
 - [[concepts/Unified-Memory-Tradeoff]]
-- [[frameworks/Inference-Engine-Families]]
+- [[tools/Inference-Engine-Families]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

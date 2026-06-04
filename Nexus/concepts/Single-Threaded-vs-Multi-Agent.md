@@ -24,4 +24,4 @@ The bottleneck in software development is no longer individual coding speed but 
 - [[concepts/Human-AI-Orchestration]]
 
 ## Source
-[[source-notes/rohit4verse-slow-single-threaded-commanding-300-agents-one]]
+[[summaries/rohit4verse-slow-single-threaded-commanding-300-agents-one]]

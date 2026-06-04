@@ -26,4 +26,4 @@ The system's value doesn't peak at setup -- it compounds. At 2 weeks it's occasi
 - [[concepts/Feedback-Loop-Knowledge-System]]
 
 ## Source
-[[source-notes/DamiDefi-Claude-Vault-Integration]]
+[[summaries/DamiDefi-Claude-Vault-Integration]]

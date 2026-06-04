@@ -35,25 +35,25 @@ Everything about Hermes Agent features: dashboard, /goal, self-improvement, prof
 
 ## Frameworks
 - [[concepts/Four-Layer-Vault-Architecture]] -- capture, pipeline, storage, intelligence
-- [[frameworks/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
-- [[frameworks/AI-Human-Division-of-Labor]] -- human curates, AI maintains
-- [[frameworks/CLAUDE-MD-Five-Section-Template]] -- Role, Style, Constraints, Workflow, Quality
-- [[frameworks/Unified-Knowledge-Environment]] -- single source of truth
+- [[tools/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
+- [[tools/AI-Human-Division-of-Labor]] -- human curates, AI maintains
+- [[tools/CLAUDE-MD-Five-Section-Template]] -- Role, Style, Constraints, Workflow, Quality
+- [[tools/Unified-Knowledge-Environment]] -- single source of truth
 
 ## Tools
 - Hermes Agent -- the agent platform itself
 - [[tools/Telegram-Bot-Capture]] -- instant note capture via Telegram
-- [[glossary/N8N]] -- workflow automation integration
-- [[glossary/Cursor]] -- AI-assisted code editor
-- [[glossary/Claude-Projects]] -- project-scoped Claude sessions
+- [[concepts/N8N]] -- workflow automation integration
+- [[concepts/Cursor]] -- AI-assisted code editor
+- [[concepts/Claude-Projects]] -- project-scoped Claude sessions
 
 ## Glossary
-- [[glossary/SOUL-MD]] -- agent configuration and personality file
-- [[glossary/CLAUDE-MD]] -- persistent project-level instruction file
-- [[glossary/MCP]] -- Model Context Protocol
-- [[glossary/RAG]] -- Retrieval-Augmented Generation
+- [[concepts/SOUL-MD]] -- agent configuration and personality file
+- [[concepts/CLAUDE-MD]] -- persistent project-level instruction file
+- [[concepts/MCP]] -- Model Context Protocol
+- [[concepts/RAG]] -- Retrieval-Augmented Generation
 
 ## Sources
-- [[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
-- [[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
-- [[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+- [[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+- [[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]
+- [[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

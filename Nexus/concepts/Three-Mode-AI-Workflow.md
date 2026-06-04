@@ -14,9 +14,9 @@ Not all tasks have the same privacy requirements. A rigid local-only or cloud-on
 - Requires clear mental boundaries about data sensitivity
 
 ## Related
-- [[frameworks/Hybrid-AI-Workflow]]
+- [[tools/Hybrid-AI-Workflow]]
 - [[concepts/Local-AI-Privacy]]
 - [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

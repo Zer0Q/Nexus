@@ -16,4 +16,4 @@ Low-barrier entry to building custom AI agents. Good for prototyping agent behav
 - [[concepts/Multi-Agent-Development]], [[concepts/Skill-Based-AI-Agents]]
 
 ## Source
-[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]
+[[summaries/SDD-vs-BMAD-Frameworks-Comparison]]

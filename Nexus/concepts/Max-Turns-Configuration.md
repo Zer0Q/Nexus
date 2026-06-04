@@ -25,4 +25,4 @@ Setting max_turns too low truncates complex tasks mid-execution. Setting it too 
 - [[concepts/Hermes-Agent-Architecture]] -- 90-turn hard cap is the system ceiling
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

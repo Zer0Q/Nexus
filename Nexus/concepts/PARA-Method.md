@@ -22,7 +22,7 @@ Provides a clear distinction between active work and reference material. Project
 ## Related
 - [[concepts/Retrieval-First-Organization]]
 - [[concepts/Quarterly-Vault-Review]]
-- [[glossary/Inbox-First-Capture]]
+- [[concepts/Inbox-First-Capture]]
 
 ## Source
-[[source-notes/CyrilXBT-Vault-Organization]]
+[[summaries/CyrilXBT-Vault-Organization]]

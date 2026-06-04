@@ -24,4 +24,4 @@ CSS selectors are fragile -- a site redesign breaks every scraper that depends o
 - [[concepts/Tool-Selection-Hierarchy]]
 
 ## Source
-[[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
+[[summaries/DamiDefi-20-GitHub-Scraping-Repos]]

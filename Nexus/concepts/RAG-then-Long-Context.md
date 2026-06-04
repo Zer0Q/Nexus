@@ -21,7 +21,7 @@ Combines the cost-efficiency of selective retrieval with the deep reasoning capa
 - [[concepts/Agentic-GraphRAG]]
 - [[concepts/Contextual-Retrieval]]
 - [[concepts/Context-Graph-RAG]]
-- [[glossary/RAG]]
+- [[concepts/RAG]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

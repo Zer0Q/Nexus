@@ -14,7 +14,7 @@ Models, tools, and concepts for AI systems that understand and act in the physic
 - [[tools/NVIDIA-Cosmos]] -- frontier foundation model for physical AI (reasoning + generation)
 
 ## Glossary
-- [[glossary/NVFP4]] -- 4-bit FP quantization for 2x inference speedup
+- [[concepts/NVFP4]] -- 4-bit FP quantization for 2x inference speedup
 
 ## Sources
-- [[source-notes/NVIDIA-Cosmos-3-Physical-AI]]
+- [[summaries/NVIDIA-Cosmos-3-Physical-AI]]

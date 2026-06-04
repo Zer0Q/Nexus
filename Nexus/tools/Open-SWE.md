@@ -16,4 +16,4 @@ Demonstrates the issue-to-PR automation pattern for open-source and internal rep
 - [[tools/OpenHands]], [[concepts/Agentic-SDLC]]
 
 ## Source
-[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]
+[[summaries/SDD-vs-BMAD-Frameworks-Comparison]]

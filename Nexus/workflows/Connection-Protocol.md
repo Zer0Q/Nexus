@@ -30,4 +30,4 @@ Non-obvious connections are where understanding changes. Without this protocol, 
 - [[workflows/Synthesis-Session]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

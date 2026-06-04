@@ -13,15 +13,15 @@ Standards and frameworks for governing AI systems and managing AI-specific risks
 - [[concepts/Communities-of-Practice]] -- knowledge co-constructed through shared participation
 
 ## Frameworks
-- [[frameworks/AI-Risk-Management]] -- ISO 23894 extending ISO 31000 to AI
-- [[frameworks/AI-Governance]] -- shared language and accountability for AI systems
-- [[frameworks/AI-System-Life-Cycle]] -- stages from inception to retirement
+- [[tools/AI-Risk-Management]] -- ISO 23894 extending ISO 31000 to AI
+- [[tools/AI-Governance]] -- shared language and accountability for AI systems
+- [[tools/AI-System-Life-Cycle]] -- stages from inception to retirement
 
 ## Glossary
-- [[glossary/Model-Drift]] -- performance degradation over time
-- [[glossary/Adversarial-Vulnerabilities]] -- data poisoning and model evasion
-- [[glossary/Trustworthiness]] -- robustness, explainability, transparency
+- [[concepts/Model-Drift]] -- performance degradation over time
+- [[concepts/Adversarial-Vulnerabilities]] -- data poisoning and model evasion
+- [[concepts/Trustworthiness]] -- robustness, explainability, transparency
 
 ## Sources
-- [[source-notes/RamiroCid-ISO-23894-AI-Risk-Management]]
-- [[source-notes/RamiroCid-ISO-22989-AI-Governance]]
+- [[summaries/RamiroCid-ISO-23894-AI-Risk-Management]]
+- [[summaries/RamiroCid-ISO-22989-AI-Governance]]

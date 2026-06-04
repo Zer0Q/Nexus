@@ -24,4 +24,4 @@ Tool design is as important as prompt design. Poor ACI design causes systematic 
 - [[concepts/Augmented-LLM]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]

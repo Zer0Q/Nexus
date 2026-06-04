@@ -26,4 +26,4 @@ In scientific domains (biomedicine, environmental sciences), extracted entities 
 - [[tools/ODKE-Plus]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

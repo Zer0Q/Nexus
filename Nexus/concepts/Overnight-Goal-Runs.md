@@ -26,4 +26,4 @@ Turns idle hours into productive output. A task that would take a human analyst 
 - [[concepts/Agent-Cron-Scheduler]] -- scheduled alternative for recurring overnight tasks
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

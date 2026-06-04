@@ -24,4 +24,4 @@ Agents that store memory as free-text JSON drift over time — fields get rename
 - [[concepts/Self-Evolving-Skills]]
 
 ## Source
-[[source-notes/akshaypachaar-pydantic-fixed-agent-memory]]
+[[summaries/akshaypachaar-pydantic-fixed-agent-memory]]

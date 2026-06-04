@@ -53,18 +53,18 @@ Multi-layer AI stacks, model routing strategies, adversarial model spirals, mult
 - [[concepts/Instruction-Following-Precision]] -- how well models follow directions
 - [[concepts/LLM-Wiki-Pattern]] -- LLM-maintained knowledge bases
 - [[concepts/Context-Tree-Indexing]] -- hierarchical context management
-- [[glossary/Context-Tree]] -- tree-structured context windows
+- [[concepts/Context-Tree]] -- tree-structured context windows
 - [[concepts/Context-Explosion]] -- unbounded context growth problem
 
 ## Frameworks
-- [[frameworks/AI-Human-Division-of-Labor]] -- human curates, AI maintains
-- [[frameworks/AI-as-Maintainer]] -- AI handles bookkeeping
-- [[frameworks/Compilation-Agent]] -- LLM as wiki maintainer
-- [[frameworks/Unified-Knowledge-Environment]] -- single source of truth
-- [[frameworks/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
-- [[frameworks/Spec-Driven-Development]] -- specification-first coding
-- [[frameworks/BMAD-Method]] -- business model-driven AI development
-- [[frameworks/Business-Operating-System]] -- systematic business management
+- [[tools/AI-Human-Division-of-Labor]] -- human curates, AI maintains
+- [[tools/AI-as-Maintainer]] -- AI handles bookkeeping
+- [[tools/Compilation-Agent]] -- LLM as wiki maintainer
+- [[tools/Unified-Knowledge-Environment]] -- single source of truth
+- [[tools/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
+- [[tools/Spec-Driven-Development]] -- specification-first coding
+- [[tools/BMAD-Method]] -- business model-driven AI development
+- [[tools/Business-Operating-System]] -- systematic business management
 
 ## Tools
 - [[tools/smolagents]] -- lightweight multi-agent framework
@@ -72,24 +72,24 @@ Multi-layer AI stacks, model routing strategies, adversarial model spirals, mult
 - [[tools/Open-SWE]] -- open-source software engineering agent
 - [[tools/OpenSpec]] -- specification-first development tool
 - [[tools/Spec-Kit]] -- specification toolkit
-- [[glossary/Cursor]] -- AI-assisted code editor
-- [[glossary/Claude-Projects]] -- project-scoped Claude sessions
+- [[concepts/Cursor]] -- AI-assisted code editor
+- [[concepts/Claude-Projects]] -- project-scoped Claude sessions
 - [[tools/Kimi-K26-Model]] -- long-context reasoning model
-- [[glossary/N8N]] -- workflow automation
+- [[concepts/N8N]] -- workflow automation
 
 ## Glossary
-- [[glossary/MCP]] -- Model Context Protocol
-- [[glossary/RAG]] -- Retrieval-Augmented Generation
-- [[glossary/MoE]] -- Mixture of Experts
-- [[glossary/Kimi-K26]] -- ultra-long-context model
-- [[glossary/Metaprompt]] -- prompt that generates prompts
-- [[glossary/GEPA]] -- Generalized Expert Prompt Architecture
-- [[glossary/Context-Tree]] -- hierarchical context structure
-- [[glossary/Trustworthiness]] -- reliability of AI outputs
+- [[concepts/MCP]] -- Model Context Protocol
+- [[concepts/RAG]] -- Retrieval-Augmented Generation
+- [[concepts/MoE]] -- Mixture of Experts
+- [[concepts/Kimi-K26]] -- ultra-long-context model
+- [[concepts/Metaprompt]] -- prompt that generates prompts
+- [[concepts/GEPA]] -- Generalized Expert Prompt Architecture
+- [[concepts/Context-Tree]] -- hierarchical context structure
+- [[concepts/Trustworthiness]] -- reliability of AI outputs
 
 ## Sources
-- [[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
-- [[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
-- [[source-notes/Karpathy-LLM-Wiki-Pattern]]
-- [[source-notes/Karpathy-LLM-Knowledge-Bases]]
-- [[source-notes/DavidHurtado-Harness-and-Prompting]]
+- [[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+- [[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+- [[summaries/Karpathy-LLM-Wiki-Pattern]]
+- [[summaries/Karpathy-LLM-Knowledge-Bases]]
+- [[summaries/DavidHurtado-Harness-and-Prompting]]

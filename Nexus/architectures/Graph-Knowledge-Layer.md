@@ -1,7 +1,7 @@
 # Graph Knowledge Layer
 
 ## Definition
-A hybrid architecture that stores knowledge as structured data (SQL/graph database) while generating wiki-like synthesized views on demand through a [[frameworks/Compilation-Agent]].
+A hybrid architecture that stores knowledge as structured data (SQL/graph database) while generating wiki-like synthesized views on demand through a [[tools/Compilation-Agent]].
 
 ## Why It Matters
 Combines the reliability of structured data with the human-friendly browsability of wikis, without the [[concepts/Editorial-Drift]] risk of permanent synthesized artifacts.
@@ -19,8 +19,8 @@ Combines the reliability of structured data with the human-friendly browsability
 
 ## Related
 - [[concepts/Knowledge-Source-of-Truth]]
-- [[frameworks/Compilation-Agent]]
-- [[frameworks/Hybrid-AI-Workflow]]
+- [[tools/Compilation-Agent]]
+- [[tools/Hybrid-AI-Workflow]]
 
 ## Source
-[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[summaries/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

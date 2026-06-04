@@ -24,4 +24,4 @@ AI models have default behaviors that waste tokens and degrade trust: padding, h
 - [[concepts/SOUL-MD-Challenge-Instructions]] -- the positive complement to negative constraints
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

@@ -16,12 +16,12 @@ Paths to monetizing AI expertise, career strategies, and business models for the
 - [[concepts/AI-Power-User-Gap]] -- widening gap between AI literate and others
 
 ## Glossary
-- [[glossary/PRD]]
-- [[glossary/SDD]]
+- [[concepts/PRD]]
+- [[concepts/SDD]]
 
 ## Sources
-- [[source-notes/aiedge-if-wanted-get-rich-ai-2026]]
-- [[source-notes/vasuman-forward-deployed-engineering-101]]
-- [[source-notes/Suryanshti777-garry-tan-built-24-ai-engineering-team]]
-- [[source-notes/SigsNYC-AI-Makes-Good-People-Harder-to-Catch]]
-- [[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+- [[summaries/aiedge-if-wanted-get-rich-ai-2026]]
+- [[summaries/vasuman-forward-deployed-engineering-101]]
+- [[summaries/Suryanshti777-garry-tan-built-24-ai-engineering-team]]
+- [[summaries/SigsNYC-AI-Makes-Good-People-Harder-to-Catch]]
+- [[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

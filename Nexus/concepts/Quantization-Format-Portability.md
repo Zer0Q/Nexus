@@ -24,4 +24,4 @@ Using the wrong quantization format can degrade performance by 2-5x even if the 
 - [[tools/TensorRT-LLM]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

@@ -24,4 +24,4 @@ Real-world data for edge cases is expensive, dangerous, or impossible to collect
 - [[tools/NVIDIA-Cosmos]]
 
 ## Source
-[[source-notes/NVIDIA-Cosmos-3-Physical-AI]]
+[[summaries/NVIDIA-Cosmos-3-Physical-AI]]

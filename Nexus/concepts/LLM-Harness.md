@@ -30,4 +30,4 @@ The harness is the software layer between the user's prompt and the language mod
 - [[concepts/Skill-Based-AI-Agents]] -- skills are harness-level abstractions
 
 ## Sources
-- [[source-notes/DavidHurtado-Harness-and-Prompting]]
+- [[summaries/DavidHurtado-Harness-and-Prompting]]

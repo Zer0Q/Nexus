@@ -28,4 +28,4 @@ Poorly designed HMIs have been identified as contributing factors in industrial 
 - [[concepts/ISA-101-Standard]]
 
 ## Source
-[[source-notes/RealPars-High-Performance-HMI]]
+[[summaries/RealPars-High-Performance-HMI]]

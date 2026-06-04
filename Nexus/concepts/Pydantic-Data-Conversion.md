@@ -26,5 +26,5 @@ Data from external sources (APIs, user input, databases) rarely matches exact ty
 - [[concepts/Pydantic-BaseModel]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-Models]]
-[[source-notes/Torque-Pydantic-Data-Transformation]]
+[[summaries/Pydantic-Team-Pydantic-Models]]
+[[summaries/Torque-Pydantic-Data-Transformation]]

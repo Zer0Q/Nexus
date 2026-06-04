@@ -25,4 +25,4 @@ Eliminates the need to build custom tooling manually. Instead of spending evenin
 - [[concepts/Vault-Aware-Automation]] -- dashboard can integrate with vault operations
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

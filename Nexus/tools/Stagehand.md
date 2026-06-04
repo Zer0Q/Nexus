@@ -24,4 +24,4 @@ Stagehand bridges the gap between brittle CSS selectors and full browser control
 - [[concepts/Tool-Selection-Hierarchy]]
 
 ## Source
-[[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
+[[summaries/DamiDefi-20-GitHub-Scraping-Repos]]

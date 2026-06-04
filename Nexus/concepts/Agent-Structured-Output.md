@@ -25,5 +25,5 @@ Free-text LLM output is hard to parse programmatically. Structured output guaran
 - [[concepts/Pydantic-Validation]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
-[[source-notes/KusCamara-PydanticAI-Agent-Creation]]
+[[summaries/Pydantic-Team-Pydantic-AI-Overview]]
+[[summaries/KusCamara-PydanticAI-Agent-Creation]]

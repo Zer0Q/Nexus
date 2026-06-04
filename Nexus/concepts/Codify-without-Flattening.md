@@ -25,4 +25,4 @@ AI that only knows rules but not when to override them fails in edge cases. Pres
 - [[concepts/Human-AI-Orchestration]]
 
 ## Source
-[[source-notes/TungRoussiere-Tacit-Knowledge-Moat]]
+[[summaries/TungRoussiere-Tacit-Knowledge-Moat]]

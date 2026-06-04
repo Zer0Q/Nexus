@@ -23,4 +23,4 @@ The system prompt is the primary mechanism for steering agent behavior. Well-cra
 - [[concepts/Augmented-LLM]]
 
 ## Source
-[[source-notes/KusCamara-PydanticAI-Agent-Creation]]
+[[summaries/KusCamara-PydanticAI-Agent-Creation]]

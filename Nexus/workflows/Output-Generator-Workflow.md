@@ -30,4 +30,4 @@ This is the moment the entire system justifies itself. Months of captured notes 
 - [[concepts/Note-Contribution-Rate]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

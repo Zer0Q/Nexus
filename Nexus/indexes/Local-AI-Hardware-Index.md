@@ -29,10 +29,10 @@ Hardware strategies for local AI: DGX Spark, unified memory architectures, cloud
 - [[concepts/Model-Selection-Tiers]] -- choosing models by hardware capability
 
 ## Frameworks
-- [[frameworks/Hardware-First-Engine-Selection]] -- engine follows hardware strategy
-- [[frameworks/Inference-Engine-Families]] -- four categories of inference engines
-- [[frameworks/Benchmarking-Workload-Shape]] -- proper benchmarking methodology
-- [[frameworks/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
+- [[tools/Hardware-First-Engine-Selection]] -- engine follows hardware strategy
+- [[tools/Inference-Engine-Families]] -- four categories of inference engines
+- [[tools/Benchmarking-Workload-Shape]] -- proper benchmarking methodology
+- [[tools/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
 
 ## Tools
 - [[tools/LM-Studio]] -- local model runner (Mistral, Llama, DeepSeek)
@@ -45,20 +45,20 @@ Hardware strategies for local AI: DGX Spark, unified memory architectures, cloud
 - [[tools/BMO-Chatbot]] -- local chat interface in Obsidian
 
 ## Glossary
-- [[glossary/HBM]] -- High Bandwidth Memory
-- [[glossary/GGUF]] -- GPT-Generated Unified Format
-- [[glossary/KV-Cache]] -- Key-Value cache for attention
-- [[glossary/MoE]] -- Mixture of Experts
-- [[glossary/FP4]] -- 4-bit floating point quantization
-- [[glossary/LPDDR5x]] -- low-power DDR5 for edge devices
-- [[glossary/GB10]] -- NVIDIA GPU architecture
-- [[glossary/ConnectX-7]] -- NVIDIA networking interconnect
-- [[glossary/NeMo]] -- NVIDIA model optimization framework
-- [[glossary/NIM]] -- NVIDIA Inference Microservice
-- [[glossary/Local-LLM]] -- locally-hosted language model
-- [[glossary/RAG]] -- Retrieval-Augmented Generation
-- [[glossary/Embeddings]] -- vector representations of text
-- [[glossary/Nous-Portal]] -- model distribution platform
+- [[concepts/HBM]] -- High Bandwidth Memory
+- [[concepts/GGUF]] -- GPT-Generated Unified Format
+- [[concepts/KV-Cache]] -- Key-Value cache for attention
+- [[concepts/MoE]] -- Mixture of Experts
+- [[concepts/FP4]] -- 4-bit floating point quantization
+- [[concepts/LPDDR5x]] -- low-power DDR5 for edge devices
+- [[concepts/GB10]] -- NVIDIA GPU architecture
+- [[concepts/ConnectX-7]] -- NVIDIA networking interconnect
+- [[concepts/NeMo]] -- NVIDIA model optimization framework
+- [[concepts/NIM]] -- NVIDIA Inference Microservice
+- [[concepts/Local-LLM]] -- locally-hosted language model
+- [[concepts/RAG]] -- Retrieval-Augmented Generation
+- [[concepts/Embeddings]] -- vector representations of text
+- [[concepts/Nous-Portal]] -- model distribution platform
 
 ## Sources
-- [[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+- [[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

@@ -25,4 +25,4 @@ IT incident investigation spans the full stack -- infrastructure, middleware, ap
 - [[concepts/Program-Analysis-for-Agents]]
 
 ## Source
-[[source-notes/NicholasFuller-Agent-Logic-Enterprise-AI]]
+[[summaries/NicholasFuller-Agent-Logic-Enterprise-AI]]

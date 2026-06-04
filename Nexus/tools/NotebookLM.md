@@ -24,4 +24,4 @@ Unlike general-purpose LLMs that hallucinate, NotebookLM stays grounded in provi
 - [[concepts/Primary-Source-Over-Secondary]]
 
 ## Source
-[[source-notes/hooeem-be-notebooklm-maxxing]]
+[[summaries/hooeem-be-notebooklm-maxxing]]

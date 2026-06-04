@@ -26,4 +26,4 @@ Most people who build a vault never reach revenue because they never ship from i
 - [[concepts/Four-Zone-Monetization-Vault]] -- the output zone is where shipping happens
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

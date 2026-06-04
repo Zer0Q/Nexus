@@ -28,4 +28,4 @@ This is the primary mechanism for turning Hermes into a proactive employee rathe
 - [[concepts/Hermes-Dashboard]] -- visual status of running goals
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

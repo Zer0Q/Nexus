@@ -25,4 +25,4 @@ Solves the problem of knowledge siloed in your vault being invisible to your cod
 - [[concepts/Context-Tree-Indexing]]
 
 ## Source
-[[source-notes/KevinNguyen-ByteRover-Obsidian]]
+[[summaries/KevinNguyen-ByteRover-Obsidian]]

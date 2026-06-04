@@ -23,4 +23,4 @@ Production agents run multi-step workflows that can take minutes or hours. Witho
 - [[concepts/Agent-Graph-Support]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
+[[summaries/Pydantic-Team-Pydantic-AI-Overview]]

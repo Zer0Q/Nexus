@@ -30,4 +30,4 @@ Active recall and spaced repetition build and maintain individual nodes. The syn
 - [[concepts/Spaced-Repetition-System]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

@@ -22,8 +22,8 @@ Traditional RAG retrieves isolated chunks; GraphRAG adds relational context. Age
 - [[concepts/Contextual-Retrieval]]
 - [[concepts/Context-Graph-RAG]]
 - [[concepts/RAG-then-Long-Context]]
-- [[glossary/RAG]]
+- [[concepts/RAG]]
 - [[concepts/Three-Layer-Semantic-Infrastructure]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

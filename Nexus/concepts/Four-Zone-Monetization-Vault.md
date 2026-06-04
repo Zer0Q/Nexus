@@ -26,4 +26,4 @@ Most vaults optimize the inbox and leave the exit unstaffed. This structure forc
 - [[concepts/Three-Capture-Surfaces]] -- feeds the 00-CAPTURE zone
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

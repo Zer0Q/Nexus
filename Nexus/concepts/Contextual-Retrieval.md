@@ -21,7 +21,7 @@ Standard chunk-and-embed approaches lose document-level context. A chunk about "
 - [[concepts/Agentic-GraphRAG]]
 - [[concepts/RAG-then-Long-Context]]
 - [[concepts/Context-Graph-RAG]]
-- [[glossary/RAG]]
+- [[concepts/RAG]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

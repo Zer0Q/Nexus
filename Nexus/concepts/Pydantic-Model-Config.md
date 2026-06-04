@@ -28,4 +28,4 @@ Some settings apply globally to a model rather than per-field. ConfigDict centra
 - [[concepts/Pydantic-Settings]]
 
 ## Source
-[[source-notes/Torque-Pydantic-Data-Transformation]]
+[[summaries/Torque-Pydantic-Data-Transformation]]

@@ -26,4 +26,4 @@ JSON consume 15-25% de tokens en sintaxis pura (comillas, llaves, espacios). TOO
 - [[Context-Window]]
 
 ## Source
-[[CodeMotion-TOON-Format]]
+[[summaries/Orli-Dun-La-ineficiencia-oculta-de-JSON-frente-a]]

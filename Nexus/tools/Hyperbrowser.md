@@ -24,4 +24,4 @@ The anti-bot market hit $11B in 2025. Well-built scrapers are blocked within sec
 - [[concepts/Tool-Selection-Hierarchy]]
 
 ## Source
-[[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
+[[summaries/DamiDefi-20-GitHub-Scraping-Repos]]

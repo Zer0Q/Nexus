@@ -24,4 +24,4 @@ When an agent's research feeds its own outputs, which then influence future rese
 - [[concepts/Vault-Aware-Research]]
 
 ## Source
-[[source-notes/0xJeff-Hermes-Analyst-60-Days]]
+[[summaries/0xJeff-Hermes-Analyst-60-Days]]

@@ -20,10 +20,10 @@ First engine most teams should evaluate for serious open-source LLM serving. Bes
 - Not the absolute fastest on NVIDIA-only hardware (TensorRT-LLM can beat it)
 
 ## Related
-- [[frameworks/Inference-Engine-Families]]
+- [[tools/Inference-Engine-Families]]
 - [[concepts/PagedAttention]]
 - [[concepts/Continuous-Batching]]
 - [[concepts/Disaggregated-Prefill-Decode]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

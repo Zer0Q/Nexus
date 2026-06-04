@@ -25,4 +25,4 @@ Parallel agents compress development time: one refactors a module, one writes te
 - [[concepts/Five-Layer-AI-Stack]] -- Cursor is the execution layer
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

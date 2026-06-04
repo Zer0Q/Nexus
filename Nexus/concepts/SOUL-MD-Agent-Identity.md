@@ -24,4 +24,4 @@ Default agent prompts produce compliant but useless output. SOUL.md gives agents
 - [[concepts/Compound-Effect-of-Persistent-Instructions]]
 
 ## Source
-[[source-notes/tonysimons-170-line-soul-md-hermes-agent-dangerous]]
+[[summaries/tonysimons-170-line-soul-md-hermes-agent-dangerous]]

@@ -25,4 +25,4 @@ Separates storage, thinking, and execution -- each layer has a distinct role. Th
 - [[concepts/Async-Queue-Pattern]]
 
 ## Source
-[[source-notes/CyrilXBT-Business-Operating-System]]
+[[summaries/CyrilXBT-Business-Operating-System]]

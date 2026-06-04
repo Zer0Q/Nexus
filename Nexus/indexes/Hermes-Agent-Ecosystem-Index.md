@@ -38,16 +38,16 @@ Complete map of Hermes Agent features, configuration, skills, and community use 
 - [[concepts/Browser-CDP-Control]] -- web browser automation
 
 ## Glossary
-- [[glossary/MCP]]
-- [[glossary/SOUL-MD]]
-- [[glossary/CLAUDE-MD]]
-- [[glossary/Vault-Context]]
+- [[concepts/MCP]]
+- [[concepts/SOUL-MD]]
+- [[concepts/CLAUDE-MD]]
+- [[concepts/Vault-Context]]
 
 ## Sources
-- [[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
-- [[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
-- [[source-notes/InduTripati-Hermes-Agent-276-Use-Cases]]
-- [[source-notes/NeoAIForecast-install-hermes-agent]]
-- [[source-notes/NeoAIForecast-skills-work-hermes-agent]]
-- [[source-notes/NeoAIForecast-hermes-agent-memory-actually-works]]
-- [[source-notes/tonysimons-170-line-soul-md-hermes-agent-dangerous]]
+- [[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+- [[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]
+- [[summaries/InduTripati-Hermes-Agent-276-Use-Cases]]
+- [[summaries/NeoAIForecast-install-hermes-agent]]
+- [[summaries/NeoAIForecast-skills-work-hermes-agent]]
+- [[summaries/NeoAIForecast-hermes-agent-memory-actually-works]]
+- [[summaries/tonysimons-170-line-soul-md-hermes-agent-dangerous]]

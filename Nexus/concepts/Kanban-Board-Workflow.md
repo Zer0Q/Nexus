@@ -26,4 +26,4 @@ Transforms a list of to-dos into an automated execution pipeline. By the time yo
 - [[concepts/Agent-Cron-Scheduler]] -- daemon runs continuously vs cron polling
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

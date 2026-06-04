@@ -24,4 +24,4 @@ Companies pay consultants serious money to locate process failure points. Their 
 - [[concepts/People-Process-Technology-Sequence]]
 
 ## Source
-[[source-notes/Gellida-Broken-Process-Broken-AI]]
+[[summaries/Gellida-Broken-Process-Broken-AI]]

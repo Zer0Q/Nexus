@@ -24,4 +24,4 @@ Without self-evolving skills, agents repeat the same trial-and-error cycles ever
 - [[concepts/Agent-Identity-Layer]] -- skills created through the lens of identity
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

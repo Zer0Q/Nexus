@@ -25,4 +25,4 @@ Most automated synthesis tools look at a narrow window (7 days). The most valuab
 - [[concepts/Live-Vault-Memory]] -- the enabler
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

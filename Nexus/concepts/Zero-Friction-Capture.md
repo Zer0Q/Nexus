@@ -21,8 +21,8 @@ The problem with every other note-taking system is retrieval: you save things bu
 ## Related
 - [[concepts/Three-Capture-Surfaces]] -- the three channels that implement zero-friction capture
 - [[concepts/Automated-Capture-Pipeline]] -- processes the captures after they land
-- [[glossary/Inbox-First-Capture]] -- all captures land in an inbox-first daily note
+- [[concepts/Inbox-First-Capture]] -- all captures land in an inbox-first daily note
 - [[concepts/Productivity-Theater]] -- the opposite: complex setups that add friction instead of removing it
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

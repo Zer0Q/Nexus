@@ -25,4 +25,4 @@ The workflow vs agent distinction determines predictability, flexibility, and co
 - [[concepts/Augmented-LLM]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]

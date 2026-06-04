@@ -31,4 +31,4 @@ Enforces the core principle: notes that do not connect to anything active are no
 - [[concepts/Note-Contribution-Rate]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

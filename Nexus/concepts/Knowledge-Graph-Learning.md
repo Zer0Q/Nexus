@@ -30,4 +30,4 @@ The connection is where understanding lives. A student who knows three separate 
 - [[concepts/Pattern-Identification-Across-Notes]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

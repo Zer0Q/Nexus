@@ -23,4 +23,4 @@ Agents need access to databases, APIs, user sessions, and configuration. Depende
 - [[concepts/Agent-Tool-Use]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
+[[summaries/Pydantic-Team-Pydantic-AI-Overview]]

@@ -25,4 +25,4 @@ Raw LLM extraction produces fragmented, inconsistent graphs with spurious relati
 - [[concepts/Three-Layer-Semantic-Infrastructure]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

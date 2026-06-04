@@ -4,11 +4,11 @@
 This index maps the concepts, frameworks, and tools related to building an effective research and knowledge management workflow.
 
 ## Core Frameworks
-- [[frameworks/Unified-Knowledge-Environment]] -- single environment over multi-tool stacks
-- [[glossary/Connection-Cost]] -- the hidden tax of disconnected tools
-- [[glossary/Inbox-First-Capture]] -- fast capture, deferred organisation
-- [[frameworks/Weekly-AI-Synthesis]] -- automated cross-note analysis
-- [[frameworks/Hybrid-AI-Workflow]] -- mixing local and cloud AI
+- [[tools/Unified-Knowledge-Environment]] -- single environment over multi-tool stacks
+- [[concepts/Connection-Cost]] -- the hidden tax of disconnected tools
+- [[concepts/Inbox-First-Capture]] -- fast capture, deferred organisation
+- [[tools/Weekly-AI-Synthesis]] -- automated cross-note analysis
+- [[tools/Hybrid-AI-Workflow]] -- mixing local and cloud AI
 
 ## Knowledge System Architectures
 - [[concepts/Write-Time-Knowledge-Systems]] -- AI synthesizes at ingestion
@@ -31,9 +31,9 @@ This index maps the concepts, frameworks, and tools related to building an effec
 - [[concepts/Error-Compounding]] -- cascading inaccuracies across notes
 
 ## Knowledge Management Frameworks
-- [[frameworks/AI-as-Maintainer]] -- AI as ongoing knowledge steward
-- [[frameworks/Compilation-Agent]] -- agent generating wiki views from structured data
-- [[frameworks/AI-Human-Division-of-Labor]] -- AI organizes, human curates
+- [[tools/AI-as-Maintainer]] -- AI as ongoing knowledge steward
+- [[tools/Compilation-Agent]] -- agent generating wiki views from structured data
+- [[tools/AI-Human-Division-of-Labor]] -- AI organizes, human curates
 
 ## Tools
 - [[tools/LM-Studio]] -- local model runner
@@ -42,14 +42,14 @@ This index maps the concepts, frameworks, and tools related to building an effec
 - [[tools/CLAUDE-MD-Project-Knowledge]] -- AI context configuration
 
 ## Glossary
-- [[glossary/RAG]]
-- [[glossary/Embeddings]]
-- [[glossary/Local-LLM]]
-- [[glossary/Vault-Context]]
-- [[glossary/Connection-Cost]]
-- [[glossary/Inbox-First-Capture]]
+- [[concepts/RAG]]
+- [[concepts/Embeddings]]
+- [[concepts/Local-LLM]]
+- [[concepts/Vault-Context]]
+- [[concepts/Connection-Cost]]
+- [[concepts/Inbox-First-Capture]]
 
 ## Sources
-- [[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]
-- [[source-notes/KanikaBK-Offline-AI-Workflow]]
-- [[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+- [[summaries/DamiDefi-Obsidian-Claude-Research-Stack]]
+- [[summaries/KanikaBK-Offline-AI-Workflow]]
+- [[summaries/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

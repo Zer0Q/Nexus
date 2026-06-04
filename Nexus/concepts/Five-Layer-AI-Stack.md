@@ -24,4 +24,4 @@ No single tool is the answer to everything. The operators getting real leverage 
 - [[concepts/Hermes-Agent-Architecture]] -- the automation layer in this stack
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

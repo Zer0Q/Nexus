@@ -27,4 +27,4 @@ Rationalization is the core transformation step — it removes notifications tha
 - [[concepts/ISA-18-2-Standard]]
 
 ## Source
-[[source-notes/Dunn-Sands-Alarm-Management-FAQ]]
+[[summaries/Dunn-Sands-Alarm-Management-FAQ]]

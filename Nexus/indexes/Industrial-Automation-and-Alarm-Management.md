@@ -6,7 +6,7 @@ Standards, concepts, and practices for alarm management and HMI design in proces
 ## Core Concepts
 - [[concepts/Alarm-Management]] -- systematic transformation of alarm systems into operator support tools
 - [[concepts/Alarm-Management-Lifecycle]] -- continuous lifecycle: philosophy through audit
-- [[glossary/Alarm-Rationalization]] -- reviewing and justifying alarms against defined criteria
+- [[concepts/Alarm-Rationalization]] -- reviewing and justifying alarms against defined criteria
 - [[concepts/Alarm-Philosophy]] -- documented framework guiding all alarm decisions
 - [[concepts/Alarm-Classification]] -- grouping alarms by common management requirements
 - [[concepts/Highly-Managed-Alarm]] -- alarms requiring extra administration (safety, environmental, quality)
@@ -27,18 +27,18 @@ Standards, concepts, and practices for alarm management and HMI design in proces
 - [[concepts/ISA-101-Standard]] -- HMI lifecycle standard (ANSI/ISA-101.01-2015)
 
 ## Glossary
-- [[glossary/HMI]]
-- [[glossary/ISA-18-2]]
-- [[glossary/ISA-101]]
-- [[glossary/Alarm-Rationalization]]
-- [[glossary/Alarm-Flood]]
-- [[glossary/MAD]]
-- [[glossary/PID]]
-- [[glossary/SCADA]]
+- [[concepts/HMI]]
+- [[concepts/ISA-18-2]]
+- [[concepts/ISA-101]]
+- [[concepts/Alarm-Rationalization]]
+- [[concepts/Alarm-Flood]]
+- [[concepts/MAD]]
+- [[concepts/PID]]
+- [[concepts/SCADA]]
 
 ## Sources
-- [[source-notes/Dunn-Sands-Alarm-Management-FAQ]]
-- [[source-notes/OBrien-ISA-101-HMI-Lifecycle]]
-- [[source-notes/ISA-18-Standards-Series]]
-- [[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]
-- [[source-notes/RealPars-High-Performance-HMI]]
+- [[summaries/Dunn-Sands-Alarm-Management-FAQ]]
+- [[summaries/OBrien-ISA-101-HMI-Lifecycle]]
+- [[summaries/ISA-18-Standards-Series]]
+- [[summaries/Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+- [[summaries/RealPars-High-Performance-HMI]]

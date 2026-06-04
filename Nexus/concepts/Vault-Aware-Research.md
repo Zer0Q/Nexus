@@ -25,4 +25,4 @@ A standard AI session is smart but context-blind. It cannot flag contradictions 
 - [[concepts/Primary-Source-Over-Secondary]] -- the research philosophy behind it
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

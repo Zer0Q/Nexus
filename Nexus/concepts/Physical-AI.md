@@ -24,4 +24,4 @@ Physical AI bridges the gap between digital intelligence and real-world action. 
 - [[tools/NVIDIA-Cosmos]]
 
 ## Source
-[[source-notes/NVIDIA-Cosmos-3-Physical-AI]]
+[[summaries/NVIDIA-Cosmos-3-Physical-AI]]

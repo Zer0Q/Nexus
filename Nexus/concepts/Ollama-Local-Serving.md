@@ -22,8 +22,8 @@ Ollama is the simplest path to running large models locally. The three-command s
 ## Related
 - [[concepts/DGX-OS-Stack]] -- Ollama runs on top of the pre-built stack
 - [[concepts/Open-WebUI-Local-Chat]] -- front-end that connects to Ollama
-- [[glossary/Local-LLM]] -- broader concept of local model serving
+- [[concepts/Local-LLM]] -- broader concept of local model serving
 - [[tools/vLLM]] -- alternative serving engine with higher throughput
 
 ## Source
-[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+[[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

@@ -25,4 +25,4 @@ Long coding tasks (database migrations, full refactors, test suite generation) c
 - [[concepts/Long-Horizon-Coding]] -- cloud handoff enables long-horizon tasks on limited hardware
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

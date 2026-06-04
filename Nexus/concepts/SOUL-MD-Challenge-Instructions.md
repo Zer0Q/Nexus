@@ -24,4 +24,4 @@ AI assistants are trained to be agreeable. Without explicit challenge instructio
 - [[concepts/Vault-Aware-Research]] -- the capability this instruction activates
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

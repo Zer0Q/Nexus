@@ -24,4 +24,4 @@ The "clock and nervous system" of automated knowledge systems. Routes informatio
 - [[concepts/Automated-Business-Workflows]]
 
 ## Source
-[[source-notes/CyrilXBT-Business-Operating-System]]
+[[summaries/CyrilXBT-Business-Operating-System]]

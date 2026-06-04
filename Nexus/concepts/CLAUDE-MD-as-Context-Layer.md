@@ -29,7 +29,7 @@ Without it, every AI synthesis is generic. With it, outputs are calibrated to yo
 - [[concepts/AI-Chief-of-Staff]]
 - [[concepts/Compound-Effect-of-Persistent-Instructions]]
 - [[concepts/System-Setup-Hierarchy]]
-- [[frameworks/CLAUDE-MD-Five-Section-Template]]
+- [[tools/CLAUDE-MD-Five-Section-Template]]
 
 ## Source
-[[source-notes/DamiDefi-Claude-Vault-Integration]]
+[[summaries/DamiDefi-Claude-Vault-Integration]]

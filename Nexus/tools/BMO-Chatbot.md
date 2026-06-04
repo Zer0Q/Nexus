@@ -18,4 +18,4 @@ Gives you a familiar chat experience without sending data to the cloud. Useful f
 - [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

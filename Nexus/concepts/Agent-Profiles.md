@@ -24,4 +24,4 @@ A single generalist agent can't optimize for conflicting roles (e.g., creative d
 - [[concepts/Agent-Cron-Scheduler]] -- each profile can have its own scheduled jobs
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

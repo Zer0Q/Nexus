@@ -29,8 +29,8 @@ Conceptos, prácticas y herramientas para ingeniería AI-native: de la orquestac
 - [[AGENTS-MD]]
 
 ## Sources
-- [[0xCodez-Codex-Masterclass]]
+- [[summaries/0xCodez-Master-97-of-Codex-in-30-Minutes-Full-Co]]
 - [[ByteByteGo-AI-Native-Engineer]]
 - [[Sairahul1-10-AI-Concepts]]
-- [[CodeMotion-TOON-Format]]
+- [[summaries/Orli-Dun-La-ineficiencia-oculta-de-JSON-frente-a]]
 - [[ChatGPT-CICD-Canary]]

@@ -25,4 +25,4 @@ Solves the knowledge gap between personal notes and coding agents. When you ask 
 - [[concepts/Read-Only-Vault-Safety]]
 
 ## Source
-[[source-notes/KevinNguyen-ByteRover-Obsidian]]
+[[summaries/KevinNguyen-ByteRover-Obsidian]]

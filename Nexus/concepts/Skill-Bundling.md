@@ -26,4 +26,4 @@ Monolithic skill prompts grow into spaghetti walls of text. Every new session re
 - [[concepts/Feedback-Loop-Training]]
 
 ## Source
-[[source-notes/0xJeff-Hermes-Analyst-60-Days]]
+[[summaries/0xJeff-Hermes-Analyst-60-Days]]

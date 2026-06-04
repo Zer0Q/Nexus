@@ -30,4 +30,4 @@ Individual concept notes capture discrete ideas. Pattern identification reveals 
 - [[workflows/Connection-Protocol]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

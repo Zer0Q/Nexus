@@ -19,7 +19,7 @@ Represents the lowest-friction entry point to AI-assisted development. Useful fo
 
 ## Related
 - [[concepts/Prompt-Validation-Over-Construction]]
-- [[frameworks/Spec-Driven-Development]], [[frameworks/BMAD-Method]], [[concepts/Agentic-SDLC]]
+- [[tools/Spec-Driven-Development]], [[tools/BMAD-Method]], [[concepts/Agentic-SDLC]]
 
 ## Source
-[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]
+[[summaries/SDD-vs-BMAD-Frameworks-Comparison]]

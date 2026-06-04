@@ -28,4 +28,4 @@ Traditional manual KG updates take ~50 days. ODKE+ processed 9M Wikipedia pages,
 - [[tools/KGGen]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

@@ -24,4 +24,4 @@ Reframes intelligence from static IQ to dynamic capability. Anyone can improve t
 - [[concepts/Identity-Based-Behavior-Change]]
 
 ## Source
-[[source-notes/DanKoe-Life-Change-Protocol]]
+[[summaries/DanKoe-Life-Change-Protocol]]

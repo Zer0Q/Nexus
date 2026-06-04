@@ -25,4 +25,4 @@ Without SOUL.md, Hermes reads your vault as a generic content library. With a sp
 - [[concepts/SOUL-MD-Negative-Constraints]] -- what you never want
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

@@ -12,8 +12,8 @@ Maximizes the strengths of both: human intuition and contextual understanding co
 - The orchestration pattern scales personal knowledge systems beyond manual capacity
 
 ## Related
-- [[frameworks/AI-Human-Division-of-Labor]]
-- [[frameworks/Hybrid-AI-Workflow]]
+- [[tools/AI-Human-Division-of-Labor]]
+- [[tools/Hybrid-AI-Workflow]]
 - [[concepts/Codify-without-Flattening]]
 
 ## Source

@@ -24,4 +24,4 @@ Without an identity layer, every agent instance feels interchangeable — same m
 - [[concepts/Agent-Profiles]] -- each profile has its own SOUL.md
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

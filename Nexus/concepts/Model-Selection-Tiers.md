@@ -23,4 +23,4 @@ Choosing the wrong model wastes money or produces poor results. This framework h
 - [[concepts/Hermes-Dashboard]] -- Models tab for instant model swapping
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

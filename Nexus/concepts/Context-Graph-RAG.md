@@ -21,7 +21,7 @@ Standard GraphRAG retrieves relational context but lacks auditability. Context-G
 - [[concepts/Agentic-GraphRAG]]
 - [[concepts/Three-Layer-Semantic-Infrastructure]]
 - [[concepts/Contextual-Retrieval]]
-- [[glossary/RAG]]
+- [[concepts/RAG]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

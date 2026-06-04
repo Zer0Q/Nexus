@@ -19,9 +19,9 @@ Most "AI agents" are demos — a prompt wrapped in a loop. Production agents nee
 - Debugging spans multiple layers
 
 ## Related
-- [[source-notes/AddyOsmani-Agent-Harness-Engineering]]
+- [[summaries/AddyOsmani-Agent-Harness-Engineering]]
 - [[concepts/Hermes-Agent-Architecture]]
 - [[concepts/Five-Layer-AI-Stack]]
 
 ## Source
-[[source-notes/Av1dlive-build-ai-agents-2026-course]]
+[[summaries/Av1dlive-build-ai-agents-2026-course]]

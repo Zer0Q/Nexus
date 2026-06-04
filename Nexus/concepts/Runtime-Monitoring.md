@@ -25,4 +25,4 @@ Autonomous agents will encounter edge cases, API failures, and unexpected states
 - [[concepts/Agent-Decay]]
 
 ## Source
-[[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
+[[summaries/gkisokay-21-Mistakes-Building-AI-Agents]]

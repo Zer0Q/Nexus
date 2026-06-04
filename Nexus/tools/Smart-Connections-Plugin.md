@@ -24,4 +24,4 @@ Smart Connections turns Obsidian from a note-taking app into a conversational kn
 - [[tools/LM-Studio]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

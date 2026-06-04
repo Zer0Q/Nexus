@@ -18,28 +18,28 @@ Concepts, frameworks, and tools for building and maintaining personal and organi
 ## Frameworks
 - [[concepts/Four-Layer-Vault-Architecture]] -- capture, pipeline, storage, intelligence
 - [[concepts/Three-Layer-Architecture]] -- knowledge, intelligence, automation
-- [[frameworks/Business-Operating-System]] -- vault as continuous business processor
+- [[tools/Business-Operating-System]] -- vault as continuous business processor
 - [[concepts/Organize-by-Type-not-Topic]] -- type-based folders enable cross-domain connections
 - [[concepts/Retrieval-First-Organization]] -- organize for finding, not storing
 - [[concepts/PARA-Method]] -- Projects, Areas, Resources, Archive
-- [[frameworks/Date-Prefixed-Naming]] -- YYYY-MM-DD-TYPE-TOPIC convention
+- [[tools/Date-Prefixed-Naming]] -- YYYY-MM-DD-TYPE-TOPIC convention
 - [[concepts/Three-Category-Tagging]] -- topic, status, project tags
 - [[concepts/Map-of-Content]] -- hub notes linking related clusters
 - [[concepts/Quarterly-Vault-Review]] -- periodic vault maintenance
-- [[glossary/Inbox-First-Capture]] -- everything lands in inbox first
+- [[concepts/Inbox-First-Capture]] -- everything lands in inbox first
 - [[concepts/Shared-Directory-Pattern]] -- agent and vault in same folder
-- [[frameworks/Graph-Based-Knowledge-Discovery]] -- AI follows backlinks across vault
+- [[tools/Graph-Based-Knowledge-Discovery]] -- AI follows backlinks across vault
 
 ## Workflows
 - [[concepts/Daily-Synthesis-Workflow]] -- automated morning briefing
-- [[frameworks/Weekly-AI-Synthesis]] -- deeper weekly analysis
+- [[tools/Weekly-AI-Synthesis]] -- deeper weekly analysis
 - [[concepts/Automated-Capture-Pipeline]] -- zero-friction ingestion
 - [[concepts/Automated-Business-Workflows]] -- six interconnected business systems
 - [[concepts/Async-Queue-Pattern]] -- QUEUE/GENERATED async communication
 
 ## Tools
-- [[glossary/N8N]] -- workflow automation
-- [[glossary/Readwise]] -- highlight aggregation
+- [[concepts/N8N]] -- workflow automation
+- [[concepts/Readwise]] -- highlight aggregation
 - [[tools/ByteRover]] -- vault-to-agent bridge
 - [[tools/Vellum]] -- AI intelligence layer
 - [[tools/qmd]] -- local markdown search
@@ -48,24 +48,24 @@ Concepts, frameworks, and tools for building and maintaining personal and organi
 - [[tools/Telegram-Bot-Capture]] -- quick capture from phone
 
 ## Glossary
-- [[glossary/N8N]]
-- [[glossary/Readwise]]
-- [[glossary/Vault-Context]]
-- [[glossary/RAG]]
-- [[glossary/Embeddings]]
+- [[concepts/N8N]]
+- [[concepts/Readwise]]
+- [[concepts/Vault-Context]]
+- [[concepts/RAG]]
+- [[concepts/Embeddings]]
 
 ## Sources
-- [[source-notes/Karpathy-LLM-Knowledge-Bases]]
-- [[source-notes/Karpathy-LLM-Wiki-Pattern]]
-- [[source-notes/OmarSaridakis-Research-KB]]
-- [[source-notes/KevinNguyen-ByteRover-Obsidian]]
-- [[source-notes/OpenSourceProjects-Obsidian-Skills]]
-- [[source-notes/DamiDefi-Claude-Vault-Integration]]
-- [[source-notes/Atenov-Self-Running-Brain]]
-- [[source-notes/NickSpisak-Second-Brain-Guide]]
-- [[source-notes/TungRoussiere-Tacit-Knowledge-Moat]]
-- [[source-notes/CyrilXBT-Business-Operating-System]]
-- [[source-notes/CyrilXBT-Vault-Organization]]
-- [[source-notes/CyrilXBT-Trading-Brain]]
-- [[source-notes/CyrilXBT-Self-Improving-Vault]]
-- [[source-notes/CyrilXBT-Obsidian-Vellum]]
+- [[summaries/Karpathy-LLM-Knowledge-Bases]]
+- [[summaries/Karpathy-LLM-Wiki-Pattern]]
+- [[summaries/OmarSaridakis-Research-KB]]
+- [[summaries/KevinNguyen-ByteRover-Obsidian]]
+- [[summaries/OpenSourceProjects-Obsidian-Skills]]
+- [[summaries/DamiDefi-Claude-Vault-Integration]]
+- [[summaries/Atenov-Self-Running-Brain]]
+- [[summaries/NickSpisak-Second-Brain-Guide]]
+- [[summaries/TungRoussiere-Tacit-Knowledge-Moat]]
+- [[summaries/CyrilXBT-Business-Operating-System]]
+- [[summaries/CyrilXBT-Vault-Organization]]
+- [[summaries/CyrilXBT-Trading-Brain]]
+- [[summaries/CyrilXBT-Self-Improving-Vault]]
+- [[summaries/CyrilXBT-Obsidian-Vellum]]

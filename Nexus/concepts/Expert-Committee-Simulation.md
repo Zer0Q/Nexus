@@ -25,4 +25,4 @@ Real expert committees benefit from diverse perspectives and constructive disagr
 - [[concepts/AI-Assisted-Medical-Research]] -- the domain where this is most impactful
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

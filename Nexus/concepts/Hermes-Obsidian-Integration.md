@@ -25,4 +25,4 @@ This transforms Hermes from a stateless Q&A tool into a persistent research part
 - [[concepts/Hermes-Agent-Architecture]] -- Hermes's overall design
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

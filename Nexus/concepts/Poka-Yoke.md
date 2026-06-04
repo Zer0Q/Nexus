@@ -25,4 +25,4 @@ Training is a weak control — it relies on memory and willpower under pressure,
 - [[concepts/People-Process-Technology-Sequence]]
 
 ## Source
-[[source-notes/Gellida-Broken-Process-Broken-AI]]
+[[summaries/Gellida-Broken-Process-Broken-AI]]

@@ -25,4 +25,4 @@ Platform-agnostic design means the same agent logic works across terminals, Tele
 - [[concepts/Multi-Agent-Development]] -- spawning subagents within the same architecture
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

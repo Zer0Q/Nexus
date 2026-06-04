@@ -23,4 +23,4 @@ One prompt optimized for one input type performs poorly on others. Routing allow
 - [[concepts/Parallelization-Workflow]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]

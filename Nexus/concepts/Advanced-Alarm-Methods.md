@@ -27,4 +27,4 @@ Basic alarm design addresses static conditions; advanced methods handle the comp
 - [[concepts/ISA-18-2-Standard]]
 
 ## Source
-[[source-notes/ISA-18-Standards-Series]]
+[[summaries/ISA-18-Standards-Series]]

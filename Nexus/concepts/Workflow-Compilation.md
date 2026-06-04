@@ -24,4 +24,4 @@ Most production agents pay repeatedly for an orchestration loop they run thousan
 - [[concepts/Agent-Logic]]
 
 ## Source
-[[source-notes/DAIR-Top-AI-Papers-of-the-Week]]
+[[summaries/DAIR-Top-AI-Papers-of-the-Week]]

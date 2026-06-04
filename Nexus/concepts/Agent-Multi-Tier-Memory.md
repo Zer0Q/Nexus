@@ -22,4 +22,4 @@ Single-memory agents either forget everything between sessions or waste tokens l
 - [[concepts/Compounding-Knowledge-Context]] -- memory enables compounding across sessions
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

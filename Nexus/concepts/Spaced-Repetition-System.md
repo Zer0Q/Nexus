@@ -28,9 +28,9 @@ Stops the forgetting curve by timing reviews at the exact moment material is abo
 ## Related
 - [[concepts/Active-Recall-Learning]]
 - [[concepts/Mastery-Score-Tracking]]
-- [[frameworks/Concept-Note-Template]]
+- [[tools/Concept-Note-Template]]
 - [[workflows/Synthesis-Session]]
 - [[concepts/Sequential-vs-Network-Learning]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

@@ -25,10 +25,10 @@ Provides a quantitative signal for the [[concepts/Spaced-Repetition-System]] to 
 
 ## Related
 - [[concepts/Spaced-Repetition-System]]
-- [[frameworks/Concept-Note-Template]]
+- [[tools/Concept-Note-Template]]
 - [[concepts/Active-Recall-Learning]]
 - [[workflows/Synthesis-Session]]
 - [[concepts/Note-Contribution-Rate]]
 
 ## Source
-[[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+[[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

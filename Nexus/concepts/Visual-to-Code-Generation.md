@@ -25,4 +25,4 @@ Screenshot-based code generation is lossy -- the model guesses at spacing, color
 - [[concepts/PRD-to-UI]]
 
 ## Source
-[[source-notes/PrajwalTomar-Codex-Moonchild-Design-Workflow]]
+[[summaries/PrajwalTomar-Codex-Moonchild-Design-Workflow]]

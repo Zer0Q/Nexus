@@ -22,4 +22,4 @@ Explains why a machine with more VRAM can be slower than one with less VRAM but 
 - [[concepts/KV-Cache-Growth]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

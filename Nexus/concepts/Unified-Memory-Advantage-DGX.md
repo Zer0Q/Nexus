@@ -25,4 +25,4 @@ Memory capacity is the hard ceiling for local model size. When a model is fatter
 - [[concepts/Hardware-Reality-of-Local-AI]] -- broader hardware comparison
 
 ## Source
-[[source-notes/w1nklerr-DGX-Spark-Cost-Recovery]]
+[[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

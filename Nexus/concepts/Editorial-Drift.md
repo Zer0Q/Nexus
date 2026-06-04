@@ -23,4 +23,4 @@ AI summaries inevitably drop nuances, reframe context, or introduce subtle error
 - [[concepts/Knowledge-Source-of-Truth]]
 
 ## Source
-[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[summaries/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

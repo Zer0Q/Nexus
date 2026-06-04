@@ -24,4 +24,4 @@ Removes the knowledge worker from 4-6 hours/day of administrative coordination. 
 - [[concepts/Compounding-Knowledge-Context]]
 
 ## Source
-[[source-notes/CyrilXBT-Business-Operating-System]]
+[[summaries/CyrilXBT-Business-Operating-System]]

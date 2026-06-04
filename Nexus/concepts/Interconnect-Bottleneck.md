@@ -22,4 +22,4 @@ Tensor parallelism requires frequent all-reduce collectives. Pipeline parallelis
 - [[concepts/Unified-Memory-Tradeoff]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

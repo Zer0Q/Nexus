@@ -19,10 +19,10 @@ This index maps the concepts, tools, and workflows related to running AI models 
 - [[concepts/Quantization-Format-Portability]] -- formats are engine-specific
 
 ## Frameworks
-- [[frameworks/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
-- [[frameworks/Hardware-First-Engine-Selection]] -- engine follows hardware strategy
-- [[frameworks/Inference-Engine-Families]] -- four engine categories
-- [[frameworks/Benchmarking-Workload-Shape]] -- proper benchmarking methodology
+- [[tools/Hybrid-AI-Workflow]] -- mixing local and cloud based on sensitivity
+- [[tools/Hardware-First-Engine-Selection]] -- engine follows hardware strategy
+- [[tools/Inference-Engine-Families]] -- four engine categories
+- [[tools/Benchmarking-Workload-Shape]] -- proper benchmarking methodology
 
 ## Tools
 - [[tools/LM-Studio]] -- local model runner (Mistral, Llama, DeepSeek)
@@ -44,14 +44,14 @@ This index maps the concepts, tools, and workflows related to running AI models 
 - H100/H200: vLLM or SGLang, TensorRT-LLM for max performance
 
 ## Glossary
-- [[glossary/Local-LLM]]
-- [[glossary/RAG]]
-- [[glossary/Embeddings]]
-- [[glossary/KV-Cache]]
-- [[glossary/MoE]]
-- [[glossary/HBM]]
-- [[glossary/GGUF]]
+- [[concepts/Local-LLM]]
+- [[concepts/RAG]]
+- [[concepts/Embeddings]]
+- [[concepts/KV-Cache]]
+- [[concepts/MoE]]
+- [[concepts/HBM]]
+- [[concepts/GGUF]]
 
 ## Sources
-- [[source-notes/KanikaBK-Offline-AI-Workflow]]
-- [[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+- [[summaries/KanikaBK-Offline-AI-Workflow]]
+- [[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

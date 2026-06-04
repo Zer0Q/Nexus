@@ -21,7 +21,7 @@ Contrasts with query-time systems (RAG) where the LLM rediscovers knowledge from
 ## Related
 - [[concepts/Query-Time-Knowledge-Systems]]
 - [[concepts/LLM-Wiki-Pattern]]
-- [[frameworks/Compilation-Agent]]
+- [[tools/Compilation-Agent]]
 
 ## Source
-[[source-notes/Karpathy-LLM-Wiki-Pattern]]
+[[summaries/Karpathy-LLM-Wiki-Pattern]]

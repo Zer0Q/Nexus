@@ -26,4 +26,4 @@ AI models cannot effectively analyze fragmented medical records. Spreading clini
 - [[concepts/Primary-Source-Over-Secondary]] -- the philosophy behind full processing
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

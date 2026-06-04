@@ -21,8 +21,8 @@ Solves the two extremes: no tags (unsearchable) vs. too many tags (noise). The p
 
 ## Related
 - [[concepts/Retrieval-First-Organization]]
-- [[frameworks/Date-Prefixed-Naming]]
+- [[tools/Date-Prefixed-Naming]]
 - [[concepts/Quarterly-Vault-Review]]
 
 ## Source
-[[source-notes/CyrilXBT-Vault-Organization]]
+[[summaries/CyrilXBT-Vault-Organization]]

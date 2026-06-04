@@ -24,4 +24,4 @@ Traditional software scaling required hiring more engineers. GStack demonstrates
 - [[concepts/Human-AI-Orchestration]]
 
 ## Source
-[[source-notes/Suryanshti777-garry-tan-built-24-ai-engineering-team]]
+[[summaries/Suryanshti777-garry-tan-built-24-ai-engineering-team]]

@@ -25,4 +25,4 @@ Agents limited to API calls can't interact with the open web. Browser control vi
 - [[concepts/Read-Only-Vault-Safety]]
 
 ## Source
-[[source-notes/NeoAIForecast-hermes-has-browser-escape-hatch-agents-don]]
+[[summaries/NeoAIForecast-hermes-has-browser-escape-hatch-agents-don]]

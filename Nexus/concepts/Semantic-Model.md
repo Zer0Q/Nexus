@@ -22,7 +22,7 @@ LLMs excel at creative association and NLP but hallucinate. Semantic models impo
 - [[concepts/Three-Layer-Semantic-Infrastructure]]
 - [[concepts/Zero-Shot-Ontology]]
 - [[concepts/Ontology-Enforcement]]
-- [[glossary/Knowledge-Graph]]
+- [[concepts/Knowledge-Graph]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

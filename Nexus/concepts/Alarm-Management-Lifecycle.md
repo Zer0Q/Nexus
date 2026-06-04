@@ -26,4 +26,4 @@ Initial alarm management improvements are common, but gradual benefit erosion is
 - [[concepts/Management-of-Change]]
 
 ## Source
-[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[summaries/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

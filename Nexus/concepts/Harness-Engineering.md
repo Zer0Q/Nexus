@@ -25,4 +25,4 @@ Many agent failures come from mismatches at the model-environment interface, not
 - [[concepts/Agent-Logic]]
 
 ## Source
-[[source-notes/DAIR-Top-AI-Papers-of-the-Week]]
+[[summaries/DAIR-Top-AI-Papers-of-the-Week]]

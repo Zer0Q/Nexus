@@ -20,7 +20,7 @@ Prevents [[concepts/Editorial-Drift]] and [[concepts/Error-Compounding]] by ensu
 ## Related
 - [[architectures/Graph-Knowledge-Layer]]
 - [[concepts/Structured-Source-Notes]]
-- [[frameworks/Compilation-Agent]]
+- [[tools/Compilation-Agent]]
 
 ## Source
-[[source-notes/NateBJones-Karpathy-Wiki-vs-Open-Brain]]
+[[summaries/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

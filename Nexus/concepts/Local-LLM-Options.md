@@ -20,10 +20,10 @@ Local LLMs provide privacy, cost control, and offline capability. Essential for 
 - Maintenance overhead (model updates, driver issues)
 
 ## Related
-- [[glossary/Local-LLM]]
-- [[glossary/GGUF]]
+- [[concepts/Local-LLM]]
+- [[concepts/GGUF]]
 - [[tools/llama-cpp]]
 - [[tools/LM-Studio]]
 
 ## Source
-[[source-notes/KusCamara-PydanticAI-Agent-Creation]]
+[[summaries/KusCamara-PydanticAI-Agent-Creation]]

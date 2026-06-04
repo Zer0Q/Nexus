@@ -25,4 +25,4 @@ Static alarm settings generate nuisance alarms during normal transitions (startu
 - [[concepts/ISA-18-2-Standard]]
 
 ## Source
-[[source-notes/ISA-18-Standards-Series]]
+[[summaries/ISA-18-Standards-Series]]

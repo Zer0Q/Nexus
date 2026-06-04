@@ -18,4 +18,4 @@ Inline AI editing is faster than switching to a separate chat window. You can im
 - [[tools/BMO-Chatbot]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

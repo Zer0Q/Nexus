@@ -18,11 +18,11 @@ Bookmark graveyards are the default outcome of most saving systems. X bookmarks,
 - May feel wasteful to discard items that were once interesting
 
 ## Related
-- [[glossary/Inbox-First-Capture]]
-- [[frameworks/Weekly-AI-Synthesis]]
+- [[concepts/Inbox-First-Capture]]
+- [[tools/Weekly-AI-Synthesis]]
 - [[tools/Telegram-Bot-Capture]]
 - [[concepts/Productivity-Theater]] -- building perfect systems without using them creates graveyards
 - [[concepts/Capture-Use-Gap]] -- the gap anti-graveyard design tries to close
 
 ## Source
-[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]
+[[summaries/DamiDefi-Obsidian-Claude-Research-Stack]]

@@ -21,4 +21,4 @@ End-to-end autonomous agent for code changes. Handles the full cycle from issue 
 - [[concepts/Agentic-SDLC]], [[concepts/Multi-Agent-Development]]
 
 ## Source
-[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]
+[[summaries/SDD-vs-BMAD-Frameworks-Comparison]]

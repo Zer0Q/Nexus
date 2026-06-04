@@ -24,4 +24,4 @@ When your prompt has ten specific formatting rules, five constraints, and a defi
 - [[concepts/Five-Layer-AI-Stack]] -- Claude's instruction following enables reliable automation
 
 ## Source
-[[source-notes/Damidefi-Five-Tool-AI-Stack-Full-Build]]
+[[summaries/Damidefi-Five-Tool-AI-Stack-Full-Build]]

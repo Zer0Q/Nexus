@@ -29,4 +29,4 @@ Addresses the fact that most installed HMIs are not designed with operator situa
 - [[concepts/Operator-Situational-Awareness]]
 
 ## Source
-[[source-notes/OBrien-ISA-101-HMI-Lifecycle]]
+[[summaries/OBrien-ISA-101-HMI-Lifecycle]]

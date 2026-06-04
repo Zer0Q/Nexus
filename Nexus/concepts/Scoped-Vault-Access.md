@@ -24,4 +24,4 @@ AI agents can read and write files. Without scoped testing, a misconfigured agen
 - [[concepts/Risk-by-Design]] -- broader safety-by-default philosophy
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

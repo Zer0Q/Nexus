@@ -21,4 +21,4 @@ At low scale, 2% overheads are invisible. At high scale, they form a union and c
 - [[concepts/Prefill-vs-Decode]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

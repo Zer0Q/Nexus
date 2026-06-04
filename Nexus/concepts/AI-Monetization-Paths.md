@@ -24,4 +24,4 @@ AI knowledge alone doesn't generate revenue. Structured monetization paths turn 
 - [[concepts/Expected-Revenue-Stamp]]
 
 ## Source
-[[source-notes/aiedge-if-wanted-get-rich-ai-2026]]
+[[summaries/aiedge-if-wanted-get-rich-ai-2026]]

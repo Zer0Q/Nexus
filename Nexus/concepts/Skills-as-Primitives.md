@@ -24,4 +24,4 @@ Before software had functions, logic lived as instructions re-derived every time
 - [[concepts/Context-Development-Lifecycle]]
 
 ## Source
-[[source-notes/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]]

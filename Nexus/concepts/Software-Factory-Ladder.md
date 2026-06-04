@@ -22,7 +22,7 @@ Most companies overestimate their AI maturity. The ladder provides concrete, obs
 
 ## Related
 - [[concepts/Verifiable-Automation]]
-- [[frameworks/Industrialized-Software-Development]]
+- [[tools/Industrialized-Software-Development]]
 
 ## Source
-[[source-notes/BusinessBarista-Software-Factory]]
+[[summaries/BusinessBarista-Software-Factory]]

@@ -25,4 +25,4 @@ Long-lived agents are evaluated like freshly initialized models, ignoring the re
 - [[concepts/Agent-Decay]]
 
 ## Source
-[[source-notes/DAIR-Top-AI-Papers-of-the-Week]]
+[[summaries/DAIR-Top-AI-Papers-of-the-Week]]

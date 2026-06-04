@@ -24,4 +24,4 @@ Keyword search fails when the vocabulary differs between query and content. Embe
 - [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

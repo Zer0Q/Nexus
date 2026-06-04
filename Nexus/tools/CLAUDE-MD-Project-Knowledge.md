@@ -19,10 +19,10 @@ A vague CLAUDE.md produces vague outputs. A specific one turns a general-purpose
 
 ## Related
 - [[concepts/Context-Aware-AI-Research]]
-- [[frameworks/Weekly-AI-Synthesis]]
-- [[frameworks/Unified-Knowledge-Environment]]
-- [[frameworks/CLAUDE-MD-Five-Section-Template]]
+- [[tools/Weekly-AI-Synthesis]]
+- [[tools/Unified-Knowledge-Environment]]
+- [[tools/CLAUDE-MD-Five-Section-Template]]
 - [[concepts/System-Setup-Hierarchy]]
 
 ## Source
-[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]
+[[summaries/DamiDefi-Obsidian-Claude-Research-Stack]]

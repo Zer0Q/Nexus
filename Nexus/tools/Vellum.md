@@ -25,4 +25,4 @@ Provides an alternative AI intelligence layer for vault-based knowledge systems.
 - [[concepts/Four-Layer-Vault-Architecture]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Vellum]]
+[[summaries/CyrilXBT-Obsidian-Vellum]]

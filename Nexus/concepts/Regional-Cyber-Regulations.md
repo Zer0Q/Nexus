@@ -21,4 +21,4 @@ Las organizaciones que operan en múltiples jurisdicciones deben cumplir con reg
 - [[NIST-SP-800-82]]
 
 ## Source
-[[RamiroCid-Industrial-Cybersecurity-Standards]]
+[[summaries/Ramiro-Cid-Industrial-Cybersecurity-Standards]]

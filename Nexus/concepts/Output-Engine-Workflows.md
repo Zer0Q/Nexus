@@ -26,4 +26,4 @@ Without automated workflows, a vault is a library. With them, it becomes a produ
 - [[concepts/Automated-Capture-Pipeline]] -- handles the mechanical routing Workflow 1 performs
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

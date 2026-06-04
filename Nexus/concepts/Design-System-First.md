@@ -25,4 +25,4 @@ Without a design system, every AI-generated screen drifts from the last one -- c
 - [[concepts/PRD-to-UI]]
 
 ## Source
-[[source-notes/PrajwalTomar-Codex-Moonchild-Design-Workflow]]
+[[summaries/PrajwalTomar-Codex-Moonchild-Design-Workflow]]

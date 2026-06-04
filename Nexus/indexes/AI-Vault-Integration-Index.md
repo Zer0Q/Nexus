@@ -13,7 +13,7 @@ Patterns and tools for connecting AI agents with Obsidian vaults and knowledge b
 - [[concepts/Skill-Based-AI-Agents]] -- specialized agents with scoped vault access
 - [[concepts/Persistent-AI-Helpers]] -- saved instructions for reuse
 - [[concepts/Vault-Aware-Automation]] -- agents that understand the knowledge graph
-- [[frameworks/Graph-Based-Knowledge-Discovery]] -- AI follows backlinks
+- [[tools/Graph-Based-Knowledge-Discovery]] -- AI follows backlinks
 - [[concepts/Ephemeral-vs-Persistent-AI-Interaction]] -- chat-per-session vs. rulebook-that-persists
 - [[concepts/AI-Power-User-Gap]] -- 99% use AI as search engine; 1% as autonomous system
 - [[concepts/Compound-Effect-of-Persistent-Instructions]] -- rules accumulate value over time
@@ -21,11 +21,11 @@ Patterns and tools for connecting AI agents with Obsidian vaults and knowledge b
 ## Frameworks
 - [[concepts/Four-Layer-Vault-Architecture]] -- capture, pipeline, storage, intelligence
 - [[concepts/Three-Layer-Architecture]] -- knowledge, intelligence, automation
-- [[frameworks/Compilation-Agent]] -- LLM as wiki maintainer
-- [[frameworks/AI-as-Maintainer]] -- AI handles bookkeeping
-- [[frameworks/AI-Human-Division-of-Labor]] -- human curates, AI maintains
-- [[frameworks/Unified-Knowledge-Environment]] -- single source of truth
-- [[frameworks/CLAUDE-MD-Five-Section-Template]] -- Role, Style, Constraints, Workflow, Quality
+- [[tools/Compilation-Agent]] -- LLM as wiki maintainer
+- [[tools/AI-as-Maintainer]] -- AI handles bookkeeping
+- [[tools/AI-Human-Division-of-Labor]] -- human curates, AI maintains
+- [[tools/Unified-Knowledge-Environment]] -- single source of truth
+- [[tools/CLAUDE-MD-Five-Section-Template]] -- Role, Style, Constraints, Workflow, Quality
 
 ## Tools
 - [[tools/ByteRover]] -- vault-to-agent bridge (22+ agents)
@@ -37,14 +37,14 @@ Patterns and tools for connecting AI agents with Obsidian vaults and knowledge b
 - [[tools/qmd]] -- local markdown search engine
 
 ## Glossary
-- [[glossary/CLAUDE-MD]] -- persistent project-level instruction file
-- [[glossary/Vault-Context]]
-- [[glossary/Embeddings]]
+- [[concepts/CLAUDE-MD]] -- persistent project-level instruction file
+- [[concepts/Vault-Context]]
+- [[concepts/Embeddings]]
 
 ## Sources
-- [[source-notes/DamiDefi-Claude-Vault-Integration]]
-- [[source-notes/Atenov-Self-Running-Brain]]
-- [[source-notes/KevinNguyen-ByteRover-Obsidian]]
-- [[source-notes/OpenSourceProjects-Obsidian-Skills]]
-- [[source-notes/CyrilXBT-Obsidian-Vellum]]
-- [[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]
+- [[summaries/DamiDefi-Claude-Vault-Integration]]
+- [[summaries/Atenov-Self-Running-Brain]]
+- [[summaries/KevinNguyen-ByteRover-Obsidian]]
+- [[summaries/OpenSourceProjects-Obsidian-Skills]]
+- [[summaries/CyrilXBT-Obsidian-Vellum]]
+- [[summaries/Hanakoxbt-CLAUDE-MD-Second-Employee]]

@@ -25,4 +25,4 @@ Eliminates the tab-switching friction between agent and notes. "Death by a thous
 - [[concepts/Markdown-as-Universal-Format]]
 
 ## Source
-[[source-notes/Atenov-Self-Running-Brain]]
+[[summaries/Atenov-Self-Running-Brain]]

@@ -27,4 +27,4 @@ Most AI projects start with technology — buying tools, building models, deploy
 - [[concepts/AI-Amplifies-Process]]
 
 ## Source
-[[source-notes/Gellida-Broken-Process-Broken-AI]]
+[[summaries/Gellida-Broken-Process-Broken-AI]]

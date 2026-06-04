@@ -25,4 +25,4 @@ Manual context systems (Claude Projects, uploaded context files) require you to 
 - [[concepts/CLAUDE-MD-as-Context-Layer]] -- the manual alternative this replaces
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

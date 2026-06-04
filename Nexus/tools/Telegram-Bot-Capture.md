@@ -19,9 +19,9 @@ Capture friction is the #1 reason knowledge systems fail. A Telegram bot removes
 - Can include metadata: timestamp, source URL, one-line context note
 
 ## Related
-- [[glossary/Inbox-First-Capture]]
+- [[concepts/Inbox-First-Capture]]
 - [[concepts/Anti-Graveyard-Capture]]
 - [[concepts/Capture-As-The-Weakest-Link]]
 
 ## Source
-[[source-notes/DamiDefi-Obsidian-Claude-Research-Stack]]
+[[summaries/DamiDefi-Obsidian-Claude-Research-Stack]]

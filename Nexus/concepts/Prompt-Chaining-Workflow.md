@@ -23,4 +23,4 @@ Breaking complex tasks into smaller, focused LLM calls improves accuracy. Each s
 - [[concepts/Evaluator-Optimizer-Workflow]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]

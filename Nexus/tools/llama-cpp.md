@@ -17,9 +17,9 @@ Owning the "just make it run" lane. When hardware is weird, constrained, offline
 - Multi-GPU support is weak; use vLLM or ExLlamaV2 instead
 
 ## Related
-- [[frameworks/Inference-Engine-Families]]
+- [[tools/Inference-Engine-Families]]
 - [[concepts/Unified-Memory-Tradeoff]]
 - [[concepts/Quantization-Format-Portability]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

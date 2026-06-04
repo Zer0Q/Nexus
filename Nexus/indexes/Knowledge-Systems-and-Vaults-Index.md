@@ -7,7 +7,7 @@ Building, maintaining, and querying personal and organizational knowledge system
 - [[concepts/RAG-Retrieval-Augmented-Generation]] -- grounding AI in custom knowledge
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]] -- semantic connections over notes
 - [[concepts/Knowledge-Graph-Evolution]] -- growing graphs over time
-- [[frameworks/Graph-Based-Knowledge-Discovery]] -- finding hidden connections
+- [[tools/Graph-Based-Knowledge-Discovery]] -- finding hidden connections
 - [[concepts/Embedding-Based-Vault-Search]] -- vector similarity search
 - [[concepts/LLM-Wiki-Pattern]] -- Karpathy's interlinked knowledge base
 - [[concepts/PARA-Method]] -- organizing by actionability
@@ -28,16 +28,16 @@ Building, maintaining, and querying personal and organizational knowledge system
 - [[tools/qmd]] -- quantitative markdown
 
 ## Glossary
-- [[glossary/RAG]]
-- [[glossary/Embeddings]]
-- [[glossary/FTS5]]
-- [[glossary/Vault-Context]]
-- [[glossary/Memex]]
+- [[concepts/RAG]]
+- [[concepts/Embeddings]]
+- [[concepts/FTS5]]
+- [[concepts/Vault-Context]]
+- [[concepts/Memex]]
 
 ## Sources
-- [[source-notes/Karpathy-LLM-Wiki-Pattern]]
-- [[source-notes/Karpathy-LLM-Knowledge-Bases]]
-- [[source-notes/NainsiDwiv50980-rag-doesn-learn-karpathy-llm-wiki-changes]]
-- [[source-notes/hooeem-be-notebooklm-maxxing]]
-- [[source-notes/avichawla-months-either-have-ai-second-brain-wish]]
-- [[source-notes/NeilXBT-Obsidian-Knowledge-Graph-Learning]]
+- [[summaries/Karpathy-LLM-Wiki-Pattern]]
+- [[summaries/Karpathy-LLM-Knowledge-Bases]]
+- [[summaries/NainsiDwiv50980-rag-doesn-learn-karpathy-llm-wiki-changes]]
+- [[summaries/hooeem-be-notebooklm-maxxing]]
+- [[summaries/avichawla-months-either-have-ai-second-brain-wish]]
+- [[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

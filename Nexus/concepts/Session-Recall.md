@@ -25,4 +25,4 @@ Most AI conversations are ephemeral — close the tab and the context is gone. S
 - [[concepts/Compounding-Knowledge-Context]] -- recall enables compounding across sessions
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

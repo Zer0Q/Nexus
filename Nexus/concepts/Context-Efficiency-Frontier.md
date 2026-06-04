@@ -24,4 +24,4 @@ Most teams pick a context strategy once and pay for it on every request. Treatin
 - [[concepts/Retrieval-First-Organization]]
 
 ## Source
-[[source-notes/DAIR-Top-AI-Papers-of-the-Week]]
+[[summaries/DAIR-Top-AI-Papers-of-the-Week]]

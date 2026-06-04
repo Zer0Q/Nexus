@@ -24,4 +24,4 @@ Every company runs on knowledge that is scattered across abandoned docs, old cha
 - [[concepts/CLAUDE-MD-as-Context-Layer]]
 
 ## Source
-[[source-notes/Khairallah-Second-Brain-Architect-Roadmap]]
+[[summaries/Khairallah-Second-Brain-Architect-Roadmap]]

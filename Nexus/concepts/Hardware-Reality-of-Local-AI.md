@@ -19,4 +19,4 @@ Many people believe local AI requires expensive hardware. The reality is that a 
 - [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

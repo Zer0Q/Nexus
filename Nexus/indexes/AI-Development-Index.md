@@ -8,16 +8,16 @@ Frameworks, tools, and concepts for AI-assisted software development — from vi
 - [[concepts/Multi-Agent-Development]] -- specialized AI agents with defined roles
 - [[concepts/Context-Explosion]] -- large specs degrade agent quality
 - [[concepts/Agentic-SDLC]] -- AI agents in analysis, code, test, PR
-- [[frameworks/Artifact-Pipeline]] -- Intent -> Spec -> Tests -> Code -> Verification
+- [[tools/Artifact-Pipeline]] -- Intent -> Spec -> Tests -> Code -> Verification
 
 ## Frameworks
-- [[frameworks/Spec-Driven-Development]] -- spec as central artifact
-- [[frameworks/BMAD-Method]] -- Agile simulation with AI agents
-- [[frameworks/Artifact-Pipeline]] -- structured artifact flow
+- [[tools/Spec-Driven-Development]] -- spec as central artifact
+- [[tools/BMAD-Method]] -- Agile simulation with AI agents
+- [[tools/Artifact-Pipeline]] -- structured artifact flow
 
 ## Tools
 - [[tools/PydanticAI]] -- Python agent framework by Pydantic team, type-safe, model-agnostic
-- [[frameworks/BMAD-Method]] -- full Agile simulation (npx bmad-method)
+- [[tools/BMAD-Method]] -- full Agile simulation (npx bmad-method)
 - [[tools/Spec-Kit]] -- GitHub's minimalist SDD toolkit
 - [[tools/OpenSpec]] -- lightweight iterative specs
 - [[tools/OpenHands]] -- autonomous repo modification agent
@@ -33,18 +33,18 @@ Frameworks, tools, and concepts for AI-assisted software development — from vi
 | OpenHands / Open-SWE | Existing repos with issues | Variable PR quality |
 
 ## Glossary
-- [[glossary/SDD]]
-- [[glossary/PRD]]
-- [[glossary/BDD]]
-- [[glossary/TDD]]
+- [[concepts/SDD]]
+- [[concepts/PRD]]
+- [[concepts/BDD]]
+- [[concepts/TDD]]
 
 ## Sources
-- [[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
-- [[source-notes/KusCamara-PydanticAI-Agent-Creation]]
-- [[source-notes/Pydantic-Team-Pydantic-Models]]
-- [[source-notes/Pydantic-Team-Pydantic-Validators]]
-- [[source-notes/RealPython-Pydantic-Data-Validation]]
-- [[source-notes/Torque-Pydantic-Data-Transformation]]
-- [[source-notes/Anthropic-Building-Effective-AI-Agents]]
-- [[source-notes/BMAD-Method-Getting-Started]]
-- [[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]
+- [[summaries/Pydantic-Team-Pydantic-AI-Overview]]
+- [[summaries/KusCamara-PydanticAI-Agent-Creation]]
+- [[summaries/Pydantic-Team-Pydantic-Models]]
+- [[summaries/Pydantic-Team-Pydantic-Validators]]
+- [[summaries/RealPython-Pydantic-Data-Validation]]
+- [[summaries/Torque-Pydantic-Data-Transformation]]
+- [[summaries/Anthropic-Building-Effective-AI-Agents]]
+- [[summaries/BMAD-Method-Getting-Started]]
+- [[summaries/SDD-vs-BMAD-Frameworks-Comparison]]

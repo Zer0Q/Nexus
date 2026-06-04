@@ -25,4 +25,4 @@ The scraping problem in 2026 is not writing the code -- it's surviving the anti-
 - [[concepts/Tool-Selection-Hierarchy]]
 
 ## Source
-[[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
+[[summaries/DamiDefi-20-GitHub-Scraping-Repos]]

@@ -25,4 +25,4 @@ LLMs alone struggle with enterprise workflows that are dynamic, long-running, AP
 - [[concepts/Knowledge-Graph-for-IT-Ops]]
 
 ## Source
-[[source-notes/NicholasFuller-Agent-Logic-Enterprise-AI]]
+[[summaries/NicholasFuller-Agent-Logic-Enterprise-AI]]

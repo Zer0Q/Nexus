@@ -23,4 +23,4 @@ Decode is memory-bandwidth-bound and generates one token at a time. Speculative 
 - [[concepts/Memory-Bandwidth-Bottleneck]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

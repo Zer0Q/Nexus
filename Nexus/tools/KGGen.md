@@ -25,4 +25,4 @@ Raw extraction pipelines produce scattered, redundant graphs. KGGen's systematic
 - [[concepts/Ontology-Enforcement]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

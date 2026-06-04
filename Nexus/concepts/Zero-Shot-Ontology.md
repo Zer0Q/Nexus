@@ -25,4 +25,4 @@ Traditional ontology construction requires intensive manual effort from domain e
 - [[tools/KnoBuilder]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

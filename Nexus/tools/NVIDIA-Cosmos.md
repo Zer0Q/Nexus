@@ -25,4 +25,4 @@ Cosmos 3 is the first open-source model to combine reasoning, generation, and ac
 - [[concepts/Mixture-of-Transformers]]
 
 ## Source
-[[source-notes/NVIDIA-Cosmos-3-Physical-AI]]
+[[summaries/NVIDIA-Cosmos-3-Physical-AI]]

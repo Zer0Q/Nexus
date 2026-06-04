@@ -22,7 +22,7 @@ Single agents hit context limits and capability boundaries. Multi-harness orches
 ## Related
 - [[concepts/Multi-Agent-Development]]
 - [[concepts/Swarm-Orchestration]]
-- [[source-notes/AddyOsmani-Agent-Harness-Engineering]]
+- [[summaries/AddyOsmani-Agent-Harness-Engineering]]
 
 ## Source
-[[source-notes/zachlloydtweets-introducing-multi-harness-orchestration]]
+[[summaries/zachlloydtweets-introducing-multi-harness-orchestration]]

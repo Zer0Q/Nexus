@@ -37,11 +37,11 @@ Traditional knowledge management relies on static documentation. CoPs capture ta
 ## Related
 - [[concepts/Situated-Learning]] -- the learning theory underpinning communities of practice
 - [[concepts/Tacit-Knowledge]] -- knowledge shared through practice, not documentation
-- [[glossary/Legitimate-Peripheral-Participation]] -- how newcomers enter and grow in a CoP
+- [[concepts/Legitimate-Peripheral-Participation]] -- how newcomers enter and grow in a CoP
 - [[concepts/Shared-Leadership]] -- flat participation model
 - [[concepts/Virtual-Communities-of-Practice]] -- digital CoPs transcending geography
 - [[concepts/CoP-Design-Principles]] -- Wenger's seven principles for building CoPs
-- [[glossary/CoP-Success-Wheel]] -- five-factor framework for community success
+- [[concepts/CoP-Success-Wheel]] -- five-factor framework for community success
 
 ## Source
-[[source-notes/LuisMartinez-Situated-Learning]]
+[[summaries/LuisMartinez-Situated-Learning]]

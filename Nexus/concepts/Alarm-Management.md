@@ -23,9 +23,9 @@ Poor alarm management leads to alarm floods, operator overload, missed critical 
 
 ## Related
 - [[concepts/ISA-18-2-Standard]]
-- [[glossary/Alarm-Rationalization]]
+- [[concepts/Alarm-Rationalization]]
 - [[concepts/Alarm-Management-Lifecycle]]
 - [[concepts/Operator-Situational-Awareness]]
 
 ## Source
-[[source-notes/Dunn-Sands-Alarm-Management-FAQ]]
+[[summaries/Dunn-Sands-Alarm-Management-FAQ]]

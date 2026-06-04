@@ -20,9 +20,9 @@ Transforms the vault from passive storage to active thinking partner. The connec
 - Risk of repetitive connections as system matures
 
 ## Related
-- [[frameworks/Weekly-AI-Synthesis]]
+- [[tools/Weekly-AI-Synthesis]]
 - [[concepts/CLAUDE-MD-as-Context-Layer]]
 - [[concepts/Compounding-Knowledge-Context]]
 
 ## Source
-[[source-notes/DamiDefi-Claude-Vault-Integration]]
+[[summaries/DamiDefi-Claude-Vault-Integration]]

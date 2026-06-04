@@ -25,4 +25,4 @@ Raw links, feeds, and summaries are not enough. Agents need structured, verified
 - [[concepts/Echo-Chamber-Bias]]
 
 ## Source
-[[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
+[[summaries/gkisokay-21-Mistakes-Building-AI-Agents]]

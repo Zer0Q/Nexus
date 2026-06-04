@@ -24,4 +24,4 @@ As intelligence becomes commoditized, competitive advantage shifts from model qu
 - [[concepts/Boundary-Spanning]]
 
 ## Source
-[[source-notes/vasuman-forward-deployed-engineering-101]]
+[[summaries/vasuman-forward-deployed-engineering-101]]

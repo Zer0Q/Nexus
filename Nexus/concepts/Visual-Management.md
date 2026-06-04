@@ -25,4 +25,4 @@ Most broken processes survive precisely because nobody can see them breaking. Vi
 - [[concepts/People-Process-Technology-Sequence]]
 
 ## Source
-[[source-notes/Gellida-Broken-Process-Broken-AI]]
+[[summaries/Gellida-Broken-Process-Broken-AI]]

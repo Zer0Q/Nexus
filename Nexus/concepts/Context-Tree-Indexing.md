@@ -13,7 +13,7 @@ Provides structured navigation without the rigidity of folder hierarchies. Enabl
 
 ## Related
 - [[concepts/Federated-Knowledge-Search]]
-- [[frameworks/Graph-Based-Knowledge-Discovery]]
+- [[tools/Graph-Based-Knowledge-Discovery]]
 - [[concepts/Map-of-Content]]
 
 ## Source

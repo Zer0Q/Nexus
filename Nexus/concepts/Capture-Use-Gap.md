@@ -33,4 +33,4 @@ Most note-taking systems optimize for capture (files, folders, tags, search) whi
 - [[concepts/Information-over-Data]] -- collecting ≠ building intelligence
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

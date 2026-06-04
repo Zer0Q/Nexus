@@ -28,4 +28,4 @@ Conventional extraction treats LLMs as passive text processors, producing fragme
 - [[tools/KGGen]]
 
 ## Source
-[[source-notes/DeepResearch-Semantic-Models-and-Agentic-Architectures]]
+[[summaries/DeepResearch-Semantic-Models-and-Agentic-Architectures]]

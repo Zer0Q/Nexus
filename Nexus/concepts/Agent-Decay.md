@@ -24,4 +24,4 @@ Agents are not set-and-forget systems. The tools, models, and APIs they depend o
 - [[concepts/Specialized-Agent-Crews]]
 
 ## Source
-[[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
+[[summaries/gkisokay-21-Mistakes-Building-AI-Agents]]

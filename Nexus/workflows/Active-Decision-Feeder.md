@@ -31,4 +31,4 @@ The answer to your current question may already exist in past captures across di
 - [[concepts/Compounding-Knowledge-Context]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

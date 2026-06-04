@@ -24,4 +24,4 @@ RAG turns a general-purpose AI into a domain-specific assistant that answers fro
 - [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

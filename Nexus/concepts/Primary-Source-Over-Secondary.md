@@ -24,4 +24,4 @@ Information that has passed through multiple layers of interpretation accumulate
 - [[concepts/SOUL-MD-Configuration]] -- where this principle is encoded as an agent rule
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]], [[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]], [[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

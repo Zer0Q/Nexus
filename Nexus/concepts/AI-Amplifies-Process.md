@@ -24,4 +24,4 @@ The stakes are higher with AI than with any previous technology. A supervisor fo
 - [[concepts/Visual-Management]]
 
 ## Source
-[[source-notes/Gellida-Broken-Process-Broken-AI]]
+[[summaries/Gellida-Broken-Process-Broken-AI]]

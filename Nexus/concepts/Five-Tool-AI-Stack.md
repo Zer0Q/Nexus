@@ -24,4 +24,4 @@ The common mistake is using one tool for all five layers (ChatGPT for everything
 - [[concepts/Model-Selection-Tiers]] -- cost-optimized routing within the automation layer
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

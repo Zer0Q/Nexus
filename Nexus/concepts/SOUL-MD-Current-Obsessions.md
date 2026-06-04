@@ -24,4 +24,4 @@ Without current obsessions, the agent has no way to prioritize. Your vault may c
 - [[concepts/Vault-Aware-Research]] -- obsessions guide vault queries
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

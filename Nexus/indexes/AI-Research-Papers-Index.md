@@ -18,4 +18,4 @@ Key research papers and breakthroughs from the AI research community.
 - [[concepts/Long-Horizon-Coding]] -- agents that work on multi-step coding tasks over extended periods
 
 ## Sources
-- [[source-notes/DAIR-Top-AI-Papers-of-the-Week]]
+- [[summaries/DAIR-Top-AI-Papers-of-the-Week]]

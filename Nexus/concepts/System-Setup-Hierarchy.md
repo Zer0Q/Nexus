@@ -23,4 +23,4 @@ People equate "better prompts" with "better results." The reality is that prompt
 - [[concepts/Prompt-Validation-Over-Construction]]
 
 ## Source
-[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[summaries/Hanakoxbt-CLAUDE-MD-Second-Employee]]

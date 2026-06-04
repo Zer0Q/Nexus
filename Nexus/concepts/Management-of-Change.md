@@ -26,4 +26,4 @@ Processes continually change — raw materials, product specifications, debottle
 - [[concepts/Alarm-Philosophy]]
 
 ## Source
-[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[summaries/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

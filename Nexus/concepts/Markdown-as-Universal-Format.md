@@ -25,4 +25,4 @@ Markdown is Obsidian's native format, the cleanest format for LLMs to read, and 
 - [[concepts/Knowledge-Source-of-Truth]]
 
 ## Source
-[[source-notes/KevinNguyen-ByteRover-Obsidian]]
+[[summaries/KevinNguyen-ByteRover-Obsidian]]

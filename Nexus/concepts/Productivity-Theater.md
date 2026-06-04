@@ -26,4 +26,4 @@ Almost every beginner falls into this trap — spending more time redesigning th
 - [[concepts/Productivity-Theater]]
 
 ## Source
-[[source-notes/InduTripati-Obsidian-Productivity-Trap]]
+[[summaries/InduTripati-Obsidian-Productivity-Trap]]

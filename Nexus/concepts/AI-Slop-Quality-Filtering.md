@@ -24,4 +24,4 @@ As AI content generation becomes trivial, signal-to-noise ratio degrades. Qualit
 - [[concepts/Shipping-Discipline]]
 
 ## Source
-[[source-notes/EXM7777-fix-ai-slop-hermes]]
+[[summaries/EXM7777-fix-ai-slop-hermes]]

@@ -14,7 +14,7 @@ The shift from complex prompt engineering to harness-managed interactions and va
 - [[concepts/System-Setup-Hierarchy]] -- better system setup → better prompts → dramatically better output
 
 ## Glossary
-- [[glossary/Metaprompt]] -- asking the AI to draft its own optimal prompt
+- [[concepts/Metaprompt]] -- asking the AI to draft its own optimal prompt
 
 ## Related
 - [[concepts/Context-Explosion]] -- harnesses help manage context limits
@@ -23,5 +23,5 @@ The shift from complex prompt engineering to harness-managed interactions and va
 - [[concepts/Vibe-Coding]] -- validation is key in vibe coding workflows
 
 ## Sources
-- [[source-notes/DavidHurtado-Harness-and-Prompting]]
-- [[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]
+- [[summaries/DavidHurtado-Harness-and-Prompting]]
+- [[summaries/Hanakoxbt-CLAUDE-MD-Second-Employee]]

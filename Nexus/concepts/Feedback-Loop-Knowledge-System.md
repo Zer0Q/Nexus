@@ -25,4 +25,4 @@ Most knowledge systems fail because they're designed for input, not output. Capt
 - [[concepts/Four-Layer-Vault-Architecture]]
 
 ## Source
-[[source-notes/CyrilXBT-Self-Improving-Vault]]
+[[summaries/CyrilXBT-Self-Improving-Vault]]

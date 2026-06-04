@@ -24,4 +24,4 @@ Application configuration (DB credentials, API keys, feature flags) lives in env
 - [[concepts/Pydantic-BaseModel]]
 
 ## Source
-[[source-notes/RealPython-Pydantic-Data-Validation]]
+[[summaries/RealPython-Pydantic-Data-Validation]]

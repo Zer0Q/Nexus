@@ -25,4 +25,4 @@ Most engineers handwrite agent skill docs and hope they generalize. SkillOpt sho
 - [[concepts/Harness-Engineering]]
 
 ## Source
-[[source-notes/DAIR-Top-AI-Papers-of-the-Week]]
+[[summaries/DAIR-Top-AI-Papers-of-the-Week]]

@@ -13,7 +13,7 @@ Reference implementation of SDD from GitHub. Lower ceremony than BMAD, focused o
 - Risk: document overhead for small features
 
 ## Related
-- [[frameworks/Spec-Driven-Development]], [[frameworks/BMAD-Method]], [[tools/OpenSpec]]
+- [[tools/Spec-Driven-Development]], [[tools/BMAD-Method]], [[tools/OpenSpec]]
 
 ## Source
-[[source-notes/SDD-vs-BMAD-Frameworks-Comparison]]
+[[summaries/SDD-vs-BMAD-Frameworks-Comparison]]

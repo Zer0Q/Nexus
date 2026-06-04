@@ -29,4 +29,4 @@ Preserves the context of relevance present at capture time, which fades rapidly.
 - [[workflows/Connection-Surface-Workflow]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

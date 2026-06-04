@@ -25,4 +25,4 @@ Without a shared context layer, each AI agent starts from scratch, re-deriving b
 - [[concepts/Context-Governance]]
 
 ## Source
-[[source-notes/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]]

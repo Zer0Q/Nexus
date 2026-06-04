@@ -25,4 +25,4 @@ Medical professionals cannot keep every clinical trial, paper, bibliography, and
 - [[concepts/Primary-Source-Over-Secondary]] -- the research philosophy applied to medicine
 
 ## Source
-[[source-notes/JaviLopen-AI-Medical-Research-ARROWHEAD]]
+[[summaries/JaviLopen-AI-Medical-Research-ARROWHEAD]]

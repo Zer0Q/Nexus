@@ -26,4 +26,4 @@ Lowers the barrier to managing a running Hermes agent. Instead of CLI commands f
 - [[concepts/Self-Improvement-Loop]] -- skills visible and editable in the Skills tab
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

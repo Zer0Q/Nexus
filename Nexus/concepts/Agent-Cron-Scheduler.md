@@ -25,4 +25,4 @@ Agents that only respond to prompts require the user to remember to ask. Schedul
 - [[concepts/Daily-Synthesis-Workflow]] -- example use case: daily digest
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

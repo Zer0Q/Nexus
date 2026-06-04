@@ -24,4 +24,4 @@ Program analysis reduces LLM context by orders of magnitude while improving accu
 - [[concepts/Context-Space-Reduction]]
 
 ## Source
-[[source-notes/NicholasFuller-Agent-Logic-Enterprise-AI]]
+[[summaries/NicholasFuller-Agent-Logic-Enterprise-AI]]

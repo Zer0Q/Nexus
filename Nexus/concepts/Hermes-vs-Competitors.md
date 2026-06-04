@@ -23,4 +23,4 @@ Understanding where each tool fits prevents tool fatigue and ensures you reach f
 - [[concepts/Multi-Agent-Org-Chart]] -- Hermes' multi-agent advantage over single-purpose tools
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

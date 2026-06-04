@@ -24,4 +24,4 @@ Skills transform Claude from a chatbot into an extensible operating system. Know
 - [[concepts/Self-Evolving-Skills]]
 
 ## Source
-[[source-notes/polydao-searched-whole-claude-skills-ecosystem-these-are]]
+[[summaries/polydao-searched-whole-claude-skills-ecosystem-these-are]]

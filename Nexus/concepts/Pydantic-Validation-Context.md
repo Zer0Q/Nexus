@@ -24,4 +24,4 @@ Some validation rules depend on runtime conditions: user role, feature flags, or
 - [[concepts/Pydantic-Model-Config]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-Validators]]
+[[summaries/Pydantic-Team-Pydantic-Validators]]

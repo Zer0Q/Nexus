@@ -25,4 +25,4 @@ Without hierarchy, operators either see too much (overview cluttered with detail
 - [[concepts/ISA-101-Standard]]
 
 ## Source
-[[source-notes/RealPars-High-Performance-HMI]]
+[[summaries/RealPars-High-Performance-HMI]]

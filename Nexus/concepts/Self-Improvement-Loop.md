@@ -27,4 +27,4 @@ This is the compounding mechanism that separates Hermes from other agents. Where
 - [[concepts/Echo-Chamber-Bias]] -- risk when feedback loops reinforce existing patterns
 
 ## Source
-[[source-notes/IBuzovskyi-Hermes-Agent-Complete-Guide]]
+[[summaries/IBuzovskyi-Hermes-Agent-Complete-Guide]]

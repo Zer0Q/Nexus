@@ -24,4 +24,4 @@ Most AI interactions are stateless — every session starts from zero. Persisten
 - [[concepts/System-Setup-Hierarchy]]
 
 ## Source
-[[source-notes/Hanakoxbt-CLAUDE-MD-Second-Employee]]
+[[summaries/Hanakoxbt-CLAUDE-MD-Second-Employee]]

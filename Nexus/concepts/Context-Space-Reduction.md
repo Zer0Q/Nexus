@@ -24,4 +24,4 @@ Context costs dominate production LLM bills. Reducing context space by orders of
 - [[concepts/Context-Efficiency-Frontier]]
 
 ## Source
-[[source-notes/NicholasFuller-Agent-Logic-Enterprise-AI]]
+[[summaries/NicholasFuller-Agent-Logic-Enterprise-AI]]

@@ -24,4 +24,4 @@ Without revenue tracking, you cannot optimize your capture strategy. The stamp t
 - [[concepts/Shipping-Discipline]] -- the stamp provides data to sustain discipline
 
 ## Source
-[[source-notes/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]
+[[summaries/Zeuuss-Weaponize-Obsidian-Claude-For-Revenue]]

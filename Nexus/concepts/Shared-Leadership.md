@@ -23,4 +23,4 @@ Traditional knowledge transfer assumes a leader/expert who shares while others r
 - [[concepts/Feedback-Loop-Knowledge-System]] -- shared leadership creates natural feedback loops
 
 ## Source
-[[source-notes/LuisMartinez-Comunidades-de-Practica]]
+[[summaries/LuisMartinez-Comunidades-de-Practica]]

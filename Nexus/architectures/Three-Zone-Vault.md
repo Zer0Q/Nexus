@@ -31,4 +31,4 @@ Provides a lifecycle model for notes that enforces movement from raw capture tow
 - [[concepts/Output-Folder-Pattern]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

@@ -24,4 +24,4 @@ World models enable agents to simulate outcomes before acting, reducing the need
 - [[concepts/Synthetic-Data-Generation]]
 
 ## Source
-[[source-notes/NVIDIA-Cosmos-3-Physical-AI]]
+[[summaries/NVIDIA-Cosmos-3-Physical-AI]]

@@ -26,4 +26,4 @@ Not all alarms have the same lifecycle requirements. Classification allows organ
 - [[concepts/Alarm-Monitoring-and-Assessment]]
 
 ## Source
-[[source-notes/Fitzpatrick-Alarm-Lifecycle-and-Classes]]
+[[summaries/Fitzpatrick-Alarm-Lifecycle-and-Classes]]

@@ -24,4 +24,4 @@ Parallel agents lose context; single agents hit token limits. Pipelines chain sp
 - [[concepts/Swarm-Orchestration]]
 
 ## Source
-[[source-notes/zodchiii-build-agent-team-ships-feature-while-sleep]]
+[[summaries/zodchiii-build-agent-team-ships-feature-while-sleep]]

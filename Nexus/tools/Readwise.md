@@ -21,8 +21,8 @@ The backbone of automated capture for written content. Every highlight flows int
 
 ## Related
 - [[concepts/Automated-Capture-Pipeline]]
-- [[glossary/Inbox-First-Capture]]
+- [[concepts/Inbox-First-Capture]]
 - [[concepts/Four-Layer-Vault-Architecture]]
 
 ## Source
-[[source-notes/CyrilXBT-Self-Improving-Vault]]
+[[summaries/CyrilXBT-Self-Improving-Vault]]

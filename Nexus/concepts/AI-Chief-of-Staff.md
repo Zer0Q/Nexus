@@ -25,4 +25,4 @@ Transforms the relationship with your knowledge base from passive retrieval to a
 - [[concepts/Four-Layer-Vault-Architecture]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Vellum]]
+[[summaries/CyrilXBT-Obsidian-Vellum]]

@@ -25,4 +25,4 @@ Enables AI to reason with contextual understanding that structured data alone ca
 - [[architectures/Graph-Knowledge-Layer]]
 
 ## Source
-[[source-notes/TungRoussiere-Tacit-Knowledge-Moat]]
+[[summaries/TungRoussiere-Tacit-Knowledge-Moat]]

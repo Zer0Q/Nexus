@@ -30,4 +30,4 @@ Writing from a brief generated from accumulated notes is fundamentally different
 - [[concepts/Write-Time-Knowledge-Systems]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

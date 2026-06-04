@@ -24,4 +24,4 @@ Prevents long prefill batches from interrupting decode, reducing token latency s
 - [[tools/SGLang]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

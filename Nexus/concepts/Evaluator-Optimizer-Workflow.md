@@ -24,4 +24,4 @@ LLM output quality improves with targeted feedback. When a human can articulate 
 - [[concepts/Prompt-Chaining-Workflow]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]

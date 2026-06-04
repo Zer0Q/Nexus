@@ -21,7 +21,7 @@ Interface friction kills adoption. When the terminal fights you (separate window
 ## Related
 - [[concepts/Shared-Directory-Pattern]]
 - [[concepts/CLAUDE-MD-as-Context-Layer]]
-- [[frameworks/Graph-Based-Knowledge-Discovery]]
+- [[tools/Graph-Based-Knowledge-Discovery]]
 
 ## Source
-[[source-notes/Atenov-Self-Running-Brain]]
+[[summaries/Atenov-Self-Running-Brain]]

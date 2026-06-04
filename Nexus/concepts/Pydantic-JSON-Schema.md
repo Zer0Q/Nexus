@@ -23,5 +23,5 @@ JSON Schema is the universal format for describing data structure. Pydantic gene
 - [[concepts/Pydantic-Field-Constraints]]
 
 ## Source
-[[source-notes/RealPython-Pydantic-Data-Validation]]
-[[source-notes/Pydantic-Team-Pydantic-Models]]
+[[summaries/RealPython-Pydantic-Data-Validation]]
+[[summaries/Pydantic-Team-Pydantic-Models]]

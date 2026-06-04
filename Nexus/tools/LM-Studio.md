@@ -24,4 +24,4 @@ LM Studio is the bridge between cloud AI and local AI. It makes running local mo
 - [[concepts/On-Device-Knowledge-Base]]
 
 ## Source
-[[source-notes/KanikaBK-Offline-AI-Workflow]]
+[[summaries/KanikaBK-Offline-AI-Workflow]]

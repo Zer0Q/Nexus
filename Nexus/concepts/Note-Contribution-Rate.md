@@ -24,4 +24,4 @@ Note count is a vanity metric. Contribution rate measures whether a knowledge sy
 - [[workflows/Output-Generator-Workflow]]
 
 ## Source
-[[source-notes/Zeuuss-30-Minute-Obsidian-System]]
+[[summaries/Zeuuss-30-Minute-Obsidian-System]]

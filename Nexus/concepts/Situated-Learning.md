@@ -33,4 +33,4 @@ Knowledge is constructed through social practice within authentic contexts, not 
 - [[concepts/Knowledge-Mapping]] -- mapping what's known within a community
 
 ## Sources
-- [[source-notes/LuisMartinez-Situated-Learning]]
+- [[summaries/LuisMartinez-Situated-Learning]]

@@ -35,5 +35,5 @@ Built by the creators of Pydantic Validation (used by OpenAI SDK, Anthropic SDK,
 - [[concepts/Agent-Graph-Support]]
 
 ## Source
-[[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
-[[source-notes/KusCamara-PydanticAI-Agent-Creation]]
+[[summaries/Pydantic-Team-Pydantic-AI-Overview]]
+[[summaries/KusCamara-PydanticAI-Agent-Creation]]

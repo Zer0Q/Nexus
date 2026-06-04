@@ -25,4 +25,4 @@ As vaults grow from hundreds to thousands of notes, flat search becomes insuffic
 - [[concepts/Quarterly-Vault-Review]]
 
 ## Source
-[[source-notes/CyrilXBT-Vault-Organization]]
+[[summaries/CyrilXBT-Vault-Organization]]

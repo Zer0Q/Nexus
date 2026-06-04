@@ -23,4 +23,4 @@ Understanding that behavior serves goals (even harmful ones) reframes "lack of d
 - [[concepts/Identity-Protective-Cognition]]
 
 ## Source
-[[source-notes/DanKoe-Life-Change-Protocol]]
+[[summaries/DanKoe-Life-Change-Protocol]]

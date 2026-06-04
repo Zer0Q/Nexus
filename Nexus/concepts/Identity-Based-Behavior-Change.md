@@ -22,4 +22,4 @@ Most people fail at goals because they try to build new behaviors on an unchange
 - [[concepts/Identity-Protective-Cognition]]
 
 ## Source
-[[source-notes/DanKoe-Life-Change-Protocol]]
+[[summaries/DanKoe-Life-Change-Protocol]]

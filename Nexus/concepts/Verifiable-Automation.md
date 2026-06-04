@@ -20,7 +20,7 @@ Karpathy's framing explains why engineering was the first domain for AI automati
 
 ## Related
 - [[concepts/Software-Factory-Ladder]]
-- [[frameworks/Industrialized-Software-Development]]
+- [[tools/Industrialized-Software-Development]]
 
 ## Source
-[[source-notes/BusinessBarista-Software-Factory]]
+[[summaries/BusinessBarista-Software-Factory]]

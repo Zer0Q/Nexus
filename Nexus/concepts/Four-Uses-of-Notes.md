@@ -29,4 +29,4 @@ Most note systems measure success by note count or organizational neatness. This
 - [[concepts/Write-Time-Knowledge-Systems]]
 
 ## Source
-[[source-notes/CyrilXBT-Obsidian-Note-Utility-System]]
+[[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

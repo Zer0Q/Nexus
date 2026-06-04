@@ -24,4 +24,4 @@ Most knowledge systems treat capture and intelligence as separate phases. The lo
 - [[concepts/Live-Vault-Memory]] -- the memory model enabling instant access
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

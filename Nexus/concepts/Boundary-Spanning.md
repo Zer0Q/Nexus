@@ -21,7 +21,7 @@ Organizations naturally develop silos — colleague, unit, or working group boun
 ## Related
 - [[concepts/Communities-of-Practice]] -- CoPs that span boundaries are more impactful
 - [[concepts/Federated-Knowledge-Search]] -- technical approach to cross-silo knowledge retrieval
-- [[glossary/CoP-Success-Wheel]] -- boundary-spanning is part of the shared vision facet
+- [[concepts/CoP-Success-Wheel]] -- boundary-spanning is part of the shared vision facet
 
 ## Source
-[[source-notes/EuropeanCommission-CoP-Playbook]]
+[[summaries/EuropeanCommission-CoP-Playbook]]

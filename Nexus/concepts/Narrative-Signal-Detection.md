@@ -24,4 +24,4 @@ In fast-moving domains (crypto, tech, markets), the value of an insight decays a
 - [[concepts/Vault-Aware-Research]] -- the agent capability this depends on
 
 ## Source
-[[source-notes/DamiDefi-Hermes-Obsidian-Vault-Integration]]
+[[summaries/DamiDefi-Hermes-Obsidian-Vault-Integration]]

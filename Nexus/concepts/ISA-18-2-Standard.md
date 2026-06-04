@@ -25,4 +25,4 @@ Provides the framework that regulatory bodies (OSHA, EPA, FDA, PHMSA) recognize 
 - [[concepts/ISA-101-Standard]]
 
 ## Source
-[[source-notes/Dunn-Sands-Alarm-Management-FAQ]]
+[[summaries/Dunn-Sands-Alarm-Management-FAQ]]

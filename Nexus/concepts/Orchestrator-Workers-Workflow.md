@@ -24,4 +24,4 @@ Some tasks can't be decomposed in advance. The orchestrator assesses the specifi
 - [[concepts/Multi-Agent-Development]]
 
 ## Source
-[[source-notes/Anthropic-Building-Effective-AI-Agents]]
+[[summaries/Anthropic-Building-Effective-AI-Agents]]

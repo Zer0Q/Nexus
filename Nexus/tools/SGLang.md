@@ -18,9 +18,9 @@ When the bottleneck shifts from "can we run the model?" to "can we run it under 
 - Disaggregation adds operational complexity
 
 ## Related
-- [[frameworks/Inference-Engine-Families]]
+- [[tools/Inference-Engine-Families]]
 - [[concepts/Disaggregated-Prefill-Decode]]
 - [[tools/vLLM]]
 
 ## Source
-[[source-notes/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]
+[[summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware]]

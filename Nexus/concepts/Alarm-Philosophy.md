@@ -21,9 +21,9 @@ Without a philosophy, alarm decisions are ad hoc and inconsistent. The philosoph
 
 ## Related
 - [[concepts/ISA-18-2-Standard]]
-- [[glossary/Alarm-Rationalization]]
+- [[concepts/Alarm-Rationalization]]
 - [[concepts/Alarm-Classification]]
 - [[concepts/Alarm-Management-Lifecycle]]
 
 ## Source
-[[source-notes/ISA-18-Standards-Series]]
+[[summaries/ISA-18-Standards-Series]]

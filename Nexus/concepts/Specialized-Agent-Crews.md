@@ -25,4 +25,4 @@ One giant agent becomes harder to debug, route, and trust as complexity grows. S
 - [[concepts/Research-First-Architecture]]
 
 ## Source
-[[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
+[[summaries/gkisokay-21-Mistakes-Building-AI-Agents]]

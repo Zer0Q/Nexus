@@ -41,9 +41,9 @@ Patterns and anti-patterns for building reliable, scalable AI agent systems.
 - [[concepts/Vault-Aware-Research]] -- agent research that queries existing knowledge vaults
 
 ## Sources
-- [[source-notes/Anthropic-Building-Effective-AI-Agents]]
-- [[source-notes/Pydantic-Team-Pydantic-AI-Overview]]
-- [[source-notes/KusCamara-PydanticAI-Agent-Creation]]
-- [[source-notes/gkisokay-21-Mistakes-Building-AI-Agents]]
-- [[source-notes/0xJeff-Hermes-Analyst-60-Days]]
-- [[source-notes/DamiDefi-20-GitHub-Scraping-Repos]]
+- [[summaries/Anthropic-Building-Effective-AI-Agents]]
+- [[summaries/Pydantic-Team-Pydantic-AI-Overview]]
+- [[summaries/KusCamara-PydanticAI-Agent-Creation]]
+- [[summaries/gkisokay-21-Mistakes-Building-AI-Agents]]
+- [[summaries/0xJeff-Hermes-Analyst-60-Days]]
+- [[summaries/DamiDefi-20-GitHub-Scraping-Repos]]

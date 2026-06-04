@@ -24,4 +24,4 @@ Loading all skill content into context every turn wastes tokens. Progressive dis
 - [[concepts/Compounding-Knowledge-Context]] -- efficient context management enables compounding
 
 ## Source
-[[source-notes/AkshayPachaar-Hermes-Agent-Masterclass]]
+[[summaries/AkshayPachaar-Hermes-Agent-Masterclass]]

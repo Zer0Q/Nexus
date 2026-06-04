@@ -16,5 +16,5 @@ Workflows and tools for AI-assisted design, coding, and development.
 - [[concepts/Vibe-Coding]] -- AI-assisted coding with natural language prompts
 
 ## Sources
-- [[source-notes/PrajwalTomar-Codex-Moonchild-Design-Workflow]]
-- [[source-notes/HumzaKhalid-Karpathy-CLAUDE-MD-Principles]]
+- [[summaries/PrajwalTomar-Codex-Moonchild-Design-Workflow]]
+- [[summaries/HumzaKhalid-Karpathy-CLAUDE-MD-Principles]]

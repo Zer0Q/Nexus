@@ -24,4 +24,4 @@ A pressure reading of "900 psi" is meaningless without context. By showing norma
 - [[concepts/Display-Hierarchy]]
 
 ## Source
-[[source-notes/RealPars-High-Performance-HMI]]
+[[summaries/RealPars-High-Performance-HMI]]
