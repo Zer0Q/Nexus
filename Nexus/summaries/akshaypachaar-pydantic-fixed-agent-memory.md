@@ -24,3 +24,8 @@ Your agent remembers everything and understands nothing. Agent memory started wi
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[pydantic-fixed-my-agents-memory.md]]
+- **Original URL:** https://x.com/akshay_pachaar/status/2058976178908885210

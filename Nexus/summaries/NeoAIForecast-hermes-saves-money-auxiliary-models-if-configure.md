@@ -27,3 +27,8 @@ Most Hermes users optimize the wrong model. They spend hours comparing Opus vs S
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-hermes-saves-you-money-with-auxiliary-models-if-you-configure-them-right.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2046892204518785296

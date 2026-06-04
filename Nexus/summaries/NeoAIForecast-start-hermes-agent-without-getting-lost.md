@@ -27,3 +27,8 @@ Most powerful AI tools don’t fail beginners because they lack capability. They
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-start-with-hermes-agent-without-getting-lost.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2041739382491935130

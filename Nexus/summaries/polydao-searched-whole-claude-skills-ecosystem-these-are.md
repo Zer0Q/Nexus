@@ -26,3 +26,8 @@ type: article
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[i-searched-the-whole-claude-skills-ecosystem-these-are-the-ones-that-matter-full-github-links.md]]
+- **Original URL:** https://x.com/polydao/status/2060715587387400424

@@ -17,7 +17,7 @@ IBM Research demonstrates that agent logic -- software primitives like knowledge
 - [[concepts/Program-Analysis-for-Agents]] -- static/dynamic analysis output used to focus LLM context for code tasks
 - [[concepts/Policy-as-Code]] -- runtime-enforced governance independent of model prompts, without fine-tuning
 - [[concepts/Knowledge-Graph-for-IT-Ops]] -- KG of IT entities with embedded tribal knowledge for incident investigation
-- concepts/Adaptive-Planning -- algorithmic task decomposition with dynamic sequencing and continuous feedback
+- [[concepts/Adaptive-Planning]] -- algorithmic task decomposition with dynamic sequencing and continuous feedback
 - [[concepts/Context-Space-Reduction]] -- using structured analysis to reduce the context LLM needs to process
 - [[concepts/Teleological-Behavior]] -- Goal-directed behavior in AI systems
 ## Key Insights
@@ -31,3 +31,8 @@ IBM Research demonstrates that agent logic -- software primitives like knowledge
 ## Open Questions
 - How does agent logic compose across multiple agents in the same workflow?
 - Can program analysis outputs be standardized across languages (Cobol, Java, Python)?
+
+## Source
+
+- **Raw note:** [[beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-agent-logic.md]]
+- **Original URL:** https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption

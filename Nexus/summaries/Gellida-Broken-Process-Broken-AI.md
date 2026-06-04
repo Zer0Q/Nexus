@@ -33,3 +33,8 @@ AI amplifies whatever process it sits on — it doesn't fix weak processes. Bad 
 ## Open Questions
 - How do you measure "process health" before deploying AI on top of it?
 - What's the minimum viable process maturity before AI automation is safe?
+
+## Source
+
+- **Raw note:** [[broken-process-in-broken-ai-out.md]]
+- **Original URL:** https://www.linkedin.com/pulse/broken-process-ai-out-sergio-gellida-hpuze/

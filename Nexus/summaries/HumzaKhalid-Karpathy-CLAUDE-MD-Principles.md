@@ -27,3 +27,8 @@ Forrest Chang distilled Karpathy's thread on Claude Code failure patterns into a
 ## Open Questions
 - How do these principles translate to non-coding agent tasks?
 - Can these principles be encoded as automated validation rules in agent harnesses?
+
+## Source
+
+- **Raw note:** [[claude-tops-by-humzaakhalid-on-x.md]]
+- **Original URL:** https://x.com/humzaakhalid/status/2061337794740637883

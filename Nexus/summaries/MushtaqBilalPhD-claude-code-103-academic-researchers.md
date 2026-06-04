@@ -27,3 +27,8 @@ This is the third installment in a series of tutorials I am doing for academic r
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[claude-code-103-for-academic-researchers.md]]
+- **Original URL:** https://x.com/MushtaqBilalPhD/status/2057033643973865585

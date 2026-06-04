@@ -39,3 +39,8 @@ Most note-taking systems optimize for capture while ignoring use. This article p
 - How does the Three-Zone-Vault compare to the existing [[concepts/Four-Layer-Vault-Architecture]] in practice?
 - Can the Note-Usefulness-Assessment be automated beyond Claude prompts?
 - What is the optimal frequency for the [[concepts/Weekly-Note-Audit]] for small vs large vaults?
+
+## Source
+
+- **Original URL:** https://x.com/cyrilXBT/status/2060163007783612502
+- **Note:** raw article not found in vault

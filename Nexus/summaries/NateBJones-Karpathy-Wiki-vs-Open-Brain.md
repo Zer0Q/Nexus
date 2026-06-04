@@ -30,3 +30,8 @@ Nate B. Jones compares two AI knowledge system architectures: Karpathy's write-t
 ## Open Questions
 - How to detect editorial drift before it compounds?
 - What's the optimal sync interval for compilation agents?
+
+## Source
+
+- **Original URL:** https://www.youtube.com/watch?v=dxq7WtWxi44
+- **Note:** raw article not found in vault

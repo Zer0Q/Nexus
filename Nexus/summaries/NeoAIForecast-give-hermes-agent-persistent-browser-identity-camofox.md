@@ -27,3 +27,8 @@ Most agent browser demos break the moment a login session matters. You sign in o
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-give-hermes-agent-a-persistent-browser-identity-with-camofox.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2046516373984317735

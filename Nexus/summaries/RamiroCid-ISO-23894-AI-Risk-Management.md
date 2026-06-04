@@ -26,3 +26,8 @@ ISO/IEC 23894:2023 extends ISO 31000 risk management to the AI lifecycle, addres
 ## Open Questions
 - How does ISO 23894 integrate with the EU AI Act's high-risk category mandates?
 - Can risk-by-design principles apply to agentic coding workflows?
+
+## Source
+
+- **Raw note:** [[beyond-intuition-why-isoiec-238942023-is-the-strategic-engine-for-ai-risk-management.md]]
+- **Original URL:** https://ramirocid.com/beyond-intuition-why-iso-iec-238942023-is-the-strategic-engine-for-ai-risk-management/

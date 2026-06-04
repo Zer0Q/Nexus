@@ -31,3 +31,8 @@ Alarm management benefits erode over time without lifecycle management. Alarm cl
 ## Open Questions
 - How do organizations handle alarm classes across multi-site operations with different regulatory requirements?
 - What tools best support alarm class tracking across the full lifecycle?
+
+## Source
+
+- **Raw note:** [[process-automation-alarm-management-life-cycle.md]]
+- **Original URL:** https://www.isa.org/intech-home/2018/march-april/features/alarm-management-life-cycle

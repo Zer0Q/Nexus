@@ -39,3 +39,8 @@ Author moved from cloud AI (Claude, ChatGPT) to a fully local AI stack after a p
 - What is the maintenance overhead of keeping local models updated?
 - How does embedding quality degrade with very large vaults (5000+ notes)?
 - Can local models handle multi-language vaults effectively?
+
+## Source
+
+- **Original URL:** https://x.com/KanikaBK/status/2059177736648987072
+- **Note:** raw article not found in vault

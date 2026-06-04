@@ -34,3 +34,8 @@ A deep dive into harness engineering — the discipline of building and refining
 - How do harness patterns converge across different model providers?
 - What does self-healing harness look like (agents analyzing their own traces)?
 - How does the training loop feedback between harness design and model post-training evolve?
+
+## Source
+
+- **Raw note:** [[agent-harness-engineering.md]]
+- **Original URL:** https://x.com/addyosmani/status/2053231239721885918

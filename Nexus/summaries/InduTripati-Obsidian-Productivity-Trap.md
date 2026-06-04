@@ -24,3 +24,8 @@ Beginners fall into optimizing their vault setup instead of using it — product
 
 ## Open Questions
 - How to measure whether a vault is actually improving thinking vs just looking organized?
+
+## Source
+
+- **Raw note:** [[most-obsidian-beginners-accidentally-turn-their-vault-into-a-productivity-trap.md]]
+- **Original URL:** https://x.com/InduTripat82427/status/2055689831603486882

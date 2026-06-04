@@ -25,3 +25,8 @@ This is the fourth installment in a series of tutorials that I am doing on Claud
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[claude-code-104-building-your-ai-powered-research-management-system.md]]
+- **Original URL:** https://x.com/MushtaqBilalPhD/status/2058888916858544472

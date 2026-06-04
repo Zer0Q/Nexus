@@ -39,3 +39,8 @@ zeuuss_01 argues that most Obsidian vaults earn $0 because they optimize capture
 - What does the Output Generator prompt look like in full text (images only in original)?
 - How does the Expected Revenue Stamp feed back into capture prioritization?
 - Is the $30K figure from a single operator or aggregated across multiple revenue experiments?
+
+## Source
+
+- **Raw note:** [[how-to-weaponize-obsidian-claude-to-replace-the-35kmonth-content-team-in-4-evenings.md]]
+- **Original URL:** https://x.com/zeuuss_01/status/2060364984052285459

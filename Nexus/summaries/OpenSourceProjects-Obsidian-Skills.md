@@ -27,3 +27,8 @@ Obsidian Skills plugin by @kepano provides a framework for creating persistent, 
 ## Open Questions
 - How does Obsidian Skills compare to Hermes Agent skills in scope and capability?
 - Can skills chain together (skill A triggers skill B)?
+
+## Source
+
+- **Raw note:** [[the-definitive-tool-for-building-ai-agents-inside-obsidian.md]]
+- **Original URL:** https://www.opensourceprojects.dev/post/802e6bcf-1b9b-44c4-a9d7-239ede061fde

@@ -39,3 +39,8 @@ Deep research analysis on the convergence of generative AI (LLMs) with semantic 
 ## Open Questions
 - How does Zero-Shot Ontology scale when corpus quality varies significantly?
 - What are the practical latency tradeoffs of ontology enforcement loops in production?
+
+## Source
+
+- **Note:** Deep Research generated article — no external source URL
+- **Created:** 2026-06-01

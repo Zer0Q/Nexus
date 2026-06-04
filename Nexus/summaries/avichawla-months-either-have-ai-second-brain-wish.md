@@ -24,3 +24,8 @@ Karpathy, Garry Tan, and the best builders in tech are all converging on AI seco
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[in-6-months-youll-either-have-an-ai-second-brain-or-wish-you-did-a-full-setup-to-start-today.md]]
+- **Original URL:** https://x.com/_avichawla/status/2052326975034048754

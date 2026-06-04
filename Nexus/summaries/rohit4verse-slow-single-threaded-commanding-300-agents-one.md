@@ -27,3 +27,8 @@ You designed the product, wrote the code, wrote the launch copy, answered the su
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[youre-not-slow-youre-single-threaded-a-complete-guide-on-commanding-300-agents-from-one-prompt.md]]
+- **Original URL:** https://x.com/rohit4verse/status/2059320043478081976

@@ -25,3 +25,8 @@ Cada artículo que lees. Cada tuit que guardas. Cada nota de voz que grabas. Tod
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Original URL:** https://x.com/chesnyfcb/status/2054639107179982996
+- **Note:** raw article not found in vault

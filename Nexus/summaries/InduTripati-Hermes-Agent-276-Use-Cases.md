@@ -34,3 +34,8 @@ A Reddit megathread documented 276 real-world Hermes Agent use cases across 16 c
 - How do communities share and version-control their Hermes Agent configurations?
 - What are the failure modes of "Zero Human Company" setups?
 - How does token cost scale with 24/7 persistent agents?
+
+## Source
+
+- **Original URL:** https://x.com/InduTripat82427/status/2057017304144298383
+- **Note:** raw article not found in vault

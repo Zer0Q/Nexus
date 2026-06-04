@@ -30,3 +30,8 @@ Karpathy's canonical description of the LLM wiki pattern: instead of RAG (query-
 ## Open Questions
 - How does the schema evolve as the wiki grows from hundreds to thousands of pages?
 - What happens when the LLM makes a synthesis error that compounds?
+
+## Source
+
+- **Raw note:** [[llm-wiki.md]]
+- **Original URL:** https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f

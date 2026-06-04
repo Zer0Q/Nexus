@@ -25,3 +25,8 @@ Most people use Obsidian as a one-way system. Information goes in. Notes get cre
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[your-obsidian-vault-can-now-write-back-to-itself-heres-the-architecture-nobodys-talking-about.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2052923836090167526

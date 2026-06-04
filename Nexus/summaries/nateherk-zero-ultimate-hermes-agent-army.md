@@ -24,3 +24,8 @@ Hermes Agent. Open source, MIT licensed, 140K GitHub stars and growing fast. Bui
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[from-zero-to-ultimate-hermes-agent-army.md]]
+- **Original URL:** https://x.com/nateherk/status/2053308681299616125

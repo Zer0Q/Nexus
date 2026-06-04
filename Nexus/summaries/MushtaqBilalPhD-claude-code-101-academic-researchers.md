@@ -25,3 +25,8 @@ This is a five-part tutorial to help academic researchers get started on Claude 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[claude-code-101-for-academic-researchers.md]]
+- **Original URL:** https://x.com/MushtaqBilalPhD/status/2052338632426467550

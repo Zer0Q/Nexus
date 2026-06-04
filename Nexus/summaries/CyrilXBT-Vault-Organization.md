@@ -13,7 +13,7 @@ Complete guide to organizing Obsidian vaults for retrieval speed, not storage. F
 
 ## Core Concepts
 - [[concepts/Retrieval-First-Organization]] -- organize for finding, not storing
-- Four Dimensional Retrieval -- type, date, topic, status as search axes
+- [[Four Dimensional Retrieval]] -- type, date, topic, status as search axes
 - [[concepts/PARA-Method]] -- Projects, Areas, Resources, Archive organizational framework
 - [[tools/Date-Prefixed-Naming]] -- YYYY-MM-DD-TYPE-TOPIC for chronological sorting
 - [[concepts/Three-Category-Tagging]] -- topic, status, project tags with prefixes
@@ -31,3 +31,8 @@ Complete guide to organizing Obsidian vaults for retrieval speed, not storage. F
 ## Open Questions
 - How does PARA handle notes that span multiple areas?
 - At what vault size does full-text search become too slow?
+
+## Source
+
+- **Raw note:** [[how-to-organize-your-obsidian-vault-so-you-can-always-find-what-you-need-full-course.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2058373087330959829

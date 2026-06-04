@@ -23,3 +23,8 @@ It’s the First Real Software Factory for the AI Era. For the last decade, star
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[garry-tan-built-a-247-ai-engineering-team-for-free.md]]
+- **Original URL:** https://x.com/Suryanshti777/status/2053415780445008367

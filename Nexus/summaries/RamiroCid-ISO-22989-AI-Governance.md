@@ -26,3 +26,8 @@ ISO/IEC 22989:2022 defines AI concepts, terminology, and the AI System Life Cycl
 ## Open Questions
 - How does the AI lifecycle model map to agentic development workflows?
 - Can trustworthiness characteristics be automated as quality gates?
+
+## Source
+
+- **Raw note:** [[beyond-the-hype-why-isoiec-229892022-is-the-strategic-bedrock-of-your-ai-governance.md]]
+- **Original URL:** https://ramirocid.com/beyond-the-hype-why-iso-iec-229892022-is-the-strategic-bedrock-of-ai-governance/

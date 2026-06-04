@@ -27,3 +27,8 @@ You stop what you’re doing, wait for the model, then continue. The moment you 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-background-turns-hermes-agent-into-an-actual-working-runtime.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2045435546865156348

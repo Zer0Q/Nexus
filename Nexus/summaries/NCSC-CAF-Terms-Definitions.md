@@ -28,3 +28,8 @@ Glossary of key terms used within the NCSC Cyber Assessment Framework (CAF) Vers
 - What CAF-specific terms have definitions that differ from [[concepts/NCSC-Glossary]] standard definitions?
 - How has the [[concepts/CAF-Terms-Glossary]] evolved between v3.2 and v4.0?
 - Are there terms in [[concepts/NCSC-CAF]] that lack definitions and should be added to the glossary?
+
+## Source
+
+- **Raw note:** [[caf-terms-and-definitions.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/terms-and-definitions

@@ -25,3 +25,8 @@ Most agent UIs still feel like chat apps pretending to be workspaces. It is not 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[hermes-workspace-is-what-hermes-agent-is-missing.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2048103859978150349

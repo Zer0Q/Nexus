@@ -17,7 +17,7 @@ Practical guide to building a Karpathy-style knowledge base: three folders (raw/
 - [[concepts/Anti-Graveyard-Capture]] -- saving answers back into the KB
 - [[concepts/Markdown-as-Universal-Format]] -- flat files over proprietary tools
 - [[concepts/CLAUDE-MD-as-Context-Layer]] -- schema as AI instruction manual
-- Periodic KB Health Check -- monthly linting for contradictions and gaps
+- [[Periodic KB Health Check]] -- monthly linting for contradictions and gaps
 
 ## Key Insights
 - Three folders are enough: raw (sources), wiki (organized), outputs (answers)
@@ -30,3 +30,8 @@ Practical guide to building a Karpathy-style knowledge base: three folders (raw/
 ## Open Questions
 - How does agent-browser compare to Obsidian Web Clipper for bulk collection?
 - At what point does the wiki/ folder become too large for the LLM to navigate?
+
+## Source
+
+- **Raw note:** [[how-to-build-your-second-brain.md]]
+- **Original URL:** https://x.com/NickSpisak_/status/2040448463540830705

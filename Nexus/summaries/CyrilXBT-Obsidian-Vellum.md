@@ -14,8 +14,8 @@ Guide to building an AI chief of staff using Obsidian + Vellum. Five-folder stru
 ## Core Concepts
 - [[concepts/AI-Chief-of-Staff]] -- AI that reads, remembers, and briefs automatically
 - [[concepts/Organize-by-Type-not-Topic]] -- type-based folders enable cross-domain connections
-- Vellum MD Context File -- personalized context for Vellum AI
-- Four Core Workflows -- process inbox, daily brief, weekly synthesis, connections
+- [[Vellum MD Context File]] -- personalized context for Vellum AI
+- [[Four Core Workflows]] -- process inbox, daily brief, weekly synthesis, connections
 - [[concepts/Automated-Capture-Pipeline]] -- Readwise, Telegram, Whisper integration
 
 ## Key Insights
@@ -29,3 +29,8 @@ Guide to building an AI chief of staff using Obsidian + Vellum. Five-folder stru
 ## Open Questions
 - How does Vellum compare to Claude for vault intelligence tasks?
 - Does Vellum support automated scheduling like N8N+Claude?
+
+## Source
+
+- **Raw note:** [[how-to-use-obsidian-vellum-to-build-a-second-brain-that-thinks-247.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2059461814333673705

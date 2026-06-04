@@ -29,3 +29,8 @@ How Perplexity, Azure, HubSpot, and many others use binary quantization to make 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-make-rag-32x-memory-efficient-explained-with-code.md]]
+- **Original URL:** https://x.com/_avichawla/status/2040326889928356122

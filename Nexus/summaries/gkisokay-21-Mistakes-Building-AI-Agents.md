@@ -32,3 +32,8 @@ Practical lessons from 3 months of building Hermes and OpenClaw agents daily: bu
 ## Open Questions
 - How do you quantify the ROI of runtime monitoring vs post-hoc debugging?
 - What's the optimal threshold for when a monolithic agent should be split into specialized ones?
+
+## Source
+
+- **Raw note:** [[21-painful-mistakes-i-made-building-ai-agents-so-you-dont-have-to.md]]
+- **Original URL:** https://x.com/gkisokay/status/2059986597391823286

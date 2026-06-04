@@ -24,3 +24,8 @@ Guía práctica de Shah Rahman (Meta) para ingenieros que quieren transicionar a
 - Los ingenieros experimentados fueron 19% más lentos con IA en codebases familiares (estudio METR/Anthropic)
 - El ADLC reemplaza al SDLC tradicional con fases de planificación, build, testing, review y documentación asistidas por agentes
 - La seguridad es el mayor riesgo: RCE, prompt injection, supply chain poisoning
+
+## Source
+
+- **Raw note:** [[a-practical-guide-to-becoming-an-ai-native-engineer.md]]
+- **Original URL:** https://x.com/bytebytego/status/2061821715450351992

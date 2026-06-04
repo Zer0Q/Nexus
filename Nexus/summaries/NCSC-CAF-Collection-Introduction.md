@@ -25,3 +25,8 @@ Entry point to the NCSC Cyber Assessment Framework collection of guidance docume
 - How is the [[concepts/NCSC-CAF]] collection organized — by objective, by sector, or by maturity level?
 - What's the relationship between the [[concepts/CAF-Objectives]] and the detailed sub-principles?
 - Is the CAF voluntary or mandatory for [[concepts/Essential-Functions]] organisations in the UK?
+
+## Source
+
+- **Raw note:** [[caf-introduction-to-the-caf-collection.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-caf-collection

@@ -17,3 +17,8 @@ Historial de versiones del CAF desde v1.0 (abril 2018) hasta v4.0 (agosto 2025).
 ## Key Insights
 - El CAF ha tenido 6 versiones en 7 años, con actualizaciones significativas
 - La v4.0 (agosto 2025) es la versión más reciente
+
+## Source
+
+- **Raw note:** [[caf-cyber-assessment-framework-caf-changelog.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/changelog

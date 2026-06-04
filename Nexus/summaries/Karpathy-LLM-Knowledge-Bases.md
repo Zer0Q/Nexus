@@ -29,3 +29,8 @@ Karpathy describes his workflow for using LLMs to build personal knowledge bases
 ## Open Questions
 - At what scale does the index-file approach break down?
 - How does this compare to embedding-based RAG at 1000+ pages?
+
+## Source
+
+- **Raw note:** [[post-by-karpathy-on-x.md]]
+- **Original URL:** https://x.com/karpathy/status/2039805659525644595

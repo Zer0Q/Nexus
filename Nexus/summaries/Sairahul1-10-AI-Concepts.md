@@ -20,10 +20,15 @@ type: article
 - [[Temperature-Parameter]] -- control de aleatoriedad en la generación de tokens
 - [[Context-Window]] -- límite de memoria de trabajo de un modelo
 - [[RAG]] -- Retrieval-Augmented Generation para usar datos propios
-- AI-Agents -- sistemas de IA que planifican, usan herramientas y verifican resultados
+- [[AI-Agents]] -- sistemas de IA que planifican, usan herramientas y verifican resultados
 
 ## Key Insights
 - Los LLMs no son bases de datos: predicen patrones, no buscan respuestas
 - El problema "Lost in the Middle" significa que los modelos prestan más atención al inicio y final del contexto
 - La confiabilidad de agentes decae exponencialmente: 3 pasos al 90% = 72.9%, 10 pasos = 34.8%
 - RAG es mejor que fine-tuning para la mayoría de casos de uso
+
+## Source
+
+- **Raw note:** [[10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code.md]]
+- **Original URL:** https://x.com/sairahul1/status/2061737615175671953

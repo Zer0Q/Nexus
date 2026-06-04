@@ -42,3 +42,8 @@ DamiDefi presents a five-tool AI stack where each tool owns a distinct operation
 - What is the actual cost of running the full five-tool stack monthly?
 - How does Kimi K2.6's swarm orchestration handle inter-agent conflicts or deadlocks?
 - What MCP servers are most valuable for knowledge-work versus coding workflows?
+
+## Source
+
+- **Original URL:** https://x.com/DamiDefi/status/2060313230585536980
+- **Note:** raw article not found in vault

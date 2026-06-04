@@ -31,3 +31,8 @@ NCSC CAF Principle A2 covers risk management for network and information systems
 - How does the NCSC expect [[concepts/Threat-Analysis]] to differ between critical infrastructure sectors (energy vs healthcare vs transport)?
 - What's the expected frequency for reassessing risks under [[concepts/Risk-Management-Process]] — is it event-driven or periodic?
 - How do [[concepts/Security-Assurance]] methods balance penetration testing risks in live OT environments?
+
+## Source
+
+- **Raw note:** [[caf-principle-a2-risk-management.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a2-risk-management

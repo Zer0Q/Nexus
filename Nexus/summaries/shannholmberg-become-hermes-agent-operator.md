@@ -27,3 +27,8 @@ learn how to operate and master Hermes Agent. set up the agent control room temp
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-become-a-hermes-agent-operator.md]]
+- **Original URL:** https://x.com/shannholmberg/status/2055335043904492011

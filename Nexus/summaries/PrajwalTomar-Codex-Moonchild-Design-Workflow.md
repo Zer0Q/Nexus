@@ -16,8 +16,8 @@ A design-to-code workflow using Moonchild (chat-powered design canvas) connected
 - [[concepts/Design-System-First]] -- build the design system before any screen; it determines output quality
 - [[concepts/PRD-to-UI]] -- feed a product requirements document directly to generate full screen designs
 - [[concepts/Visual-to-Code-Generation]] -- structured design data (not screenshots) fed to code generators via MCP
-- concepts/Interactive-Preview -- test product flows before any code is written
-- concepts/Variant-Generation -- multiple aesthetic directions from the same design system for comparison
+- [[concepts/Interactive-Preview]] -- test product flows before any code is written
+- [[concepts/Variant-Generation]] -- multiple aesthetic directions from the same design system for comparison
 
 ## Key Insights
 - The bottleneck in AI-built products is the design layer, not the code layer
@@ -30,3 +30,8 @@ A design-to-code workflow using Moonchild (chat-powered design canvas) connected
 ## Open Questions
 - How does Moonchild compare to other AI design tools for multi-page consistency?
 - Can this workflow be replicated with open-source design tools?
+
+## Source
+
+- **Raw note:** [[codex-is-cracked-at-design-heres-the-workflow-that-actually-works.md]]
+- **Original URL:** https://x.com/PrajwalTomar_/status/2057436839104205210

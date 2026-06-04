@@ -27,3 +27,8 @@ Most AI agents forget the method even when they remember the result. It doesn’
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-skills-work-in-hermes-agent.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2044252861710905685

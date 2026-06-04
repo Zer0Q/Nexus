@@ -27,3 +27,8 @@ The more workflows you teach them, the more instructions they carry around all t
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[hermes-agent-optional-skills-how-to-install-new-capabilities-on-demand.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2051802880114639067

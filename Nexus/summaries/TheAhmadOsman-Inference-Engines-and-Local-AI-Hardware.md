@@ -39,3 +39,8 @@ Comprehensive guide to LLM inference engines, arguing you pick hardware strategy
 - Does disaggregated prefill/decode become standard or remain niche?
 - Will Ollama evolve beyond local convenience?
 - How does Thunderbolt RDMA compare to NVLink for Apple multi-node?
+
+## Source
+
+- **Raw note:** [[inference-engines-for-llms-local-ai-hardware-2026-edition.md]]
+- **Original URL:** https://x.com/TheAhmadOsman/status/2057183854444843202

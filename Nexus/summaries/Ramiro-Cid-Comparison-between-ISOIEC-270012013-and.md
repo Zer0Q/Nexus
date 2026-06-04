@@ -32,3 +32,8 @@ Análisis comparativo de la evolución de ISO 27001 entre las versiones 2005 y 2
 
 - ¿Cómo afecta la reducción de controles a organizaciones certificadas bajo versiones anteriores?
 - ¿Qué controles de la versión 2005 quedaron menos cubiertos en la versión 2013?
+
+## Source
+
+- **Raw note:** [[comparison-between-isoiec-270012013-and-isoiec-270012005.md]]
+- **Original URL:** https://ramirocid.com/comparison-between-isoiec-270012013-and-2005/

@@ -37,3 +37,8 @@ Author ran five disconnected tools (Notion, Readwise, X bookmarks, browser bookm
 - What happens when Claude Projects changes or becomes unavailable?
 - Does the weekly synthesis prompt need periodic tuning as the vault matures?
 - How do collaboration and shared vaults fit into this model?
+
+## Source
+
+- **Original URL:** https://x.com/DamiDefi/status/2059266442957058414
+- **Note:** raw article not found in vault

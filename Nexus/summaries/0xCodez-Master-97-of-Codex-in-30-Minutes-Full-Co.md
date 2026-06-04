@@ -33,3 +33,8 @@ Curso intensivo de Codex Agent (OpenAI) cubriendo el 97% de funcionalidades usad
 
 - ¿Cómo evolucionan las Automations de Codex comparado con los cron jobs de Hermes Agent?
 - ¿Qué ventajas tiene Worktree mode para contribuciones a repositorios compartidos?
+
+## Source
+
+- **Raw note:** [[master-97-of-codex-in-30-minutes-full-course.md]]
+- **Original URL:** https://x.com/0xCodez/status/2061795739575963935

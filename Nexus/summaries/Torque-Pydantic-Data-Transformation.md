@@ -28,3 +28,8 @@ Practical guide to Pydantic's advanced data handling features: custom validators
 
 ## Open Questions
 - None
+
+## Source
+
+- **Raw note:** [[practical-pydantic-data-transformation-aliases-and-validators.md]]
+- **Original URL:** https://dev.to/mechcloud_academy/practical-pydantic-data-transformation-aliases-and-validators-16c2

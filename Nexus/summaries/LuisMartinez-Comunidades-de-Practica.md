@@ -27,3 +27,8 @@ Overview of Communities of Practice (CoP): groups of people sharing a common fie
 - Wenger's 7 principles: ease of evolution, permeability, participation levels, public/private spaces, value, closeness/emotion, rhythm
 ## Open Questions
 - How do virtual CoPs maintain trust without face-to-face interaction?
+
+## Source
+
+- **Original URL:** https://psicologiaymente.com/desarrollo/comunidades-de-practica
+- **Note:** raw article not found in vault

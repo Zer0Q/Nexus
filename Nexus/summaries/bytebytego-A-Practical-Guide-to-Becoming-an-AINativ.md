@@ -40,3 +40,8 @@ By Shah Rahman (Meta, Global Head of Autonomous ML Iteration). AI generates 75%+
 - How does [[concepts/Agentic-Development-Life-Cycle]] scale when separating planning, building, and testing agents across different codebases?
 - What's the real cost-benefit of [[concepts/Skill-Atrophy-Prevention]] — does occasional AI-free work actually preserve skills or just slow velocity?
 - Can [[concepts/Context-Engineering]] be standardized across teams without the "uncontrolled proliferation" the author warns about?
+
+## Source
+
+- **Raw note:** [[a-practical-guide-to-becoming-an-ai-native-engineer.md]]
+- **Original URL:** https://x.com/bytebytego/status/2061821715450351992

@@ -17,7 +17,7 @@ Complete overview of the ISA-18 family: one base standard (ISA-18.2), one annunc
 - [[concepts/Dynamic-Alarming]] -- alarm settings that adjust based on real-time process conditions
 - [[concepts/Advanced-Alarm-Methods]] -- predictive alarming, adaptive systems, programming logic for accuracy
 - [[concepts/Alarm-Monitoring-and-Assessment]] -- ongoing tracking of alarm rates, standing alarms, response times
-- Non-alarm notifications -- alerts, prompts, and notices for non-control-room personnel
+- [[Non-alarm notifications]] -- alerts, prompts, and notices for non-control-room personnel
 
 ## Key Insights
 - ISA-18.1 (2024): Annunciator sequences and specifications — sequencing logic for all annunciator types
@@ -33,3 +33,8 @@ Complete overview of the ISA-18 family: one base standard (ISA-18.2), one annunc
 ## Open Questions
 - How do organizations prioritize which TRs to implement first?
 - What's the relationship between ISA-18.1 annunciator sequences and ISA-18.2 alarm management?
+
+## Source
+
+- **Raw note:** [[isa-18-series-of-standards.md]]
+- **Original URL:** https://www.isa.org/standards-and-publications/isa-standards/isa-18-series-of-standards

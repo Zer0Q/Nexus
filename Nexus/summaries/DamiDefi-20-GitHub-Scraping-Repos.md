@@ -17,7 +17,7 @@ Comprehensive list of 20 web scraping repos categorized into AI-native tools (Fi
 - [[tools/Browser-Use]] -- full browser control for AI agents; navigate, click, fill forms, extract data
 - [[tools/AgentQL]] -- semantic query language for AI agents; describe what you want, not CSS selectors
 - [[tools/Hyperbrowser]] -- stealth headless browser bypassing Cloudflare, DataDome, bot detection
-- tools/Scrapling -- adaptive selectors and anti-bot bypass with proxy rotation
+- [[tools/Scrapling]] -- adaptive selectors and anti-bot bypass with proxy rotation
 - [[concepts/Anti-Bot-Evasion]] -- surviving Cloudflare, DataDome, Kasada, PerimeterX in scraping workflows
 
 ## Key Insights
@@ -30,3 +30,8 @@ Comprehensive list of 20 web scraping repos categorized into AI-native tools (Fi
 ## Open Questions
 - How do AI-native scrapers compare to traditional ones on cost per page at scale?
 - What's the tradeoff between vision-based and DOM-based extraction accuracy?
+
+## Source
+
+- **Raw note:** [[20-github-repos-that-let-you-scrape-any-website-without-getting-blocked-the-full-stack.md]]
+- **Original URL:** https://x.com/DamiDefi/status/2061398246673547296

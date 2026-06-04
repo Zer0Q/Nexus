@@ -22,3 +22,8 @@ The smoothest way to install Hermes Agent is to treat it as a short onboarding s
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-install-hermes-agent.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2042104090965262677

@@ -28,3 +28,8 @@ Comparison of AI-assisted development methodologies from classical (TDD, BDD) to
 ## Open Questions
 - How do fitness functions integrate with AI agent workflows?
 - Can contract testing (Pact) work effectively with AI-generated code?
+
+## Source
+
+- **Original URL:** ChatGPT analysis
+- **Note:** raw article not found in vault

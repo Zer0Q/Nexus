@@ -21,3 +21,8 @@ Objetivo B del CAF: medidas de seguridad proporcionales para proteger redes y si
 - Los 6 principios de B cubren desde políticas hasta concienciación del personal
 - La seguridad debe ser proporcional al riesgo, no un ejercicio de cumplimiento
 - La resiliencia se construye en el diseño, no se añade después
+
+## Source
+
+- **Raw note:** [[caf-objective-b-protecting-against-cyber-attacks.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-b

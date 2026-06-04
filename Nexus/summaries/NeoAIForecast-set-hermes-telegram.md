@@ -27,3 +27,8 @@ Most people think “Telegram bot” and imagine a lightweight chatbot. That is 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-set-up-hermes-on-telegram.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2042174650340536700

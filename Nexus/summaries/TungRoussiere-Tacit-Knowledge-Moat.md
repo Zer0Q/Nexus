@@ -30,3 +30,8 @@ Berkeley CMR article arguing that tacit knowledge (expert judgment, heuristics, 
 ## Open Questions
 - How do you measure the ROI of tacit knowledge capture initiatives?
 - What happens when tacit knowledge from different experts conflicts?
+
+## Source
+
+- **Raw note:** [[tacit-knowledge-is-your-next-competitive-moat.md]]
+- **Original URL:** https://cmr.berkeley.edu/2026/03/tacit-knowledge-is-your-next-competitive-moat/

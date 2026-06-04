@@ -29,3 +29,8 @@ type: article
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-build-ai-agents-in-2026-full-course.md]]
+- **Original URL:** https://x.com/Av1dlive/status/2054238056090325492

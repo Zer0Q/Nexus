@@ -22,3 +22,8 @@ We did not start by calling it Company Brain. Our first name for what we were bu
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[what-building-a-company-brain-over-the-last-year-taught-me.md]]
+- **Original URL:** https://x.com/ashwingop/status/2052051032566530216

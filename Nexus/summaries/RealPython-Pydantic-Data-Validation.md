@@ -31,3 +31,8 @@ Comprehensive Real Python tutorial on Pydantic covering BaseModel schemas, Field
 
 ## Open Questions
 - None
+
+## Source
+
+- **Raw note:** [[pydantic-simplifying-data-validation-in-python.md]]
+- **Original URL:** https://realpython.com/python-pydantic/

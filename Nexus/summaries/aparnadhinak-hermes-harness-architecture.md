@@ -29,3 +29,8 @@ Hermes (from @NousResearch) is one of the best open-source harnesses in the ecos
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[hermes-harness-architecture.md]]
+- **Original URL:** https://x.com/aparnadhinak/status/2060406977357070522

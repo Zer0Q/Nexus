@@ -25,3 +25,8 @@ Most people still use AI like a smarter search box. They open one chat, dump in 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[hermes-agents-most-underrated-feature-ai-agents-that-can-delegate.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2051591568696782935

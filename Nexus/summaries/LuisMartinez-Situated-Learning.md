@@ -26,3 +26,8 @@ Situated learning theory (Lave & Wenger) proposes that knowledge is constructed 
 ## Open Questions
 - How does situated learning apply to AI-assisted skill acquisition?
 - Can AI agents serve as participants in communities of practice?
+
+## Source
+
+- **Original URL:** https://psicologiaymente.com/desarrollo/teoria-aprendizaje-situado
+- **Note:** raw article not found in vault

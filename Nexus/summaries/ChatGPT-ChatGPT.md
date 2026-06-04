@@ -34,3 +34,8 @@ Comparison of AI-assisted development methodologies: Spec-Driven Development (Gi
 - How does [[concepts/Spec-Driven-Development]] compare to [[concepts/BMAD-Method]] in real enterprise teams with 50+ devs?
 - Is [[concepts/Intent-Driven-Development]] a viable evolution or still too diffuse a concept?
 - What's the overhead cost of [[concepts/Fitness-Function-Driven-Development]] for small teams?
+
+## Source
+
+- **Raw note:** [[chatgpt-sdd-vs-bmad.md]]
+- **Original URL:** https://chatgpt.com/?temporary-chat=true

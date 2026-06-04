@@ -24,3 +24,8 @@ By the end of this article, you should understand why Anthropic, OpenAI, Google,
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[forward-deployed-engineering-101.md]]
+- **Original URL:** https://x.com/vasuman/status/2057177266984226892

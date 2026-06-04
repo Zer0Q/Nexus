@@ -26,3 +26,8 @@ Google's latest paper introduces SkillOS, a framework designed to help LLM agent
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[skill-curation-for-self-evolving-agents-explained-clearly.md]]
+- **Original URL:** https://x.com/neural_avb/status/2053873358853591435

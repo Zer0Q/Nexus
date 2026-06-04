@@ -26,3 +26,8 @@ BMAD Method is an AI-powered development framework using specialized agents (Ana
 ## Open Questions
 - How does BMAD handle context window limits in large projects?
 - What's the actual time savings vs traditional Agile for small teams?
+
+## Source
+
+- **Raw note:** [[bmad-getting-started.md]]
+- **Original URL:** https://docs.bmad-method.org/tutorials/getting-started/

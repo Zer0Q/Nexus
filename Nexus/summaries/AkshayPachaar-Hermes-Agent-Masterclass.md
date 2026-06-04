@@ -32,3 +32,8 @@ Comprehensive guide to Hermes Agent by Nous Research: architecture, three-tier m
 ## Open Questions
 - How do skills transfer between profiles?
 - What's the real token cost of the Curator pass at scale?
+
+## Source
+
+- **Raw note:** [[hermes-agent-masterclass.md]]
+- **Original URL:** https://x.com/akshay_pachaar/status/2054564519280804028

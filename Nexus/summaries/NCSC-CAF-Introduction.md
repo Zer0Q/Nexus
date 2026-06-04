@@ -25,3 +25,8 @@ Overview of the NCSC Cyber Assessment Framework (CAF) — guidance for organisat
 - What are the 5 core objectives of [[concepts/NCSC-CAF]] and how do they interrelate?
 - Which UK sectors are in scope for [[concepts/Critical-Infrastructure-UK]] CAF compliance?
 - How does the CAF assessment process work in practice for [[concepts/Essential-Functions]]?
+
+## Source
+
+- **Raw note:** [[caf-introduction-to-the-cyber-assessment-framework.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-to-caf

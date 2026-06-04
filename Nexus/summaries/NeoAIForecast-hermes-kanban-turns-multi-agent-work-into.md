@@ -25,3 +25,8 @@ Most “multi-agent” workflows are still too invisible. You ask one agent to s
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[hermes-kanban-turns-multi-agent-work-into-a-real-board.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2051443615768228062

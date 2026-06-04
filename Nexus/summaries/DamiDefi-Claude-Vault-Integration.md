@@ -16,7 +16,7 @@ DamiDefi connected Claude as an intelligence layer on top of Obsidian using four
 - [[concepts/Organize-by-Type-not-Topic]] -- notes organized by thinking type, not subject
 - [[concepts/CLAUDE-MD-as-Context-Layer]] -- personalized context file for AI calibration
 - [[concepts/Daily-Synthesis-Workflow]] -- automated morning briefing from recent captures
-- Weekly Connection Session -- deeper cross-cutting analysis across 30 days
+- [[Weekly Connection Session]] -- deeper cross-cutting analysis across 30 days
 - [[concepts/Compounding-Knowledge-Context]] -- system quality improves with accumulated data
 
 ## Key Insights
@@ -30,3 +30,8 @@ DamiDefi connected Claude as an intelligence layer on top of Obsidian using four
 ## Open Questions
 - How does the system handle 6+ months of captures without context overflow?
 - What is the token cost of daily synthesis at scale?
+
+## Source
+
+- **Raw note:** [[i-connected-claude-to-my-obsidian-vault-2-months-later-it-knows-my-thinking-better-than-i-do.md]]
+- **Original URL:** https://x.com/DamiDefi/status/2057770204130582976

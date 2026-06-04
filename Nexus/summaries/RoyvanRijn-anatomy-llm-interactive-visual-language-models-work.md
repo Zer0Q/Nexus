@@ -25,3 +25,8 @@ Large language models can feel like black boxes. You type a prompt, something sm
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[the-anatomy-of-an-llm-interactive-visual-guide-to-how-language-models-work.md]]
+- **Original URL:** https://www.royvanrijn.com/anatomy-of-an-llm/

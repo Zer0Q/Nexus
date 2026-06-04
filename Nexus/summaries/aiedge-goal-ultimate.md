@@ -25,3 +25,8 @@ Learning this single slash command will completely change how you use AI. Anthro
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[goal-ultimate-guide.md]]
+- **Original URL:** https://x.com/aiedge_/status/2054569766418108797

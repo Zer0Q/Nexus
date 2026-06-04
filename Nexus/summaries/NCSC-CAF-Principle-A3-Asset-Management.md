@@ -30,3 +30,8 @@ NCSC CAF Principle A3 requires appropriate organisational structures, policies, 
 - How does [[concepts/Asset-Inventory-Management]] integrate with CMDB tools in practice for critical infrastructure?
 - What's the NCSC's guidance on inventory granularity — how "suitable level of detail" is defined?
 - How do [[concepts/Asset-Lifecycle-Security]] requirements differ for OT vs IT assets?
+
+## Source
+
+- **Raw note:** [[caf-principle-a3-asset-management.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a3-asset-management

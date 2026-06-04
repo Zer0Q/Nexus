@@ -33,3 +33,8 @@ Análisis de la ineficiencia de JSON como formato de serialización para LLMs: c
 
 - ¿Qué overhead de conversión introduce la capa TOON↔JSON en pipelines existentes?
 - ¿Cómo afecta TOON a la capacidad de los LLMs para mantener consistencia estructural en respuestas complejas?
+
+## Source
+
+- **Original URL:** https://www.codemotion.com/magazine/es/inteligencia-artificial/la-ineficiencia-oculta-de-json-frente-a-la-revolucion-de-toon/
+- **Note:** raw article not found in vault

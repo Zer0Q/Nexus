@@ -31,3 +31,8 @@ ISO 27001:2022 restructured Annex A from 114 controls (14 categories) to 93 cont
 - How do the [[concepts/ISO-27001-Technological-Controls]] map to NCSC CAF controls for orgs pursuing both?
 - What's the practical effort to migrate a SoA from the 14-category (2013) to the 4-category (2022) model?
 - How do [[concepts/Control-Attribute-Taxonomy]] attributes actually help in risk assessment workflows?
+
+## Source
+
+- **Raw note:** [[iso-270012022-annex-a-explained-simplified.md]]
+- **Original URL:** https://www.isms.online/iso-27001/annex-a-2022/

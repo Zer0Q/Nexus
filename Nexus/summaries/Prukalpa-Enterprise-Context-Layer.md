@@ -31,3 +31,8 @@ An enterprise context layer is the system that turns knowledge, expertise, and n
 ## Open Questions
 - How does an enterprise context layer differ architecturally from a personal knowledge vault?
 - What does change propagation look like in practice when a core skill updates?
+
+## Source
+
+- **Raw note:** [[what-an-enterprise-context-layer-actually-is.md]]
+- **Original URL:** https://x.com/prukalpa/status/2061512556590809342

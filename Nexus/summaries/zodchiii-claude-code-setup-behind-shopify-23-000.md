@@ -25,3 +25,8 @@ Shopify's 23,000 engineers are racing to automate 96% of their coding by Q3 this
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[the-claude-code-setup-behind-shopifys-23000-engineers-exact-config-you-can-copy.md]]
+- **Original URL:** https://x.com/zodchiii/status/2056319284641460626

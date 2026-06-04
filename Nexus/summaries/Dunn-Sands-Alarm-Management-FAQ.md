@@ -30,3 +30,8 @@ Comprehensive Q&A on alarm management covering standards, costs, benefits, and i
 ## Open Questions
 - How do organizations balance regulatory compliance with operational pragmatism?
 - What metrics best predict alarm management program success beyond alarm rates?
+
+## Source
+
+- **Raw note:** [[alarm-management-questions-that-everyone-asks.md]]
+- **Original URL:** https://www.isa.org/intech-home/2020/march-april/features/alarm-management-questions-that-everyone-asks

@@ -15,7 +15,7 @@ NVIDIA Cosmos 3 unifies physical reasoning, world generation, and action generat
 - [[concepts/Physical-AI]] -- AI systems that understand and act in the real physical world
 - [[concepts/World-Models]] -- generative models that predict future states given actions and observations
 - [[concepts/Mixture-of-Transformers]] -- architecture combining multiple transformer specializations in one model
-- concepts/Two-Tower-Architecture -- reasoner tower (VLM) feeds generator tower (diffusion) for guided generation
+- [[concepts/Two-Tower-Architecture]] -- reasoner tower (VLM) feeds generator tower (diffusion) for guided generation
 - [[tools/NVIDIA-Cosmos]] -- frontier foundation model for physical AI with reasoning and generation
 - [[concepts/Synthetic-Data-Generation]] -- generating training data via simulation for physical AI domains
 - [[concepts/Action-Conditioned-World-Model]] -- world model conditioned on action sequences for robot policy learning
@@ -30,3 +30,8 @@ NVIDIA Cosmos 3 unifies physical reasoning, world generation, and action generat
 ## Open Questions
 - How does MoT scaling compare to MoE for physical reasoning workloads?
 - Can the reasoner tower be fine-tuned independently for domain-specific reasoning?
+
+## Source
+
+- **Raw note:** [[develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3.md]]
+- **Original URL:** https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/

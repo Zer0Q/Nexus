@@ -32,3 +32,8 @@ Start with the loop. Text becomes tokens. Tokens move through a Transformer. Att
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[llms-101-a-practical-guide-2026-edition.md]]
+- **Original URL:** https://x.com/TheAhmadOsman/status/2057590224729911346

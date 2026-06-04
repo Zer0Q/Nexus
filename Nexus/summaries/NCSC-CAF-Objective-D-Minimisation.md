@@ -26,3 +26,8 @@ One of the 5 core objectives of the NCSC Cyber Assessment Framework. Objective D
 - What are the specific sub-principles under [[concepts/Incident-Impact-Minimisation]] and their achievement criteria?
 - How does [[concepts/Business-Continuity-Cyber]] in the CAF differ from ISO 22301 business continuity requirements?
 - What's the expected recovery time objective for [[concepts/Essential-Functions]] under CAF guidance?
+
+## Source
+
+- **Raw note:** [[caf-objective-d-minimising-the-impact-of-cyber-security-incidents.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-d

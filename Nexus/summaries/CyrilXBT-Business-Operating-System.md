@@ -29,3 +29,8 @@ Complete guide to building an Obsidian vault as a business operating system with
 ## Open Questions
 - How does the system handle sensitive client data with cloud-based Claude API?
 - What is the monthly token cost of running all six systems?
+
+## Source
+
+- **Raw note:** [[how-to-build-an-obsidian-vault-that-runs-your-entire-business-while-you-sleep-full-course.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2054379666316693719

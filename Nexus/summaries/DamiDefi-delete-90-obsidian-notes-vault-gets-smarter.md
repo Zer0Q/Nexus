@@ -27,3 +27,8 @@ Last month I deleted 1,890 of the 2,100 notes in my Obsidian vault in a single a
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[delete-90-of-your-obsidian-notes-the-vault-gets-smarter-when-you-do.md]]
+- **Original URL:** https://x.com/DamiDefi/status/2061034224107311153

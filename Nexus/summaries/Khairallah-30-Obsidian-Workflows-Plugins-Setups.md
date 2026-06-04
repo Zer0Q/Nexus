@@ -31,3 +31,8 @@ A comprehensive guide to 30 Obsidian workflows, plugins, and setups organized in
 - How does mcpvault compare to other MCP servers for Obsidian?
 - What are the practical limits of vault size for AI-powered search?
 - How do multi-vault setups handle cross-vault connections?
+
+## Source
+
+- **Raw note:** [[30-obsidian-workflows-plugins-and-setups-that-most-users-dont-know.md]]
+- **Original URL:** https://x.com/eng_khairallah1/status/2061012675824644161

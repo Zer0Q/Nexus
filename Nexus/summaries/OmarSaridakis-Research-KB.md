@@ -14,8 +14,8 @@ Omar Saridakis (DAIR.AI) describes his automated research paper curation pipelin
 ## Core Concepts
 - [[concepts/Automated-Research-Curation]] -- AI-curated paper discovery replacing manual review
 - [[concepts/Write-Time-Knowledge-Systems]] -- papers indexed once, queried many times
-- Knowledge Layer For Agents -- KB as input to agentic research loops
-- Visual Knowledge Artifacts -- interactive visualizations over KB data
+- [[Knowledge Layer For Agents]] -- KB as input to agentic research loops
+- [[Visual Knowledge Artifacts]] -- interactive visualizations over KB data
 
 ## Key Insights
 - Months of Skill tuning produce a curation agent that captures "best of the best"
@@ -27,3 +27,8 @@ Omar Saridakis (DAIR.AI) describes his automated research paper curation pipelin
 ## Open Questions
 - How does qmd compare to other local search tools (e.g., Semantic Scholar CLI)?
 - What is the maintenance cost of a fine-tuned curation Skill over time?
+
+## Source
+
+- **Raw note:** [[post-by-omarsar0-on-x.md]]
+- **Original URL:** https://x.com/omarsar0/status/2039844072748204246

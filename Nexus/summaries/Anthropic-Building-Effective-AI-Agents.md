@@ -41,3 +41,8 @@ Anthropic's practical guide to building agentic systems, distilled from work wit
 - Spent more time optimizing tools than overall prompt for SWE-bench agent
 ## Open Questions
 - How do the workflow patterns compose when building multi-agent systems?
+
+## Source
+
+- **Raw note:** [[building-effective-ai-agents.md]]
+- **Original URL:** https://www.anthropic.com/engineering/building-effective-agents

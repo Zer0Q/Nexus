@@ -28,3 +28,8 @@ Andrej Karpathy does not use Obsidian as a note-taking app. The distinction soun
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-build-an-obsidian-second-brain-with-ai-the-complete-guide-based-on-karpathys-framework.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2059817560988676179

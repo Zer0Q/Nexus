@@ -25,3 +25,8 @@ This is the second part of a series of tutorials that I am doing on Claude Code 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[claude-code-102-for-academic-researchers.md]]
+- **Original URL:** https://x.com/MushtaqBilalPhD/status/2053829787219595725

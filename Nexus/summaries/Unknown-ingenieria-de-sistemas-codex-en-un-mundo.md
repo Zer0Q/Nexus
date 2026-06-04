@@ -25,3 +25,8 @@ Durante los últimos cinco meses, nuestro equipo ha estado llevando a cabo un ex
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Original URL:** https://openai.com/es-419/index/harness-engineering/
+- **Note:** raw article not found in vault

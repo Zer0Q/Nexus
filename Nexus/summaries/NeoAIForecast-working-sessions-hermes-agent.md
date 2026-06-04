@@ -27,3 +27,8 @@ A lot of AI tools give you a conversation. Hermes gives you a session you can ac
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[working-with-sessions-in-hermes-agent.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2044515050057281808

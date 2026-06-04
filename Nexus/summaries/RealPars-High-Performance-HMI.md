@@ -31,3 +31,8 @@ High-Performance HMI replaces poorly designed, colorful, cluttered HMIs with sta
 ## Open Questions
 - How does High-Performance HMI adoption rate compare across industries?
 - What's the typical timeline and cost for migrating from legacy HMI to High-Performance HMI?
+
+## Source
+
+- **Raw note:** [[what-is-high-performance-hmi.md]]
+- **Original URL:** https://www.realpars.com/blog/high-performance-hmi

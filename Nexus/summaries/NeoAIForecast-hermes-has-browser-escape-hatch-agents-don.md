@@ -27,3 +27,8 @@ Most AI browser agents break when the page gets weird. A button hides inside an 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Original URL:** https://x.com/NeoAIForecast/status/2047521653954089113
+- **Note:** raw article not found in vault

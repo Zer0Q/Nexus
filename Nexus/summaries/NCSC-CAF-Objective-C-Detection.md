@@ -27,3 +27,8 @@ One of the 5 core objectives of the NCSC Cyber Assessment Framework. Objective C
 - What are the specific sub-principles under [[concepts/Cyber-Event-Detection]] and their achievement criteria?
 - How does [[concepts/Security-Defence-Effectiveness]] validation differ between IT and OT environments in the CAF?
 - What detection capabilities does the CAF expect for [[concepts/Essential-Functions]] in critical infrastructure?
+
+## Source
+
+- **Raw note:** [[caf-objective-c-detecting-cyber-security-events.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-c-detecting-cyber-security-events

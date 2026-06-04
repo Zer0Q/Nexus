@@ -32,3 +32,8 @@ A practical guide to building 8 specialized one-file Claude Code agents that run
 - How does auto-delegation accuracy scale with more agents?
 - What are the limits of parallel agent execution?
 - Can agents share intermediate results without context pollution?
+
+## Source
+
+- **Raw note:** [[8-claude-code-agents-you-can-build-in-under-10-minutes-each.md]]
+- **Original URL:** https://x.com/zodchiii/status/2054853752587235778

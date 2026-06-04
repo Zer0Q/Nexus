@@ -32,3 +32,8 @@ Comparativa de estándares internacionales de ciberseguridad para sistemas indus
 
 - ¿Cómo evolucionan estos estándares con la adopción de IA/ML en entornos industriales?
 - ¿Qué brechas existen entre los requisitos de ISA/IEC 62443 y la realidad operativa de las plantas industriales?
+
+## Source
+
+- **Raw note:** [[industrial-cybersecurity-standards.md]]
+- **Original URL:** https://ramirocid.com/industrial-cybersecurity-standards/

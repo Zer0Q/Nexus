@@ -31,3 +31,8 @@ Official Pydantic documentation on BaseModel, the primary way of defining data s
 
 ## Open Questions
 - How does Pydantic V2 model_rebuild() differ from V1 update_forward_refs() in edge cases?
+
+## Source
+
+- **Raw note:** [[pydantic-docs-models.md]]
+- **Original URL:** https://pydantic.dev/docs/validation/latest/concepts/models/

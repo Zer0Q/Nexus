@@ -21,3 +21,8 @@ Guía completa del Anexo A de ISO 27001:2022: 93 controles organizados en 4 cate
 - 11 controles nuevos en 2022, 24 fusionados, 58 revisados
 - Las 4 categorías son: Organizacional (37), Personal (8), Físico (14), Tecnológico (34)
 - El SoA es obligatorio para certificación ISO 27001
+
+## Source
+
+- **Raw note:** [[iso-270012022-annex-a-explained-simplified.md]]
+- **Original URL:** https://www.isms.online/iso-27001/annex-a-2022/

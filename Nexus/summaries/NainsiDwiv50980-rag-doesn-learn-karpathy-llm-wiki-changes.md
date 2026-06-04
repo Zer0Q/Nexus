@@ -22,3 +22,8 @@ RAG has a fatal flaw nobody talks about: it never actually learns anything. Ever
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[llm-wiki.md]]
+- **Original URL:** https://x.com/NainsiDwiv50980/status/2055326391454023864

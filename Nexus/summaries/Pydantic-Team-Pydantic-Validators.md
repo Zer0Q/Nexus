@@ -32,3 +32,8 @@ Official Pydantic documentation on custom validators. Covers four field validato
 
 ## Open Questions
 - None
+
+## Source
+
+- **Raw note:** [[pydantic-docs-validators.md]]
+- **Original URL:** https://pydantic.dev/docs/validation/latest/concepts/validators/

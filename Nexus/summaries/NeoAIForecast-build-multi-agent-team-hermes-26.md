@@ -23,3 +23,8 @@ Most people use one AI assistant and then try to force it to become a researcher
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-build-a-multi-agent-team-in-hermes-1.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2043455838459920718

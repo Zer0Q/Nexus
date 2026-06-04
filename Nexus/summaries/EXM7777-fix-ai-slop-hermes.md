@@ -26,3 +26,8 @@ There's a reason some people seem to be constantly shipping the best software, w
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-fix-ai-slop-using-hermes.md]]
+- **Original URL:** https://x.com/EXM7777/status/2060736517564477901

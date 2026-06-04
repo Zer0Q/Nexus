@@ -26,3 +26,8 @@ Most AI products talk about memory like it is one feature, Hermes Agent does som
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-hermes-agent-memory-actually-works.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2044899251768209502

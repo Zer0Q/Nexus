@@ -29,3 +29,8 @@ ISA-101 provides lifecycle-based guidelines for HMI design, implementation, and 
 ## Open Questions
 - How does ISA-101 integrate with ISA-18.2 alarm management in practice?
 - What are the adoption barriers for ISA-101 in legacy DCS environments?
+
+## Source
+
+- **Raw note:** [[how-isa-101-lifecycle-standard-improves-operator-effectiveness-with-display-design-and-lifecycle-management.md]]
+- **Original URL:** https://www.arcweb.com/industry-best-practices/how-isa-101-lifecycle-standard-improves-operator-effectiveness-display

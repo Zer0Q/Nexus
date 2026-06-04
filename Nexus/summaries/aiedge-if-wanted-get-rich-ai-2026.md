@@ -27,3 +27,8 @@ If you want to make money with AI in 2026, this is the most important article yo
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[if-i-wanted-to-get-rich-with-ai-in-2026-id-do-this.md]]
+- **Original URL:** https://x.com/aiedge_/status/2060352963131101284

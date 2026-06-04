@@ -27,3 +27,8 @@ Most people think about AI agents in terms of intelligence. But once you actuall
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[why-fallback-providers-matter-in-hermes-agent.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2043752627830436120

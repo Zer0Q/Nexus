@@ -28,3 +28,8 @@ Today, we’re launching major upgrades to Oz that make it the first truly multi
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[introducing-multi-harness-orchestration.md]]
+- **Original URL:** https://x.com/zachlloydtweets/status/2056780898675167656

@@ -25,3 +25,8 @@ This is a five-part tutorial to help academic researchers get started with Codex
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[codex-101-for-academic-researchers.md]]
+- **Original URL:** https://x.com/MushtaqBilalPhD/status/2054565093430493609

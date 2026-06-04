@@ -38,3 +38,8 @@ DamiDefi connected Hermes Agent to his Obsidian vault, transforming from a passi
 - What is the token cost of full-vault reads in the morning brief?
 - How does the Telegram bot handle complex multi-part queries from mobile?
 - Can the SOUL.md approach transfer between different Hermes profiles without rewriting?
+
+## Source
+
+- **Original URL:** https://x.com/DamiDefi/status/2060653619116974089
+- **Note:** raw article not found in vault

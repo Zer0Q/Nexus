@@ -31,3 +31,8 @@ Six lessons from running Hermes as an investment/data analyst: provider selectio
 ## Open Questions
 - How do you solve echo chamber bias in agent-curated research feeds?
 - What's the optimal balance between native and external memory for cost vs accuracy?
+
+## Source
+
+- **Raw note:** [[6-workflows-6-lessons-60-days-with-hermes-analyst.md]]
+- **Original URL:** https://x.com/0xJeff/status/2061361760968560887

@@ -33,3 +33,8 @@ Official overview of Pydantic AI, a Python agent framework designed to bring the
 - Human-in-the-loop tool approval based on arguments, history, or user preferences
 ## Open Questions
 - How does Pydantic AI's graph support compare to LangGraph or temporal workflows?
+
+## Source
+
+- **Raw note:** [[pydantic-ai.md]]
+- **Original URL:** https://pydantic.dev/docs/ai/overview/

@@ -38,3 +38,8 @@ Passive study methods (re-reading, highlighting) create an illusion of knowledge
 - How does the [[concepts/Spaced-Repetition-System]] here compare to Anki or other SRS tools?
 - Can the [[concepts/Mastery-Score-Tracking]] be calibrated to individual learning speeds?
 - Does the [[concepts/Connection-Protocol]] scale well for subjects with 100+ concept notes?
+
+## Source
+
+- **Raw note:** [[how-to-use-obsidian-and-claude-to-learn-any-subject-twice-as-fast-by-building-a-knowledge-graph.md]]
+- **Original URL:** https://x.com/neil_xbt/status/2060607326206206232

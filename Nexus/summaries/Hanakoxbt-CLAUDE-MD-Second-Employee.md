@@ -29,3 +29,8 @@ Thread by @hanakoxbt contrasting ephemeral chatbot usage with persistent system-
 ## Open Questions
 - How does CLAUDE.md scale across teams with conflicting style preferences?
 - What's the equivalent pattern for non-Anthropic models (custom instructions, .cursorrules)?
+
+## Source
+
+- **Raw note:** [[how-one-file-called-claudemd-turns-claude-from-a-search-engine-into-a-second-employee.md]]
+- **Original URL:** https://x.com/hanakoxbt/status/2059956659951149275

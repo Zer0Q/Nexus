@@ -28,3 +28,8 @@ European Commission methodology for setting up, running, and evaluating Communit
 
 ## Open Questions
 - How to measure CoP impact quantitatively?
+
+## Source
+
+- **Raw note:** [[the-communities-of-practice-playbook.md]]
+- **Original URL:** https://op.europa.eu/webpub/jrc/communities-of-practice-playbook/en/methodology.html

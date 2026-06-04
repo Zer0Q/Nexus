@@ -25,3 +25,8 @@ Most people who discover Hermes Agent spend the first week confused. Because nob
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[hermes-agent-masterclass-the-complete-course-from-zero-to-full-autonomous-agent-operation.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2060883609935077667

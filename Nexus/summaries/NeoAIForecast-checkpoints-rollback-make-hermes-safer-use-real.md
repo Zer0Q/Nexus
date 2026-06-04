@@ -27,3 +27,8 @@ Most AI agent demos focus on what the agent can do. Write code. Refactor files. 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-checkpoints-and-rollback-make-hermes-safer-to-use-on-real-work.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2045097742935195775

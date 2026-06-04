@@ -33,3 +33,8 @@ A framework for understanding how AI is reshaping GTM (Go-To-Market) roles. Uses
 - How do organizations measure the technical-commercial duality in hiring?
 - What training programs effectively develop technical curiosity in non-engineers?
 - How does the FDE model scale across different industries?
+
+## Source
+
+- **Raw note:** [[ai-doesnt-make-anyone-good-it-makes-good-people-harder-to-catch.md]]
+- **Original URL:** https://x.com/SigsNYC/status/2054238175758111156

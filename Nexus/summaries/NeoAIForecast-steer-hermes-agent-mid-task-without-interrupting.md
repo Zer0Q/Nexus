@@ -24,3 +24,8 @@ Some AI agents are awkward once they start working. You ask them to inspect a re
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-steer-hermes-agent-mid-task-without-interrupting-it.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2052162023207977262

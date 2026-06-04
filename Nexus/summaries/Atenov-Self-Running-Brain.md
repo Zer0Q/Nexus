@@ -17,7 +17,7 @@ The entire secret: AI agent and notes share the same folder. Agent reads, update
 - [[concepts/Integrated-Terminal-Workflow]] -- terminal as tab inside Obsidian
 - [[tools/Graph-Based-Knowledge-Discovery]] -- agent follows backlinks across vault
 - [[concepts/Markdown-as-Universal-Format]] -- single format for everything
-- Template Driven Consistency -- strict templates for agent output
+- [[Template Driven Consistency]] -- strict templates for agent output
 
 ## Key Insights
 - Tab switching between agent and notes is "death by a thousand cuts"
@@ -30,3 +30,8 @@ The entire secret: AI agent and notes share the same folder. Agent reads, update
 ## Open Questions
 - How does this scale when the vault grows to 10K+ notes?
 - Does the agent hallucinate connections in the graph traversal?
+
+## Source
+
+- **Raw note:** [[how-i-turned-obsidian-into-a-second-brain-that-runs-itself.md]]
+- **Original URL:** https://x.com/Atenov_D/status/2032528386745315553

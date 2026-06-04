@@ -27,3 +27,8 @@ The harness — the software layer between the user's prompt and the model — i
 ## Open Questions
 - How do harnesses handle multi-agent orchestration?
 - Can validation criteria be formalized as automated quality gates?
+
+## Source
+
+- **Original URL:** https://davidhurtado.substack.com/p/harness-y-por-que-los-prompts-complejos
+- **Note:** raw article not found in vault

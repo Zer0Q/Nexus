@@ -26,3 +26,8 @@ Most AI agent setups do not break on the model. They break on the tool stack. Yo
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[why-hermes-agent-tool-gateway-matters-more-than-it-seems.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2045981308170686923

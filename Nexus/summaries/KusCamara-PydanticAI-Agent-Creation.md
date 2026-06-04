@@ -28,3 +28,8 @@ Spanish-language tutorial on building AI agents with PydanticAI. Covers LLM setu
 
 ## Open Questions
 - How does PydanticAI tool schema generation compare to Anthropic's tool format recommendations?
+
+## Source
+
+- **Raw note:** [[pydantic-ai.md]]
+- **Original URL:** https://dev.to/kuscamara/creacion-de-agentes-ai-con-pydanticai-introduccion-h8

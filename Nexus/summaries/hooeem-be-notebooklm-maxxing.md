@@ -27,3 +27,8 @@ Only 2.1% of people use NotebookLM vs Claude/ChatGPT and they're dominating you.
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[you-should-be-notebooklm-maxxing.md]]
+- **Original URL:** https://x.com/hooeem/status/2054652562867896520

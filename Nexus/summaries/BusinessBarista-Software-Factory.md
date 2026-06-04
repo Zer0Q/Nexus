@@ -28,3 +28,8 @@ Framework for understanding and building AI-powered software engineering organiz
 - Next factories: finance (reconciliation), customer support (CSAT), then strategy/design (hardest)
 ## Open Questions
 - How do non-engineering functions adapt the Software Factory Ladder?
+
+## Source
+
+- **Raw note:** [[what-the-hell-is-a-software-factory.md]]
+- **Original URL:** https://x.com/businessbarista/status/2061573150719021542

@@ -13,7 +13,7 @@ Six-month roadmap from Obsidian beginner to professional Second Brain Architect.
 
 ## Core Concepts
 - [[concepts/Second-Brain-Architect]] -- Professional role at the intersection of knowledge management and AI engineering
-- AI-First-Vault-Design -- Structure notes, tags, and links assuming AI will read them (machine-readable frontmatter, consistent formatting)
+- [[AI-First-Vault-Design]] -- Structure notes, tags, and links assuming AI will read them (machine-readable frontmatter, consistent formatting)
 
 ## Key Insights
 - Month 1-2: Obsidian foundations + AI connection (Smart Connections, MCP, Claude Projects)
@@ -26,3 +26,8 @@ Six-month roadmap from Obsidian beginner to professional Second Brain Architect.
 
 ## Open Questions
 - How to differentiate Second Brain Architect services in a growing market?
+
+## Source
+
+- **Raw note:** [[how-to-become-a-second-brain-architect-using-obsidian-in-6-months-full-course.md]]
+- **Original URL:** https://x.com/eng_khairallah1/status/2061375236415672363

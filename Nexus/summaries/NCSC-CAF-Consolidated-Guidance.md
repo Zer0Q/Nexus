@@ -18,3 +18,8 @@ Vista consolidada de la guía CAF: mapeo de principios a guías NCSC y recursos 
 ## Key Insights
 - El CAF se integra con guías NCSC existentes y estándares internacionales
 - La guía consolidada facilita la navegación entre principios y recursos específicos
+
+## Source
+
+- **Raw note:** [[caf-consolidated-view-of-caf-guidance.md]]
+- **Original URL:** https://www.ncsc.gov.uk/collection/cyber-assessment-framework/consolidated-view-of-caf-guidance

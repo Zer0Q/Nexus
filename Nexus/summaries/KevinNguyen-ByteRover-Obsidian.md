@@ -27,3 +27,8 @@ ByteRover bridges Obsidian vaults with AI coding agents by treating vault markdo
 ## Open Questions
 - How does ByteRover handle vaults with 10K+ notes?
 - Does the context-tree support semantic search or just keyword?
+
+## Source
+
+- **Raw note:** [[obsidian-byterover-your-personal-knowledge-base-now-lives-inside-every-ai-coding-agent.md]]
+- **Original URL:** https://x.com/kevinnguyendn/status/2043567698253427144

@@ -33,3 +33,8 @@ The vault you build becomes a training set about yourself that competitors canno
 - How does type-based organization handle notes that span multiple types?
 - What is the optimal frequency for weekly synthesis vs daily briefings?
 - How do you handle contradictory information accumulated over time?
+
+## Source
+
+- **Raw note:** [[claude-obsidian-the-0-moat-your-competitors-cant-clone.md]]
+- **Original URL:** https://x.com/zeuuss_01/status/2059710137284043083

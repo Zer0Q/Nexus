@@ -28,3 +28,8 @@ Complete guide to building an AI-powered trading journal in Obsidian. Four pilla
 ## Open Questions
 - How does the system handle multi-asset, multi-strategy traders?
 - What sample size is needed for statistical significance in edge analysis?
+
+## Source
+
+- **Raw note:** [[how-to-build-an-obsidian-trading-journal-that-gets-smarter-with-every-trade.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2059111626918269389

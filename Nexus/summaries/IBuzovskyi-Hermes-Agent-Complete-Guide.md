@@ -38,3 +38,8 @@ Comprehensive guide to running Hermes Agent as a 24/7 autonomous AI employee by 
 - How does the Kanban daemon handle task conflicts between multiple profiles?
 - What's the token cost of running 4-5 profile agents simultaneously overnight?
 - How does iron-proxy perform with high-frequency tool calls?
+
+## Source
+
+- **Raw note:** [[hermes-agent-the-complete-guide-from-zero-to-self-improving-ai-employee.md]]
+- **Original URL:** https://x.com/IBuzovskyi/status/2059675518966894767

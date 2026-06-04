@@ -25,3 +25,8 @@ I used to pay for 9 different apps to manage my work, my notes, my tasks, and my
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[the-obsidian-vault-setup-that-replaced-my-500-per-month-software-stack.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2060540804230267050

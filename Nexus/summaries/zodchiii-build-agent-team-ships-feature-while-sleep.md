@@ -27,3 +27,8 @@ Four AI agents can ship a feature while you sleep. Most people never wire them u
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-build-a-4-agent-team-that-ships-a-feature-while-you-sleep-exact-setup-inside.md]]
+- **Original URL:** https://x.com/zodchiii/status/2060674246880149900

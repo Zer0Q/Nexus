@@ -30,3 +30,8 @@ Guide to building a feedback-loop knowledge vault: four layers (capture, pipelin
 ## Open Questions
 - How does the daily brief quality degrade with too many captures?
 - What happens when Claude starts surfacing the same connections repeatedly?
+
+## Source
+
+- **Raw note:** [[how-to-build-an-obsidian-knowledge-vault-that-gets-smarter-every-day-without-you-doing-anything.md]]
+- **Original URL:** https://x.com/cyrilXBT/status/2052235121416188114

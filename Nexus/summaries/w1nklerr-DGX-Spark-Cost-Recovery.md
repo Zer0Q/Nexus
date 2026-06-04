@@ -33,3 +33,8 @@ Personal account of replacing $1,900/month cloud GPU spend with a $2,999 NVIDIA 
 - How does the GB10 compare to RTX 5090 on models that fit in 32GB VRAM?
 - What's the real-world thermal/noise profile under sustained 240W load in a home office?
 - How does the ConnectX-7 linking actually perform for multi-box inference?
+
+## Source
+
+- **Raw note:** [[how-one-2999-nvidia-box-made-me-22000-in-a-year.md]]
+- **Original URL:** https://x.com/w1nklerr/status/2060057563991884060

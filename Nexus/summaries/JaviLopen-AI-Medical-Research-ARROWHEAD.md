@@ -36,3 +36,8 @@ JaviLopen spent a month helping a metastatic cancer patient using an AI-assisted
 - What are the liability implications when AI surfaces treatment paths that doctors had not considered?
 - How does the method handle conflicting model outputs that never converge?
 - Can open-source models participate effectively, or does the method require top-tier paid models?
+
+## Source
+
+- **Original URL:** https://x.com/javilopen/status/2060421067546792004
+- **Note:** raw article not found in vault

@@ -22,3 +22,8 @@ Your AI is brilliant. But every great answer it gives you dies in chat history. 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-build-a-second-brain-that-maintains-itself.md]]
+- **Original URL:** https://x.com/Axel_bitblaze69/status/2059053069762228313

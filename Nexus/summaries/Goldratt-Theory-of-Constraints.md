@@ -27,3 +27,8 @@ TOC is a management philosophy by Eliyahu Goldratt: any manageable system is lim
 ## Open Questions
 - How does TOC apply to AI agent orchestration pipelines?
 - Can Drum-Buffer-Rope model context window allocation in multi-agent systems?
+
+## Source
+
+- **Raw note:** [[theory-of-constraints-eliyahu-goldratt.md]]
+- **Original URL:** Gemini

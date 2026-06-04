@@ -25,3 +25,8 @@ People keep asking me the same question about Hermes. Not “what model are you 
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[the-170-line-soulmd-that-made-my-hermes-agent-dangerous.md]]
+- **Original URL:** https://x.com/tonysimons_/status/2051473178682118241

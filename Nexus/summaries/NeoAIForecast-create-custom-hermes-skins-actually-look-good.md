@@ -27,3 +27,8 @@ Most people treat Hermes skins like a color swap. That is the fastest way to mak
 ## Open Questions
 - How does this approach scale in production?
 - What are the tradeoffs compared to alternatives?
+
+## Source
+
+- **Raw note:** [[how-to-create-custom-hermes-skins-that-actually-look-good.md]]
+- **Original URL:** https://x.com/NeoAIForecast/status/2041818820810351092

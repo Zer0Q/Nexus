@@ -18,7 +18,7 @@ Weekly roundup of 10 AI papers covering skill optimization (SkillOpt), workflow 
 - [[concepts/Sleep-Consolidation]] -- converting recent context into fast weights, then clearing KV cache
 - [[concepts/Harness-Engineering]] -- fixing agent failures at the interface layer without retraining the model
 - [[concepts/Context-Efficiency-Frontier]] -- deployment-aware optimization of context strategy based on reuse frequency
-- concepts/Scientific-Forecasting -- models can recognize plausible directions but cannot predict outcomes or timing
+- [[concepts/Scientific-Forecasting]] -- models can recognize plausible directions but cannot predict outcomes or timing
 - [[concepts/Agent-Aging]] -- longitudinal degradation: compression, interference, revision, and maintenance aging
 
 ## Key Insights
@@ -34,3 +34,8 @@ Weekly roundup of 10 AI papers covering skill optimization (SkillOpt), workflow 
 ## Open Questions
 - Can workflow compilation be combined with skill optimization for maximum efficiency?
 - How do sleep consolidation and agent aging interact in long-horizon agents?
+
+## Source
+
+- **Raw note:** [[top-ai-papers-of-the-week.md]]
+- **Original URL:** https://x.com/dair_ai/status/2061104052818108476

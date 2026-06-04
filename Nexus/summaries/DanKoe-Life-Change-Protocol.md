@@ -30,3 +30,8 @@ Behavior change framework based on identity transformation rather than surface-l
 - Low intelligence = inability to learn from mistakes (not IQ)
 ## Open Questions
 - How do the ego development stages map to practical self-assessment tools?
+
+## Source
+
+- **Raw note:** [[how-to-fix-your-entire-life-in-1-day.md]]
+- **Original URL:** https://x.com/thedankoe/status/2010751592346030461
