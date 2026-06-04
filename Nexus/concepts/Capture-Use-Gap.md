@@ -24,9 +24,9 @@ Most note-taking systems optimize for capture (files, folders, tags, search) whi
 
 ## Related
 - [[concepts/Four-Uses-of-Notes]]
-- [[architectures/Three-Zone-Vault]]
+- [[concepts/Three-Zone-Vault]]
 - [[concepts/Note-Usefulness-Assessment]]
-- [[workflows/Daily-Processing-Run]]
+- [[concepts/Daily-Processing-Run]]
 - [[concepts/Capture-As-The-Weakest-Link]]
 - [[concepts/Automated-Capture-Pipeline]]
 - [[concepts/Productivity-Theater]] -- the optimization trap that widens the gap

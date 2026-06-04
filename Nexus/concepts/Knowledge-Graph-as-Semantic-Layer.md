@@ -22,7 +22,7 @@ Enables AI to reason with contextual understanding that structured data alone ca
 ## Related
 - [[concepts/Tacit-Knowledge]]
 - [[concepts/Codify-without-Flattening]]
-- [[architectures/Graph-Knowledge-Layer]]
+- [[concepts/Graph-Knowledge-Layer]]
 
 ## Source
 [[summaries/TungRoussiere-Tacit-Knowledge-Moat]]

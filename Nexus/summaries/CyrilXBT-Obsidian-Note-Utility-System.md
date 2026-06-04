@@ -14,18 +14,18 @@ Most note-taking systems optimize for capture while ignoring use. This article p
 ## Core Concepts
 - [[concepts/Capture-Use-Gap]] -- the gap between passive collection and active synthesis
 - [[concepts/Four-Uses-of-Notes]] -- decision support, writing fuel, conversation material, action trigger
-- [[architectures/Three-Zone-Vault]] -- Capture, Active, Deep Archive zones for note lifecycle
+- [[concepts/Three-Zone-Vault]] -- Capture, Active, Deep Archive zones for note lifecycle
 - [[concepts/Output-Folder-Pattern]] -- finished work lives in vault to show note generativity
 - [[concepts/Note-Usefulness-Assessment]] -- evaluating if a note contributes to active work
-- [[workflows/Daily-Processing-Run]] -- evening workflow processing Zone 1 into Zone 2
-- [[workflows/Active-Decision-Feeder]] -- scanning vault for decision-relevant notes
-- [[workflows/Writing-Activator-Workflow]] -- pre-writing vault scan producing a writing brief
-- [[workflows/Connection-Surface-Workflow]] -- weekly finder of non-obvious connections
-- [[workflows/Output-Generator-Workflow]] -- synthesizing notes into finished output
+- [[concepts/Daily-Processing-Run]] -- evening workflow processing Zone 1 into Zone 2
+- [[concepts/Active-Decision-Feeder]] -- scanning vault for decision-relevant notes
+- [[concepts/Writing-Activator-Workflow]] -- pre-writing vault scan producing a writing brief
+- [[concepts/Connection-Surface-Workflow]] -- weekly finder of non-obvious connections
+- [[concepts/Output-Generator-Workflow]] -- synthesizing notes into finished output
 - [[concepts/Connection-Capture-Convention]] -- noting connection and use case at capture time
 - [[concepts/Question-Capture-Convention]] -- explicitly capturing questions raised by notes
 - [[concepts/Application-Capture-Convention]] -- capturing immediate applications of ideas
-- [[workflows/Weekly-Note-Audit]] -- identifying notes disconnected from active work
+- [[concepts/Weekly-Note-Audit]] -- identifying notes disconnected from active work
 - [[concepts/Note-Contribution-Rate]] -- metric measuring how often notes contribute to output
 
 ## Key Insights
@@ -38,4 +38,4 @@ Most note-taking systems optimize for capture while ignoring use. This article p
 ## Open Questions
 - How does the Three-Zone-Vault compare to the existing [[concepts/Four-Layer-Vault-Architecture]] in practice?
 - Can the Note-Usefulness-Assessment be automated beyond Claude prompts?
-- What is the optimal frequency for the [[workflows/Weekly-Note-Audit]] for small vs large vaults?
+- What is the optimal frequency for the [[concepts/Weekly-Note-Audit]] for small vs large vaults?

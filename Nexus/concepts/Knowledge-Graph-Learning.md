@@ -24,9 +24,9 @@ The connection is where understanding lives. A student who knows three separate 
 
 ## Related
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]]
-- [[workflows/Connection-Protocol]]
+- [[concepts/Connection-Protocol]]
 - [[concepts/Sequential-vs-Network-Learning]]
-- [[workflows/Connection-Surface-Workflow]]
+- [[concepts/Connection-Surface-Workflow]]
 - [[concepts/Pattern-Identification-Across-Notes]]
 
 ## Source

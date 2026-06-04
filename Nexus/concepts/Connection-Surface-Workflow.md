@@ -23,7 +23,7 @@ Connections you did not intentionally create become visible when Claude reads ac
 - Value increases with vault size and diversity of topics
 
 ## Related
-- [[workflows/Connection-Protocol]]
+- [[concepts/Connection-Protocol]]
 - [[concepts/Knowledge-Graph-Learning]]
 - [[concepts/Compounding-Knowledge-Context]]
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]]

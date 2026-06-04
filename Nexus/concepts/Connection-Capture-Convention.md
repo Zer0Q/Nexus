@@ -24,9 +24,9 @@ Preserves the context of relevance present at capture time, which fades rapidly.
 ## Related
 - [[concepts/Question-Capture-Convention]]
 - [[concepts/Application-Capture-Convention]]
-- [[workflows/Daily-Processing-Run]]
+- [[concepts/Daily-Processing-Run]]
 - [[concepts/Structured-Source-Notes]]
-- [[workflows/Connection-Surface-Workflow]]
+- [[concepts/Connection-Surface-Workflow]]
 
 ## Source
 [[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

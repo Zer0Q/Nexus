@@ -24,7 +24,7 @@ Most note systems measure success by note count or organizational neatness. This
 ## Related
 - [[concepts/Note-Usefulness-Assessment]]
 - [[concepts/Capture-Use-Gap]]
-- [[architectures/Three-Zone-Vault]]
+- [[concepts/Three-Zone-Vault]]
 - [[concepts/Feedback-Loop-Knowledge-System]]
 - [[concepts/Write-Time-Knowledge-Systems]]
 

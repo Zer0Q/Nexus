@@ -25,7 +25,7 @@ Traditional note-taking is linear: concept A on page 12, concept B on page 20, c
 ## Related
 - [[concepts/Knowledge-Graph-Learning]]
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]]
-- [[workflows/Connection-Protocol]]
+- [[concepts/Connection-Protocol]]
 - [[concepts/Situated-Learning]]
 - [[concepts/Active-Recall-Learning]]
 

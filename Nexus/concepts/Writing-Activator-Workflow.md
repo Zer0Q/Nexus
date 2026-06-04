@@ -24,9 +24,9 @@ Writing from a brief generated from accumulated notes is fundamentally different
 
 ## Related
 - [[concepts/Four-Uses-of-Notes]]
-- [[workflows/Active-Decision-Feeder]]
-- [[workflows/Output-Generator-Workflow]]
-- [[architectures/Three-Zone-Vault]]
+- [[concepts/Active-Decision-Feeder]]
+- [[concepts/Output-Generator-Workflow]]
+- [[concepts/Three-Zone-Vault]]
 - [[concepts/Write-Time-Knowledge-Systems]]
 
 ## Source

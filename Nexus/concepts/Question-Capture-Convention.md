@@ -24,7 +24,7 @@ Questions are often more useful than answers in a knowledge system. A question s
 ## Related
 - [[concepts/Connection-Capture-Convention]]
 - [[concepts/Application-Capture-Convention]]
-- [[workflows/Active-Decision-Feeder]]
+- [[concepts/Active-Decision-Feeder]]
 - [[concepts/Structured-Source-Notes]]
 
 ## Source

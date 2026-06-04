@@ -24,10 +24,10 @@ Prevents Zone 1 from becoming a graveyard. The daily rhythm ensures raw captures
 - Claude-assisted processing reduces friction but adds dependency on AI availability
 
 ## Related
-- [[architectures/Three-Zone-Vault]]
+- [[concepts/Three-Zone-Vault]]
 - [[concepts/Note-Usefulness-Assessment]]
 - [[concepts/Daily-Synthesis-Workflow]]
-- [[workflows/Weekly-Note-Audit]]
+- [[concepts/Weekly-Note-Audit]]
 - [[concepts/Connection-Capture-Convention]]
 
 ## Source

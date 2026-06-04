@@ -17,7 +17,7 @@ Nate B. Jones compares two AI knowledge system architectures: Karpathy's write-t
 - [[concepts/Editorial-Drift]] -- AI summaries lose nuance over time
 - [[concepts/Error-Compounding]] -- baked-in errors propagate through wiki updates
 - [[tools/AI-as-Maintainer]] -- AI as ongoing knowledge steward, not one-off oracle
-- [[architectures/Graph-Knowledge-Layer]] -- structured data with wiki-like synthesis on top
+- [[concepts/Graph-Knowledge-Layer]] -- structured data with wiki-like synthesis on top
 - [[tools/Compilation-Agent]] -- agent that generates wiki views from structured data
 - [[concepts/Knowledge-Source-of-Truth]] -- single reliable data layer
 

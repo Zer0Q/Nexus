@@ -18,7 +18,7 @@ Prevents [[concepts/Editorial-Drift]] and [[concepts/Error-Compounding]] by ensu
 - Adds a verification step to the workflow
 
 ## Related
-- [[architectures/Graph-Knowledge-Layer]]
+- [[concepts/Graph-Knowledge-Layer]]
 - [[concepts/Structured-Source-Notes]]
 - [[tools/Compilation-Agent]]
 

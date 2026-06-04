@@ -19,7 +19,7 @@ In write-time wiki systems, a single incorrect synthesis can infect dozens of re
 ## Related
 - [[concepts/Editorial-Drift]]
 - [[concepts/Knowledge-Source-of-Truth]]
-- [[architectures/Graph-Knowledge-Layer]]
+- [[concepts/Graph-Knowledge-Layer]]
 
 ## Source
 [[summaries/NateBJones-Karpathy-Wiki-vs-Open-Brain]]

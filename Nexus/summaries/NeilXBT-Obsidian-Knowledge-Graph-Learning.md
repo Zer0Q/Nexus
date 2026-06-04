@@ -9,16 +9,16 @@ type: article
 # Obsidian Knowledge Graph for Accelerated Learning
 
 ## Summary
-Passive study methods (re-reading, highlighting) create an illusion of knowledge. This article presents a five-module learning system built on [[concepts/Active-Recall-Learning]] and [[concepts/Spaced-Repetition-System]], implemented through Obsidian concept notes connected by Claude-driven [[workflows/Connection-Protocol]]. The knowledge graph transforms studying from passive review into systematic retrieval practice, with [[workflows/Synthesis-Session]] producing integrated understanding documents that prove comprehension.
+Passive study methods (re-reading, highlighting) create an illusion of knowledge. This article presents a five-module learning system built on [[concepts/Active-Recall-Learning]] and [[concepts/Spaced-Repetition-System]], implemented through Obsidian concept notes connected by Claude-driven [[concepts/Connection-Protocol]]. The knowledge graph transforms studying from passive review into systematic retrieval practice, with [[concepts/Synthesis-Session]] producing integrated understanding documents that prove comprehension.
 
 ## Core Concepts
 - [[concepts/Active-Recall-Learning]] -- deliberate retrieval from memory vs passive review
 - [[concepts/Spaced-Repetition-System]] -- reviewing at Ebbinghaus forgetting curve intervals
 - [[concepts/Knowledge-Graph-Learning]] -- learning through connected concept nodes
 - [[tools/Concept-Note-Template]] -- structured format for learning notes with testability
-- [[workflows/Connection-Protocol]] -- finding non-obvious connections after study sessions
+- [[concepts/Connection-Protocol]] -- finding non-obvious connections after study sessions
 - [[concepts/Mastery-Score-Tracking]] -- frontmatter mastery scoring driving review intervals
-- [[workflows/Synthesis-Session]] -- bi-weekly integrated understanding documents
+- [[concepts/Synthesis-Session]] -- bi-weekly integrated understanding documents
 - [[concepts/Pattern-Identification-Across-Notes]] -- emergent patterns across concept notes
 - [[concepts/Predictive-Test-Method]] -- novel scenario prediction to test deep understanding
 - [[concepts/Gap-Analysis-Study]] -- identifying missing concepts that would most increase understanding
@@ -37,4 +37,4 @@ Passive study methods (re-reading, highlighting) create an illusion of knowledge
 ## Open Questions
 - How does the [[concepts/Spaced-Repetition-System]] here compare to Anki or other SRS tools?
 - Can the [[concepts/Mastery-Score-Tracking]] be calibrated to individual learning speeds?
-- Does the [[workflows/Connection-Protocol]] scale well for subjects with 100+ concept notes?
+- Does the [[concepts/Connection-Protocol]] scale well for subjects with 100+ concept notes?

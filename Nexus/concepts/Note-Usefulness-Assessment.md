@@ -24,9 +24,9 @@ Without assessment, every capture enters the vault with equal weight. Assessment
 
 ## Related
 - [[concepts/Four-Uses-of-Notes]]
-- [[workflows/Daily-Processing-Run]]
-- [[architectures/Three-Zone-Vault]]
-- [[workflows/Weekly-Note-Audit]]
+- [[concepts/Daily-Processing-Run]]
+- [[concepts/Three-Zone-Vault]]
+- [[concepts/Weekly-Note-Audit]]
 - [[concepts/CLAUDE-MD-as-Context-Layer]]
 
 ## Source

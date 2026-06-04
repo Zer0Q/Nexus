@@ -16,10 +16,10 @@ Building, maintaining, and querying personal and organizational knowledge system
 - [[concepts/Note-Usefulness-Assessment]] -- evaluating note value
 
 ## Workflows
-- [[workflows/Daily-Processing-Run]] -- daily note processing
-- [[workflows/Synthesis-Session]] -- connecting ideas across notes
-- [[workflows/Weekly-Note-Audit]] -- maintaining vault health
-- [[workflows/Connection-Protocol]] -- capturing connections between notes
+- [[concepts/Daily-Processing-Run]] -- daily note processing
+- [[concepts/Synthesis-Session]] -- connecting ideas across notes
+- [[concepts/Weekly-Note-Audit]] -- maintaining vault health
+- [[concepts/Connection-Protocol]] -- capturing connections between notes
 
 ## Tools
 - [[tools/Smart-Connections-Plugin]] -- AI-powered note linking

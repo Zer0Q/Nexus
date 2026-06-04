@@ -6,7 +6,7 @@ related: [Output-Folder-Pattern, Writing-Activator-Workflow, Connection-Surface-
 # Output-Generator-Workflow
 
 ## Definition
-A synthesis workflow that reads all notes tagged with a project or topic in Zone 2, plus any notes linked by the [[workflows/Connection-Surface-Workflow]], and produces a complete draft of a specified output type using only vault information.
+A synthesis workflow that reads all notes tagged with a project or topic in Zone 2, plus any notes linked by the [[concepts/Connection-Surface-Workflow]], and produces a complete draft of a specified output type using only vault information.
 
 ## Why It Matters
 This is the moment the entire system justifies itself. Months of captured notes are synthesized into a finished piece in minutes rather than hours. The draft uses only information from the vault, is written in the user's voice, and produces insights that no individual note contains alone.
@@ -24,9 +24,9 @@ This is the moment the entire system justifies itself. Months of captured notes 
 
 ## Related
 - [[concepts/Output-Folder-Pattern]]
-- [[workflows/Writing-Activator-Workflow]]
-- [[workflows/Connection-Surface-Workflow]]
-- [[architectures/Three-Zone-Vault]]
+- [[concepts/Writing-Activator-Workflow]]
+- [[concepts/Connection-Surface-Workflow]]
+- [[concepts/Three-Zone-Vault]]
 - [[concepts/Note-Contribution-Rate]]
 
 ## Source

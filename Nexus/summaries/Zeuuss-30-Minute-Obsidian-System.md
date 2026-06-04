@@ -17,7 +17,7 @@ A retrieval-first Obsidian system built around three properties (permanent, link
 - workflows/Nightly-Processing -- end-of-day 10-minute pass to triage captures into structured notes
 - workflows/Decision-Feeder -- query vault for relevant past notes when stuck on a decision
 - workflows/Writing-Activator -- surface relevant notes before starting any writing task
-- [[workflows/Output-Generator-Workflow]] -- synthesize months of captures into finished pieces
+- [[concepts/Output-Generator-Workflow]] -- synthesize months of captures into finished pieces
 - [[concepts/Zero-Friction-Capture]] -- capture in under 7 seconds; no folder decisions, no tags
 - concepts/Weekly-Review -- 20-minute weekly habit that makes knowledge compound
 

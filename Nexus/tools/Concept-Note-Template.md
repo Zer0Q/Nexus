@@ -29,7 +29,7 @@ The template enforces the first act of retrieval practice: writing the concept i
 - [[concepts/Mastery-Score-Tracking]]
 - [[concepts/Spaced-Repetition-System]]
 - [[concepts/Structured-Source-Notes]]
-- [[workflows/Connection-Protocol]]
+- [[concepts/Connection-Protocol]]
 
 ## Source
 [[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

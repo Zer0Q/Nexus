@@ -13,7 +13,7 @@ This index maps the concepts, frameworks, and tools related to building an effec
 ## Knowledge System Architectures
 - [[concepts/Write-Time-Knowledge-Systems]] -- AI synthesizes at ingestion
 - [[concepts/Query-Time-Knowledge-Systems]] -- AI synthesizes on demand
-- [[architectures/Graph-Knowledge-Layer]] -- structured data with wiki views on top
+- [[concepts/Graph-Knowledge-Layer]] -- structured data with wiki views on top
 - [[concepts/Browsable-Knowledge]] -- navigable knowledge enabling serendipitous discovery
 
 ## Key Concepts

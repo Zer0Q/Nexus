@@ -25,9 +25,9 @@ The answer to your current question may already exist in past captures across di
 
 ## Related
 - [[concepts/Four-Uses-of-Notes]]
-- [[architectures/Three-Zone-Vault]]
+- [[concepts/Three-Zone-Vault]]
 - [[concepts/Federated-Knowledge-Search]]
-- [[workflows/Writing-Activator-Workflow]]
+- [[concepts/Writing-Activator-Workflow]]
 - [[concepts/Compounding-Knowledge-Context]]
 
 ## Source

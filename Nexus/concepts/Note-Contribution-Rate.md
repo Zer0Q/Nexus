@@ -21,7 +21,7 @@ Note count is a vanity metric. Contribution rate measures whether a knowledge sy
 ## Related
 - [[concepts/Retrieval-First-Organization]]
 - [[concepts/Note-Usefulness-Assessment]]
-- [[workflows/Output-Generator-Workflow]]
+- [[concepts/Output-Generator-Workflow]]
 
 ## Source
 [[summaries/Zeuuss-30-Minute-Obsidian-System]]

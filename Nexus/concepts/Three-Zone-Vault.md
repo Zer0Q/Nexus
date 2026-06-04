@@ -25,9 +25,9 @@ Provides a lifecycle model for notes that enforces movement from raw capture tow
 
 ## Related
 - [[concepts/Four-Layer-Vault-Architecture]]
-- [[workflows/Daily-Processing-Run]]
+- [[concepts/Daily-Processing-Run]]
 - [[concepts/Note-Usefulness-Assessment]]
-- [[workflows/Weekly-Note-Audit]]
+- [[concepts/Weekly-Note-Audit]]
 - [[concepts/Output-Folder-Pattern]]
 
 ## Source

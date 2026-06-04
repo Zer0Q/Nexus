@@ -26,7 +26,7 @@ Application captures are the most likely to trigger actual use. They come pre-lo
 - [[concepts/Question-Capture-Convention]]
 - [[concepts/Four-Uses-of-Notes]]
 - [[concepts/Capture-Use-Gap]]
-- [[workflows/Active-Decision-Feeder]]
+- [[concepts/Active-Decision-Feeder]]
 
 ## Source
 [[summaries/CyrilXBT-Obsidian-Note-Utility-System]]

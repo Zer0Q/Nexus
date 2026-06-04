@@ -18,7 +18,7 @@ Enables wiki-like browsing experience while keeping the underlying data structur
 - Requires defining sync intervals and regeneration triggers
 
 ## Related
-- [[architectures/Graph-Knowledge-Layer]]
+- [[concepts/Graph-Knowledge-Layer]]
 - [[concepts/Query-Time-Knowledge-Systems]]
 - [[tools/AI-as-Maintainer]]
 

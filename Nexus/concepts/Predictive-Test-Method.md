@@ -23,7 +23,7 @@ Tests genuine understanding rather than memorization. If you can predict outcome
 - May feel intimidating for learners early in the process
 
 ## Related
-- [[workflows/Synthesis-Session]]
+- [[concepts/Synthesis-Session]]
 - [[concepts/Active-Recall-Learning]]
 - [[concepts/Knowledge-Graph-Learning]]
 - [[concepts/Pattern-Identification-Across-Notes]]

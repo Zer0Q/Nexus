@@ -23,9 +23,9 @@ Most note-taking systems never include an output layer. Without it, there is no 
 - May duplicate content already published elsewhere
 
 ## Related
-- [[architectures/Three-Zone-Vault]]
+- [[concepts/Three-Zone-Vault]]
 - [[concepts/Note-Contribution-Rate]]
-- [[workflows/Output-Generator-Workflow]]
+- [[concepts/Output-Generator-Workflow]]
 - [[concepts/Four-Uses-of-Notes]]
 - [[concepts/Compounding-Knowledge-Context]]
 

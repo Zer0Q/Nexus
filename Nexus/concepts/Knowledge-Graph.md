@@ -16,7 +16,7 @@ A network structure for organizing knowledge where concepts are nodes and relati
 ## Related
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]]
 - [[concepts/Knowledge-Graph-Learning]]
-- [[workflows/Connection-Protocol]]
+- [[concepts/Connection-Protocol]]
 
 ## Source
 [[summaries/NeilXBT-Obsidian-Knowledge-Graph-Learning]]

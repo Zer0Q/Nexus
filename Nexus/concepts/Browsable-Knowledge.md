@@ -11,7 +11,7 @@ Humans discover connections through exploration, not just targeted queries. Brow
 - Write-time systems naturally produce browsable output
 - Query-time systems lack this without a [[tools/Compilation-Agent]]
 - Serendipity is a feature, not a bug, in knowledge work
-- The [[architectures/Graph-Knowledge-Layer]] bridges browsability with reliability
+- The [[concepts/Graph-Knowledge-Layer]] bridges browsability with reliability
 
 ## Tradeoffs
 - Browsable views can become stale without regular refresh
@@ -19,7 +19,7 @@ Humans discover connections through exploration, not just targeted queries. Brow
 
 ## Related
 - [[concepts/Write-Time-Knowledge-Systems]]
-- [[architectures/Graph-Knowledge-Layer]]
+- [[concepts/Graph-Knowledge-Layer]]
 - [[concepts/Query-Time-Knowledge-Systems]]
 
 ## Source
