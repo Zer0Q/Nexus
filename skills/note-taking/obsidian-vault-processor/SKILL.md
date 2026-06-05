@@ -7,7 +7,7 @@ description: "Processes raw articles into the Nexus Obsidian vault knowledge mod
 
 Processes raw articles into the Nexus knowledge vault described in `README.md`: dense reusable knowledge, immutable originals, compressed summaries, semantic wikilinks, and controlled note growth.
 
-**Canonical in-repo copy:** `skills/note-taking/obsidian-vault-processor/SKILL.md` in the Nexus GitHub repo. Keep both copies in sync by editing the in-repo version first.
+**Source of truth:** this in-repo `SKILL.md` is canonical. If the skill is deployed to a global/local agent skill directory, sync from this file. Do not manually edit deployed copies.
 
 ## Trigger
 
@@ -31,13 +31,13 @@ Nexus/
 
 ### Step 0: Scan existing vault
 
-Before creating any note, scan existing `concepts/`, `tools/`, `summaries/`, and `indexes/` to prevent duplicates and learn current naming/linking conventions.
+Before creating any note, scan existing `concepts/`, `tools/`, `summaries/`, `indexes/`, and `raw-notes/` to prevent duplicates and learn current naming/linking conventions. `raw-notes/` is scanned only to detect already-preserved sources; files in `raw-notes/` must never be modified during processing.
 
 ```python
 import os
 
 vault = "Nexus"
-knowledge_dirs = ["concepts", "tools", "summaries", "indexes"]
+knowledge_dirs = ["concepts", "tools", "summaries", "indexes", "raw-notes"]
 existing = {}
 convention_issues = []
 
@@ -375,7 +375,7 @@ if APPLY:
 
 ### Step 7: Verify link resolution and source connectivity
 
-Verify all `[[wikilinks]]` resolve to existing files and every summary links to its raw note. Also verify concepts/tools link back to summaries rather than raw notes.
+Verify all `[[wikilinks]]` resolve to existing files, every summary links to its raw note, and every summary has a valid `## Core Concepts` section. Also verify concepts/tools link back to summaries rather than raw notes.
 
 ```python
 import os, re, unicodedata
@@ -409,6 +409,7 @@ broken = []
 bare_links = []
 wrong_folder = []
 summary_without_raw = []
+summary_core_issues = []
 knowledge_without_summary = []
 
 for root, dirs, files in os.walk(vault):
@@ -443,6 +444,18 @@ for root, dirs, files in os.walk(vault):
 
         if folder == "summaries" and not any(link.startswith("raw-notes/") for link in links):
             summary_without_raw.append(rel_file)
+        if folder == "summaries":
+            core_match = re.search(r"^## Core Concepts\s*\n(?P<body>.*?)(?=^## |\Z)", content, re.MULTILINE | re.DOTALL)
+            if not core_match:
+                summary_core_issues.append((rel_file, "missing ## Core Concepts section"))
+            else:
+                bullets = [line.strip() for line in core_match.group("body").splitlines() if line.strip().startswith("- ")]
+                qualified = [line for line in bullets if re.match(r"^- \[\[(concepts|tools)/[^\]]+\]\]", line)]
+                invalid = [line for line in bullets if not re.match(r"^- \[\[(concepts|tools)/[^\]]+\]\]", line)]
+                if not qualified:
+                    summary_core_issues.append((rel_file, "no concept/tool wikilink bullets"))
+                for line in invalid:
+                    summary_core_issues.append((rel_file, f"invalid Core Concepts bullet: {line}"))
         if folder in {"concepts", "tools"} and not any(link.startswith("summaries/") for link in links):
             knowledge_without_summary.append(rel_file)
 
@@ -458,6 +471,9 @@ for src, bad, good in wrong_folder:
 print(f"SUMMARIES WITHOUT RAW-NOTES LINK: {len(summary_without_raw)}")
 for item in summary_without_raw:
     print(f"  {item}")
+print(f"SUMMARY CORE CONCEPTS ISSUES: {len(summary_core_issues)}")
+for rel_file, issue in summary_core_issues:
+    print(f"  {rel_file}: {issue}")
 print(f"CONCEPTS/TOOLS WITHOUT SUMMARY LINK: {len(knowledge_without_summary)}")
 for item in knowledge_without_summary:
     print(f"  {item}")
@@ -523,6 +539,7 @@ Validation report:
 - Bare links: <count>
 - Wrong-folder links: <count>
 - Summaries without raw-notes link: <count>
+- Summary Core Concepts issues: <count>
 - Concepts/tools without summary link: <count>
 - Plain-text references: <count>
 - Raw files eligible for cleanup: yes/no
@@ -558,6 +575,7 @@ Only delete processed files from `raw/` after:
 - all wikilinks resolve,
 - no bare or wrong-folder links remain,
 - every summary links to `raw-notes/`,
+- every summary has a `## Core Concepts` section with at least one `[[concepts/...]]` or `[[tools/...]]` bullet,
 - every new concept/tool links to `summaries/`,
 - no plain-text references remain in structured relationship sections, and
 - the validation report lists the exact raw files to delete.
