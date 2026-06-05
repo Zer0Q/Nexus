@@ -5,7 +5,7 @@ author:
   - "[[@zaimiri]]"
 published: 2026-06-04
 created: 2026-06-04
-description: "These are the upgrades that move Hermes from "agent I chat with" to "system I can actually rely on every day."The whole point is simple:less..."
+description: "These are the upgrades that move Hermes from agent I chat with to system I can actually rely on every day.The whole point is simple:less..."
 tags:
   - "clippings"
 summary:

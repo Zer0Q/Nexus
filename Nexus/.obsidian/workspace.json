@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/0xJeff-Hermes-Analyst-60-Days.md",
+                "file": "raw/Every Company’s First AI Strategy Should Be a Skill Library.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0xJeff-Hermes-Analyst-60-Days"
+              "title": "Every Company’s First AI Strategy Should Be a Skill Library"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zaimiri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,8 +218,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "085e5cd6e75c78a9",
+  "active": "ecfcb4763781f68d",
   "lastOpenFiles": [
+    "raw-notes/i-replaced-my-entire-research-stack-with-obsidian-and-claude-her.md",
+    "raw-notes/step-by-step-llm-engineering-projects-2026-edition.md",
+    "raw-notes/what-is-agentic-rag-from-llm-rag-to-ai-agents.md",
+    "raw-notes/what-is-the-model-context-protocol-mcp.md",
+    "raw/Every Company’s First AI Strategy Should Be a Skill Library.md",
+    "raw-notes/10-upgrades-for-your-hermes-agent.md",
+    "raw-notes/30-obsidian-workflows-plugins-and-setups-that-most-users-dont-kn.md",
+    "raw-notes/raw-LuisMartinez-Situated-Learning.md",
+    "raw",
+    "summaries/DamiDefi-Obsidian-Claude-Research-Stack.md",
+    "tools/Connection-Cost.md",
+    "raw/I Replaced My Entire Research Stack With Obsidian and Claude. Here Is the Full System.md",
+    "raw/Step-By-Step LLM Engineering Projects (2026 Edition).md",
+    "summaries/0xJeff-Hermes-Analyst-60-Days.md",
     "summaries/0xCodez-Master-97-of-Codex-in-30-Minutes-Full-Co.md",
     "summaries/SDD-vs-BMAD.md",
     "summaries/NCSC-Cyber-Assessment-Framework.md",
@@ -227,28 +241,14 @@
     "summaries/KusCamara-PydanticAI-Agent-Creation.md",
     "summaries/LuisMartinez-Situated-Learning.md",
     "summaries/LuisMartinez-Comunidades-de-Practica.md",
-    "raw-notes/raw-LuisMartinez-Situated-Learning.md",
-    "raw/Step-By-Step LLM Engineering Projects (2026 Edition).md",
     "summaries/Khairallah-Second-Brain-Architect-Roadmap.md",
     "summaries/Khairallah-30-Obsidian-Workflows-Plugins-Setups.md",
     "summaries/KevinNguyen-ByteRover-Obsidian.md",
     "summaries/Karpathy-LLM-Wiki-Pattern.md",
     "summaries/Karpathy-LLM-Knowledge-Bases.md",
     "raw-notes/raw-LuisMartinez-Comunidades-de-Practica.md",
-    "summaries/KanikaBK-Offline-AI-Workflow.md",
-    "raw-notes/raw-KanikaBK-Offline-LLM-workflow.md",
-    "raw-notes/276-hermes-use-cases.md",
-    "raw-notes/10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code.md",
-    "summaries/InduTripati-Hermes-Agent-276-Use-Cases.md",
-    "raw-notes/hermes-browser-escape-hatch.md",
-    "summaries/InduTripati-Obsidian-Productivity-Trap.md",
-    "summaries/MushtaqBilalPhD-claude-code-102-academic-researchers.md",
-    "summaries/MushtaqBilalPhD-claude-code-103-academic-researchers.md",
-    "summaries/MushtaqBilalPhD-claude-code-104-building-ai-powered-research.md",
-    "summaries/MushtaqBilalPhD-codex-101-academic-researchers.md",
     "summaries",
     "raw-notes",
-    "raw",
     "source-notes",
     "Sin título.canvas",
     "indexes",
