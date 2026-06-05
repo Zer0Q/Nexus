@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Every Company’s First AI Strategy Should Be a Skill Library.md",
+                "file": "summaries/HitenShah-Every-Companys-First-AI-Strategy-Skill-Library.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Every Company’s First AI Strategy Should Be a Skill Library"
+              "title": "HitenShah-Every-Companys-First-AI-Strategy-Skill-Library"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zaimiri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,13 +218,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "ecfcb4763781f68d",
+  "active": "085e5cd6e75c78a9",
   "lastOpenFiles": [
+    "raw-notes/every-companys-first-ai-strategy-should-be-a-skill-library.md",
+    "raw/When AI builds itself.md",
+    "raw/Building cloud agent infrastructure what's different, and what we learned.md",
+    "summaries/HitenShah-Every-Companys-First-AI-Strategy-Skill-Library.md",
+    "concepts/Skill-Library.md",
+    "raw/Every Company’s First AI Strategy Should Be a Skill Library.md",
+    "Untitled.md",
+    "raw-notes/a-practical-guide-to-becoming-an-ai-native-engineer.md",
     "raw-notes/i-replaced-my-entire-research-stack-with-obsidian-and-claude-her.md",
     "raw-notes/step-by-step-llm-engineering-projects-2026-edition.md",
     "raw-notes/what-is-agentic-rag-from-llm-rag-to-ai-agents.md",
     "raw-notes/what-is-the-model-context-protocol-mcp.md",
-    "raw/Every Company’s First AI Strategy Should Be a Skill Library.md",
     "raw-notes/10-upgrades-for-your-hermes-agent.md",
     "raw-notes/30-obsidian-workflows-plugins-and-setups-that-most-users-dont-kn.md",
     "raw-notes/raw-LuisMartinez-Situated-Learning.md",
@@ -240,13 +247,6 @@
     "summaries/MushtaqBilalPhD-claude-code-101-academic-researchers.md",
     "summaries/KusCamara-PydanticAI-Agent-Creation.md",
     "summaries/LuisMartinez-Situated-Learning.md",
-    "summaries/LuisMartinez-Comunidades-de-Practica.md",
-    "summaries/Khairallah-Second-Brain-Architect-Roadmap.md",
-    "summaries/Khairallah-30-Obsidian-Workflows-Plugins-Setups.md",
-    "summaries/KevinNguyen-ByteRover-Obsidian.md",
-    "summaries/Karpathy-LLM-Wiki-Pattern.md",
-    "summaries/Karpathy-LLM-Knowledge-Bases.md",
-    "raw-notes/raw-LuisMartinez-Comunidades-de-Practica.md",
     "summaries",
     "raw-notes",
     "source-notes",
