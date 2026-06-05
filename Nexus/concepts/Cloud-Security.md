@@ -4,5 +4,6 @@ Confianza en las medidas de ciberseguridad implementadas por proveedores de serv
 
 - Principio 8 de seguridad cloud del NCSC: supply chain
 - Control nuevo en ISO 27001:2022 (A.5.23): Information Security for Use of Cloud Services
+- Cloud agent infrastructure: modelo de seguridad que trata el sandbox como comprometido por defecto — [[concepts/Execution-Boundary]], [[concepts/API-Bridge-Pattern]]
 
-See also: [[concepts/Supply-Chain-Security]], [[concepts/ISO-27001]]
+See also: [[concepts/Supply-Chain-Security]], [[concepts/Cloud-Agent-Infrastructure]], [[concepts/ISO-27001]]

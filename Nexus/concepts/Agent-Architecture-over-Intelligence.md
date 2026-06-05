@@ -4,7 +4,7 @@
 AI agents tend to fail due to architectural issues — tool conflicts, integration problems, workflow misalignment — rather than model intelligence limitations. The model's reasoning capacity is rarely the bottleneck.
 
 ## Why It Matters
-Most debugging time is spent resolving tools fighting each other (API incompatibilities, auth flow conflicts, timeout mismatches) rather than improving model quality. Open-weight models now match frontier labs in intelligence while costing less, making architecture the primary differentiator.
+Most debugging time is spent resolving tools fighting each other (API incompatibilities, auth flow conflicts, network boundaries). In cloud agent infrastructure, architectural issues multiply — [[concepts/Frozen-Sandbox-Snapshot]] management, [[concepts/Runner-Hot-Swap]] cadence, and [[concepts/Execution-Boundary]] design are all architectural problems, not model intelligence problems.
 
 ## Key Ideas
 - Agent failures are 90% architecture, 10% AI
