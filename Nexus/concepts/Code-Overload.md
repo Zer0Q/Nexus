@@ -13,8 +13,8 @@ Más código generado por IA no equivale a más productividad. Sin verificación
 - La solución no es menos IA, sino mejor orquestación y verificación
 
 ## Related
-- [[AI-Native-Engineering]]
-- [[Agentic-Development-Life-Cycle]]
+- [[concepts/AI-Native-Engineering]]
+- [[concepts/Agentic-Development-Life-Cycle]]
 
 ## Source
-[[ByteByteGo-AI-Native-Engineer]]
+[[summaries/ByteByteGo-AI-Native-Engineer]]

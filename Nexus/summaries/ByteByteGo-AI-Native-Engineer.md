@@ -12,11 +12,11 @@ type: article
 Guía práctica de Shah Rahman (Meta) para ingenieros que quieren transicionar a ingeniería AI-native: 4 prácticas core (context engineering, spec-driven development, verificación crítica, decomposición), ciclo de vida ADLC y guardrails de seguridad.
 
 ## Core Concepts
-- [[AI-Native-Engineering]] -- enfoque de orquestación de agentes IA vs codificación directa
-- [[Context-Engineering]] -- disciplina de curación e inyección de contexto específico de proyecto
-- [[Specification-Driven-Development]] -- definir especificaciones claras antes de generar código con IA
-- [[Agentic-Development-Life-Cycle]] -- ciclo de vida de desarrollo adaptado a agentes IA
-- [[Code-Overload]] -- fenómeno de producción excesiva de código con IA sin verificación adecuada
+- [[concepts/AI-Native-Engineering]] -- enfoque de orquestación de agentes IA vs codificación directa
+- [[concepts/Context-Engineering]] -- disciplina de curación e inyección de contexto específico de proyecto
+- [[concepts/Specification-Driven-Development]] -- definir especificaciones claras antes de generar código con IA
+- [[concepts/Agentic-Development-Life-Cycle]] -- ciclo de vida de desarrollo adaptado a agentes IA
+- [[concepts/Code-Overload]] -- fenómeno de producción excesiva de código con IA sin verificación adecuada
 
 ## Key Insights
 - Distribución óptima de tiempo: 40% contexto, 20% generación, 40% verificación

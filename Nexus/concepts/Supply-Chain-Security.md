@@ -6,4 +6,4 @@ Gestión de riesgos cibernéticos asociados con proveedores y terceros en la cad
 - Nivel parcial: entender riesgos generales y tener obligaciones de seguridad en contratos
 - Nivel logrado: comprensión profunda que incluye propiedad, nacionalidad, socios y enfoque de ciberseguridad del proveedor
 
-See also: [[Cyber-Assessment-Framework]], [[Cloud-Security]]
+See also: [[concepts/Cyber-Assessment-Framework]], [[concepts/Cloud-Security]]

@@ -6,4 +6,4 @@ Representación vectorial del significado semántico de texto. Cada palabra, ora
 - "Doctor" cerca de "Nurse"; "Apple fruta" lejos de "Apple compañía"
 - La IA no entiende significado como humanos: entiende distancia
 
-See also: [[Tokenization]], [[Attention-Mechanism]], [[RAG]]
+See also: [[concepts/Tokenization]], [[concepts/Attention-Mechanism]], [[concepts/RAG]]

@@ -14,8 +14,8 @@ Reduce el riesgo de despliegues detectando fallos en producción con impacto lim
 - La observabilidad es el weak link: sin métricas fiables, el canary es "desplegar a ciegas"
 
 ## Related
-- [[AI-Native-Engineering]]
-- [[Agentic-Development-Life-Cycle]]
+- [[concepts/AI-Native-Engineering]]
+- [[concepts/Agentic-Development-Life-Cycle]]
 
 ## Source
-[[ChatGPT-CICD-Canary]]
+[[summaries/ChatGPT-CICD-Canary]]

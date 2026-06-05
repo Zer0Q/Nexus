@@ -5,4 +5,4 @@ Resiliencia contra ataques cibernéticos y fallos de sistema integrada en el dis
 - La resiliencia se construye en el diseño, no se añade después
 - Incluye redundancia, failover y capacidades de recuperación
 
-See also: [[Cyber-Resilience]], [[Cyber-Assessment-Framework]]
+See also: [[concepts/Cyber-Resilience]], [[concepts/Cyber-Assessment-Framework]]

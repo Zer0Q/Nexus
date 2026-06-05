@@ -14,9 +14,9 @@ La calidad del código generado por IA coincide con la calidad de las especifica
 - El planning agent ensambla hallazgos de múltiples agentes de exploración en una estrategia coherente
 
 ## Related
-- [[AI-Native-Engineering]]
-- [[Agentic-Development-Life-Cycle]]
-- [[Context-Engineering]]
+- [[concepts/AI-Native-Engineering]]
+- [[concepts/Agentic-Development-Life-Cycle]]
+- [[concepts/Context-Engineering]]
 
 ## Source
-[[ByteByteGo-AI-Native-Engineer]]
+[[summaries/ByteByteGo-AI-Native-Engineer]]

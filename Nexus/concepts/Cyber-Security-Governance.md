@@ -15,9 +15,9 @@ Sin gobernanza efectiva, las medidas técnicas de ciberseguridad carecen de dire
 - Estándares referenciales: ISO 27001 (ISMS), IEC 62443-2-1 (CSMS para IACS)
 
 ## Related
-- [[Risk-Management-Process]]
-- [[ISO-27001]]
-- [[Cyber-Assessment-Framework]]
+- [[concepts/Risk-Management-Process]]
+- [[concepts/ISO-27001]]
+- [[concepts/Cyber-Assessment-Framework]]
 
 ## Source
-[[NCSC-CAF-Principle-A1-Governance]]
+[[summaries/NCSC-CAF-Principle-A1-Governance]]

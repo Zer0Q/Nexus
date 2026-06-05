@@ -16,9 +16,9 @@ Las organizaciones que operan en múltiples jurisdicciones deben cumplir con reg
 - Se superponen con estándares internacionales (ISA/IEC 62443, NIST SP 800-82) y generales (ISO 27001)
 
 ## Related
-- [[Cyber-Assessment-Framework]]
-- [[ISA-IEC-62443]]
-- [[NIST-SP-800-82]]
+- [[concepts/Cyber-Assessment-Framework]]
+- [[concepts/ISA-IEC-62443]]
+- [[concepts/NIST-SP-800-82]]
 
 ## Source
 [[summaries/Ramiro-Cid-Industrial-Cybersecurity-Standards]]

@@ -5,4 +5,4 @@ Verificación, autenticación y autorización de acceso a redes y sistemas que s
 - Incluye MFA, gestión de identidades, principios de acceso privilegiado (PAWs)
 - Referenciado con guías NCSC de autenticación y NPSA Control Access
 
-See also: [[Cyber-Assessment-Framework]], [[Data-Security]]
+See also: [[concepts/Cyber-Assessment-Framework]], [[concepts/Data-Security]]

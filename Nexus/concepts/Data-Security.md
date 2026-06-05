@@ -5,4 +5,4 @@ Protección de datos almacenados o transmitidos electrónicamente contra acceso 
 - Extiende a medios por los cuales usuarios, dispositivos y sistemas acceden a datos críticos
 - Cubre información que ayudaría a un actor de amenazas (detalles de diseño de redes)
 
-See also: [[Identity-and-Access-Control]], [[Cyber-Assessment-Framework]]
+See also: [[concepts/Identity-and-Access-Control]], [[concepts/Cyber-Assessment-Framework]]

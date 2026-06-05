@@ -12,7 +12,7 @@ type: note
 Estrategia canary en CI/CD: despliegue gradual a un grupo pequeño (1-5% del tráfico) antes del rollout completo. Requiere routing controlado, métricas claras de salud y rollback rápido.
 
 ## Core Concepts
-- [[Canary-Deployment]] -- estrategia de despliegue gradual con monitoreo progresivo
+- [[concepts/Canary-Deployment]] -- estrategia de despliegue gradual con monitoreo progresivo
 - [[Observability]] -- métricas de error_rate, latency_p95 y business_success_rate como mínimo
 
 ## Key Insights

@@ -12,14 +12,14 @@ type: article
 10 conceptos fundamentales de IA que todo builder debe entender: tokens, embeddings, attention, transformers, LLMs, alucinación, temperatura, ventana de contexto, RAG y agentes IA. Presentados como un modelo mental progresivo.
 
 ## Core Concepts
-- [[Tokenization]] -- unidad básica de entrada/salida de modelos de IA
-- [[Embeddings]] -- representación vectorial del significado semántico
-- [[Attention-Mechanism]] -- mecanismo que permite a los modelos entender contexto relacional
-- [[Transformer-Architecture]] -- arquitectura base de todos los modelos de IA modernos
-- [[LLM-Hallucination]] -- generación de respuestas falsas con alta confianza
-- [[Temperature-Parameter]] -- control de aleatoriedad en la generación de tokens
-- [[Context-Window]] -- límite de memoria de trabajo de un modelo
-- [[RAG]] -- Retrieval-Augmented Generation para usar datos propios
+- [[concepts/Tokenization]] -- unidad básica de entrada/salida de modelos de IA
+- [[concepts/Embeddings]] -- representación vectorial del significado semántico
+- [[concepts/Attention-Mechanism]] -- mecanismo que permite a los modelos entender contexto relacional
+- [[concepts/Transformer-Architecture]] -- arquitectura base de todos los modelos de IA modernos
+- [[concepts/LLM-Hallucination]] -- generación de respuestas falsas con alta confianza
+- [[concepts/Temperature-Parameter]] -- control de aleatoriedad en la generación de tokens
+- [[concepts/Context-Window]] -- límite de memoria de trabajo de un modelo
+- [[concepts/RAG]] -- Retrieval-Augmented Generation para usar datos propios
 - [[AI-Agents]] -- sistemas de IA que planifican, usan herramientas y verifican resultados
 
 ## Key Insights

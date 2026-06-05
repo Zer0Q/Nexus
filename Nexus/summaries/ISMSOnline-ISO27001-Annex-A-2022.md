@@ -12,9 +12,9 @@ type: article
 Guía completa del Anexo A de ISO 27001:2022: 93 controles organizados en 4 categorías (Organizacional, Personal, Físico, Tecnológico). Incluye Statement of Applicability (SoA) y mapeo con controles de versiones anteriores.
 
 ## Core Concepts
-- [[ISO-27001]] -- estándar de gestión de seguridad de la información con 93 controles en Anexo A
-- [[Statement-of-Applicability]] -- documento obligatorio que lista controles implementados y justifica omisiones
-- [[Risk-Treatment]] -- proceso de aceptación, tratamiento, mitigación, transferencia o evitación de riesgos
+- [[concepts/ISO-27001]] -- estándar de gestión de seguridad de la información con 93 controles en Anexo A
+- [[concepts/Statement-of-Applicability]] -- documento obligatorio que lista controles implementados y justifica omisiones
+- [[concepts/Risk-Treatment]] -- proceso de aceptación, tratamiento, mitigación, transferencia o evitación de riesgos
 
 ## Key Insights
 - De 114 controles en 14 categorías (2013) a 93 controles en 4 categorías (2022)

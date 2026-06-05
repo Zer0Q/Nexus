@@ -14,9 +14,9 @@ La calidad de la salida de IA está acotada por la calidad del contexto que reci
 - 40% del tiempo de un ingeniero AI-native se dedica a context-setting
 
 ## Related
-- [[AI-Native-Engineering]]
-- [[AGENTS-MD]]
-- [[Agentic-Development-Life-Cycle]]
+- [[concepts/AI-Native-Engineering]]
+- [[concepts/AGENTS-MD]]
+- [[concepts/Agentic-Development-Life-Cycle]]
 
 ## Source
-[[ByteByteGo-AI-Native-Engineer]]
+[[summaries/ByteByteGo-AI-Native-Engineer]]

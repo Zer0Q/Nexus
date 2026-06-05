@@ -7,4 +7,4 @@ Plataforma de codificación agéntica de OpenAI con CLI, app desktop, extensión
 - Automations: prompts programados con cron para flujos end-to-end
 - Plan mode: el agente brainstormea y produce un plan antes de escribir código
 
-See also: [[AI-Native-Engineering]], [[Agent-Skills-Standard]]
+See also: [[concepts/AI-Native-Engineering]], [[concepts/Agent-Skills-Standard]]

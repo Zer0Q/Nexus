@@ -6,4 +6,4 @@ Control de aleatoriedad en la generación de tokens de un LLM. Temperatura baja 
 - Temperatura determina qué tan estrictamente se sigue la distribución de probabilidad
 - Error común: usar temperatura por defecto (0.7-1.0) para todo
 
-See also: [[LLM-Hallucination]], [[Context-Window]], [[Tokenization]]
+See also: [[concepts/LLM-Hallucination]], [[concepts/Context-Window]], [[concepts/Tokenization]]

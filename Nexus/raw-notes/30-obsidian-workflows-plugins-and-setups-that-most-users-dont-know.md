@@ -4,10 +4,11 @@ source: "https://x.com/eng_khairallah1/status/2061012675824644161"
 author:
   - "[[@eng_khairallah1]]"
 published: 2026-05-31
-created: 2026-05-31
+created: 2026-06-04
 description: "Obsidian has 2,700+ community plugins. Over 100 of them are AI-related.Save this :)And the CEO of Obsidian personally published official Cla..."
 tags:
   - "clippings"
+summary:
 ---
 ![Imatge](https://pbs.twimg.com/media/HJmKWsNbwAAp9TB?format=jpg&name=large)
 
@@ -37,7 +38,7 @@ Automated note templates that fire when you create specific types of notes. Set 
 
 **04\. Dataview**
 
-Turn your vault into a queryable database. "Show me all notes tagged [#project](https://x.com/search?q=%23project&src=hashtag_click)\-alpha created in the last 30 days" returns a live table. When Claude can access Dataview queries, it can answer questions about your vault using structured data, not just full-text search.
+Turn your vault into a queryable database. "Show me all notes tagged [#project](https://x.com/search?q=%23project&src=hashtag_click)-alpha created in the last 30 days" returns a live table. When Claude can access Dataview queries, it can answer questions about your vault using structured data, not just full-text search.
 
 **05\. Tasks**
 
@@ -145,7 +146,7 @@ Export key sections of your vault as knowledge files for [Claude.ai](http://clau
 
 **30\. The Feedback Loop System**
 
-When Claude produces something using your vault - a summary, an analysis, a recommendation - save the output back into your vault as a new note. Tag it with [#ai](https://x.com/search?q=%23ai&src=hashtag_click)\-generated. Over time, your vault contains both your original thinking and Claude's synthesis of it. Each builds on the other. The knowledge compounds exponentially.
+When Claude produces something using your vault - a summary, an analysis, a recommendation - save the output back into your vault as a new note. Tag it with [#ai](https://x.com/search?q=%23ai&src=hashtag_click)-generated. Over time, your vault contains both your original thinking and Claude's synthesis of it. Each builds on the other. The knowledge compounds exponentially.
 
 ## The Setup I Actually Run
 

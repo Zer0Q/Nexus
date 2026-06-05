@@ -14,9 +14,9 @@ Todo en IA se preciosifica, limita y mide en tokens: coste de API, ventana de co
 - TOON y otros formatos optimizados reducen tokens en 30-54%
 
 ## Related
-- [[TOON-Format]]
-- [[Context-Window]]
-- [[Embeddings]]
+- [[tools/TOON-Format]]
+- [[concepts/Context-Window]]
+- [[concepts/Embeddings]]
 
 ## Source
-[[Sairahul1-10-AI-Concepts]]
+[[summaries/Sairahul1-10-AI-Concepts]]

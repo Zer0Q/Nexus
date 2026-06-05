@@ -14,10 +14,10 @@ La gestión de contexto es una de las habilidades más importantes en ingenierí
 - Chunk y resumir documentos largos en lugar de dump completo
 
 ## Related
-- [[Tokenization]]
-- [[Attention-Mechanism]]
-- [[RAG]]
-- [[LLM-Hallucination]]
+- [[concepts/Tokenization]]
+- [[concepts/Attention-Mechanism]]
+- [[concepts/RAG]]
+- [[concepts/LLM-Hallucination]]
 
 ## Source
-[[Sairahul1-10-AI-Concepts]]
+[[summaries/Sairahul1-10-AI-Concepts]]

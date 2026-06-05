@@ -14,9 +14,9 @@ Es la innovación clave que hace posible los modelos de IA modernos. Sin attenti
 - Explica por qué prompts ambiguos producen outputs inconsistentes
 
 ## Related
-- [[Transformer-Architecture]]
-- [[Tokenization]]
-- [[Context-Window]]
+- [[concepts/Transformer-Architecture]]
+- [[concepts/Tokenization]]
+- [[concepts/Context-Window]]
 
 ## Source
-[[Sairahul1-10-AI-Concepts]]
+[[summaries/Sairahul1-10-AI-Concepts]]

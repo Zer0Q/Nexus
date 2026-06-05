@@ -5,4 +5,4 @@ Confianza en las medidas de ciberseguridad implementadas por proveedores de serv
 - Principio 8 de seguridad cloud del NCSC: supply chain
 - Control nuevo en ISO 27001:2022 (A.5.23): Information Security for Use of Cloud Services
 
-See also: [[Supply-Chain-Security]], [[ISO-27001]]
+See also: [[concepts/Supply-Chain-Security]], [[concepts/ISO-27001]]

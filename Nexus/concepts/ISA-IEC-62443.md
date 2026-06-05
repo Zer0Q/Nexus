@@ -6,4 +6,4 @@ Estándar internacional de ciberseguridad para sistemas de automatización y con
 - Se construye sobre ISO 27001/27002 para entornos IACS
 - Referenciado por el NCSC CAF como estándar complementario
 
-See also: [[NIST-SP-800-82]], [[Regional-Cyber-Regulations]], [[Cyber-Security-Governance]]
+See also: [[concepts/NIST-SP-800-82]], [[concepts/Regional-Cyber-Regulations]], [[concepts/Cyber-Security-Governance]]

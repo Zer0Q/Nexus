@@ -6,4 +6,4 @@ Estándar cross-platform para skills de agentes IA. Skills son archivos markdown
 - Dos niveles: global (~/.agents/skills/) y project-level (dentro del proyecto)
 - La descripción es lo más importante: Codex matchea tareas contra la descripción para invocación implícita
 
-See also: [[Context-Engineering]], [[AI-Native-Engineering]]
+See also: [[concepts/Context-Engineering]], [[concepts/AI-Native-Engineering]]

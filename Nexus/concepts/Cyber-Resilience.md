@@ -13,9 +13,9 @@ La ciberseguridad tradicional se enfoca en prevención. La resiliencia acepta qu
 - El CAF evalúa resiliencia, no solo cumplimiento
 
 ## Related
-- [[Cyber-Assessment-Framework]]
-- [[Incident-Recovery]]
-- [[Risk-Management-Process]]
+- [[concepts/Cyber-Assessment-Framework]]
+- [[concepts/Incident-Recovery]]
+- [[concepts/Risk-Management-Process]]
 
 ## Source
-[[NCSC-CAF-Collection-Introduction]]
+[[summaries/NCSC-CAF-Collection-Introduction]]

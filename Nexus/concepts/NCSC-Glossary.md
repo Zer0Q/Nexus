@@ -5,4 +5,4 @@ Glosario primario del National Cyber Security Centre del Reino Unido para térmi
 - Definiciones estándar para términos de ciberseguridad
 - Referenciado por el CAF como fuente primaria antes del glosario CAF-specific
 
-See also: [[Cyber-Assessment-Framework]]
+See also: [[concepts/Cyber-Assessment-Framework]]

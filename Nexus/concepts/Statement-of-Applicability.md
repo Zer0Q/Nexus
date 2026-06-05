@@ -7,4 +7,4 @@ Documento obligatorio en ISO 27001 que lista los controles del Anexo A que una o
 - Confirmación de implementación
 - Justificación de omisión de controles no aplicables
 
-See also: [[ISO-27001]], [[Risk-Treatment]]
+See also: [[concepts/ISO-27001]], [[concepts/Risk-Treatment]]

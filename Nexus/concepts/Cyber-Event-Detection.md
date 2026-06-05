@@ -5,4 +5,4 @@ Capacidades para asegurar que las defensas de seguridad siguen siendo efectivas 
 - Diferente de protección: la detección es monitoreo continuo y respuesta temprana
 - Incluye validación de efectividad de defensas existentes
 
-See also: [[Cyber-Assessment-Framework]], [[Cyber-Resilience]]
+See also: [[concepts/Cyber-Assessment-Framework]], [[concepts/Cyber-Resilience]]

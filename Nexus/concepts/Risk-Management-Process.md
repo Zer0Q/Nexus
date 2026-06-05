@@ -6,4 +6,4 @@ Proceso sistemático de identificación, análisis, priorización y gestión de 
 - Los riesgos físicos (hardware, energía, incendios) son parte integral
 - La threat analysis va desde análisis común hasta escenarios detallados de actores avanzados
 
-See also: [[Cyber-Security-Governance]], [[Cyber-Assessment-Framework]]
+See also: [[concepts/Cyber-Security-Governance]], [[concepts/Cyber-Assessment-Framework]]

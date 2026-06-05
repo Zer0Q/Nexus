@@ -6,4 +6,4 @@ Guía del NIST para mejorar la ciberseguridad de Sistemas de Control Industrial 
 - Referenciado como estándar internacional de ciberseguridad industrial
 - Complementa a ISA/IEC 62443
 
-See also: [[ISA-IEC-62443]], [[Regional-Cyber-Regulations]]
+See also: [[concepts/ISA-IEC-62443]], [[concepts/Regional-Cyber-Regulations]]

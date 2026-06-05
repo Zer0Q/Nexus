@@ -14,8 +14,8 @@ Los IGPs traducen principios abstractos en criterios evaluables, permitiendo com
 - Pueden tener medidas compensatorias que sustituyan IGPs no aplicables
 
 ## Related
-- [[Cyber-Assessment-Framework]]
-- [[CAF-Profiles]]
+- [[concepts/Cyber-Assessment-Framework]]
+- [[concepts/CAF-Profiles]]
 
 ## Source
-[[NCSC-CAF-Introduction]]
+[[summaries/NCSC-CAF-Introduction]]

@@ -14,9 +14,9 @@ Entender el pipeline transformer explica el comportamiento observable de los LLM
 - Tokens tempranos influyen en tokens posteriores
 
 ## Related
-- [[Attention-Mechanism]]
-- [[Tokenization]]
-- [[Embeddings]]
+- [[concepts/Attention-Mechanism]]
+- [[concepts/Tokenization]]
+- [[concepts/Embeddings]]
 
 ## Source
-[[Sairahul1-10-AI-Concepts]]
+[[summaries/Sairahul1-10-AI-Concepts]]

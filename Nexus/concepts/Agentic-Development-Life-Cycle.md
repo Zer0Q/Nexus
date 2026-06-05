@@ -15,9 +15,9 @@ El SDLC tradicional y el agile extremo no cubren cómo los agentes IA desarrolla
 - Codify: prácticas codificadas en archivos de contexto, librerías de skills y herramientas MCP
 
 ## Related
-- [[AI-Native-Engineering]]
-- [[Context-Engineering]]
-- [[Agentic-SDLC]]
+- [[concepts/AI-Native-Engineering]]
+- [[concepts/Context-Engineering]]
+- [[concepts/Agentic-SDLC]]
 
 ## Source
-[[ByteByteGo-AI-Native-Engineer]]
+[[summaries/ByteByteGo-AI-Native-Engineer]]

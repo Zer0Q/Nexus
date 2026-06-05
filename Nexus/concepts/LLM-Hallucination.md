@@ -14,9 +14,9 @@ Es el modo de fallo core de los LLMs. Sin mitigación, los productos de IA en pr
 - Nunca usar output crudo de LLM para hechos en producción sin verificación
 
 ## Related
-- [[RAG]]
-- [[Context-Window]]
-- [[Temperature-Parameter]]
+- [[concepts/RAG]]
+- [[concepts/Context-Window]]
+- [[concepts/Temperature-Parameter]]
 
 ## Source
-[[Sairahul1-10-AI-Concepts]]
+[[summaries/Sairahul1-10-AI-Concepts]]

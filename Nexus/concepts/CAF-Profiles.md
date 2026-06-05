@@ -14,8 +14,8 @@ Permite a los reguladores establecer expectativas proporcionales: no todas las o
 - Definido por el cuerpo de supervisión, no por el NCSC
 
 ## Related
-- [[Cyber-Assessment-Framework]]
-- [[Cyber-Resilience]]
+- [[concepts/Cyber-Assessment-Framework]]
+- [[concepts/Cyber-Resilience]]
 
 ## Source
-[[NCSC-CAF-Introduction]]
+[[summaries/NCSC-CAF-Introduction]]

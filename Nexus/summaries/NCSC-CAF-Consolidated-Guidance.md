@@ -12,8 +12,8 @@ type: article
 Vista consolidada de la guía CAF: mapeo de principios a guías NCSC y recursos externos. Referencia cruzada con estándares como NIST SP800-82, IEC 62443, ISA 99 y NPSA.
 
 ## Core Concepts
-- [[Cyber-Assessment-Framework]] -- marco con guía consolidada de referencias
-- [[Identity-and-Access-Control]] -- principios B2 con múltiples referencias NCSC y externas
+- [[concepts/Cyber-Assessment-Framework]] -- marco con guía consolidada de referencias
+- [[concepts/Identity-and-Access-Control]] -- principios B2 con múltiples referencias NCSC y externas
 
 ## Key Insights
 - El CAF se integra con guías NCSC existentes y estándares internacionales

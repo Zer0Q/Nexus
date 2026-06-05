@@ -15,9 +15,9 @@ Identificar riesgos sin un plan de tratamiento es diagnóstico sin prescripción
 - El SoA en ISO 27001 es el documento que materializa el risk treatment
 
 ## Related
-- [[ISO-27001]]
-- [[Risk-Management-Process]]
-- [[Statement-of-Applicability]]
+- [[concepts/ISO-27001]]
+- [[concepts/Risk-Management-Process]]
+- [[concepts/Statement-of-Applicability]]
 
 ## Source
-[[ISMSOnline-ISO27001-Annex-A-2022]]
+[[summaries/ISMSOnline-ISO27001-Annex-A-2022]]

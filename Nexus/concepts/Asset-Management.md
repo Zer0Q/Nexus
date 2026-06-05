@@ -6,4 +6,4 @@ Inventario y gestión sistemática de activos de TI y OT relevantes para funcion
 - Las dependencias entre TI y OT deben ser comprendidas
 - El conocimiento crítico no debe depender de uno o dos individuos
 
-See also: [[Cyber-Assessment-Framework]], [[Risk-Management-Process]]
+See also: [[concepts/Cyber-Assessment-Framework]], [[concepts/Risk-Management-Process]]

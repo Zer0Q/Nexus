@@ -6,4 +6,4 @@ Patrones de arquitectura donde un LLM primero busca en una base de conocimiento 
 - Citas de fuente disponibles, reduce alucinación dramáticamente
 - Funciona con datos privados que nunca deben estar en entrenamiento
 
-See also: [[LLM-Hallucination]], [[Embeddings]], [[Context-Window]]
+See also: [[concepts/LLM-Hallucination]], [[concepts/Embeddings]], [[concepts/Context-Window]]

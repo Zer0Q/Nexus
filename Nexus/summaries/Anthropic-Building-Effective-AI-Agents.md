@@ -1,48 +1,42 @@
 ---
 title: "Building Effective AI Agents"
 source: "https://www.anthropic.com/engineering/building-effective-agents"
-author: "Anthropic"
-published: ""
+author: "Anthropic (Erik S. y Barry Zhang)"
+published: "2026"
 type: article
 ---
 
-# Anthropic Guide to Building Effective AI Agents
+# Building Effective AI Agents
 
 ## Summary
-Anthropic's practical guide to building agentic systems, distilled from work with dozens of production teams. Key distinction: workflows (predefined code paths) vs agents (LLM directs own process). Presents five workflow patterns (prompt chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer) and the autonomous agent pattern. Emphasizes simplicity over complexity.
+Guía práctica de Anthropic para construir agentes con LLMs basada en experiencia con docenas de equipos en producción. Distingue entre workflows (códigos predefinidos) y agentes (LLM dirige dinámicamente). Presenta patrones compositables: Prompt Chaining, Routing, Parallelization, Orchestrator-Workers, Evaluator-Optimizer. Recomienda empezar con APIs directas antes que frameworks, y seguir tres principios: simplicidad, transparencia y diseño cuidadoso de la interfaz agente-computador (ACI).
 
 ## Core Concepts
+- [[concepts/Augmented-LLM]] -- LLM mejorado con retrieval, tools y memory como building block fundamental de sistemas agenticos
+- [[concepts/Prompt-Chaining-Workflow]] -- descomposición de tarea en pasos secuenciales donde cada LLM call procesa el output del anterior, con checks programáticos
+- [[concepts/Routing-Workflow]] -- clasificación de input hacia tareas especializadas, permitiendo prompts optimizados por categoría
+- [[concepts/Parallelization-Workflow]] -- ejecución simultánea con Sectioning (subtasks independientes) o Voting (múltiples intentos para confianza)
+- [[concepts/Orchestrator-Workers-Workflow]] -- LLM central descompone tareas dinámicamente, delega a workers, sintetiza resultados
+- [[concepts/Evaluator-Optimizer-Workflow]] -- un LLM genera respuesta, otro evalúa y da feedback en loop iterativo
+- [[concepts/Agent-Computer-Interface]] -- diseño de herramientas para agentes con documentación clara, poka-yoke y formatos cercanos al texto natural
+- [[concepts/Tool-Use]] -- capacidad del LLM de interactuar con servicios externos especificando estructura y definición exacta
 
-- [[concepts/System-Prompt]] -- Initial instruction that sets AI behavior and constraints
-- [[concepts/Evaluator-Optimizer]] -- Two-agent pattern where one generates and one evaluates
-- [[concepts/Agentic-System]] -- Autonomous system that perceives, reasons, and acts toward goals
-- [[concepts/Agentic-System-Architecture]] -- Workflows (predefined) vs agents (LLM-directed)
-- [[concepts/Prompt-Chaining-Workflow]] -- Sequential LLM calls with programmatic gates
-- [[concepts/Routing-Workflow]] -- Input classification directing to specialized downstream tasks
-- [[concepts/Parallelization-Workflow]] -- Sectioning (independent subtasks) and voting (diverse outputs)
-- [[concepts/Orchestrator-Workers-Workflow]] -- Central LLM delegates to worker LLMs dynamically
-- [[concepts/Evaluator-Optimizer-Workflow]] -- Generate-evaluate-refine loop
-- [[concepts/Augmented-LLM]] -- LLM + retrieval + tools + memory as building block
-- [[concepts/Agent-Computer-Interface]] -- Tool design principles for LLM consumption
-- [[concepts/Agent-Tool-Use]] -- Clear tool documentation and poka-yoke design
-- [[concepts/Routing-Workflow]] -- Pattern for directing requests to specialized handlers
 ## Key Insights
-- Start with simple prompts, add complexity only when it demonstrably improves outcomes
-- Frameworks abstract away useful debugging visibility -- understand what's under the hood
-- Augmented LLM (retrieval + tools + memory) is the foundational building block
-- Prompt chaining: trade latency for accuracy by decomposing tasks
-- Routing: separate concerns, optimize per input category, route easy->cheap model
-- Parallelization: sectioning for guardrails/evals, voting for confidence
-- Orchestrator-workers: flexible subtask decomposition (coding, multi-source search)
-- Evaluator-optimizer: iterative refinement when LLM can articulate feedback
-- Agents: LLM + tools + environment feedback loop, with stopping conditions
-- Three core principles: simplicity, transparency, careful ACI design
-- Poka-yoke tools: make it harder for the model to make mistakes (absolute paths > relative)
-- Spent more time optimizing tools than overall prompt for SWE-bench agent
+- Los implementations más exitosos no usaban frameworks complejos — usaban patrones simples y compositables
+- Los frameworks (Claude Agent SDK, Strands, Rivet, Vellum) simplifican tareas low-level pero crean capas de abstracción que dificultan debugging
+- Para Routing: dirigir queries fáciles a modelos pequeños/cost-efficient (Claude Haiku 4.5) y queries difíciles a modelos más capaces (Claude Sonnet 4.5)
+- Para Parallelization Sectioning: un modelo procesa queries del usuario mientras otro screena contenido inapropiado — funciona mejor que un solo LLM call
+- Para Orchestrator-Workers: ideal para coding donde el número de archivos a cambiar y la naturaleza del cambio dependen de la tarea
+- Para Evaluator-Optimizer: efectivo cuando LLM responses mejoran demostrablemente con feedback humano articulado
+- Los agentes son típicamente solo LLMs usando tools basado en feedback ambiental en un loop — la implementación es straightforward
+- Anthropic pasó más tiempo optimizando tools que el overall prompt en su agente SWE-bench — cambiar a absolute filepaths eliminó errores con relative paths
+- Regla de oro para ACI: invertir tanto esfuerzo en Agent-Computer Interface como en Human-Computer Interface
+- Los dos dominios más prometedores para agentes: customer support (conversación + acción + tools + métricas claras) y coding agents (verificable con tests automatizados)
+
 ## Open Questions
-- How do the workflow patterns compose when building multi-agent systems?
+- ¿Cómo determinar el threshold donde la complejidad de un agente justifica el costo adicional de latencia y tokens?
+- ¿Qué patrones de failure son más comunes en agentes autónomos en producción y cómo mitigarlos sistemáticamente?
 
 ## Source
-
-- **Raw note:** [[building-effective-ai-agents.md]]
+- **Raw note:** [[raw-notes/building-effective-ai-agents]]
 - **Original URL:** https://www.anthropic.com/engineering/building-effective-agents

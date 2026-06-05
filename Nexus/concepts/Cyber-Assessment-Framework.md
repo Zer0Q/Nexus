@@ -21,11 +21,11 @@ Proporciona un lenguaje común entre reguladores, organizaciones y cuerpos de su
 - No reemplaza estándares como ISO 27001, sino que se complementa
 
 ## Related
-- [[Cyber-Resilience]]
-- [[Indicators-of-Good-Practice]]
-- [[CAF-Profiles]]
-- [[ISO-27001]]
-- [[Regional-Cyber-Regulations]]
+- [[concepts/Cyber-Resilience]]
+- [[concepts/Indicators-of-Good-Practice]]
+- [[concepts/CAF-Profiles]]
+- [[concepts/ISO-27001]]
+- [[concepts/Regional-Cyber-Regulations]]
 
 ## Source
-[[NCSC-Cyber-Assessment-Framework]]
+[[summaries/NCSC-Cyber-Assessment-Framework]]

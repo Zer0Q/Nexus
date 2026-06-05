@@ -22,8 +22,8 @@ JSON consume 15-25% de tokens en sintaxis pura (comillas, llaves, espacios). TOO
 - Validación con esquemas y tests unitarios obligatoria
 
 ## Related
-- [[Tokenization]]
-- [[Context-Window]]
+- [[concepts/Tokenization]]
+- [[concepts/Context-Window]]
 
 ## Source
 [[summaries/Orli-Dun-La-ineficiencia-oculta-de-JSON-frente-a]]

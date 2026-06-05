@@ -20,10 +20,10 @@ Distingue la ingeniería profesional asistida por IA del "vibe coding" (no-engin
 - Agregar IA a procesos rotos genera procesos rotos que producen más código, más rápido
 
 ## Related
-- [[Context-Engineering]]
-- [[Agentic-Development-Life-Cycle]]
-- [[Code-Overload]]
-- [[Specification-Driven-Development]]
+- [[concepts/Context-Engineering]]
+- [[concepts/Agentic-Development-Life-Cycle]]
+- [[concepts/Code-Overload]]
+- [[concepts/Specification-Driven-Development]]
 
 ## Source
-[[ByteByteGo-AI-Native-Engineer]]
+[[summaries/ByteByteGo-AI-Native-Engineer]]

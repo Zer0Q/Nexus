@@ -12,7 +12,7 @@ type: article
 Historial de versiones del CAF desde v1.0 (abril 2018) hasta v4.0 (agosto 2025). Cada versión incluye changelog y descarga del PDF.
 
 ## Core Concepts
-- [[Cyber-Assessment-Framework]] -- marco con evolución de versiones documentada
+- [[concepts/Cyber-Assessment-Framework]] -- marco con evolución de versiones documentada
 
 ## Key Insights
 - El CAF ha tenido 6 versiones en 7 años, con actualizaciones significativas
