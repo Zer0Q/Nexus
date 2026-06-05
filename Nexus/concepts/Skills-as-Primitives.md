@@ -12,6 +12,10 @@ Before software had functions, logic lived as instructions re-derived every time
 - Two problems: building the library (mining problem) and maintaining it as business changes (lifecycle problem)
 - Skills enable compounding -- the same procedure isn't re-derived by every agent and every employee
 - Change propagation is crucial: when a core skill updates, downstream skills need review/propagation
+- Skills encapsulate judgment, not just steps — they capture edge cases, quality bars, and heuristics of top performers (Hiten Shah)
+- Private skills are the real competitive advantage — marketplace skills are generic starting points; company-specific skills encode methods competitors cannot download
+- Evolution pattern: connectors gave access to data, skills add judgment and process, next-gen plugins combine both
+- The executor changed: agents can now load playbooks, use tools, inspect files, and execute — the playbook becomes active
 
 ## Tradeoffs
 - Skill granularity -- too fine = maintenance overhead; too coarse = limited reusability
@@ -22,6 +26,8 @@ Before software had functions, logic lived as instructions re-derived every time
 - [[concepts/Context-Substrate]]
 - [[concepts/Enterprise-Context-Layer]]
 - [[concepts/Context-Development-Lifecycle]]
+- [[concepts/Skill-Library]]
+- [[concepts/Tacit-Knowledge]]
 
 ## Source
-[[summaries/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]], [[summaries/HitenShah-Every-Companys-First-AI-Strategy-Skill-Library]]

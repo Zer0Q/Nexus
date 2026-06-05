@@ -13,6 +13,8 @@ In the age of agentic AI, data and models are table stakes. Tacit knowledge is t
 - Must be codified without flattening: preserve decision context, not just extract rules
 - Knowledge graphs enable AI to reason with contextual understanding
 - "Fusion skills" (knowledge curation, model interpretation, AI orchestration) are emerging roles
+- To extract tacit knowledge: find workflows where experienced people consistently outperform others, ask what the best person does differently, what everyone else overlooks, which errors they avoid, and how they define success — that is the raw material for skills (Hiten Shah)
+- Tacit knowledge sitting in old docs, Slack threads, customer calls, review rituals, and onboarding notes is the starting point for a [[concepts/Skill-Library]]
 
 ## Tradeoffs
 - Codification risks oversimplifying nuanced judgment
@@ -25,6 +27,8 @@ In the age of agentic AI, data and models are table stakes. Tacit knowledge is t
 - [[concepts/Knowledge-Graph-as-Semantic-Layer]]
 - [[concepts/Codify-without-Flattening]]
 - [[concepts/Knowledge-Mapping]]
+- [[concepts/Skill-Library]]
+- [[concepts/Skills-as-Primitives]]
 
 ## Source
-[[summaries/TungRoussiere-Tacit-Knowledge-Moat]]
+[[summaries/TungRoussiere-Tacit-Knowledge-Moat]], [[summaries/HitenShah-Every-Companys-First-AI-Strategy-Skill-Library]]
