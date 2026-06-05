@@ -16,7 +16,7 @@ Quality gate for notes extracted into `Nexus/summaries/`. Detects degradation pa
 
 ```
 Nexus/
-  summaries/        -- source notes (one per article) — TARGET of this audit
+  summaries/        -- compressed summaries (one per article) -- TARGET of this audit
   concepts/         -- atomic concept notes
   tools/            -- tool notes
   indexes/          -- index notes
@@ -42,7 +42,7 @@ Nexus/
 
 | Score | Signal |
 |-------|--------|
-| 5 | Every concept is a `[[wikilink]]` with a concrete description explaining WHAT it is and WHY it matters. |
+| 5 | Every concept is a folder-qualified `[[wikilink]]` with a concrete description explaining WHAT it is and WHY it matters. |
 | 4 | All concepts wikilinked and defined, but some descriptions are brief. |
 | 3 | Most concepts wikilinked and defined. Some use `-- related concept` or vague placeholders. |
 | 2 | Mix of wikilinked and plain text. Some concepts are NOT wrapped in `[[ ]]`. |
@@ -52,7 +52,7 @@ Nexus/
 
 **Insufficient source info:** If the original article mentions a concept but doesn't provide enough detail to define it, use this format:
 ```markdown
-- [[Concept-Name]] -- needs research: article mentions this but lacks detail for a proper definition
+- [[concepts/Concept-Name]] -- needs research: article mentions this but lacks detail for a proper definition
 ```
 This creates a research task for a future agent pass. Never leave concepts as plain text or use vague placeholders — either define them or mark them as needing research.
 
@@ -179,16 +179,16 @@ For each FAIL note:
 ```
 QUALITY CONSTRAINTS (add to re-processing prompt):
 - Summary: Write 2-3 sentences of YOUR OWN synthesis. Do NOT copy phrases from the source.
-- Core Concepts: Every concept MUST be a `[[wikilink]]` with a concrete description explaining WHAT it is and WHY it matters.
-  - If the source article mentions a concept but lacks detail, use: `[[Concept-Name]] -- needs research: article mentions this but lacks detail`
+- Core Concepts: Every concept MUST be a folder-qualified `[[wikilink]]` with a concrete description explaining WHAT it is and WHY it matters.
+  - If the source article mentions a concept but lacks detail, use: `[[concepts/Concept-Name]] -- needs research: article mentions this but lacks detail`
   - Never use "-- related concept" or leave concepts as plain text without wikilinks.
   - Concepts written as plain text (not wikilinked) are broken links — Obsidian will NOT resolve them.
 - Key Insights: Extract 5+ specific insights with data, quotes, numbers, or actionable takeaways. Each insight must be a complete sentence.
-- Open Questions: Write 2-3 questions specific to THIS article's content. Reference concepts from the note with `[[wikilinks]]`.
+- Open Questions: Write 2-3 questions specific to THIS article's content. Reference concepts from the note with folder-qualified `[[wikilinks]]`.
 - Every section must have substantive content. No empty sections.
 ```
 
-3. Write the improved note, overwriting the old one
+3. Dry-run the improved note diff before overwriting the old one
 4. Re-score to confirm improvement
 
 ## Quick Checks (for spot audits)

@@ -1,78 +1,101 @@
 ---
 name: obsidian-vault-processor
-description: "Processes raw articles into a compressed, interconnected Obsidian knowledge vault following Karpathy's atomic note-taking philosophy."
+description: "Processes raw articles into the Nexus Obsidian vault knowledge model: immutable raw notes, compressed summaries, reusable concepts/tools, and folder-qualified wikilinks."
 ---
+
 ## Overview
 
-Processes raw articles into a compressed, interconnected knowledge vault following Andrej Karpathy's note-taking philosophy: dense knowledge over verbose explanations, atomic notes over large documents, semantic links over hierarchical folders.
+Processes raw articles into the Nexus knowledge vault described in `README.md`: dense reusable knowledge, immutable originals, compressed summaries, semantic wikilinks, and controlled note growth.
 
-**Canonical in-repo copy:** `skills/note-taking/obsidian-vault-processor/SKILL.md` in the Nexus GitHub repo. Keep both copies in sync — edit the in-repo version and replicate changes here.
+**Canonical in-repo copy:** `skills/note-taking/obsidian-vault-processor/SKILL.md` in the Nexus GitHub repo. Keep both copies in sync by editing the in-repo version first.
 
 ## Trigger
-- User drops articles into the `raw/` folder
+
+- User drops articles into `Nexus/raw/`
 - User asks to process new content
 - User says "process the vault", "ingest notes", "build second brain"
 
 ## Vault Structure
-```
-vault/
-  concepts/       -- atomic technical concepts (one idea per note)
-  frameworks/     -- reusable workflow abstractions and mental models
-  tools/          -- specific software, plugins, APIs, hardware
-  architectures/  -- system design patterns
-  workflows/      -- procedural pipelines and step-by-step workflows
-  glossary/       -- quick-reference term definitions
-  source-notes/   -- one note per source, tied to a specific article
-  indexes/        -- index notes mapping related concepts
-  raw/            -- incoming unprocessed articles
+
+```text
+Nexus/
+  concepts/       -- atomic ideas, principles, definitions, patterns, and procedures
+  tools/          -- specific tools, platforms, libraries, plugins, APIs, hardware, and methodologies
+  summaries/      -- compressed summaries of original sources with wikilinks
+  raw-notes/      -- immutable copies of original raw articles
+  indexes/        -- thematic maps across related notes
+  raw/            -- temporary inbox for unprocessed markdown
 ```
 
 ## Processing Flow
 
-### Step 0: Scan existing vault (duplicate prevention + convention check)
-Before creating any new notes, scan the existing vault to prevent duplicates AND check filename convention consistency:
+### Step 0: Scan existing vault
+
+Before creating any note, scan existing `concepts/`, `tools/`, `summaries/`, and `indexes/` to prevent duplicates and learn current naming/linking conventions.
+
 ```python
 import os
-vault = "path_to_vault"
+
+vault = "Nexus"
+knowledge_dirs = ["concepts", "tools", "summaries", "indexes"]
 existing = {}
 convention_issues = []
-for folder in ["concepts", "frameworks", "tools", "architectures", "workflows", "glossary", "source-notes"]:
+
+for folder in knowledge_dirs:
     path = os.path.join(vault, folder)
-    if os.path.isdir(path):
-        for f in os.listdir(path):
-            if f.endswith('.md'):
-                existing[f[:-3].lower()] = os.path.join(folder, f)
-                # Check for spaces AND underscores (should be hyphens)
-                if ' ' in f or '_' in f:
-                    convention_issues.append(os.path.join(folder, f))
-# Print for reference
-for k, v in sorted(existing.items()):
-    print(f"  {v}")
-# Report convention issues
+    if not os.path.isdir(path):
+        continue
+    for f in os.listdir(path):
+        if not f.endswith(".md"):
+            continue
+        stem = f[:-3]
+        existing[stem.lower()] = os.path.join(folder, f)
+        if " " in f or "_" in f or any(c in "áéíóúñÁÉÍÓÚÑ" for c in f):
+            convention_issues.append(os.path.join(folder, f))
+
+for _, rel in sorted(existing.items()):
+    print(f"  {rel}")
+
 if convention_issues:
-    print(f"\nCONVENTION ISSUES ({len(convention_issues)} files with spaces or underscores):")
-    for ci in convention_issues:
-        print(f"  RENAME: {ci} -> {ci.replace(' ', '-').replace('_', '-')}")
-    print("FIX THESE BEFORE CREATING NEW NOTES")
+    print(f"\nCONVENTION ISSUES ({len(convention_issues)} files):")
+    for issue in convention_issues:
+        print(f"  {issue}")
 else:
-    print("\nPASS: all filenames follow kebab-case convention")
+    print("\nPASS: all scanned filenames follow Nexus naming conventions")
 ```
-When extracting concepts from a new article, compare against this list. If a concept already exists (exact match or semantic overlap), UPDATE the existing note with new insights instead of creating a duplicate.
+
+When extracting concepts from a new article, compare against this list. If a concept/tool already exists by exact match or semantic overlap, update the existing note with new insights instead of creating a duplicate.
 
 ### Step 1: Scan raw/ for new articles
+
+```text
+search_files(pattern="*.md", target="files", path="Nexus/raw")
 ```
-search_files(pattern="*.md", target="files", path="vault/raw")
-```
+
 If empty, report "No new articles to process." and stop.
 
 ### Step 2: Read each article
-```
-read_file(path="vault/raw/<filename>.md")
-```
-Read ALL articles in raw/. If an article is very long (>500 lines), read in chunks with offset/limit.
 
-### Step 3: Create source note per article
-For each article, create `source-notes/<Author>-<Short-Topic>.md`:
+```text
+read_file(path="Nexus/raw/<filename>.md")
+```
+
+Read all articles in `raw/`. If an article is very long, read it in chunks with offset/limit.
+
+### Step 3: Preserve raw articles and create summaries
+
+For each article:
+
+1. Copy the raw article unchanged to `raw-notes/<normalized-original-filename>.md`.
+2. Create one compressed summary in `summaries/<Author>-<Short-Topic>.md`.
+3. Link the summary to its raw copy with `[[raw-notes/<normalized-original-filename>]]`.
+4. Link concepts/tools from the summary using folder-qualified wikilinks.
+5. Link concepts/tools back to the summary in their `## Source` section.
+
+Do not modify the copied raw note. The processed layer is the summary and the reusable notes.
+
+Summary template:
+
 ```markdown
 ---
 title: "<original title>"
@@ -88,8 +111,8 @@ type: article
 Compressed 2-3 sentence summary.
 
 ## Core Concepts
-- [[Concept A]] -- one-line description
-- [[Concept B]] -- one-line description
+- [[concepts/Knowledge-Graph]] -- one-line description
+- [[tools/Obsidian]] -- one-line description
 
 ## Key Insights
 - insight 1
@@ -97,55 +120,27 @@ Compressed 2-3 sentence summary.
 
 ## Open Questions
 - question 1
+
+## Source
+[[raw-notes/original-article-filename]]
 ```
 
-**Wikilink validation in source notes:** Every bullet in `## Core Concepts` MUST be a `[[wikilink]]`. Only link concepts that:
-- Will have a corresponding note created (in this batch or already exist)
-- Are NOT template placeholders (e.g., `[[topic-name]]`)
-- Are NOT author names, team names, or organizational entities masquerading as concepts
-- Appear in at least 2 different articles OR are foundational concepts central to this article's topic
+Every bullet in `## Core Concepts` must be a folder-qualified `[[wikilink]]`. Only link notes that exist or will be created in this batch.
 
-**Wikilink validation in atomic notes (Step 4):** The `## Related` section MUST contain at least 2 `[[wikilinks]]` to existing or newly-created notes. The `## Source` section MUST contain exactly one `[[wikilink]]` to the source note for this article. Never use plain text where a wikilink belongs.
+### Step 4: Create or update reusable notes adaptively
 
-**Wikilink validation in glossary (Step 5):** The `See also:` line MUST contain at least one `[[wikilink]]` to a related note.
+Create standalone notes only when the concept or tool:
 
-### Step 4: Extract atomic knowledge notes
-For each article, extract 10-25 atomic notes. Each note represents ONE idea and follows this structure:
+- appears meaningfully in 2+ sources,
+- is foundational to the vault's knowledge model, or
+- connects or clarifies an existing cluster.
 
-**File naming:** `Folder/Concept-Name.md` (kebab-case, no accents, no spaces, no underscores, NO dots except the final `.md` extension, max 64 chars). If a tool name contains a dot (e.g., `CLAUDE.md`), replace it with `-MD-` (e.g., `CLAUDE-MD-Project-Knowledge.md`).
+Prefer updating existing notes over creating new ones. Do not target a fixed number of notes per article. Prefer fewer high-quality notes over many shallow notes.
 
-**HARD RULE — no spaces or underscores in filenames:** Every file in the vault MUST use hyphens as word separators. A file named `My Concept.md` or `my_concept.md` will break wikilinks because `[[My Concept]]` does not resolve to `My-Concept.md` and `[[my_concept]]` does not resolve to `my-concept.md`. Obsidian does NOT auto-match spaces or underscores to hyphens. This rule applies to ALL folders equally (concepts/, source-notes/, glossary/, etc.). Mixed conventions (some files with spaces/underscores, others with hyphens in the same folder) is the #1 cause of broken links.
+Atomic note template:
 
-**Pre-flight filename check (run BEFORE creating files):**
-```python
-import os, re
-vault = "path_to_vault"
-bad_files = []
-for r, ds, fs in os.walk(vault):
-    if '.obsidian' in r or 'raw' in r: continue
-    for f in fs:
-        if f.endswith('.md') and (' ' in f or '_' in f):
-            bad_files.append(os.path.join(os.path.relpath(r, vault), f))
-if bad_files:
-    print(f"FAIL: {len(bad_files)} files with spaces or underscores — rename before proceeding:")
-    for bf in bad_files:
-        print(f"  {bf} -> {bf.replace(' ', '-').replace('_', '-')}")
-else:
-    print("PASS: all filenames use hyphens")
-```
-
-**Wikilink rule:** `[[wikilinks]]` must match the EXACT filename stem (without `.md`). Example: `[[Concept-Name]]` points to `Concept-Name.md`. Never use spaces, accents, dots, or underscores inside `[[...]]`. Always use kebab-case (hyphens). If the file is `AddyOsmani-Agent-Harness-Engineering.md`, the link MUST be `[[source-notes/AddyOsmani-Agent-Harness-Engineering]]` — never `[[Agent-Harness-Engineering]]` (that is a broken link to a non-existent file).
-
-**Wikilink normalization rule:** Every `[[wikilink]]` in every note MUST follow the same normalization as filenames:
-- **Hyphens, not spaces:** `[[Multi-Agent]]` not `[[Multi Agent]]`
-- **No accents/diacritics:** `[[ingenieria]]` not `[[ingeniería]]`
-- **No dots:** `[[CLAUDE-MD-Project]]` not `[[CLAUDE.md-Project]]`
-- **No underscores:** `[[my-concept]]` not `[[my_concept]]`
-- **Preserve original case:** `[[AddyOsmani-...]]` not `[[addyosmani-...]]`
-
-**Template:**
 ```markdown
-# Concept Name
+# Knowledge Graph
 
 ## Definition
 Short compressed explanation.
@@ -159,522 +154,529 @@ Why this concept is important.
 - point
 
 ## Tradeoffs
-Optional. List tradeoffs if relevant.
+Optional tradeoffs.
 
 ## Related
-- [[Related Concept]]
-- [[Another Concept]]
+- [[concepts/Semantic-Similarity]]
+- [[concepts/Entity-Resolution]]
 
 ## Source
-[[Source-Note-Name]]
+[[summaries/Author-Topic]]
 ```
 
-**Folder placement rules:**
-- `concepts/` -- technical concepts, principles, ideas
-- `frameworks/` -- reusable workflows, mental models, methodologies
-- `tools/` -- specific software, plugins, APIs, hardware
-- `architectures/` -- system design patterns, infrastructure
-- `workflows/` -- step-by-step procedures, pipelines
+Folder placement rules:
 
-**Atomic note rules:**
-- ONE single idea per note
-- Should fit on one screen if possible
-- Avoid long prose, avoid generic explanations
-- High signal density
-- DO NOT duplicate concepts across notes -- merge overlapping ideas
-- DO NOT create notes for terms that appear only once in a single article
-- **Cross-article reuse threshold:** Only create a standalone note if the concept appears meaningfully in 2+ articles OR is a foundational concept (e.g., RAG, LLM, embeddings)
-- Prefer fewer high-quality notes over many shallow ones
+- `concepts/` for reusable ideas, principles, definitions, system patterns, and procedures.
+- `tools/` for named software, platforms, libraries, plugins, APIs, hardware, and methodologies.
+- `indexes/` for thematic maps across clusters.
 
-### Step 5: Create glossary entries
-For each key technical term used across multiple notes, create a glossary entry:
+### Step 5: Create or update index notes
+
+Create or update index notes when a batch introduces or expands an important thematic cluster.
+
 ```markdown
-# Term Name
-
-One-sentence definition.
-
-- key fact 1
-- key fact 2
-- key fact 3
-
-See also: [[Related Note]], [[Another Note]]
-```
-
-### Step 6: Create index notes
-Create index notes that map related concepts. One index per important thematic cluster:
-```markdown
-# Topic Index
+# Knowledge Systems Index
 
 ## Overview
 One-line description.
 
 ## Core Concepts
-- [[Concept A]] -- description
-- [[Concept B]] -- description
-
-## Frameworks
-- [[Framework A]] -- description
+- [[concepts/Knowledge-Graph]] -- description
+- [[concepts/Semantic-Similarity]] -- description
 
 ## Tools
-- [[Tool A]] -- description
-
-## Glossary
-- [[Term A]]
+- [[tools/Obsidian]] -- description
 
 ## Sources
-- [[Source-Note]]
+- [[summaries/Author-Topic]]
 ```
 
-### Step 7: Normalize wikilinks AND validate filename conventions
-Before verifying, run a normalization script that fixes all `[[wikilinks]]` to match actual filenames AND checks filename convention consistency. The script must:
-1. Collect all `.md` files in the vault and build a normalized map (strip accents, lowercase, spaces->hyphens)
-2. **CHECK for files with spaces** — if any exist, RENAME them to use hyphens before proceeding
-3. Walk each file and replace `[[link]]` with the correct name
-4. Report unresolved links
+## Naming and Wikilink Rules
+
+Filenames:
+
+- Use hyphenated filenames.
+- Do not use spaces.
+- Do not use underscores.
+- Do not use accents or diacritics.
+- Do not use dots except the final `.md` extension.
+- Keep names stable and reusable, not source-specific.
+
+Wikilinks:
+
+- Always include the folder path.
+- Match the exact filename stem.
+- Use hyphens, no spaces, no underscores, no accents.
+- Preserve filename case.
+
+Good examples:
+
+- `[[concepts/Knowledge-Graph]]`
+- `[[concepts/Agent-Swarm-Architecture]]`
+- `[[tools/CLAUDE-MD-Project-Knowledge]]`
+- `[[summaries/AddyOsmani-Agent-Harness-Engineering]]`
+- `[[raw-notes/building-effective-ai-agents]]`
+
+Invalid patterns:
+
+- Bare links without folder paths.
+- Links containing spaces.
+- Links containing underscores.
+- Links containing accents or diacritics.
+- Links containing dots inside the filename stem.
+
+## Validation Flow
+
+Run validation in this order:
+
+1. Normalize filenames and wikilinks.
+2. Verify link resolution and source connectivity.
+3. Detect plain-text references.
+4. Produce validation report.
+
+All operations that rename, delete, unwrap, merge, or otherwise remove information must support an explicit dry-run phase before an apply phase.
+
+### Step 6: Normalize filenames and wikilinks
+
+Dry-run first:
 
 ```python
 import os, re, unicodedata
-vault = "path_to_vault"
-def norm(n):
-    if n.endswith('.md'):
-        n = n[:-3]
-    nfkd = unicodedata.normalize('NFKD', n)
-    return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
-# Helper: check directory by basename (os.walk returns paths without trailing slash)
-def in_dir(r, name):
-    return os.path.basename(r) == name
-SKIP_DIRS = {'obsidian', 'raw'}
 
-# --- PHASE 1: Check and fix filenames with spaces or underscores ---
-bad_files = []
-for r,ds,fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if f.endswith('.md') and (' ' in f or '_' in f):
-            bad_files.append(os.path.join(r, f))
-if bad_files:
-    print(f"RENAMING {len(bad_files)} files with spaces or underscores:")
-    for old_path in bad_files:
-        new_path = old_path.replace(' ', '-').replace('_', '-')
-        os.rename(old_path, new_path)
-        print(f"  {os.path.relpath(old_path, vault)} -> {os.path.relpath(new_path, vault)}")
-else:
-    print("PASS: all filenames use hyphens")
+vault = "Nexus"
+SKIP_DIRS = {".obsidian", "raw"}
 
-# --- PHASE 2: Build file map with FULL paths and normalize wikilinks ---
-# CRITICAL: map to relative paths (folder/filename), NOT just basename.
-# A bare link [[SAM]] should resolve to concepts/SAM, not just SAM.
-# A wrong-folder link [[concepts/Agentic-RAG]] should resolve to source-notes/Agentic-RAG.
-fmap_by_norm = {}   # norm(basename) -> relative path (e.g., "concepts/SAM")
-fmap_by_path = {}   # norm(full_rel) -> relative path (e.g., "concepts/Agentic-RAG" -> "source-notes/Agentic-RAG")
-for r,ds,fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if f.endswith('.md'):
-            rel = os.path.relpath(os.path.join(r, f), vault)[:-3]  # remove .md
-            basename = os.path.basename(rel)
-            fmap_by_norm[norm(basename)] = rel
-            fmap_by_path[norm(rel)] = rel
-counter = [0]
-for r,ds,fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if not f.endswith('.md'): continue
-        p = os.path.join(r,f)
-        with open(p) as fh: content = fh.read()
-        def make_fix(fmap_norm, fmap_path, cnt):
-            def fix(m):
-                raw = m.group(1)
-                anchor = ''
-                label = ''
-                # Parse [[target#anchor|label]] or [[target|label]]
-                if '|' in raw:
-                    raw, label = raw.split('|', 1)
-                    label = '|' + label
-                if '#' in raw:
-                    raw, anchor = raw.split('#', 1)
-                    anchor = '#' + anchor
-                target = raw.strip()
-                # Try exact path match first (e.g., concepts/SAM)
-                if norm(target) in fmap_path:
-                    resolved = fmap_path[norm(target)]
-                # Then try basename match (e.g., SAM -> concepts/SAM)
-                elif norm(os.path.basename(target)) in fmap_norm:
-                    resolved = fmap_norm[norm(os.path.basename(target))]
-                else:
-                    return m.group(0)  # cannot resolve, leave as-is
-                if target != resolved:
-                    cnt[0] += 1
-                    return '[[{0}{1}{2}]]'.format(resolved, anchor, label)
-                return m.group(0)
-            return fix
-        fix_fn = make_fix(fmap_by_norm, fmap_by_path, counter)
-        nc = re.sub(r'\[\[([^\]]+)\]\]', fix_fn, content)
-        if nc != content:
-            with open(p,'w') as fh: fh.write(nc)
-print(f"Normalized: {counter[0]} links")
+def strip_accents(text):
+    nfkd = unicodedata.normalize("NFKD", text)
+    return "".join(c for c in nfkd if not unicodedata.combining(c))
+
+def normalize_stem(stem):
+    stem = strip_accents(stem)
+    stem = stem.replace(" ", "-").replace("_", "-").replace(".", "-")
+    stem = re.sub(r"-+", "-", stem).strip("-")
+    return stem
+
+def should_skip(root):
+    parts = set(os.path.normpath(root).split(os.sep))
+    return bool(parts & SKIP_DIRS)
+
+renames = []
+for root, dirs, files in os.walk(vault):
+    dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+    if should_skip(root):
+        continue
+    for f in files:
+        if not f.endswith(".md"):
+            continue
+        stem = f[:-3]
+        normalized = normalize_stem(stem)
+        if normalized != stem:
+            old = os.path.join(root, f)
+            new = os.path.join(root, normalized + ".md")
+            renames.append((old, new))
+
+print("DRY RUN: filename renames")
+for old, new in renames:
+    print(f"  {os.path.relpath(old, vault)} -> {os.path.relpath(new, vault)}")
 ```
 
-### Step 8b: Detect plain text where wikilinks belong
-Run a script that scans `## Related`, `## Core Concepts`, `## Sources`, `## Glossary`, and `See also:` sections for bullet points or entries that look like concept names but are NOT wrapped in `[[ ]]`. These are "invisible broken links" — they look like references but Obsidian won't resolve them:
+Apply only after reviewing the dry-run output:
+
 ```python
-import os, re
-vault = "path_to_vault"
-def in_dir(r, name):
-    return os.path.basename(r) == name
-SKIP_DIRS = {'obsidian', 'raw'}
-# Pattern: bullet point with text that looks like a concept name (contains hyphens or is TitleCase)
-# but is NOT a wikilink
-plain_ref_pattern = re.compile(r'^- ([A-Z][A-Za-z]+(?:[- ][A-Z][A-Za-z]+)+)\s*$')
-# Also: "See also:" line with non-wikilink text
-see_also_pattern = re.compile(r'^See also:.*?([A-Z][A-Za-z]+(?:[- ][A-Z][A-Za-z]+)+)')
-plain_refs = []
-for r, ds, fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if not f.endswith('.md'): continue
-        fp = os.path.join(r, f)
-        with open(fp) as fh:
-            for i, line in enumerate(fh, 1):
-                m = plain_ref_pattern.match(line.strip())
-                if m:
-                    text = m.group(1)
-                    # Check it's not already a wikilink on this line
-                    if '[[{0}]'.format(text) not in line and '[[' not in line:
-                        plain_refs.append((f, i, text))
-                m2 = see_also_pattern.match(line.strip())
-                if m2:
-                    text = m2.group(1)
-                    if '[[{0}]'.format(text) not in line:
-                        plain_refs.append((f, i, text))
-if plain_refs:
-    print(f"PLAIN TEXT REFS (should be wikilinks) ({len(plain_refs)}):")
-    for fn, ln, txt in plain_refs:
-        print(f"  {fn}:{ln}  '{txt}' -> should be [[{txt}]] or full filename")
-else:
-    print("No plain-text references found.")
+APPLY = False
+
+if APPLY:
+    for old, new in renames:
+        if os.path.exists(new):
+            print(f"SKIP collision: {old} -> {new}")
+            continue
+        os.rename(old, new)
 ```
 
-### Step 8a: Verify cross-link coherence AND source note connectivity
-Run a Python script to verify all `[[wikilinks]]` resolve to existing files AND that every source note has at least one outgoing wikilink. This script checks BOTH basename resolution AND folder path correctness:
+After filename normalization, normalize wikilinks to actual folder-qualified paths. Run dry-run first, then set `APPLY = True` only after reviewing the replacement list.
+
 ```python
 import os, re, unicodedata
-vault = "path_to_vault"
-def norm(n):
-    if n.endswith('.md'):
-        n = n[:-3]
-    nfkd = unicodedata.normalize('NFKD', n)
-    return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
-def in_dir(r, name):
-    return os.path.basename(r) == name
-SKIP_DIRS = {'obsidian', 'raw'}
 
-# Build maps: basename-norm -> rel path, AND full-path-norm -> rel path
-existing_by_name = {}
+vault = "Nexus"
+APPLY = False
+SKIP_DIRS = {".obsidian", "raw"}
+
+def norm(value):
+    value = value[:-3] if value.endswith(".md") else value
+    nfkd = unicodedata.normalize("NFKD", value)
+    value = "".join(c for c in nfkd if not unicodedata.combining(c))
+    return value.lower().replace(" ", "-").replace("_", "-")
+
+def should_skip(root):
+    parts = set(os.path.normpath(root).split(os.sep))
+    return bool(parts & SKIP_DIRS)
+
+by_path = {}
+by_name = {}
+for root, dirs, files in os.walk(vault):
+    dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+    if should_skip(root):
+        continue
+    for f in files:
+        if f.endswith(".md"):
+            rel = os.path.relpath(os.path.join(root, f), vault)[:-3].replace(os.sep, "/")
+            by_path[norm(rel)] = rel
+            by_name[norm(os.path.basename(rel))] = rel
+
+changes = []
+for root, dirs, files in os.walk(vault):
+    dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+    if should_skip(root):
+        continue
+    for f in files:
+        if not f.endswith(".md"):
+            continue
+        path = os.path.join(root, f)
+        with open(path, encoding="utf-8") as fh:
+            content = fh.read()
+
+        replacements = []
+        def fix(match):
+            raw = match.group(1)
+            target, suffix = raw, ""
+            if "|" in target:
+                target, label = target.split("|", 1)
+                suffix = "|" + label
+            if "#" in target:
+                target, anchor = target.split("#", 1)
+                suffix = "#" + anchor + suffix
+            target = target.strip()
+            key_path = norm(target)
+            key_name = norm(os.path.basename(target))
+            resolved = by_path.get(key_path) or by_name.get(key_name)
+            if not resolved:
+                return match.group(0)
+            new_link = f"[[{resolved}{suffix}]]"
+            if new_link != match.group(0):
+                replacements.append((match.group(0), new_link))
+            return new_link
+
+        new_content = re.sub(r"\[\[([^\]]+)\]\]", fix, content)
+        if replacements:
+            changes.append((path, replacements, content, new_content))
+
+print("DRY RUN: wikilink replacements")
+for path, replacements, _, _ in changes:
+    rel = os.path.relpath(path, vault)
+    for old, new in replacements:
+        print(f"  {rel}: {old} -> {new}")
+
+if APPLY:
+    for path, _, _, new_content in changes:
+        with open(path, "w", encoding="utf-8") as fh:
+            fh.write(new_content)
+```
+
+### Step 7: Verify link resolution and source connectivity
+
+Verify all `[[wikilinks]]` resolve to existing files and every summary links to its raw note. Also verify concepts/tools link back to summaries rather than raw notes.
+
+```python
+import os, re, unicodedata
+
+vault = "Nexus"
+SKIP_DIRS = {".obsidian", "raw"}
+
+def norm(value):
+    value = value[:-3] if value.endswith(".md") else value
+    nfkd = unicodedata.normalize("NFKD", value)
+    value = "".join(c for c in nfkd if not unicodedata.combining(c))
+    return value.lower().replace(" ", "-").replace("_", "-")
+
+def should_skip(root):
+    parts = set(os.path.normpath(root).split(os.sep))
+    return bool(parts & SKIP_DIRS)
+
 existing_by_path = {}
-all_rel_paths = set()
-for r,ds,fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if f.endswith('.md'):
-            rel = os.path.relpath(os.path.join(r, f), vault)[:-3]
-            basename = os.path.basename(rel)
-            existing_by_name[norm(basename)] = rel
+existing_by_name = {}
+for root, dirs, files in os.walk(vault):
+    dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+    if should_skip(root):
+        continue
+    for f in files:
+        if f.endswith(".md"):
+            rel = os.path.relpath(os.path.join(root, f), vault)[:-3].replace(os.sep, "/")
             existing_by_path[norm(rel)] = rel
-            all_rel_paths.add(rel)
+            existing_by_name[norm(os.path.basename(rel))] = rel
 
 broken = []
+bare_links = []
 wrong_folder = []
-no_links = []
-for r,ds,fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if not f.endswith('.md'): continue
-        fp = os.path.join(r,f)
-        with open(fp) as fh:
+summary_without_raw = []
+knowledge_without_summary = []
+
+for root, dirs, files in os.walk(vault):
+    dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+    if should_skip(root):
+        continue
+    folder = os.path.basename(root)
+    for f in files:
+        if not f.endswith(".md"):
+            continue
+        path = os.path.join(root, f)
+        rel_file = os.path.relpath(path, vault).replace(os.sep, "/")
+        with open(path, encoding="utf-8") as fh:
             content = fh.read()
-        links = re.findall(r'\[\[([^\]]+)\]\]', content)
-        if in_dir(r, 'source-notes') and not links:
-            no_links.append(f)
-        for link in links:
-            target = link.split('|')[0].strip()
-            if not target or target.startswith('@') or target.startswith('http') or target.startswith('mailto:'):
+        links = []
+        for raw in re.findall(r"\[\[([^\]]+)\]\]", content):
+            target = raw.split("|", 1)[0].split("#", 1)[0].strip()
+            if not target or target.startswith("http") or target.startswith("mailto:"):
                 continue
-            # Strip anchor
-            target = target.split('#')[0]
-            # Check if target has a folder prefix
-            if '/' in target:
-                # Has folder — verify it matches the actual location
-                if norm(target) in existing_by_path:
-                    actual = existing_by_path[norm(target)]
-                    if target != actual:
-                        wrong_folder.append((f, target, actual))
-                elif norm(os.path.basename(target)) in existing_by_name:
-                    actual = existing_by_name[norm(os.path.basename(target))]
-                    if os.path.dirname(target) and target != actual:
-                        wrong_folder.append((f, target, actual))
-                else:
-                    broken.append((f, target))
+            links.append(target)
+            if "/" not in target:
+                bare_links.append((rel_file, target))
+            if norm(target) in existing_by_path:
+                actual = existing_by_path[norm(target)]
+                if target != actual:
+                    wrong_folder.append((rel_file, target, actual))
+            elif norm(os.path.basename(target)) in existing_by_name:
+                actual = existing_by_name[norm(os.path.basename(target))]
+                wrong_folder.append((rel_file, target, actual))
             else:
-                # Bare link — check if it resolves at all
-                if norm(target) not in existing_by_name:
-                    broken.append((f, target))
-if broken:
-    print(f"BROKEN ({len(broken)}): {broken}")
-else:
-    print("All links resolve.")
-if wrong_folder:
-    print(f"WRONG FOLDER ({len(wrong_folder)}):")
-    for src, bad, good in wrong_folder:
-        print(f"  {src}: [[{bad}]] -> should be [[{good}]]")
-if no_links:
-    print(f"SOURCE NOTES WITHOUT LINKS ({len(no_links)}): {no_links} -- FIX BEFORE CLEANING raw/")
-else:
-    print("All source notes have outgoing links.")
+                broken.append((rel_file, target))
+
+        if folder == "summaries" and not any(link.startswith("raw-notes/") for link in links):
+            summary_without_raw.append(rel_file)
+        if folder in {"concepts", "tools"} and not any(link.startswith("summaries/") for link in links):
+            knowledge_without_summary.append(rel_file)
+
+print(f"BROKEN LINKS: {len(broken)}")
+for item in broken:
+    print(f"  {item[0]} -> [[{item[1]}]]")
+print(f"BARE LINKS: {len(bare_links)}")
+for item in bare_links:
+    print(f"  {item[0]} -> [[{item[1]}]]")
+print(f"WRONG FOLDER LINKS: {len(wrong_folder)}")
+for src, bad, good in wrong_folder:
+    print(f"  {src}: [[{bad}]] -> [[{good}]]")
+print(f"SUMMARIES WITHOUT RAW-NOTES LINK: {len(summary_without_raw)}")
+for item in summary_without_raw:
+    print(f"  {item}")
+print(f"CONCEPTS/TOOLS WITHOUT SUMMARY LINK: {len(knowledge_without_summary)}")
+for item in knowledge_without_summary:
+    print(f"  {item}")
 ```
 
-### Step 9: Triage broken links
-When broken links are found, classify each one and apply the appropriate fix:
+### Step 8: Detect plain-text references
 
-**Category A: Reusable concept (appears in 2+ source notes)**
-- Create the missing note. This is a concept that transcends a single article.
+Scan structured relationship sections for references that look like note names but are not wrapped in `[[ ]]`.
 
-**Category B: Single-use reference (appears in only 1 source note)**
-- Remove the `[[wikilink]]` wrapper and leave the text as plain text.
-- Example: `[[Human-AI-Orchestration]]` -> `Human-AI-Orchestration`
-- The concept is worth mentioning but not worth a standalone note.
-
-**Category C: Placeholder or false reference**
-- Template placeholders: `[[topic-name]]`, `[[your-topic]]`
-- Author/team names: `[[Open-source Projects Team]]`, `[[Author Name]]`
-- Remove the `[[wikilink]]` wrapper entirely.
-
-**Category D: Wrong folder path (file exists but link points to wrong folder)**
-- Example: `[[concepts/Agentic-RAG]]` when the file lives in `source-notes/Agentic-RAG.md`
-- Fix: replace with the correct folder path `[[source-notes/Agentic-RAG]]`
-- This is the most common "silent" broken link — Obsidian resolves it by basename so it looks fine, but the link is technically wrong and will break if two folders share a basename.
-- The Step 7 normalization script fixes these automatically. The Step 8a script reports them as "WRONG FOLDER".
-
-**Triage script:**
-```python
-import os, re, unicodedata, collections
-vault = "path_to_vault"
-def norm(n):
-    if n.endswith('.md'):
-        n = n[:-3]
-    nfkd = unicodedata.normalize('NFKD', n)
-    return ''.join(c for c in nfkd if not unicodedata.combining(c)).lower().replace(' ','-').replace('_','-')
-def in_dir(r, name):
-    return os.path.basename(r) == name
-SKIP_DIRS = {'obsidian', 'raw'}
-
-# Build resolution maps
-existing_by_name = {}
-existing_by_path = {}
-for r,ds,fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if f.endswith('.md'):
-            rel = os.path.relpath(os.path.join(r, f), vault)[:-3]
-            basename = os.path.basename(rel)
-            existing_by_name[norm(basename)] = rel
-            existing_by_path[norm(rel)] = rel
-
-broken_counts = collections.Counter()
-wrong_folder_counts = collections.Counter()
-broken_sources = collections.defaultdict(list)
-for r,ds,fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if not f.endswith('.md'): continue
-        with open(os.path.join(r,f)) as fh:
-            for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
-                target = link.split('|')[0].strip().split('#')[0]
-                if not target or target.startswith('@') or target.startswith('http'):
-                    continue
-                # Check if target has folder prefix
-                if '/' in target:
-                    if norm(target) in existing_by_path:
-                        actual = existing_by_path[norm(target)]
-                        if target != actual:
-                            wrong_folder_counts[target] += 1
-                    elif norm(os.path.basename(target)) in existing_by_name:
-                        actual = existing_by_name[norm(os.path.basename(target))]
-                        if target != actual:
-                            wrong_folder_counts[target] += 1
-                    else:
-                        broken_counts[target] += 1
-                        broken_sources[target].append(f)
-                else:
-                    if norm(target) not in existing_by_name:
-                        broken_counts[target] += 1
-                        broken_sources[target].append(f)
-
-placeholders_kw = {'topic-name', 'your-topic', 'insert-topic'}
-reusable = {k:v for k,v in broken_counts.items() if v >= 2}
-single_use = {k:v for k,v in broken_counts.items() if v == 1 and k.lower().replace('_','-') not in placeholders_kw}
-placeholder = {k:v for k,v in broken_counts.items() if k.lower().replace('_','-') in placeholders_kw}
-print(f"CREATE NOTES ({len(reusable)}): {dict(reusable)}")
-print(f"REMOVE LINKS ({len(single_use)}): {dict(single_use)}")
-print(f"PLACEHOLDERS ({len(placeholder)}): {dict(placeholder)}")
-if wrong_folder_counts:
-    print(f"WRONG FOLDER ({len(wrong_folder_counts)}) — fix with Step 7 normalization:")
-    for k,v in wrong_folder_counts.most_common(10):
-        print(f"  [[{k}]] (x{v})")
-```
-
-### Step 10: Clean raw/
-**GATE:** Only proceed if Step 8a reports ALL THREE: "All links resolve" AND "no WRONG FOLDER issues" AND "All source notes have outgoing links" AND Step 8b reports "No plain-text references found." If any check fails, DO NOT delete raw/ files — fix the issues first. Raw files are the only source material; once deleted, information cannot be recovered.
-
-After successful processing and zero broken links, delete processed articles from `raw/`.
-
-## Maintenance (periodic)
-
-Run these checks every 10-15 new articles processed:
-
-### Filename convention audit
-Run this check every batch. Mixed conventions (spaces/underscores vs hyphens) are the #1 cause of broken links:
-```python
-import os
-vault = "path_to_vault"
-bad = []
-for r, ds, fs in os.walk(vault):
-    if '.obsidian' in r or 'raw' in r: continue
-    for f in fs:
-        if f.endswith('.md'):
-            if ' ' in f:
-                bad.append(os.path.join(os.path.relpath(r, vault), f))
-            if '_' in f:
-                bad.append(os.path.join(os.path.relpath(r, vault), f) + " (has underscore)")
-            if any(c in 'áéíóúñÁÉÍÓÚÑ' for c in f):
-                bad.append(os.path.join(os.path.relpath(r, vault), f) + " (has accents)")
-if bad:
-    print(f"FAIL: {len(bad)} files violate naming convention:")
-    for b in bad:
-        print(f"  {b}")
-else:
-    print("PASS: all filenames use kebab-case, no accents, no spaces, no underscores")
-```
-
-### Source note link audit
-When processing new articles, also scan ALL existing source notes for link coverage. A source note with zero `[[wikilinks]]` is disconnected from the knowledge graph. Fix by adding wikilinks to relevant concepts that now exist in the vault:
 ```python
 import os, re
-vault = "path_to_vault"
-source_dir = os.path.join(vault, "source-notes")
-for f in os.listdir(source_dir):
-    if not f.endswith('.md'): continue
-    fp = os.path.join(source_dir, f)
-    with open(fp) as fh:
-        links = re.findall(r'\[\[([^\]]+)\]\]', fh.read())
-    if not links:
-        print(f"DISCONNECTED: {f} — add wikilinks to Core Concepts")
+
+vault = "Nexus"
+SKIP_DIRS = {".obsidian", "raw", "raw-notes"}
+section_names = {"Related", "Core Concepts", "Tools", "Sources", "Source"}
+plain_refs = []
+heading = None
+
+def should_skip(root):
+    parts = set(os.path.normpath(root).split(os.sep))
+    return bool(parts & SKIP_DIRS)
+
+candidate = re.compile(r"^- ([A-Z][A-Za-z0-9]+(?:-[A-Z0-9][A-Za-z0-9]+)+)(?:\s|$)")
+
+for root, dirs, files in os.walk(vault):
+    dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+    if should_skip(root):
+        continue
+    for f in files:
+        if not f.endswith(".md"):
+            continue
+        rel = os.path.relpath(os.path.join(root, f), vault)
+        heading = None
+        with open(os.path.join(root, f), encoding="utf-8") as fh:
+            for line_no, line in enumerate(fh, 1):
+                line = line.rstrip("\n")
+                m_heading = re.match(r"^##\s+(.+)$", line)
+                if m_heading:
+                    heading = m_heading.group(1).strip()
+                    continue
+                if heading not in section_names:
+                    continue
+                if "[[" in line:
+                    continue
+                m = candidate.match(line.strip())
+                if m:
+                    plain_refs.append((rel, line_no, m.group(1)))
+
+print(f"PLAIN TEXT REFERENCES: {len(plain_refs)}")
+for rel, line_no, text in plain_refs:
+    print(f"  {rel}:{line_no} -> {text}")
+```
+
+### Step 9: Produce validation report
+
+Summarize the validation result before any destructive apply phase:
+
+```text
+Validation report:
+- Filename normalization pending: <count>
+- Wikilink normalization pending: <count>
+- Broken links: <count>
+- Bare links: <count>
+- Wrong-folder links: <count>
+- Summaries without raw-notes link: <count>
+- Concepts/tools without summary link: <count>
+- Plain-text references: <count>
+- Raw files eligible for cleanup: yes/no
+- Destructive actions proposed: <list>
+```
+
+## Destructive Operations Policy
+
+The following operations must always be split into explicit dry-run and apply phases:
+
+- Rename files.
+- Delete processed files from `raw/`.
+- Unwrap wikilinks for single-use or false references.
+- Merge orphan notes.
+- Delete orphan notes or stale duplicate notes.
+
+Dry-run output must list exact file paths and replacements/deletions. Apply only when the dry-run report is clean and the user has asked to proceed.
+
+### Broken link triage
+
+When broken links are found, classify each one:
+
+- **Reusable concept/tool:** Appears in 2+ sources, is foundational, or connects a cluster. Create the missing note or update an existing overlapping note.
+- **Single-use reference:** Appears in only 1 source and is not foundational. Dry-run unwrapping `[[concepts/Trade-Capture-System]]` to `Trade Capture System`.
+- **Placeholder or false reference:** Template placeholder, author name, team name, or organization. Dry-run removal or unwrapping.
+- **Wrong folder path:** File exists but link points elsewhere. Normalize to the actual folder-qualified path.
+
+### Raw cleanup
+
+Only delete processed files from `raw/` after:
+
+- filename and wikilink normalization has been applied,
+- all wikilinks resolve,
+- no bare or wrong-folder links remain,
+- every summary links to `raw-notes/`,
+- every new concept/tool links to `summaries/`,
+- no plain-text references remain in structured relationship sections, and
+- the validation report lists the exact raw files to delete.
+
+Deletion must be dry-run first:
+
+```python
+processed_raw_files = [
+    "Nexus/raw/example-article.md",
+]
+
+print("DRY RUN: raw files to delete")
+for path in processed_raw_files:
+    print(f"  DELETE {path}")
+
+APPLY = False
+if APPLY:
+    for path in processed_raw_files:
+        os.remove(path)
+```
+
+## Maintenance
+
+Run these checks every 10-15 processed articles.
+
+### Filename convention audit
+
+```python
+import os
+
+vault = "Nexus"
+bad = []
+for root, dirs, files in os.walk(vault):
+    dirs[:] = [d for d in dirs if d not in {".obsidian", "raw"}]
+    if ".obsidian" in root.split(os.sep) or "raw" in root.split(os.sep):
+        continue
+    for f in files:
+        if f.endswith(".md") and (" " in f or "_" in f or any(c in "áéíóúñÁÉÍÓÚÑ" for c in f)):
+            bad.append(os.path.join(os.path.relpath(root, vault), f))
+
+if bad:
+    print(f"FAIL: {len(bad)} files violate naming convention:")
+    for item in bad:
+        print(f"  {item}")
+else:
+    print("PASS: all filenames use hyphens, no accents, no spaces, no underscores")
 ```
 
 ### Orphan detection
-Find notes that are not referenced by any other note:
+
+Find notes that are not referenced by any other note. Orphans are not always bad, but persistent orphans should be reviewed.
+
 ```python
 import os, re
-vault = "path_to_vault"
-def in_dir(r, name):
-    return os.path.basename(r) == name
-SKIP_DIRS = {'obsidian', 'raw'}
+
+vault = "Nexus"
+SKIP_DIRS = {".obsidian", "raw", "raw-notes"}
 all_notes = set()
 referenced = set()
 index_notes = set()
-for r,ds,fs in os.walk(vault):
-    if in_dir(r, '.obsidian') or in_dir(r, 'raw'): continue
-    ds[:] = [d for d in ds if d not in SKIP_DIRS]
-    for f in fs:
-        if f.endswith('.md'):
-            all_notes.add(f[:-3])
-            if in_dir(r, 'indexes'):
-                index_notes.add(f[:-3])
-            with open(os.path.join(r,f)) as fh:
-                for link in re.findall(r'\[\[([^\]]+)\]\]', fh.read()):
-                    target = link.split('|')[0]
-                    referenced.add(target)
-orphans = all_notes - referenced - index_notes
-if orphans:
-    print(f"ORPHANS ({len(orphans)}): {sorted(orphans)}")
-else:
-    print("No orphans.")
-```
-Orphaned notes are not necessarily bad — they may be leaf concepts. But if a note has been orphaned for multiple processing cycles, consider whether it should be merged into a parent concept or removed.
 
-### Orphan resolution strategy
-- **Glossary orphans**: Often created as quick references but never linked back. Run a content search to find notes that mention the orphan's topic and add a `See also: [[Orphan-Name]]` link.
-- **Concept/Framework orphans**: Check if the concept was superseded by a broader note. If so, merge content and remove the orphan. If it's genuinely standalone, add it to a relevant index note.
-- **Persistent orphans (3+ cycles)**: Strong signal the note doesn't fit the vault's knowledge model — merge or delete.
+for root, dirs, files in os.walk(vault):
+    dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+    if set(os.path.normpath(root).split(os.sep)) & SKIP_DIRS:
+        continue
+    folder = os.path.basename(root)
+    for f in files:
+        if not f.endswith(".md"):
+            continue
+        rel = os.path.relpath(os.path.join(root, f), vault)[:-3].replace(os.sep, "/")
+        all_notes.add(rel)
+        if folder == "indexes":
+            index_notes.add(rel)
+        with open(os.path.join(root, f), encoding="utf-8") as fh:
+            for link in re.findall(r"\[\[([^\]]+)\]\]", fh.read()):
+                target = link.split("|", 1)[0].split("#", 1)[0].strip()
+                referenced.add(target)
+
+orphans = all_notes - referenced - index_notes
+print(f"ORPHANS: {len(orphans)}")
+for item in sorted(orphans):
+    print(f"  {item}")
+```
+
+Orphan resolution must be dry-run first:
+
+- Add missing links from related notes or indexes.
+- Merge content into a broader note when the orphan overlaps an existing concept/tool.
+- Delete only stale duplicates or notes that clearly fail the knowledge model.
 
 ### Index consolidation
-Indexes grow with each ingest but are never pruned or reorganized. After every 15-20 new articles (or when the user asks), run an index audit:
 
-1. **List all indexes with their link counts:**
-```python
-import os, re
-vault = "path_to_vault"
-index_dir = os.path.join(vault, "indexes")
-for f in sorted(os.listdir(index_dir)):
-    fp = os.path.join(index_dir, f)
-    with open(fp) as fh:
-        content = fh.read()
-    links = re.findall(r'\[\[([^\]]+)\]\]', content)
-    print(f"{f}: {len(links)} links, {len(content)} chars")
-```
+After every 15-20 new articles, audit indexes:
 
-2. **Detect overlap** — indexes that share 3+ concepts likely have overlapping scope. Consider merging them into a broader index or clearly differentiating their boundaries.
-
-3. **Merge small indexes** — indexes with fewer than 15 links often fit better as a section within a broader parent index. Merge the content and remove the small index.
-
-4. **Add a meta-index** — `indexes/Vault-Index.md` that maps all indexes to each other with one-line descriptions. This gives users a navigation map of the vault's knowledge domains.
-
-5. **Add frontmatter to indexes** — `created:` and `last_updated:` dates so stale indexes are identifiable.
-
-6. **Remove stale entries** — concepts that have been merged or deleted may leave dead links in indexes. The cross-link verification (Step 8) catches these.
-
-### Stale file cleanup
-After renaming a concept note (e.g., `Management-of-Change-for-Alarms.md` → `Management-of-Change.md`), the old file MUST be explicitly deleted. The rename creates a new file but leaves the old one behind, creating a duplicate that confuses future scans. Always verify by listing files matching the concept name pattern and delete any stale duplicates.
+- List all indexes with link counts.
+- Detect overlapping indexes that share 3+ concepts/tools.
+- Merge small indexes only after a dry-run report.
+- Keep `indexes/Vault-Index.md` as the map of maps.
+- Remove stale entries caught by link validation.
 
 ## Key Principles
-- **Dense over verbose** -- compress knowledge, don't summarize
-- **Atomic over large** -- one idea per note
-- **Reusable over specific** -- extract abstractions, not course summaries
-- **Linked over archived** -- semantic wikilinks beat folder hierarchies
-- **Signal over completeness** -- prefer fewer high-quality notes
-- **Merge overlapping concepts** -- no duplication
-- **Every note provides standalone value** -- a reader must understand the note without reading anything else
-- **Growth is controlled** -- every new note must justify its existence through reuse or foundational importance
+
+- **Dense over verbose:** compress knowledge, do not archive everything.
+- **Atomic over large:** one reusable idea per note.
+- **Reusable over specific:** extract abstractions, not article-shaped notes.
+- **Linked over archived:** semantic wikilinks beat folder hierarchy.
+- **Signal over completeness:** prefer fewer high-quality notes.
+- **Merge overlapping concepts:** no duplicate notes for the same idea.
+- **Source traceability:** concepts/tools link to summaries; summaries link to raw-notes.
+- **Immutable originals:** raw articles copied to `raw-notes/` are never modified.
+- **Controlled growth:** every new note must justify itself through reuse, foundation, or cluster connectivity.
 
 ## Pitfalls
-- DO NOT generate giant summaries -- source notes must be compact
-- DO NOT create notes for terms that appear only once in a single article
-- DO NOT overuse tags -- wikilinks are the primary connection mechanism
-- DO NOT create generic AI-fluff notes -- every note must have technical specificity
-- DO NOT skip the wikilink normalization step (Step 7)
-- DO NOT skip the cross-link verification step (Step 8)
-- DO NOT skip the broken link triage (Step 9) — this is where sustainability is enforced
-- DO NOT delete raw/ files until Step 8 passes both checks (coherent links + source notes have outgoing links)
-- `[[wikilinks]]` must use EXACTLY the filename: kebab-case, no accents, no spaces
-- **NEVER use dots in filenames** (except the final `.md` extension). A file named `CLAUDE.md-Project-Knowledge.md` will break the normalization script because `n.replace('.md','')` strips ALL `.md` occurrences. Use `CLAUDE-MD-Project-Knowledge.md` instead.
-- If two articles cover the same concept, UPDATE the existing note instead of creating a duplicate
-- Source notes should reference concepts, not contain complete explanations
-- Glossary entries should be quick reference, not full notes
-- **Do not create notes for broken links automatically** — triage first (Step 9). A broken link from a single article does not justify a new note.
-- **Source notes MUST use `[[wikilinks]]` in the Core Concepts section** — never plain text. Each bullet should be `[[Concept-Name]] -- one-line description`. This is the primary connection mechanism between source notes and the knowledge graph.
-- **Atomic notes MUST use `[[wikilinks]]` in `## Related` and `## Source` sections** — never plain text.
-- **Glossary entries MUST use `[[wikilinks]]` in `See also:`** — never plain text.
-- **Plain text references in Related/See also sections are invisible broken links** — e.g., `- Agent-Harness-Engineering` without `[[ ]]` looks like a reference but Obsidian won't resolve it. Step 8b catches these.
-- **When referencing source notes, use the FULL filename stem** — if the file is `AddyOsmani-Agent-Harness-Engineering.md`, the link must be `[[AddyOsmani-Agent-Harness-Engineering]]`. Never shorten it to `[[Agent-Harness-Engineering]]`.
-- **When renaming a concept note, delete the old file.** Creating a new note with a refined name (e.g., `Management-of-Change-for-Alarms.md` → `Management-of-Change.md`) does NOT automatically remove the old one. Always delete the stale duplicate immediately after creating the replacement.
-- **NEVER mix space and hyphen conventions.** If 119 files use hyphens and 15 use spaces (all in source-notes/), those 15 files will cause 200+ broken links because wikilinks like `[[Stable Diffusion]]` won't resolve to `Stable-Diffusion.md`. Obsidian does NOT fuzzy-match spaces to hyphens. Run the pre-flight filename check above before every batch. If you find files with spaces, rename them AND update all wikilinks that reference them.
-- **NEVER use underscores in filenames or wikilinks.** Underscores are the most common mistake — e.g., `my_concept.md` or `[[my_concept]]` will NOT resolve to `my-concept.md`. Obsidian does NOT fuzzy-match underscores to hyphens. The normalization script (Step 7) catches and renames these automatically, but prevention is better.
-- **Wikilinks must include the folder path.** `[[SAM]]` relies on Obsidian basename resolution — if two files share the same basename in different folders, or if the vault structure changes, those links break. Always write `[[concepts/SAM]]` or `[[source-notes/My-Note]]` explicitly. After creating notes, run a pass that adds folder prefixes to bare wikilinks.
+
+- Do not create a standalone note just because a term appears in one article.
+- Do not create notes automatically from broken links; triage first.
+- Do not write bare wikilinks; use folder-qualified links such as `[[concepts/Knowledge-Graph]]`.
+- Do not write plain-text references in `## Related`, `## Core Concepts`, `## Sources`, or `## Source`.
+- Do not modify copied files in `raw-notes/`.
+- Do not delete `raw/` files until validation passes and deletion has been dry-run.
+- Do not use spaces, underscores, accents, or dots in filenames or wikilinks.
+- Do not shorten summary links; use the full folder-qualified filename stem, such as `[[summaries/AddyOsmani-Agent-Harness-Engineering]]`.

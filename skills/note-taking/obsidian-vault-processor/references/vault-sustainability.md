@@ -1,45 +1,115 @@
-# Vault Sustainability — Lessons from 2026-05-27
+# Vault Sustainability
 
 ## Problem: Vault Inflation
 
-After processing 15 articles, the vault had 123 notes and 37 broken wikilinks. The original skill would auto-create notes for ALL broken links, leading to uncontrolled growth — many notes for concepts that appeared in only one article.
+The vault becomes weaker when every interesting phrase becomes a standalone note. Broken links, single-use terms, and source-specific ideas can cause uncontrolled growth if they are automatically converted into notes.
 
-## Solution: Three-Category Triage
+Nexus avoids this by separating source preservation from knowledge extraction:
+
+- Raw articles are copied unchanged to `raw-notes/`.
+- Each source gets one compressed summary in `summaries/`.
+- Reusable concepts/tools link to summaries.
+- Summaries link back to raw-notes.
+
+## Sustainable Source Pipeline
+
+For each processed article:
+
+1. Copy the original markdown unchanged to `raw-notes/`.
+2. Create one compressed summary in `summaries/`.
+3. Link the summary to the original with a folder-qualified link such as `[[raw-notes/building-effective-ai-agents]]`.
+4. Link summary concepts/tools with folder-qualified links such as `[[concepts/Knowledge-Graph]]` and `[[tools/Obsidian]]`.
+5. Update existing concept/tool notes before creating new ones.
+6. Link concept/tool notes back to summaries, not directly to raw originals.
+
+## Adaptive Note Creation Rule
+
+A concept or tool only merits a standalone note when it:
+
+- appears meaningfully in 2+ sources,
+- is foundational to the vault's knowledge model, or
+- connects or clarifies an existing cluster.
+
+Single-source ideas should usually stay inside the compressed summary as plain text. Prefer fewer high-quality notes over many shallow notes.
+
+## Three-Category Triage
 
 Instead of blindly creating notes for broken links, classify each one:
 
 | Category | Criteria | Action | Example |
-|----------|----------|--------|---------|
-| A: Reusable | Appears in 2+ source notes | Create note | `[[Knowledge-Mapping]]` (3 refs) |
-| B: Single-use | Appears in only 1 source note | Remove `[[ ]]`, keep text | `[[Trade-Capture-System]]` -> `Trade Capture System` |
-| C: Placeholder | Template placeholder or author name | Remove entirely | `[[topic-name]]` -> `topic-name` |
+| --- | --- | --- | --- |
+| Reusable | Appears in 2+ sources, is foundational, or connects a cluster | Create or update note | `[[concepts/Knowledge-Mapping]]` |
+| Single-use | Appears in only 1 source and is not foundational | Dry-run unwrap, keep readable text | `[[concepts/Trade-Capture-System]]` -> `Trade Capture System` |
+| False reference | Placeholder, author name, team name, or organization | Dry-run unwrap or remove | `[[concepts/Topic-Name]]` -> `Topic Name` |
 
-Result: 8 notes created, 15 links unwrapped, 1 placeholder cleaned. 146 total notes, zero broken links.
+Unwrapping wikilinks is destructive because it removes graph structure. Always dry-run first and apply only after review.
 
-## Key Rule: Cross-Article Reuse Threshold
+## Naming and Link Sustainability
 
-A concept only merits a standalone note if it appears meaningfully in 2+ articles OR is a foundational concept (RAG, LLM, embeddings). Single-article concepts are mentioned as plain text, not linked.
+Every filename and wikilink should be:
+
+- hyphenated,
+- folder-qualified,
+- free of spaces,
+- free of underscores,
+- free of accents, and
+- free of dots except the final `.md` extension.
+
+Good examples:
+
+- `[[concepts/Knowledge-Graph]]`
+- `[[tools/CLAUDE-MD-Project-Knowledge]]`
+- `[[summaries/AddyOsmani-Agent-Harness-Engineering]]`
+- `[[raw-notes/building-effective-ai-agents]]`
+
+Invalid patterns:
+
+- Bare links without folder paths.
+- Links containing spaces.
+- Links containing underscores.
+- Links containing accents or diacritics.
+- Links containing dots inside the filename stem.
 
 ## Orphan Detection
 
-Run periodically (every 10-15 articles). Notes unreferenced by any other note are "orphans." Not necessarily bad — leaf concepts exist — but if orphaned across multiple cycles, consider merging into a parent concept.
+Run periodically every 10-15 processed articles. Notes unreferenced by any other note are orphans. Orphans are not necessarily bad because leaf concepts exist, but persistent orphans should be reviewed.
 
-## Pre-Creation Duplicate Check (Step 0)
+Orphan resolution must use dry-run/apply phases:
 
-Before creating ANY notes, scan existing concepts/frameworks/tools. If a concept already exists, UPDATE it with new insights rather than creating a duplicate. This is the single most effective anti-inflation measure.
+- Dry-run proposed links from related notes or indexes.
+- Dry-run proposed merges into broader concept/tool notes.
+- Dry-run proposed deletes for stale duplicates or notes that fail the knowledge model.
+- Apply only after the proposed changes are reviewed.
 
-## Workflow: Skill Improvement -> Apply -> Commit
+## Pre-Creation Duplicate Check
 
-When discovering skill gaps during a session:
-1. Patch the in-repo SKILL.md with the improvement
-2. Sync to global skills (`~/.hermes/skills/...`)
-3. Apply the new rules to the current vault
-4. Commit both changes (skill update + vault changes)
+Before creating any concept/tool note, scan existing `concepts/` and `tools/`.
 
-## Session 2026-05-27: BMAD + SDD Frameworks (2 articles -> 19 notes)
+If a note already covers the idea, update it with the new source insight and add a `[[summaries/Author-Topic]]` source link. This is the most effective anti-inflation measure.
 
-- Step 0 (duplicate prevention) confirmed: zero overlap with existing 105 notes across knowledge management / local AI domains
-- New thematic cluster (AI development frameworks) warranted a new index: `AI-Development-Index`
-- Rule of thumb: when articles introduce a genuinely new domain not covered by existing indexes, create a new index rather than forcing fit
-- 19 notes from 2 articles is a healthy ratio — both articles were dense with distinct concepts
-- Glossary entries (SDD, PRD, BDD, TDD) are lightweight and cross-reference the full notes
+## Validation Order
+
+Run validation in this order:
+
+1. Normalize filenames and wikilinks.
+2. Verify link resolution and source connectivity.
+3. Detect plain-text references.
+4. Produce a validation report.
+
+The validation report should list all pending destructive actions before apply: file renames, raw cleanup, wikilink unwrapping, orphan merges, and orphan deletes.
+
+## Raw Cleanup Gate
+
+Do not delete files from `raw/` until:
+
+- the original has been copied unchanged to `raw-notes/`,
+- the summary links to the raw note,
+- concepts/tools link to summaries,
+- every wikilink resolves,
+- all links are folder-qualified,
+- no plain-text references remain in structured relationship sections, and
+- the raw deletion list has been reviewed in dry-run mode.
+
+## Historical Lesson: BMAD + SDD Batch
+
+A dense new domain can justify a new index when it does not fit existing clusters. However, a dense source does not justify a fixed number of atomic notes. The right output size is adaptive: create or update only the notes that are reusable, foundational, or cluster-connecting.
