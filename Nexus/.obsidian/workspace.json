@@ -35,24 +35,10 @@
             "id": "085e5cd6e75c78a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "summaries/HitenShah-Every-Companys-First-AI-Strategy-Skill-Library.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HitenShah-Every-Companys-First-AI-Strategy-Skill-Library"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -218,12 +204,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "085e5cd6e75c78a9",
+  "active": "ecfcb4763781f68d",
   "lastOpenFiles": [
+    "raw/TurboQuant Redefining AI efficiency with extreme compression.md",
+    "raw/I Gave Claude David Ogilvy's Writing Rules And Built A Legendary AI Writing Coach.md",
+    "summaries/HitenShah-Every-Companys-First-AI-Strategy-Skill-Library.md",
+    "raw/Economy of Minds Multi-Agent Prompt Optimization explained.md",
+    "raw/How top AI labs are building RL agents in 2026 (using Karpathy's system prompt learning idea).md",
+    "raw/Post by @_avichawla on X.md",
+    "raw",
     "raw-notes/every-companys-first-ai-strategy-should-be-a-skill-library.md",
     "raw/When AI builds itself.md",
     "raw/Building cloud agent infrastructure what's different, and what we learned.md",
-    "summaries/HitenShah-Every-Companys-First-AI-Strategy-Skill-Library.md",
     "concepts/Skill-Library.md",
     "raw/Every Company’s First AI Strategy Should Be a Skill Library.md",
     "Untitled.md",
@@ -235,18 +227,12 @@
     "raw-notes/10-upgrades-for-your-hermes-agent.md",
     "raw-notes/30-obsidian-workflows-plugins-and-setups-that-most-users-dont-kn.md",
     "raw-notes/raw-LuisMartinez-Situated-Learning.md",
-    "raw",
     "summaries/DamiDefi-Obsidian-Claude-Research-Stack.md",
     "tools/Connection-Cost.md",
     "raw/I Replaced My Entire Research Stack With Obsidian and Claude. Here Is the Full System.md",
     "raw/Step-By-Step LLM Engineering Projects (2026 Edition).md",
     "summaries/0xJeff-Hermes-Analyst-60-Days.md",
     "summaries/0xCodez-Master-97-of-Codex-in-30-Minutes-Full-Co.md",
-    "summaries/SDD-vs-BMAD.md",
-    "summaries/NCSC-Cyber-Assessment-Framework.md",
-    "summaries/MushtaqBilalPhD-claude-code-101-academic-researchers.md",
-    "summaries/KusCamara-PydanticAI-Agent-Creation.md",
-    "summaries/LuisMartinez-Situated-Learning.md",
     "summaries",
     "raw-notes",
     "source-notes",
