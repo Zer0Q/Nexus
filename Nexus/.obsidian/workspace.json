@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw-notes/post-by-avichawla-on-x.md",
+                "file": "raw/Every AI company needs a context layer. Nobody agrees what that is.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "post-by-avichawla-on-x"
+              "title": "Every AI company needs a context layer. Nobody agrees what that is"
             }
           }
         ],
@@ -75,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -220,33 +220,33 @@
   },
   "active": "085e5cd6e75c78a9",
   "lastOpenFiles": [
-    "raw-notes/top-ai-papers-of-the-week-june-7.md",
+    "concepts/Action-Conditioned-World-Model.md",
+    "raw/Every AI company needs a context layer. Nobody agrees what that is.md",
+    "raw",
+    "summaries/AddyOsmani-Agent-Harness-Engineering.md",
+    "concepts/Active-Recall.md",
+    "concepts/Active-Decision-Feeder.md",
+    "concepts/Activation-and-Retrieval.md",
+    "concepts/Codex-Agent.md",
+    "summaries/0xCodez-Master-97-of-Codex-in-30-Minutes-Full-Co.md",
+    "raw-notes/6-workflows-6-lessons-60-days-with-hermes-analyst.md",
+    "indexes/Agent-Architecture-Patterns-Index.md",
+    "raw-notes/a-visual-guide-to-llms-part-2-inside-the-transformer-architectur.md",
+    "raw-notes/a-visual-guide-to-llms-part-1.md",
+    "raw-notes/agent-harness-engineering.md",
     "raw-notes/wire-hermes-obsidian-notebooklm-2026-build-guide.md",
+    "raw-notes/post-by-avichawla-on-x.md",
+    "raw-notes/smaller-models-dont-just-underperform-theyre-structurally-exclud.md",
+    "raw-notes/top-ai-papers-of-the-week-june-7.md",
     "raw-notes/caf-cyber-assessment-framework.md",
     "raw/A Visual Guide to LLMs (Part 2) Inside the Transformer Architecture.md",
     "raw/A Visual Guide to LLMs (Part 1).md",
     "raw/Smaller Models Don't Just Underperform. They're Structurally Excluded.md",
-    "raw",
     "indexes/Ingesta-Raw-Batch-3.md",
     "raw/Wire Hermes + Obsidian + NotebookLM (2026 Build Guide).md",
     "raw/Top AI Papers of the Week.md",
     "concepts/Alarm-Management.md",
     "summaries/neuralavb-Economy-of-Minds-Multi-Agent-Prompt-Optimization.md",
-    "summaries/google-TurboQuant-Extreme-KV-Compression.md",
-    "summaries/dickiebush-Ogilvy-Writing-Rules-AI-Coach.md",
-    "summaries/avichawla-Top-15-Fine-Tuning-Techniques.md",
-    "summaries/avichawla-RL-Agents-2026-System-Prompt-Learning.md",
-    "raw-notes/turboquant-redefining-ai-efficiency-with-extreme-compression.md",
-    "raw-notes/post-by-avichawla-on-x.md",
-    "raw-notes/i-gave-claude-david-ogilvys-writing-rules-and-built-a-legendary-.md",
-    "raw-notes/how-top-ai-labs-are-building-rl-agents-in-2026-using-karpathys-s.md",
-    "raw-notes/economy-of-minds-multi-agent-prompt-optimization-explained.md",
-    "concepts/Vector-Quantization.md",
-    "concepts/TurboQuant.md",
-    "concepts/System-Prompt-Learning.md",
-    "concepts/RULER.md",
-    "concepts/RLVR.md",
-    "concepts/RLAIF.md",
     "summaries",
     "raw-notes",
     "source-notes",
