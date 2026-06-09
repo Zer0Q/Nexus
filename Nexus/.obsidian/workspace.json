@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Every AI company needs a context layer. Nobody agrees what that is.md",
+                "file": "raw-notes/6-workflows-6-lessons-60-days-with-hermes-analyst.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Every AI company needs a context layer. Nobody agrees what that is"
+              "title": "6-workflows-6-lessons-60-days-with-hermes-analyst"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cristian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,11 +218,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "085e5cd6e75c78a9",
+  "active": "ecfcb4763781f68d",
   "lastOpenFiles": [
+    "raw/Loop Engineering.md",
+    "raw/What Actually ARE Loops (And Do I Need Them).md",
+    "raw",
     "concepts/Action-Conditioned-World-Model.md",
     "raw/Every AI company needs a context layer. Nobody agrees what that is.md",
-    "raw",
     "summaries/AddyOsmani-Agent-Harness-Engineering.md",
     "concepts/Active-Recall.md",
     "concepts/Active-Decision-Feeder.md",
@@ -245,8 +247,6 @@
     "indexes/Ingesta-Raw-Batch-3.md",
     "raw/Wire Hermes + Obsidian + NotebookLM (2026 Build Guide).md",
     "raw/Top AI Papers of the Week.md",
-    "concepts/Alarm-Management.md",
-    "summaries/neuralavb-Economy-of-Minds-Multi-Agent-Prompt-Optimization.md",
     "summaries",
     "raw-notes",
     "source-notes",
