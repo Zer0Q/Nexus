@@ -23,6 +23,9 @@ Without a shared context layer, each AI agent starts from scratch, re-deriving b
 - [[concepts/Context-Substrate]]
 - [[concepts/Skills-as-Primitives]]
 - [[concepts/Context-Governance]]
+- [[concepts/Context-Layer-Taxonomy]]
+- [[concepts/Context-Maturity-Spectrum]]
+- [[concepts/Governance-Tax]]
 
 ## Source
-[[summaries/Prukalpa-Enterprise-Context-Layer]]
+[[summaries/Prukalpa-Enterprise-Context-Layer]], [[summaries/BouBalust-Context-Layer-Landscape]]
