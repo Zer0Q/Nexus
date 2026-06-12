@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef08f893ea75c66d",
+        "id": "af1e5f13ade4d79a",
         "type": "tabs",
         "children": [
           {
-            "id": "f95ae2eb04c2da27",
+            "id": "fb666f8d78111ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "summaries/LuisMartinez-Situated-Learning.md",
+                "file": "raw-notes/10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LuisMartinez-Situated-Learning"
-            }
-          },
-          {
-            "id": "085e5cd6e75c78a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw-notes/6-workflows-6-lessons-60-days-with-hermes-analyst.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "6-workflows-6-lessons-60-days-with-hermes-analyst"
+              "title": "10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cristian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,33 +195,33 @@
   },
   "active": "ecfcb4763781f68d",
   "lastOpenFiles": [
-    "raw/Loop Engineering.md",
-    "raw/What Actually ARE Loops (And Do I Need Them).md",
+    "raw/Anthropic's War on Opensource AI.md",
+    "raw/How to Build Your Own J.A.R.V.I.S (Full Guide).md",
+    "raw/Loops What Every AI Engineer Needs to Know in 2026.md",
+    "summaries/AddyOsmani-Loop-Engineering.md",
+    "raw/how to be good at research.md",
+    "raw/Hermes Agent Is CRACKED Now And Most Builders Have No Idea What It Actually Is.md",
+    "summaries/Tonbis-What-Actually-Are-Loops.md",
+    "concepts/Structural-Exclusion.md",
+    "concepts/Harness-Engineering.md",
+    "concepts/Loop-Engineering.md",
+    "raw-notes/what-actually-are-loops-and-do-i-need-them.md",
+    "raw/Cómo montar un server de inferencia para servir modelos de IA  My Blog.md",
+    "concepts/Context-Maturity-Spectrum.md",
+    "concepts/Context-Layer-Taxonomy.md",
+    "summaries/BouBalust-Context-Layer-Landscape.md",
+    "summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware.md",
+    "concepts/Unified-Memory-Tradeoff.md",
+    "tools/Benchmarking-Workload-Shape.md",
+    "tools/Inference-Engine-Families.md",
+    "raw-notes/how-one-2999-nvidia-box-made-me-22000-in-a-year.md",
+    "raw-notes/beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-agent-logic.md",
+    "raw-notes/JSON-vs-TOON.md",
+    "raw-notes/loop-engineering.md",
+    "concepts/Comprehension-Debt.md",
+    "concepts/Cognitive-Surrender.md",
+    "concepts/Agent-Loop.md",
     "raw",
-    "concepts/Action-Conditioned-World-Model.md",
-    "raw/Every AI company needs a context layer. Nobody agrees what that is.md",
-    "summaries/AddyOsmani-Agent-Harness-Engineering.md",
-    "concepts/Active-Recall.md",
-    "concepts/Active-Decision-Feeder.md",
-    "concepts/Activation-and-Retrieval.md",
-    "concepts/Codex-Agent.md",
-    "summaries/0xCodez-Master-97-of-Codex-in-30-Minutes-Full-Co.md",
-    "raw-notes/6-workflows-6-lessons-60-days-with-hermes-analyst.md",
-    "indexes/Agent-Architecture-Patterns-Index.md",
-    "raw-notes/a-visual-guide-to-llms-part-2-inside-the-transformer-architectur.md",
-    "raw-notes/a-visual-guide-to-llms-part-1.md",
-    "raw-notes/agent-harness-engineering.md",
-    "raw-notes/wire-hermes-obsidian-notebooklm-2026-build-guide.md",
-    "raw-notes/post-by-avichawla-on-x.md",
-    "raw-notes/smaller-models-dont-just-underperform-theyre-structurally-exclud.md",
-    "raw-notes/top-ai-papers-of-the-week-june-7.md",
-    "raw-notes/caf-cyber-assessment-framework.md",
-    "raw/A Visual Guide to LLMs (Part 2) Inside the Transformer Architecture.md",
-    "raw/A Visual Guide to LLMs (Part 1).md",
-    "raw/Smaller Models Don't Just Underperform. They're Structurally Excluded.md",
-    "indexes/Ingesta-Raw-Batch-3.md",
-    "raw/Wire Hermes + Obsidian + NotebookLM (2026 Build Guide).md",
-    "raw/Top AI Papers of the Week.md",
     "summaries",
     "raw-notes",
     "source-notes",

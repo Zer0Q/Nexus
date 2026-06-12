@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "ISA 18.2",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 65280
       }
+    },
+    {
+      "query": "path:raw-notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 4646651
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181536,
+  "scale": 0.9999999999999625,
   "close": false
 }
