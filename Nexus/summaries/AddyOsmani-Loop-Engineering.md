@@ -35,5 +35,5 @@ Loop engineering replaces the human as the person prompting agents — you desig
 - Can [[concepts/Loop-Engineering]] converge with [[concepts/Agentic-SDLC]] into a unified framework?
 
 ## Source
-- **Raw note:** [[raw-notes/loop-engineering]]
+- **Raw note:** [[concepts/Loop-Engineering]]
 - **Original URL:** https://x.com/addyosmani/status/2064127981161959567

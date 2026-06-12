@@ -12,6 +12,7 @@ Decode is memory-bandwidth-bound and generates one token at a time. Speculative 
 - Speedup depends on draft acceptance rate (typically 60-90%)
 - Implemented in llama.cpp, ExLlamaV2, vLLM, SGLang, TensorRT-LLM
 - Works best when draft model captures the target model's distribution well
+- MTP (Multi-Token Prediction): built-in speculative decoding where the model itself predicts extra tokens — no separate draft model needed. Qwen3.6 uses MTP with `--speculative-config '{"method":"mtp","num_speculative_tokens": 2}'` achieving ~2x throughput, 80-92% acceptance rate, mean acceptance length of ~2.6 tokens
 
 ## Tradeoffs
 - Adds memory for the draft model
