@@ -8,6 +8,9 @@ type: article
 
 # How To Fix AI Slop Using Hermes
 
+## Concepts
+- AI-Slop-Quality-Filtering
+
 ## Summary
 There's a reason some people seem to be constantly shipping the best software, writing incredible content, or generating insane images... You've tried better prompts, you've switched to the more expensive model, you've written longer instructions, you've turned on memory, you've built context files the size of a novel, and the slop stil it comes back because you keep fixing the layer that was neve
 

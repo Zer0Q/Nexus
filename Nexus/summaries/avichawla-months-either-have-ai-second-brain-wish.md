@@ -8,6 +8,9 @@ type: article
 
 # In 6 months youll either have an AI second brain or wish you did a full setup
 
+## Concepts
+- Knowledge-Graph-Evolution
+
 ## Summary
 Karpathy, Garry Tan, and the best builders in tech are all converging on AI second brains. The article covers a full 100% local setup guide. This is moving faster than most people realize. In 6 months Karpathy's LLM Wiki compiles raw sources into a persistent Markdown wiki with backlinks and cross-references. The LLM reads papers, extracts concepts, writes encyclopedia-style articles, and maintain
 

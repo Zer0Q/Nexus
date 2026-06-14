@@ -8,6 +8,9 @@ type: article
 
 # How to make RAG 32x memory efficient explained with code
 
+## Concepts
+- Binary-Embeddings
+
 ## Summary
 How Perplexity, Azure, HubSpot, and many others use binary quantization to make RAG 32x memory efficient (explained with code)! There’s a simple technique that’s commonly used in the industry that makes RAG ~32x memory efficient! - Perplexity uses it in its search index
 - Azure uses it in its search pipeline

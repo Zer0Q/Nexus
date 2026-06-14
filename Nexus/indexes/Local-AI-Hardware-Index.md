@@ -58,7 +58,7 @@ Hardware strategies for local AI: DGX Spark, unified memory architectures, cloud
 - [[concepts/Local-LLM]] -- locally-hosted language model
 - [[concepts/RAG]] -- Retrieval-Augmented Generation
 - [[concepts/Embeddings]] -- vector representations of text
-- [[concepts/Nous-Portal]] -- model distribution platform
+- [[tools/Nous-Portal]] -- model distribution platform
 
 ## Sources
 - [[summaries/w1nklerr-DGX-Spark-Cost-Recovery]]

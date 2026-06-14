@@ -1,28 +1,10 @@
 # Readwise
 
-## Definition
-Highlight aggregation service that collects highlights from articles, books (Kindle), Twitter bookmarks, Instapaper, and Pocket into one place. Native Obsidian integration routes highlights automatically as formatted markdown files.
+Highlight aggregation service ($7/month). Collects highlights from articles, Kindle, Twitter bookmarks, Instapaper, Pocket.
 
-## Why It Matters
-The backbone of automated capture for written content. Every highlight flows into Obsidian without manual effort. Eliminates the copy-paste-tag-summarize friction that breaks capture habits.
+- Browser extension for web articles
+- Native Obsidian integration: highlights sync as formatted .md files
+- Connects to Kindle, Twitter, Instapaper, Pocket
+- Backbone of automated capture for written content
 
-## Key Ideas
-- Browser extension: highlight sentences that matter, they appear in vault automatically
-- Connects to Kindle, Twitter, Instapaper, Pocket -- one aggregator for everything
-- Native Obsidian sync: highlights appear as formatted .md files in Notes folder
-- No summarizing, no tagging required at capture time
-- ~$7/month subscription
-- "Highlight and move on" -- zero friction capture
-
-## Tradeoffs
-- Subscription cost
-- Highlights without context may be meaningless later
-- Requires discipline to highlight selectively (not everything)
-
-## Related
-- [[concepts/Automated-Capture-Pipeline]]
-- [[concepts/Inbox-First-Capture]]
-- [[concepts/Four-Layer-Vault-Architecture]]
-
-## Source
-[[summaries/CyrilXBT-Self-Improving-Vault]]
+See also: [[concepts/Automated-Capture-Pipeline]], [[concepts/Inbox-First-Capture]]

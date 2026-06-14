@@ -8,6 +8,10 @@ type: article
 
 # Obsidian Knowledge Graph for Accelerated Learning
 
+## Concepts
+- Illusion-of-Knowledge
+
+- Spaced-Repetition
 ## Summary
 Passive study methods (re-reading, highlighting) create an illusion of knowledge. This article presents a five-module learning system built on [[concepts/Active-Recall-Learning]] and [[concepts/Spaced-Repetition-System]], implemented through Obsidian concept notes connected by Claude-driven [[concepts/Connection-Protocol]]. The knowledge graph transforms studying from passive review into systematic retrieval practice, with [[concepts/Synthesis-Session]] producing integrated understanding documents that prove comprehension.
 

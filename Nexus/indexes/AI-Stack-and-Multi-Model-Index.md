@@ -72,10 +72,10 @@ Multi-layer AI stacks, model routing strategies, adversarial model spirals, mult
 - [[tools/Open-SWE]] -- open-source software engineering agent
 - [[tools/OpenSpec]] -- specification-first development tool
 - [[tools/Spec-Kit]] -- specification toolkit
-- [[concepts/Cursor]] -- AI-assisted code editor
+- [[tools/Cursor]] -- AI-assisted code editor
 - [[concepts/Claude-Projects]] -- project-scoped Claude sessions
 - [[tools/Kimi-K26-Model]] -- long-context reasoning model
-- [[concepts/N8N]] -- workflow automation
+- [[tools/N8N]] -- workflow automation
 
 ## Glossary
 - [[concepts/MCP]] -- Model Context Protocol

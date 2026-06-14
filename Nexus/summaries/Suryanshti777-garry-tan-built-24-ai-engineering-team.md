@@ -8,6 +8,9 @@ type: article
 
 # Garry Tan Built a 247 AI Engineering Team for Free
 
+## Concepts
+- GStack-Software-Factory
+
 ## Summary
 It’s the First Real Software Factory for the AI Era. For the last decade, startups scaled by hiring. More engineers. More designers. More PMs. More process. More meetings. That was the formula. Then o
 

@@ -30,12 +30,12 @@ Pydantic ecosystem: data validation, serialization, settings management, and age
 - [[concepts/BaseModel]]
 - [[concepts/Field-Validator]]
 - [[concepts/Model-Validator]]
-- [[concepts/Field-Alias]]
-- [[concepts/Data-Class]]
-- [[concepts/JSON-Schema]]
-- [[concepts/Type-Coercion]]
+- [[tools/Field-Alias]]
+- [[tools/Data-Class]]
+- [[tools/JSON-Schema]]
+- [[tools/Type-Coercion]]
 - [[concepts/Settings-Management]]
-- [[concepts/Validate-Call]]
+- [[tools/Validate-Call]]
 
 ## Sources
 - [[summaries/Pydantic-Team-Pydantic-Models]]

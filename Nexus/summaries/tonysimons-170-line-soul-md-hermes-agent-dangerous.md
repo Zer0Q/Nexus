@@ -8,6 +8,9 @@ type: article
 
 # The 170Line SOULmd That Made My Hermes Agent Dangerous
 
+## Concepts
+- SOUL-MD-Agent-Identity
+
 ## Summary
 People keep asking me the same question about Hermes. Not “what model are you using?” Not “what’s your stack?” Not “how many tools does it have?” They ask: “How did you get your Hermes Agent to be like that?”
 

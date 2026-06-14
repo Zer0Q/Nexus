@@ -43,8 +43,8 @@ Everything about Hermes Agent features: dashboard, /goal, self-improvement, prof
 ## Tools
 - Hermes Agent -- the agent platform itself
 - [[tools/Telegram-Bot-Capture]] -- instant note capture via Telegram
-- [[concepts/N8N]] -- workflow automation integration
-- [[concepts/Cursor]] -- AI-assisted code editor
+- [[tools/N8N]] -- workflow automation integration
+- [[tools/Cursor]] -- AI-assisted code editor
 - [[concepts/Claude-Projects]] -- project-scoped Claude sessions
 
 ## Glossary

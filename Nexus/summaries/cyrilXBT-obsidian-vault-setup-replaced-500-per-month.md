@@ -13,7 +13,7 @@ I used to pay for 9 different apps to manage my work, my notes, my tasks, and my
 
 ## Core Concepts
 
-- [[concepts/QuickAdd]] -- referenced concept
+- [[tools/QuickAdd]] -- referenced concept
 - [[tools/Readwise]] -- Highlight sync and knowledge management tool
 
 ## Key Insights

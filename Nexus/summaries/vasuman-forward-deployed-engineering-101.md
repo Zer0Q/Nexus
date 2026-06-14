@@ -8,6 +8,9 @@ type: article
 
 # Forward Deployed Engineering 101
 
+## Concepts
+- Forward-Deployed-Engineering
+
 ## Summary
 By the end of this article, you should understand why Anthropic, OpenAI, Google, and other AI companies are looking for FDEs, and how you can capitalize on this demand. I've done the job myself, hired some of the best in the world to build out our FDE motion at Varick, and noticed there's no real definitive guide to the hottest role in tech right now. This is that gu To become an FDE, the first st
 

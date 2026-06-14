@@ -67,11 +67,11 @@ Vault architecture patterns, the capture-use gap, output engine workflows, learn
 - [[tools/Obsidian-Skills-Plugin]] -- AI agents inside Obsidian
 - [[tools/Smart-Connections-Plugin]] -- embedding-based vault search
 - [[tools/Copilot-Plugin]] -- inline AI in Obsidian
-- [[concepts/QuickAdd]] -- fast capture automation
-- [[concepts/Readwise]] -- highlight sync service
+- [[tools/QuickAdd]] -- fast capture automation
+- [[tools/Readwise]] -- highlight sync service
 - [[tools/Vellum]] -- visual note organization
 - [[tools/Telegram-Bot-Capture]] -- instant capture via Telegram
-- [[concepts/N8N]] -- workflow automation
+- [[tools/N8N]] -- workflow automation
 
 ## Glossary
 - [[concepts/Knowledge-Graph]] -- interconnected web of notes

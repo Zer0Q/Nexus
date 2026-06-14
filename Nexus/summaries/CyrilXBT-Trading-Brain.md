@@ -14,7 +14,7 @@ Complete guide to building an AI-powered trading journal in Obsidian. Four pilla
 ## Core Concepts
 - [[concepts/Automated-Business-Workflows]] -- N8N-driven weekly/monthly analysis pipelines
 - [[concepts/Feedback-Loop-Knowledge-System]] -- trading data feeding back into strategy refinement
-- [[concepts/N8N]] -- automation engine for performance analysis workflows
+- [[tools/N8N]] -- automation engine for performance analysis workflows
 - [[concepts/Structured-Source-Notes]] -- structured templates for rich trade data capture
 
 ## Key Insights

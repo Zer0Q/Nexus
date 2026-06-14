@@ -38,8 +38,8 @@ Concepts, frameworks, and tools for building and maintaining personal and organi
 - [[concepts/Async-Queue-Pattern]] -- QUEUE/GENERATED async communication
 
 ## Tools
-- [[concepts/N8N]] -- workflow automation
-- [[concepts/Readwise]] -- highlight aggregation
+- [[tools/N8N]] -- workflow automation
+- [[tools/Readwise]] -- highlight aggregation
 - [[tools/ByteRover]] -- vault-to-agent bridge
 - [[tools/Vellum]] -- AI intelligence layer
 - [[tools/qmd]] -- local markdown search
@@ -48,8 +48,8 @@ Concepts, frameworks, and tools for building and maintaining personal and organi
 - [[tools/Telegram-Bot-Capture]] -- quick capture from phone
 
 ## Glossary
-- [[concepts/N8N]]
-- [[concepts/Readwise]]
+- [[tools/N8N]]
+- [[tools/Readwise]]
 - [[concepts/Vault-Context]]
 - [[concepts/RAG]]
 - [[concepts/Embeddings]]
