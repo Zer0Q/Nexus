@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "ISA 18.2",
+  "search": "memory",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999625,
+  "scale": 1.4019828977760476,
   "close": false
 }

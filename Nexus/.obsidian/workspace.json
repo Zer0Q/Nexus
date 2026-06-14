@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw-notes/10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code.md",
+                "file": "raw/Cómo crear Loops con Claude.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code"
+              "title": "Cómo crear Loops con Claude"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -184,19 +184,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "ecfcb4763781f68d",
+  "active": "fb666f8d78111ca5",
   "lastOpenFiles": [
-    "raw/Anthropic's War on Opensource AI.md",
+    "raw/Loop-Driven Development The Next Layer of AI Coding.md",
+    "raw/(PDF) Mapping Human and AI Contributions Across Stages of Academic Writing Using SLICE—A Preliminary LLM-Based Method.md",
+    "raw/100 Lessons From Building a 100-Person Org.md",
+    "raw/Your RAG Pipeline Is Already Obsolete.md",
+    "raw/How the Open Knowledge Format can improve data sharing.md",
     "raw/How to Build Your Own J.A.R.V.I.S (Full Guide).md",
+    "raw/How to Run 300 AI Agents From One Prompt. 10 Workflows Most People Skip.md",
+    "raw-notes/wire-hermes-obsidian-notebooklm-2026-build-guide.md",
+    "raw-notes/10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code.md",
+    "raw/Cómo crear Loops con Claude.md",
+    "raw",
+    "raw/Anthropic's War on Opensource AI.md",
     "raw/Loops What Every AI Engineer Needs to Know in 2026.md",
     "summaries/AddyOsmani-Loop-Engineering.md",
     "raw/how to be good at research.md",
@@ -212,16 +222,6 @@
     "summaries/BouBalust-Context-Layer-Landscape.md",
     "summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware.md",
     "concepts/Unified-Memory-Tradeoff.md",
-    "tools/Benchmarking-Workload-Shape.md",
-    "tools/Inference-Engine-Families.md",
-    "raw-notes/how-one-2999-nvidia-box-made-me-22000-in-a-year.md",
-    "raw-notes/beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-agent-logic.md",
-    "raw-notes/JSON-vs-TOON.md",
-    "raw-notes/loop-engineering.md",
-    "concepts/Comprehension-Debt.md",
-    "concepts/Cognitive-Surrender.md",
-    "concepts/Agent-Loop.md",
-    "raw",
     "summaries",
     "raw-notes",
     "source-notes",
