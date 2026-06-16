@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Write-Time Knowledge Systems
+description: Knowledge systems where information is processed, structured, and indexed
+  at the time of ingestion (write time), rather than at the time of querying. The
+  LLM...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Write-Time Knowledge Systems
 
 ## Definition

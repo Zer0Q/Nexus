@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cyber Resilience
+description: Capacidad de una organización para mantener el correcto funcionamiento
+  de sus funciones esenciales incluso en presencia de eventos cibernéticos adversos.
+  No ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cyber Resilience
 
 ## Definition

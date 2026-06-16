@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Model Selection Tiers
+description: 'A three-tier model selection framework for Hermes Agent: expensive (Claude
+  Opus/Sonnet), moderate (GPT-5.5), and affordable (Qwen 3.7 Max, Grok, Nous Portal)...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Model Selection Tiers
 
 ## Definition

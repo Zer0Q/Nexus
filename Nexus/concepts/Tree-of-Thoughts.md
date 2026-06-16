@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Tree of Thoughts
+description: Método de planificación donde el modelo explora múltiples caminos de
+  pensamiento simultáneamente, evalúa cada uno, y elige el mejor. Es una generalización
+  de...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Tree of Thoughts
 
 ## Definition

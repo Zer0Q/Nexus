@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Orchestrator-Workers Workflow
+description: Central LLM dynamically breaks down tasks, delegates to worker LLMs,
+  and synthesizes results. Subtasks are determined at runtime based on input, not
+  predefined.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Orchestrator-Workers Workflow
 
 ## Definition

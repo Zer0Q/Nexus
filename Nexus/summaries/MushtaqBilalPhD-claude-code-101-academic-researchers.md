@@ -1,10 +1,17 @@
 ---
-title: "Claude Code 101 for Academic Researchers"
-source: "https://x.com/MushtaqBilalPhD/status/2052338632426467550"
-author: "MushtaqBilalPhD"
-published: "2026-05-07"
+title: Claude Code 101 for Academic Researchers
+author: MushtaqBilalPhD
+published: '2026-05-07'
 type: article
+resource: https://x.com/MushtaqBilalPhD/status/2052338632426467550
+timestamp: '2026-05-07T00:00:00Z'
+description: This is a five-part tutorial to help academic researchers get started
+  on Claude Code. I have written it an accessible language and you don't need any
+  technic...
+tags:
+- summaries
 ---
+
 
 # Claude Code 101 for Academic Researchers
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: KV Cache Growth
+description: The KV (key-value) cache stores intermediate attention states for every
+  token in the context window. It grows linearly with batch size × context length
+  and i...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # KV Cache Growth
 
 ## Definition

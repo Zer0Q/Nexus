@@ -1,3 +1,13 @@
+---
+type: Concept
+title: CoP Success Wheel
+description: A five-factor framework for evaluating and improving Communities of Practice,
+  developed through research on 22 communities at the European Commission. Factor...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # CoP Success Wheel
 
 ## Definition

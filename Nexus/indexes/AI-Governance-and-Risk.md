@@ -1,7 +1,13 @@
 ---
 created: 2026-05-28
 type: index
+description: '## Glossary - [[concepts/Model-Drift]] -- performance degradation over
+  time - [[concepts/Adversarial-Vulnerabilities]] -- data poisoning and model evasion
+  - ...'
+tags:
+- indexes
 ---
+
 
 # AI Governance and Risk
 

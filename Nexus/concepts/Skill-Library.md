@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Skill Library
+description: Colección organizada de skills que representa el manual operativo de
+  una empresa en formato ejecutable por agents. No es solo un repositorio técnico
+  — es el ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Skill Library
 
 ## Definition

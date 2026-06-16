@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context-Graph RAG
+description: 'GraphRAG extended with operational governance metadata directly on graph
+  nodes: data lineage, source quality indicators, content ownership, and corporate
+  acc...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context-Graph RAG
 
 ## Definition

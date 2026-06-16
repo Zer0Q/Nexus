@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Readwise
+description: '- Browser extension for web articles - Native Obsidian integration:
+  highlights sync as formatted .md files - Connects to Kindle, Twitter, Instapaper,
+  Pocket ...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Readwise
 
 Highlight aggregation service ($7/month). Collects highlights from articles, Kindle, Twitter bookmarks, Instapaper, Pocket.

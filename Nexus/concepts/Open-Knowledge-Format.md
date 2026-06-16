@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Open Knowledge Format
+description: 'OKF v0.1: especificación open para knowledge interoperable. Representa
+  knowledge como directorio de markdown con YAML frontmatter, formalizando el patrón
+  LLM...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Open Knowledge Format
 
 ## Definition

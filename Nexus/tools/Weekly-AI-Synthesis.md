@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Weekly AI Synthesis
+description: An automated recurring process where an AI model reviews all new content
+  added to a knowledge base during a fixed period (typically one week) and produces
+  a ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Weekly AI Synthesis
 
 ## Definition

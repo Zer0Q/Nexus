@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Edge TTS
+description: Free Microsoft neural text-to-speech synthesis via the edge-tts Python
+  library, requiring no API key or account. Provides access to Microsoft's neural
+  voices...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Edge TTS
 
 ## Definition

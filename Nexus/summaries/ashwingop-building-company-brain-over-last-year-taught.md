@@ -1,10 +1,17 @@
 ---
-title: "What Building a Company Brain over the last Year Taught Me"
-source: "https://x.com/ashwingop/status/2052051032566530216"
-author: "ashwingop"
-published: "2026-05-06"
+title: What Building a Company Brain over the last Year Taught Me
+author: ashwingop
+published: '2026-05-06'
 type: article
+resource: https://x.com/ashwingop/status/2052051032566530216
+timestamp: '2026-05-06T00:00:00Z'
+description: We did not start by calling it Company Brain. Our first name for what
+  we were building was Enterprise General Intelligence. The thesis was that some version
+  ...
+tags:
+- summaries
 ---
+
 
 # What Building a Company Brain over the last Year Taught Me
 

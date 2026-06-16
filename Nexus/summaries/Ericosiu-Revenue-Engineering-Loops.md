@@ -1,10 +1,17 @@
 ---
-title: "Revenue Engineering: How to turn AI loops into revenue"
-source: "https://x.com/ericosiu/status/2066625875622129767"
-author: "@ericosiu"
-published: "2026-06-07"
+title: 'Revenue Engineering: How to turn AI loops into revenue'
+author: '@ericosiu'
+published: '2026-06-07'
 type: article
+resource: https://x.com/ericosiu/status/2066625875622129767
+timestamp: '2026-06-07T00:00:00Z'
+description: '@ericosiu argumenta que los mejores ingenieros dejaron de promptear
+  AI y empezaron a construir loops. Aplica este concepto al revenue: diseñar sistemas
+  que p...'
+tags:
+- summaries
 ---
+
 
 # Revenue Engineering with AI Loops
 

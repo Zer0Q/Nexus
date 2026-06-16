@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agentic System Architecture
+description: Architectural distinction between workflows (predefined code paths orchestrating
+  LLMs and tools) and agents (LLMs dynamically directing their own processes a...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agentic System Architecture
 
 ## Definition

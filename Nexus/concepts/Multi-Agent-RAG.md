@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Multi-Agent RAG
+description: 'Arquitectura de agentic RAG con múltiples agents especializados: un
+  master agent coordina retrieval entre agents que se especializan en diferentes fuentes
+  (i...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Multi-Agent RAG
 
 ## Definition

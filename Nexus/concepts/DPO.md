@@ -1,3 +1,14 @@
+---
+type: Concept
+title: DPO
+description: Direct Preference Optimization — skips the reward model entirely and
+  optimizes preference pairs directly with a classification-style loss, simplifying
+  the RL...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # DPO
 
 ## Definition

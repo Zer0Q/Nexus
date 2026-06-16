@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Hyperbrowser
+description: Stealth headless browser for AI agents. Drop-in Playwright replacement
+  that bypasses Cloudflare, DataDome, and bot detection by default. First swap to
+  make w...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hyperbrowser
 
 ## Definition

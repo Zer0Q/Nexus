@@ -1,3 +1,13 @@
+---
+type: Concept
+title: LLM Structured Output
+description: Constraining LLM responses to conform to predefined schemas (JSON Schema,
+  Pydantic models, dataclasses). Ensures output is parseable and validated at runtime.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LLM Structured Output
 
 ## Definition

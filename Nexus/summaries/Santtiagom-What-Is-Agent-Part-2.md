@@ -1,10 +1,16 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2065898594771591653"
-author: "@santtiagom_"
-published: "2026-06-12"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-06-12'
 type: article
+resource: https://x.com/santtiagom_/status/2065898594771591653
+timestamp: '2026-06-12T00:00:00Z'
+description: '@santtiagom_ explica la propiedad fundamental de los LLMs: son stateless,
+  no recuerdan nada entre llamadas. Esto significa que cada interacción empieza desde...'
+tags:
+- summaries
 ---
+
 
 # Stateless LLMs and Context Engineering
 

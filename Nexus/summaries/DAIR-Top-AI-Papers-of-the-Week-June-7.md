@@ -1,10 +1,16 @@
 ---
-title: "Top AI Papers of the Week (June 7, 2026)"
-source: "https://x.com/dair_ai/status/2063644231030214958"
-author: "@dair_ai"
-published: "2026-06-07"
+title: Top AI Papers of the Week (June 7, 2026)
+author: '@dair_ai'
+published: '2026-06-07'
 type: article
+resource: https://x.com/dair_ai/status/2063644231030214958
+timestamp: '2026-06-07T00:00:00Z'
+description: 'Weekly roundup of 10 AI papers: self-revising discovery systems using
+  category theory for regime changes, disentangling agent self-evolution into harness-upd...'
+tags:
+- summaries
 ---
+
 
 # Top AI Papers of the Week (June 7)
 

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Physical AI
+description: AI systems that understand and act within the physical world -- robots,
+  autonomous vehicles, and smart spaces that perceive their environment, predict what's...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Physical AI
 
 ## Definition

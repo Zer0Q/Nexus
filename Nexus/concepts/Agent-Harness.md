@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Harness
+description: 'Capa de coordinación que gestiona los componentes de un sistema de agente:
+  decide qué memory cargar, cuándo usar tools, cómo verificar resultados y cuándo
+  it...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Harness
 
 ## Definition

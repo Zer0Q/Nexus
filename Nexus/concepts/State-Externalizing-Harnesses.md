@@ -1,3 +1,14 @@
+---
+type: Concept
+title: State Externalizing Harnesses
+description: Agent training approach that offloads routine bookkeeping (candidate
+  pools, curated sets, evidence links, verification records) from the agent policy
+  into an...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # State Externalizing Harnesses
 
 ## Definition

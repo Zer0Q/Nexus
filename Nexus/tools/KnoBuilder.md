@@ -1,3 +1,13 @@
+---
+type: Tool
+title: KnoBuilder
+description: Agentic framework for autonomous, personalized knowledge graph construction
+  from large-scale unstructured text corpora. Formalizes graph construction as iter...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # KnoBuilder
 
 ## Definition

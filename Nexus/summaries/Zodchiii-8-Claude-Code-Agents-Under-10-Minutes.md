@@ -1,10 +1,17 @@
 ---
-title: "8 Claude Code Agents You Can Build in Under 10 Minutes Each"
-source: "https://x.com/zodchiii/status/2054853752587235778"
-author: "@zodchiii"
-published: 2026-05-14
+title: 8 Claude Code Agents You Can Build in Under 10 Minutes Each
+author: '@zodchiii'
+published: &id001 2026-05-14
 type: source-note
+resource: https://x.com/zodchiii/status/2054853752587235778
+timestamp: *id001
+description: 'A practical guide to building 8 specialized one-file Claude Code agents
+  that run in isolated context windows: PR Summarizer, Dependency Updater, Changelog
+  Wr...'
+tags:
+- summaries
 ---
+
 
 # 8 Claude Code Agents You Can Build in Under 10 Minutes Each
 

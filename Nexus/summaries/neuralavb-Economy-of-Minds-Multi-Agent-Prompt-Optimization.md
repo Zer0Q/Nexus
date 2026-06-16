@@ -1,10 +1,16 @@
 ---
-title: "Economy of Minds: Multi-Agent Prompt Optimization explained"
-source: "https://x.com/neural_avb/status/2062930609861976454"
-author: "@neural_avb"
-published: "2026-06-04"
+title: 'Economy of Minds: Multi-Agent Prompt Optimization explained'
+author: '@neural_avb'
+published: '2026-06-04'
 type: article
+resource: https://x.com/neural_avb/status/2062930609861976454
+timestamp: '2026-06-04T00:00:00Z'
+description: Harvard's Economy of Minds (EOM) paper replaces hand-designed orchestration
+  with a market simulation where agents bid for the right to act via auctions, accu...
+tags:
+- summaries
 ---
+
 
 # Economy of Minds: Market-Based Multi-Agent Optimization
 

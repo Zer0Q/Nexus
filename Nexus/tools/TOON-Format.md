@@ -1,3 +1,14 @@
+---
+type: Tool
+title: TOON Format
+description: 'Token-Oriented Object Notation: formato de serialización compacta y
+  consciente del esquema diseñado específicamente para comunicación con LLMs. Reemplaza
+  JSO...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # TOON Format
 
 ## Definition

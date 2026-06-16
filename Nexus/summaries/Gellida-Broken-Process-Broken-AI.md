@@ -1,10 +1,16 @@
 ---
-title: "Broken Process In, Broken AI Out"
-source: "https://www.linkedin.com/pulse/broken-process-ai-out-sergio-gellida-hpuze/"
-author: "Sergio Gellida"
-published: "2026-05-29"
+title: Broken Process In, Broken AI Out
+author: Sergio Gellida
+published: '2026-05-29'
 type: article
+resource: https://www.linkedin.com/pulse/broken-process-ai-out-sergio-gellida-hpuze/
+timestamp: '2026-05-29T00:00:00Z'
+description: AI amplifies whatever process it sits on — it doesn't fix weak processes.
+  Bad data is a symptom of broken upstream processes, not the root cause. Lean princi...
+tags:
+- summaries
 ---
+
 
 # Broken Process In, Broken AI Out
 

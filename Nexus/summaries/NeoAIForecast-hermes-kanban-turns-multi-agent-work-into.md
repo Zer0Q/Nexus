@@ -1,10 +1,17 @@
 ---
-title: "Hermes Kanban Turns Multi-Agent Work Into a Real Board"
-source: "https://x.com/NeoAIForecast/status/2051443615768228062"
-author: "NeoAIForecast"
-published: "2026-05-05"
+title: Hermes Kanban Turns Multi-Agent Work Into a Real Board
+author: NeoAIForecast
+published: '2026-05-05'
 type: article
+resource: https://x.com/NeoAIForecast/status/2051443615768228062
+timestamp: '2026-05-05T00:00:00Z'
+description: Most “multi-agent” workflows are still too invisible. You ask one agent
+  to split work across subagents. They run somewhere inside the process. A result
+  comes...
+tags:
+- summaries
 ---
+
 
 # Hermes Kanban Turns MultiAgent Work Into a Real Board
 

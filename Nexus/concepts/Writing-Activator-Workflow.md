@@ -1,7 +1,16 @@
 ---
 type: workflow
-related: [Four-Uses-of-Notes, Active-Decision-Feeder, Output-Generator-Workflow]
+related:
+- Four-Uses-of-Notes
+- Active-Decision-Feeder
+- Output-Generator-Workflow
+description: A pre-writing workflow that scans Zone 2 for everything relevant to a
+  writing topic and produces a writing brief containing strongest argument, evidence,
+  cou...
+tags:
+- concepts
 ---
+
 
 # Writing-Activator-Workflow
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: AI-Assisted Medical Research
+description: Using AI models as supplementary analytical tools for medical professionals
+  to process clinical data, surface treatment options, and generate research-grade
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI-Assisted Medical Research
 
 ## Definition

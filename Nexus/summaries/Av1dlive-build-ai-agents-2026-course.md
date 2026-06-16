@@ -1,10 +1,17 @@
 ---
-title: "How to Build AI Agents in 2026 (Full Course)"
-source: "https://x.com/Av1dlive/status/2054238056090325492"
-author: "Av1dlive"
-published: "2026-05-02"
+title: How to Build AI Agents in 2026 (Full Course)
+author: Av1dlive
+published: '2026-05-02'
 type: article
+resource: https://x.com/Av1dlive/status/2054238056090325492
+timestamp: '2026-05-02T00:00:00Z'
+description: '> TLDR; if you don''t wanna read it, give this link to your agent and
+  ask it questions: ➡️https://github.com/codejunkie99/agentic-harness here is the
+  tweet th...'
+tags:
+- summaries
 ---
+
 
 # How to Build AI Agents in 2026 Full Course
 

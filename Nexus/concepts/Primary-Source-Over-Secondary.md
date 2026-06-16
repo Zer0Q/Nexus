@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Primary Source Over Secondary
+description: The research principle of going directly to original data -- the paper,
+  the on-chain data, the institutional filing, the raw clinical record -- rather than
+  r...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Primary Source Over Secondary
 
 ## Definition

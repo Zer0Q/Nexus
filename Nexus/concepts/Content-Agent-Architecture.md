@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Content Agent Architecture
+description: The architecture for AI content agents that goes beyond voice replication
+  to include taste, thesis, proof, and forbidden-pattern files. Voice makes it sound
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Content Agent Architecture
 
 ## Definition

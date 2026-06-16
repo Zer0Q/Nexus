@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Evaluator-Optimizer Workflow
+description: Iterative loop where one LLM generates a response and another provides
+  evaluation and feedback. Repeats until the output meets quality criteria or a max
+  iter...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Evaluator-Optimizer Workflow
 
 ## Definition

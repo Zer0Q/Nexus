@@ -1,3 +1,13 @@
+---
+type: Tool
+title: LM Studio
+description: A free desktop application that downloads and runs open-source large
+  language models locally on your machine, exposing an OpenAI-compatible API at `http://lo...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LM Studio
 
 ## Definition

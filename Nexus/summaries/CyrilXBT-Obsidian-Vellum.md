@@ -1,10 +1,16 @@
 ---
-title: "How To Use Obsidian + Vellum To Build A Second Brain That Thinks 24/7"
-source: "https://x.com/cyrilXBT/status/2059461814333673705"
-author: "@cyrilXBT"
-published: "2026-05-27"
+title: How To Use Obsidian + Vellum To Build A Second Brain That Thinks 24/7
+author: '@cyrilXBT'
+published: '2026-05-27'
 type: article
+resource: https://x.com/cyrilXBT/status/2059461814333673705
+timestamp: '2026-05-27T00:00:00Z'
+description: Guide to building an AI chief of staff using Obsidian + Vellum. Five-folder
+  structure organized by type (articles, ideas, patterns, questions, numbers). Four...
+tags:
+- summaries
 ---
+
 
 # Cyril XBT Obsidian Vellum Integration
 

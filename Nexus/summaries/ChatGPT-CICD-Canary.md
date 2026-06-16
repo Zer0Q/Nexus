@@ -1,10 +1,16 @@
 ---
-title: "CI/CD Canary Deployment Strategy"
-source: "ChatGPT"
-author: "-"
-published: "2026-06-02"
+title: CI/CD Canary Deployment Strategy
+author: '-'
+published: '2026-06-02'
 type: note
+resource: ChatGPT
+timestamp: '2026-06-02T00:00:00Z'
+description: 'Estrategia canary en CI/CD: despliegue gradual a un grupo pequeño (1-5%
+  del tráfico) antes del rollout completo. Requiere routing controlado, métricas claras...'
+tags:
+- summaries
 ---
+
 
 # CI/CD Canary
 

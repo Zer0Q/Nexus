@@ -1,3 +1,14 @@
+---
+type: Tool
+title: PydanticAI
+description: Python agent framework built by the Pydantic team, designed to bring
+  FastAPI-like ergonomics to GenAI agent development. Model-agnostic, type-safe, with
+  comp...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # PydanticAI
 
 ## Definition

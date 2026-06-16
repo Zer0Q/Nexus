@@ -1,10 +1,17 @@
 ---
-title: "ISO 27001:2022 Annex A Explained & Simplified"
-source: "https://www.isms.online/iso-27001/annex-a-2022/"
-author: "ISMS.online"
-published: "2025-09-01"
+title: ISO 27001:2022 Annex A Explained & Simplified
+author: ISMS.online
+published: '2025-09-01'
 type: article
+resource: https://www.isms.online/iso-27001/annex-a-2022/
+timestamp: '2025-09-01T00:00:00Z'
+description: 'Guía completa del Anexo A de ISO 27001:2022: 93 controles organizados
+  en 4 categorías (Organizacional, Personal, Físico, Tecnológico). Incluye Statement
+  of A...'
+tags:
+- summaries
 ---
+
 
 # ISO 27001:2022 Annex A
 

@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Unified Knowledge Environment
+description: A knowledge management system where all sources, ideas, projects, and
+  outputs coexist in a single searchable environment, eliminating the need to route
+  infor...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Unified Knowledge Environment
 
 ## Definition

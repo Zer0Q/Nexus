@@ -1,10 +1,17 @@
 ---
-title: "21 painful mistakes I made building AI agents so you don't have to"
-source: "https://x.com/gkisokay/status/2059986597391823286"
-author: "@gkisokay"
-published: "2026-05-04"
+title: 21 painful mistakes I made building AI agents so you don't have to
+author: '@gkisokay'
+published: '2026-05-04'
 type: article
+resource: https://x.com/gkisokay/status/2059986597391823286
+timestamp: '2026-05-04T00:00:00Z'
+description: 'Practical lessons from 3 months of building Hermes and OpenClaw agents
+  daily: build specialized agent crews not monoliths, research-first architecture,
+  cost ...'
+tags:
+- summaries
 ---
+
 
 # 21 Mistakes Building AI Agents
 

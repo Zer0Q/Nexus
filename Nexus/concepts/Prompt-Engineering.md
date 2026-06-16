@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Prompt Engineering
+description: 'Arte de escribir prompts efectivos para LLMs y agentes. Incluye 6 elementos
+  clave: contexto (rol/situación), datos (qué analizar), instrucciones (cómo hacerl...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Prompt Engineering
 
 ## Definition

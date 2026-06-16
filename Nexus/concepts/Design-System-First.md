@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Design System First
+description: Building a complete design system -- colors, typography, components,
+  spacing, tokens -- before designing any screens. The design system determines output
+  qua...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Design System First
 
 ## Definition

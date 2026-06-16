@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Maker Checker Split
+description: Separating the agent that creates work from the agent that verifies it,
+  using different instructions or different models to catch self-justification bias.
+  Th...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Maker Checker Split
 
 ## Definition

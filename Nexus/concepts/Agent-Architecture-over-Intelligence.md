@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Architecture over Intelligence
+description: AI agents tend to fail due to architectural issues — tool conflicts,
+  integration problems, workflow misalignment — rather than model intelligence limitations...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Architecture over Intelligence
 
 ## Definition

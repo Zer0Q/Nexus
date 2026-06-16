@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Memory Levels
+description: '5 niveles de uso de memoria en agentes de IA: 1) fallar y documentarlo,
+  2) investigar por qué fallaste, 3) verificar la causa hasta convertirla en hecho,
+  4) ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Memory Levels
 
 ## Definition

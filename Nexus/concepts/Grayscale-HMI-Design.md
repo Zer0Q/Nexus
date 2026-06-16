@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Grayscale HMI Design
+description: An HMI design approach where the screen uses grayscale for normal operating
+  conditions, with color reserved exclusively as an attention-getter for abnormal
+  s...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Grayscale HMI Design
 
 ## Definition

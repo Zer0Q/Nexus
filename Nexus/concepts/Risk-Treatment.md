@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Risk Treatment
+description: 'Proceso de selección e implementación de medidas para modificar el riesgo:
+  aceptar, tratar, mitigar, transferir o evitar. Incluye plan de tratamiento con sig...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Risk Treatment
 
 ## Definition

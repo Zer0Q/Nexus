@@ -1,3 +1,14 @@
+---
+type: Concept
+title: SLICE
+description: 'Stage-Level LLM-Inferred Contribution Estimation: método heurístico
+  para cuantificar la contribución relativa de humanos vs. IA en cada etapa del proceso
+  de ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # SLICE
 
 ## Definition

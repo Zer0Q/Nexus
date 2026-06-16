@@ -1,10 +1,16 @@
 ---
-title: "The definitive tool for building AI agents inside Obsidian"
-source: "https://www.opensourceprojects.dev/post/802e6bcf-1b9b-44c4-a9d7-239ede061fde"
-author: "Open-source Projects Team"
-published: "2026-03-15"
+title: The definitive tool for building AI agents inside Obsidian
+author: Open-source Projects Team
+published: '2026-03-15'
 type: article
+resource: https://www.opensourceprojects.dev/post/802e6bcf-1b9b-44c4-a9d7-239ede061fde
+timestamp: '2026-03-15T00:00:00Z'
+description: Obsidian Skills plugin by @kepano provides a framework for creating persistent,
+  task-oriented AI agents inside Obsidian vaults. Skills are specialized agents...
+tags:
+- summaries
 ---
+
 
 # Obsidian Skills Plugin
 

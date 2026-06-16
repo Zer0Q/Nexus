@@ -1,3 +1,14 @@
+---
+type: Concept
+title: ISA-18.2 Standard
+description: ANSI/ISA-18.2 (2016) is the authoritative international standard for
+  management of alarm systems in process industries, covering the full alarm lifecycle
+  fro...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ISA-18.2 Standard
 
 ## Definition

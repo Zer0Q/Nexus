@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Frozen Sandbox Snapshot
+description: Imagen inmutable del entorno de un agent (packages, files, versions)
+  que se congela cuando el usuario está satisfecho y se mantiene congelada hasta que
+  el us...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Frozen Sandbox Snapshot
 
 ## Definition

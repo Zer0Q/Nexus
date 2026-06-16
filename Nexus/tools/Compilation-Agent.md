@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Compilation Agent
+description: A specialized AI agent that reads structured data and generates synthesized,
+  human-readable views (wiki pages, summaries, reports) without permanently storin...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Compilation Agent
 
 ## Definition

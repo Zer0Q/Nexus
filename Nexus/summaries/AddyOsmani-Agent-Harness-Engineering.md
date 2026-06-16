@@ -1,10 +1,17 @@
 ---
-title: "Agent Harness Engineering"
-source: "https://x.com/addyosmani/status/2053231239721885918"
-author: "@addyosmani"
-published: 2026-05-09
+title: Agent Harness Engineering
+author: '@addyosmani'
+published: &id001 2026-05-09
 type: source-note
+resource: https://x.com/addyosmani/status/2053231239721885918
+timestamp: *id001
+description: 'A deep dive into harness engineering — the discipline of building and
+  refining the scaffolding around AI models. Core thesis: "A decent model with a great
+  ha...'
+tags:
+- summaries
 ---
+
 
 # Agent Harness Engineering
 

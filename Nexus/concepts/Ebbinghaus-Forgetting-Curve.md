@@ -1,6 +1,12 @@
 ---
 type: glossary
+description: 'Hermann Ebbinghaus''s 1885 discovery that memory retention follows a
+  predictable decay curve: roughly 70% of new information is forgotten within 24 hours
+  unle...'
+tags:
+- concepts
 ---
+
 
 # Ebbinghaus Forgetting Curve
 

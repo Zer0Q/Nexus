@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Read-Only Vault Safety
+description: A safety pattern where AI tools access a knowledge vault in read-only
+  mode by default, preventing accidental modifications. Write operations require explicit...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Read-Only Vault Safety
 
 ## Definition

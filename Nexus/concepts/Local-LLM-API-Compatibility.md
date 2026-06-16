@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Local LLM API Compatibility
+description: The ability of local model runners (like LM Studio) to expose an OpenAI-compatible
+  API endpoint at localhost, allowing any tool designed for cloud AI to conn...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Local LLM API Compatibility
 
 ## Definition

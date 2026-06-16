@@ -1,3 +1,14 @@
+---
+type: Concept
+title: LLM Input Pipeline
+description: 'Primera fase de la arquitectura LLM que transforma texto humano en vectores
+  numéricos: tokenization → token IDs → token embeddings → positional embeddings →
+  ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LLM Input Pipeline
 
 ## Definition

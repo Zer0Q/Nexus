@@ -1,10 +1,16 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2068139076377595384"
-author: "@santtiagom_"
-published: "2026-06-15"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-06-15'
 type: article
+resource: https://x.com/santtiagom_/status/2068139076377595384
+timestamp: '2026-06-15T00:00:00Z'
+description: '@santtiagom_ explica el patrón del harness: la capa que coordina todo
+  en un sistema de agente — qué memory cargar, cuándo usar tools, cómo verificar resultad...'
+tags:
+- summaries
 ---
+
 
 # Agent Harness Patterns
 

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Zero-Shot Ontology
+description: Dynamic schema inference where agents analyze a complete corpus to automatically
+  derive the semantic structure without a predefined ontology. The agent disco...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Zero-Shot Ontology
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: GEPA Prompt Evolution
+description: 'Genetic-Pareto Prompt Evolution: an offline optimization pipeline that
+  reads execution traces to understand why agent skills failed, then proposes targeted
+  i...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # GEPA Prompt Evolution
 
 ## Definition

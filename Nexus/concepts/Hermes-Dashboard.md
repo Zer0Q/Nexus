@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Hermes Dashboard
+description: Web-based control panel for Hermes Agent accessible at localhost:9119.
+  Provides visual management of models, cron jobs, skills, plugins, profiles, and
+  the Ka...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hermes Dashboard
 
 ## Definition

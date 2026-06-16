@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cognitive Surrender
+description: Accepting loop output without judgment — using automated loops to avoid
+  thinking rather than to move faster on work you understand deeply. The loop doesn't
+  k...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cognitive Surrender
 
 ## Definition

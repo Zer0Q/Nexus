@@ -1,3 +1,13 @@
+---
+type: Concept
+title: LiteLLM API Gateway
+description: Unified API layer that serves multiple models under a single OpenAI-compatible
+  endpoint, providing authentication, rate limiting, usage metrics, and hardenin...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LiteLLM API Gateway
 
 ## Definition

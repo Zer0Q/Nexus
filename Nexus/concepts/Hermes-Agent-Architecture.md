@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Hermes Agent Architecture
+description: Unified agent architecture where all entry points (CLI, messaging gateway,
+  batch runner, IDE integration) flow through a single core agent class. ReAct-style...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hermes Agent Architecture
 
 ## Definition

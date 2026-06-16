@@ -1,10 +1,18 @@
 ---
-title: "How to build a 4-agent team, that ships a feature while you sleep (Exact Setup Inside)"
-source: "https://x.com/zodchiii/status/2060674246880149900"
-author: "zodchiii"
-published: "2026-05-30"
+title: How to build a 4-agent team, that ships a feature while you sleep (Exact Setup
+  Inside)
+author: zodchiii
+published: '2026-05-30'
 type: article
+resource: https://x.com/zodchiii/status/2060674246880149900
+timestamp: '2026-05-30T00:00:00Z'
+description: Four AI agents can ship a feature while you sleep. Most people never
+  wire them up. They fire a reviewer here, a test generator there, by hand, one at
+  a time,...
+tags:
+- summaries
 ---
+
 
 # How to build a 4agent team that ships a feature while you sleep Exact Setup I
 

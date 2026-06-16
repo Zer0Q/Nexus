@@ -1,3 +1,13 @@
+---
+type: Concept
+title: RULER
+description: Relative Utility-based LLM Evaluation and Ranking — uses an LLM judge
+  to score trajectories relatively against the agent's system prompt, replacing hand-writ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # RULER
 
 ## Definition

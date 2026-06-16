@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Prompt Chaining Workflow
+description: Decomposes a task into sequential LLM calls, where each call processes
+  the output of the previous one. Programmatic gates between steps ensure the process
+  st...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Prompt Chaining Workflow
 
 ## Definition

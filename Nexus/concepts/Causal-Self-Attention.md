@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Causal Self Attention
+description: Variante de self-attention donde cada token solo puede atender a sí mismo
+  y a tokens anteriores en la secuencia, nunca a tokens futuros. Se implementa con
+  un...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Causal Self Attention
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: PRD to UI
+description: Feeding a product requirements document directly to an AI design tool
+  to generate full screen designs. Instead of prompting for individual screens, you
+  paste...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # PRD to UI
 
 ## Definition

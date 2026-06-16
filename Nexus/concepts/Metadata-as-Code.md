@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Metadata-as-Code
+description: 'Repositorio donde metadata se gestiona como código: versionable, reviewable,
+  shippable como tarball. Permite que agents lean y actualicen su propia library d...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Metadata-as-Code
 
 ## Definition

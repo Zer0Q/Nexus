@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agentic SDLC
+description: Software Development Life Cycle where AI agents participate in analysis,
+  coding, testing, and PR creation. Agents operate within a mature CI/CD pipeline,
+  han...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agentic SDLC
 
 ## Definition

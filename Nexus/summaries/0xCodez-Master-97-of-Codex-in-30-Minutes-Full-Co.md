@@ -1,10 +1,17 @@
 ---
-title: "Master 97% of Codex in 30 Minutes (Full Course)"
-source: "https://x.com/0xCodez/status/2061795739575963935"
-author: "0xCodez"
-published: "2026-06-02"
+title: Master 97% of Codex in 30 Minutes (Full Course)
+author: 0xCodez
+published: '2026-06-02'
 type: article
+resource: https://x.com/0xCodez/status/2061795739575963935
+timestamp: '2026-06-02T00:00:00Z'
+description: 'Curso intensivo de Codex Agent (OpenAI) cubriendo el 97% de funcionalidades
+  usadas en el día a día: configuración de AGENTS.md como archivo de contexto del
+  p...'
+tags:
+- summaries
 ---
+
 
 # Codex Agent: Masterclass práctica en 30 minutos
 

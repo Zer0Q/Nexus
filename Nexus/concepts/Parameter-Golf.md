@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Parameter Golf
+description: 'Benchmark de Anthropic: entrenar el mejor modelo posible que quepa en
+  16MB, en menos de 10 minutos, sobre 8 GPUs H100. El agent tiene que editar código
+  de en...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Parameter Golf
 
 ## Definition

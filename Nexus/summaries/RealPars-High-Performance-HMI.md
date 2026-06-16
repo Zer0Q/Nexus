@@ -1,10 +1,17 @@
 ---
-title: "What Is High-Performance HMI?"
-source: "https://www.realpars.com/blog/high-performance-hmi"
-author: "Gregory Duranso"
-published: "2020-12-07"
+title: What Is High-Performance HMI?
+author: Gregory Duranso
+published: '2020-12-07'
 type: article
+resource: https://www.realpars.com/blog/high-performance-hmi
+timestamp: '2020-12-07T00:00:00Z'
+description: 'High-Performance HMI replaces poorly designed, colorful, cluttered HMIs
+  with standardized, information-driven interfaces based on ISA-101. Key principles:
+  gr...'
+tags:
+- summaries
 ---
+
 
 # High-Performance HMI Overview
 

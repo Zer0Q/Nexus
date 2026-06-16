@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Verifiable Automation
+description: Principle that AI automates what you can verify, not what you can specify.
+  Tasks with automatic success signals (tests pass/fail, schemas validate, metrics
+  r...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Verifiable Automation
 
 ## Definition

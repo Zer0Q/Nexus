@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Runner Hot-Swap
+description: Mecanismo para actualizar el código de plataforma (runner) dentro de
+  un sandbox sin destruir el snapshot congelado del usuario. Inspirado en cómo los
+  OS actu...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Runner Hot-Swap
 
 ## Definition

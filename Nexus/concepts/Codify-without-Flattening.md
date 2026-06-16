@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Codify Without Flattening
+description: The practice of translating tacit knowledge into formats AI systems can
+  learn from while preserving the richness, nuance, and decision-making context of
+  expe...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Codify Without Flattening
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "Claude Code 103 for Academic Researchers"
-source: "https://x.com/MushtaqBilalPhD/status/2057033643973865585"
-author: "MushtaqBilalPhD"
-published: "2026-05-20"
+title: Claude Code 103 for Academic Researchers
+author: MushtaqBilalPhD
+published: '2026-05-20'
 type: article
+resource: https://x.com/MushtaqBilalPhD/status/2057033643973865585
+timestamp: '2026-05-20T00:00:00Z'
+description: This is the third installment in a series of tutorials I am doing for
+  academic researchers. You can read Claude Code 101 here and Claude Code 102 here.
+  I am ...
+tags:
+- summaries
 ---
+
 
 # Claude Code 103 for Academic Researchers
 

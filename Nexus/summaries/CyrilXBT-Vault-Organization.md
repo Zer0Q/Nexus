@@ -1,10 +1,17 @@
 ---
-title: "How to Organize Your Obsidian Vault So You Can Always Find What You Need"
-source: "https://x.com/cyrilXBT/status/2058373087330959829"
-author: "@cyrilXBT"
-published: "2026-05-24"
+title: How to Organize Your Obsidian Vault So You Can Always Find What You Need
+author: '@cyrilXBT'
+published: '2026-05-24'
 type: article
+resource: https://x.com/cyrilXBT/status/2058373087330959829
+timestamp: '2026-05-24T00:00:00Z'
+description: 'Complete guide to organizing Obsidian vaults for retrieval speed, not
+  storage. Four retrieval dimensions: content type, creation date, topic, and status.
+  Sev...'
+tags:
+- summaries
 ---
+
 
 # Cyril XBT Vault Organization Guide
 

@@ -1,3 +1,13 @@
+---
+type: Tool
+title: smolagents
+description: Hugging Face's lightweight SDK for building simple AI agents. Focused
+  on prototyping, tool usage, and workflow automation rather than full SDLC coverage.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # smolagents
 
 ## Definition

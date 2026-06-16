@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Residual Connections
+description: 'Conexiones de salto (skip connections) que suman el input original a
+  la salida de una subcapa: Output = x + Sublayer(x). En lugar de aprender una representac...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Residual Connections
 
 ## Definition

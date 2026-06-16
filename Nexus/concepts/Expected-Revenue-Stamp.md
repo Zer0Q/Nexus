@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Expected Revenue Stamp
+description: A metadata tag appended to output notes that estimates the revenue potential
+  of the note type and topic. After weeks of tracking, it reveals which captures p...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Expected Revenue Stamp
 
 ## Definition

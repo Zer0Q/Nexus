@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Browser Use
+description: Full browser control for AI agents. Navigate, click, fill forms, and
+  extract data from any site without writing scraping rules. The closest thing to
+  giving a...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Browser Use
 
 ## Definition

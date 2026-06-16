@@ -1,10 +1,16 @@
 ---
-title: "How to Build an Obsidian Trading Journal That Gets Smarter With Every Trade"
-source: "https://x.com/cyrilXBT/status/2059111626918269389"
-author: "@cyrilXBT"
-published: "2026-05-26"
+title: How to Build an Obsidian Trading Journal That Gets Smarter With Every Trade
+author: '@cyrilXBT'
+published: '2026-05-26'
 type: article
+resource: https://x.com/cyrilXBT/status/2059111626918269389
+timestamp: '2026-05-26T00:00:00Z'
+description: 'Complete guide to building an AI-powered trading journal in Obsidian.
+  Four pillars: trade capture (structured templates), performance analysis (weekly/monthl...'
+tags:
+- summaries
 ---
+
 
 # Cyril XBT Trading Brain
 

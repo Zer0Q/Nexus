@@ -1,3 +1,14 @@
+---
+type: Concept
+title: DGX Spark Specs
+description: 'Detailed hardware specifications for the NVIDIA DGX Spark: GB10 Grace
+  Blackwell superchip delivering 1 PFLOP FP4 throughput with 128GB LPDDR5x unified
+  memory...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # DGX Spark Specs
 
 ## Definition

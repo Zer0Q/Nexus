@@ -1,3 +1,14 @@
+---
+type: Concept
+title: RAG Systems
+description: 'Sistema que complementa el conocimiento del modelo con datos externos:
+  embedding de documentos en un vector index, retrieval de chunks relevantes en query
+  ti...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # RAG Systems
 
 ## Definition

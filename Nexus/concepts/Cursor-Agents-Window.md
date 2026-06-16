@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cursor Agents Window
+description: A feature in Cursor 3 that lets you run multiple AI agents simultaneously
+  across different parts of a codebase. Each agent runs in its own Git worktree, so
+  t...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cursor Agents Window
 
 ## Definition

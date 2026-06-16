@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Highly Managed Alarm
+description: An alarm class requiring more administration and documentation than standard
+  alarms. HMAs cover alarms critical to process safety, personnel protection, envi...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Highly Managed Alarm
 
 ## Definition

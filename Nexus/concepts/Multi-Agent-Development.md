@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Multi-Agent Development
+description: Development approach using specialized AI agents, each with a defined
+  role (Analyst, PM, Architect, Developer, QA), working together through structured
+  hando...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Multi-Agent Development
 
 ## Definition

@@ -1,7 +1,15 @@
 ---
 type: concept
-related: [Connection-Surface-Workflow, Daily-Processing-Run, Structured-Source-Notes]
+related:
+- Connection-Surface-Workflow
+- Daily-Processing-Run
+- Structured-Source-Notes
+description: A capture convention that requires noting the connection that made something
+  worth capturing and the first use case that comes to mind at the moment of captu...
+tags:
+- concepts
 ---
+
 
 # Connection-Capture-Convention
 

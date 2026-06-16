@@ -1,10 +1,17 @@
 ---
-title: "Every Company's First AI Strategy Should Be a Skill Library"
-source: "https://x.com/hnshah/status/2062647149582750101"
-author: "@hnshah"
-published: "2026-06-04"
+title: Every Company's First AI Strategy Should Be a Skill Library
+author: '@hnshah'
+published: '2026-06-04'
 type: article
+resource: https://x.com/hnshah/status/2062647149582750101
+timestamp: '2026-06-04T00:00:00Z'
+description: Hiten Shah argumenta que la primera estrategia de IA de cualquier empresa
+  debería ser construir una biblioteca de skills derivados del trabajo repetitivo
+  de ...
+tags:
+- summaries
 ---
+
 
 # Skill Library as First AI Strategy
 

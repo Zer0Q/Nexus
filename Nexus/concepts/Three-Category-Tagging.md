@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Three-Category Tagging
+description: 'A tagging system with three prefixed categories: topic tags (no prefix,
+  what the note is about), status tags (status/ prefix, workflow position), and project...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Three-Category Tagging
 
 ## Definition

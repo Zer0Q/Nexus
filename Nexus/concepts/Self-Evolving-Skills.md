@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Self-Evolving Skills
+description: Agent-authored procedural playbooks (SKILL.md files) created autonomously
+  after completing complex tasks, overcoming errors, or discovering non-trivial workf...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Self-Evolving Skills
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "Claude Code 104: Building Your AI-Powered Research Management System"
-source: "https://x.com/MushtaqBilalPhD/status/2058888916858544472"
-author: "MushtaqBilalPhD"
-published: "2026-05-25"
+title: 'Claude Code 104: Building Your AI-Powered Research Management System'
+author: MushtaqBilalPhD
+published: '2026-05-25'
 type: article
+resource: https://x.com/MushtaqBilalPhD/status/2058888916858544472
+timestamp: '2026-05-25T00:00:00Z'
+description: This is the fourth installment in a series of tutorials that I am doing
+  on Claude Code for non-technical academic researchers. You can read the first three
+  t...
+tags:
+- summaries
 ---
+
 
 # Claude Code 104 Building Your AIPowered Research Management System
 

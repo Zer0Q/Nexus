@@ -1,10 +1,17 @@
 ---
-title: "Introducing multi-harness orchestration"
-source: "https://x.com/zachlloydtweets/status/2056780898675167656"
-author: "zachlloydtweets"
-published: "2026-05-19"
+title: Introducing multi-harness orchestration
+author: zachlloydtweets
+published: '2026-05-19'
 type: article
+resource: https://x.com/zachlloydtweets/status/2056780898675167656
+timestamp: '2026-05-19T00:00:00Z'
+description: Today, we’re launching major upgrades to Oz that make it the first truly
+  multi-harness control plane for cloud agents. We believe companies shouldn’t have
+  to...
+tags:
+- summaries
 ---
+
 
 # Introducing multiharness orchestration
 

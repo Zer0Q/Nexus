@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Display Hierarchy
+description: A four-level display structure that organizes HMI information from broad
+  situational awareness to detailed diagnostics, allowing operators to navigate from
+  o...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Display Hierarchy
 
 ## Definition

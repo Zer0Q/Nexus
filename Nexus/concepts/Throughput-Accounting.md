@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Throughput Accounting
+description: 'Management accounting system based on three metrics: Throughput (rate
+  of generating money through sales), Inventory/Investment (money tied up in the system),...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Throughput Accounting
 
 ## Definition

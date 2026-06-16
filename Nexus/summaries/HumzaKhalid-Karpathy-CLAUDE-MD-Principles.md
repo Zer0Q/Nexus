@@ -1,10 +1,16 @@
 ---
-title: "Post by @humzaakhalid on X"
-source: "https://x.com/humzaakhalid/status/2061337794740637883"
-author: "@humzaakhalid"
-published: "2026-05-24"
+title: Post by @humzaakhalid on X
+author: '@humzaakhalid'
+published: '2026-05-24'
 type: article
+resource: https://x.com/humzaakhalid/status/2061337794740637883
+timestamp: '2026-05-24T00:00:00Z'
+description: Forrest Chang distilled Karpathy's thread on Claude Code failure patterns
+  into a CLAUDE.md file that hit 110K GitHub stars in under 3 months. Four principles...
+tags:
+- summaries
 ---
+
 
 # Karpathy CLAUDE.md Principles
 

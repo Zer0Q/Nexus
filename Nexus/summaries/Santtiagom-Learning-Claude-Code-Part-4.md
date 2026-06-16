@@ -1,10 +1,16 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2047837076922437817"
-author: "@santtiagom_"
-published: "2026-04-23"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-04-23'
 type: article
+resource: https://x.com/santtiagom_/status/2047837076922437817
+timestamp: '2026-04-23T00:00:00Z'
+description: '@santtiagom_ resume un workshop de Anthropic sobre prompt engineering,
+  mostrando cómo agregar contexto a un prompt básico mejora drásticamente los resultados...'
+tags:
+- summaries
 ---
+
 
 # Prompt Engineering Elements
 

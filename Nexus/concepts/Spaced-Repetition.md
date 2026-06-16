@@ -1,6 +1,12 @@
 ---
 type: glossary
+description: A learning technique that schedules review of material at increasing
+  intervals based on the [[concepts/Ebbinghaus-Forgetting-Curve]]. Each successful
+  recall ...
+tags:
+- concepts
 ---
+
 
 # Spaced Repetition
 

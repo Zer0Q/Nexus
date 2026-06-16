@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Hermes Agent
+description: Framework de agente AI con memoria persistente entre sesiones, learning
+  loop (el agente mejora con el uso), recall de conversaciones pasadas, skills reutiliz...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hermes Agent
 
 ## Definition

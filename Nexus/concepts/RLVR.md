@@ -1,3 +1,14 @@
+---
+type: Concept
+title: RLVR
+description: Reinforcement Learning with Verifiable Rewards — replaces learned reward
+  models with rule-based verifiers (compilers, checkers, gold answers) that return
+  bin...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # RLVR
 
 ## Definition

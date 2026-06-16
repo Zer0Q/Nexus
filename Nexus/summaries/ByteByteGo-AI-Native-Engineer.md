@@ -1,10 +1,16 @@
 ---
-title: "A Practical Guide to Becoming an AI-Native Engineer"
-source: "https://x.com/bytebytego/status/2061821715450351992"
-author: "Shah Rahman via @bytebytego"
-published: "2026-06-02"
+title: A Practical Guide to Becoming an AI-Native Engineer
+author: Shah Rahman via @bytebytego
+published: '2026-06-02'
 type: article
+resource: https://x.com/bytebytego/status/2061821715450351992
+timestamp: '2026-06-02T00:00:00Z'
+description: 'Guía práctica de Shah Rahman (Meta) para ingenieros que quieren transicionar
+  a ingeniería AI-native: 4 prácticas core (context engineering, spec-driven devel...'
+tags:
+- summaries
 ---
+
 
 # AI-Native Engineering Guide
 

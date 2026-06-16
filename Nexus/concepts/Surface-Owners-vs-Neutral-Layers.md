@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Surface-Owners vs Neutral Layers
+description: 'A strategic divide in the context layer landscape: surface-owners already
+  own a platform where context is created and add connectors to pull in external data...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Surface-Owners vs Neutral Layers
 
 ## Definition

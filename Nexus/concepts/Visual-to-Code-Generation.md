@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Visual to Code Generation
+description: Converting structured design data (components, tokens, layout) directly
+  into production code via MCP connection, rather than interpreting screenshots or
+  text...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Visual to Code Generation
 
 ## Definition

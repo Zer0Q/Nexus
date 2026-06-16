@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Teleological Behavior
+description: All behavior is goal-oriented, even when the goals are unconscious. Self-sabotage,
+  procrastination, and resistance all serve hidden purposes -- protection fr...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Teleological Behavior
 
 ## Definition

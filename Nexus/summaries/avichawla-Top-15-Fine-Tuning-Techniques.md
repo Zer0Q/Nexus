@@ -1,10 +1,16 @@
 ---
-title: "Post by @_avichawla on X"
-source: "https://x.com/_avichawla/status/2063210446686146750"
-author: "@_avichawla"
-published: "2026-04-28"
+title: Post by @_avichawla on X
+author: '@_avichawla'
+published: '2026-04-28'
 type: article
+resource: https://x.com/_avichawla/status/2063210446686146750
+timestamp: '2026-04-28T00:00:00Z'
+description: Avi Chawla lists 15 fine-tuning techniques ranked by what he'd learn
+  if starting fresh, spanning parameter-efficient methods (LoRA, QLoRA, BitFit), prompt-ba...
+tags:
+- summaries
 ---
+
 
 # Top 15 Fine-Tuning Techniques
 

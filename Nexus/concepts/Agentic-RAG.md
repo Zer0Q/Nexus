@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agentic RAG
+description: Implementación de RAG basada en AI agents que incorpora planning, tool
+  use y validation loops en el pipeline de retrieval, superando las limitaciones del
+  van...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agentic RAG
 
 ## Definition

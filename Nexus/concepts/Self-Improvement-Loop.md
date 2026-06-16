@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Self-Improvement Loop
+description: The continuous feedback cycle where Hermes Agent reviews every completed
+  task — what worked, what didn't, the optimal path — and saves those learnings as
+  ski...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Self-Improvement Loop
 
 ## Definition

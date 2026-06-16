@@ -1,3 +1,14 @@
+---
+type: Concept
+title: AI Monetization Paths
+description: 'Three proven paths to monetize AI expertise in 2026: Distribution (content
+  + audience), Consulting (SMB AI implementation), and Product (AI-native tools and
+  ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Monetization Paths
 
 ## Definition

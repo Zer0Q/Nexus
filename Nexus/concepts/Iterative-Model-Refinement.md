@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Iterative Model Refinement
+description: Successive rounds of cross-model review where each model critiques and
+  improves the other's output. Unlike single-pass multi-model comparison, iterative
+  refi...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Iterative Model Refinement
 
 ## Definition

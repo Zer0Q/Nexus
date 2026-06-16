@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Function Calling
+description: Capacidad de LLMs para interactuar con servicios externos y APIs especificando
+  estructura y definición exacta de funciones, permitiendo al modelo generar lla...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Function Calling
 
 ## Definition

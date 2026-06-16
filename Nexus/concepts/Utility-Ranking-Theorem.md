@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Utility Ranking Theorem
+description: 'Teorema (Theorem 3 del paper Stanford/Harvard/MIT/Anthropic 2026) que
+  establece que un modelo de ancho N aprende features en orden de su score de utilidad:
+  u...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Utility Ranking Theorem
 
 ## Definition

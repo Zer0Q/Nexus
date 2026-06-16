@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Capabilities
+description: 'Composable units that bundle tools, hooks, instructions, and model settings
+  into reusable agent features. Examples: Thinking(), WebSearch(), MCP(). Enable mo...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Capabilities
 
 ## Definition

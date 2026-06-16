@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Voice Activation Assistant
+description: Always-on voice interface combining local wake word detection, local
+  speech-to-text transcription, LLM reasoning with persona, and neural text-to-speech
+  outp...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Voice Activation Assistant
 
 ## Definition

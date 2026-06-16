@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Virtual Communities of Practice
+description: Digital Communities of Practice that transcend geographic and temporal
+  boundaries. Members connect through online platforms (forums, social media, messaging
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Virtual Communities of Practice
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: ReAct Framework
+description: 'Framework agentic que combina Reason + Act: el agent razona sobre la
+  siguiente acción (Thought), la ejecuta (Action), observa el feedback (Observation)
+  e ite...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ReAct Framework
 
 ## Definition

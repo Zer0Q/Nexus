@@ -1,3 +1,14 @@
+---
+type: Concept
+title: System Prompt Learning
+description: Proposed learning paradigm where the system prompt carries a richer signal
+  than scalar rewards, and RL training leverages that signal directly rather than
+  re...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # System Prompt Learning
 
 ## Definition

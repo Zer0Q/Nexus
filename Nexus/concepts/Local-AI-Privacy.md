@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Local AI Privacy
+description: 'The practice of running AI models on your own hardware so that your
+  notes, ideas, and sensitive data never leave your device. The core question: should
+  your ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Local AI Privacy
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Bitwarden Secrets Integration
+description: Credential management layer for production Hermes agents using Bitwarden
+  Secrets Manager. One bootstrap token in .env, all real credentials live in Bitwarden...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Bitwarden Secrets Integration
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Tool
+title: qmd
+description: Local search engine for markdown files by @tobi. Hybrid BM25/vector search
+  with LLM re-ranking, all on-device. Provides both CLI (for LLM shell-out) and MCP
+  ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # qmd
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Context Engineering
+description: Diseñar intencionalmente el contexto que se pasa al modelo para compensar
+  la naturaleza stateless de los LLMs. Incluye qué información incluir, cómo organiza...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Engineering
 
 ## Definition

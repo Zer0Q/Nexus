@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Research-First Architecture
+description: Building a research agent as the input intelligence layer that feeds
+  every other agent. Everything it gathers from the world becomes training data to
+  refine ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Research-First Architecture
 
 ## Definition

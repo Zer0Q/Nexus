@@ -1,10 +1,17 @@
 ---
-title: "Post by @javilopen on X"
-source: "https://x.com/javilopen/status/2060421067546792004"
-author: "@javilopen"
-published: "2026-05-29"
+title: Post by @javilopen on X
+author: '@javilopen'
+published: '2026-05-29'
 type: article
+resource: https://x.com/javilopen/status/2060421067546792004
+timestamp: '2026-05-29T00:00:00Z'
+description: JaviLopen spent a month helping a metastatic cancer patient using an
+  AI-assisted research methodology called ARROWHEAD (adversarial model spiral). The
+  proces...
+tags:
+- summaries
 ---
+
 
 # JaviLopen AI Medical Research ARROWHEAD Method
 

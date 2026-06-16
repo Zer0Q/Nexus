@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Three-Layer Architecture
+description: 'A business operating system architecture with three layers: knowledge
+  (Obsidian -- plain text markdown), intelligence (Claude via MCP -- active reasoning),
+  a...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Three-Layer Architecture
 
 ## Definition

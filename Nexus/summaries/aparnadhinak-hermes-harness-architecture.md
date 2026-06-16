@@ -1,10 +1,17 @@
 ---
-title: "Hermes Harness Architecture"
-source: "https://x.com/aparnadhinak/status/2060406977357070522"
-author: "aparnadhinak"
-published: "2026-05-29"
+title: Hermes Harness Architecture
+author: aparnadhinak
+published: '2026-05-29'
 type: article
+resource: https://x.com/aparnadhinak/status/2060406977357070522
+timestamp: '2026-05-29T00:00:00Z'
+description: Hermes (from @NousResearch) is one of the best open-source harnesses
+  in the ecosystem right now. We wanted to look at the implementation directly and
+  map wha...
+tags:
+- summaries
 ---
+
 
 # Hermes Harness Architecture
 

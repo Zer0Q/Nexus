@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Subagent Delegation
+description: Patrón donde el agente principal delega sub-tareas a agentes con contexto
+  y permisos aislados. Cada subagent tiene su propio context window, model, tools
+  y p...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Subagent Delegation
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Query-Time Knowledge Systems
+description: Knowledge systems that store raw information and defer AI synthesis until
+  a specific query is made. The "thinking" happens on demand, not at ingestion.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Query-Time Knowledge Systems
 
 ## Definition

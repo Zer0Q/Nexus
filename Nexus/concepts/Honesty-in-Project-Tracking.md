@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Honesty in Project Tracking
+description: The principle that project status should reflect actual recent activity
+  rather than database fields that create the illusion of organisation. A project
+  note ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Honesty in Project Tracking
 
 ## Definition

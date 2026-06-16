@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Synthesis-Session, Active-Recall-Learning, Knowledge-Graph-Learning]
+related:
+- Synthesis-Session
+- Active-Recall-Learning
+- Knowledge-Graph-Learning
+description: A testing approach where the learner is presented with novel scenarios
+  they have not studied and asked to predict what would happen based on their knowledge
+  ...
+tags:
+- concepts
 ---
+
 
 # Predictive-Test-Method
 

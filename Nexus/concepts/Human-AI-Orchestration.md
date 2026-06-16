@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Human-AI Orchestration
+description: The division of labor between human judgment and AI execution within
+  knowledge workflows. Humans handle creative synthesis, editorial decisions, and
+  quality ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Human-AI Orchestration
 
 ## Definition

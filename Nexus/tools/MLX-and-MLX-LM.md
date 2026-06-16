@@ -1,3 +1,13 @@
+---
+type: Tool
+title: MLX and MLX-LM
+description: Apple's array framework (MLX) and LLM package (MLX-LM) for Apple Silicon.
+  A Mac-first ML stack that leverages unified memory.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # MLX and MLX-LM
 
 ## Definition

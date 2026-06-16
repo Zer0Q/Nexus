@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Full Clinical History Processing
+description: Consolidating a patient's entire clinical history (100+ PDFs, images,
+  lab reports, prescriptions) into a single readable document -- both a consolidated
+  PDF ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Full Clinical History Processing
 
 ## Definition

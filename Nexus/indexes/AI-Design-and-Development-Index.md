@@ -1,3 +1,14 @@
+---
+type: Index
+title: AI Design and Development Index
+description: '## Related - [[concepts/CLAUDE-MD-as-Context-Layer]] -- CLAUDE.md as
+  project context for coding agents - [[concepts/Vibe-Coding]] -- AI-assisted coding
+  with ...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Design and Development Index
 
 ## Overview

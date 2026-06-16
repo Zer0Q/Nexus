@@ -1,10 +1,17 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2066599044788553084"
-author: "@santtiagom_"
-published: "2026-06-13"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-06-13'
 type: article
+resource: https://x.com/santtiagom_/status/2066599044788553084
+timestamp: '2026-06-13T00:00:00Z'
+description: '@santtiagom_ explica los métodos de planificación que usan los agentes
+  para resolver problemas complejos: Chain of Thought (pensar paso a paso), Tree of
+  Thou...'
+tags:
+- summaries
 ---
+
 
 # Agent Planning Methods: CoT, ToT, Reflexion
 

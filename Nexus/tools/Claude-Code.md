@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Claude Code
+description: 'IDE de agente de código de Anthropic que envuelve un LLM con una arquitectura
+  de 5 capas: memoria persistente (CLAUDE.md), conocimiento modular (Skills), gua...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Claude Code
 
 ## Definition

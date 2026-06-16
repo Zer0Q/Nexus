@@ -1,10 +1,17 @@
 ---
-title: "Anthropic's War on Opensource AI"
-source: "https://x.com/TheAhmadOsman/status/2065307070044234186"
-author: "@TheAhmadOsman"
-published: "2026-06-12"
+title: Anthropic's War on Opensource AI
+author: '@TheAhmadOsman'
+published: '2026-06-12'
 type: article
+resource: https://x.com/TheAhmadOsman/status/2065307070044234186
+timestamp: '2026-06-12T00:00:00Z'
+description: 'Ahmad Osman presents a systematic indictment of Anthropic''s business
+  model: using safety rhetoric to justify anti-competitive access controls, silent
+  output ...'
+tags:
+- summaries
 ---
+
 
 # Anthropic's War on Opensource AI
 

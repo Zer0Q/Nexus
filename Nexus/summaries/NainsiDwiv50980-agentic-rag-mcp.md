@@ -1,10 +1,17 @@
 ---
-title: "Your RAG Pipeline Is Already Obsolete"
-source: "https://x.com/NainsiDwiv50980/status/2065456681551814728"
-author: "@NainsiDwiv50980"
-published: "2026-06-12"
+title: Your RAG Pipeline Is Already Obsolete
+author: '@NainsiDwiv50980'
+published: '2026-06-12'
 type: article
+resource: https://x.com/NainsiDwiv50980/status/2065456681551814728
+timestamp: '2026-06-12T00:00:00Z'
+description: 'Argumento sobre por qué RAG tradicional está obsoleto: vector search
+  no puede navegar fuentes heterogéneas ni investigar, verificar o decidir dónde buscar
+  ne...'
+tags:
+- summaries
 ---
+
 
 # Agentic RAG con MCP
 

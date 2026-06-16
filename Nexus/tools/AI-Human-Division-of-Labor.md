@@ -1,3 +1,14 @@
+---
+type: Tool
+title: AI-Human Division of Labor
+description: A knowledge management model where AI handles mechanical organization
+  (tagging, cross-referencing, structuring) while humans focus on curation, judgment,
+  and...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI-Human Division of Labor
 
 ## Definition

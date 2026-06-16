@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Positional Embeddings
+description: Vectores añadidos a token embeddings para codificar la posición absoluta
+  o relativa de cada token en la secuencia de input.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Positional Embeddings
 
 ## Definition

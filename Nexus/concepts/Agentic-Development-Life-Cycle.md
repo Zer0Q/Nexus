@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agentic Development Life Cycle (ADLC)
+description: 'Ciclo de vida de desarrollo adaptado a la era de agentes IA que redefine
+  cada fase del SDLC tradicional: planificación, build, testing, review y documentació...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agentic Development Life Cycle (ADLC)
 
 ## Definition

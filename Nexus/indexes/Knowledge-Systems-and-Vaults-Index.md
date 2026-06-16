@@ -1,3 +1,13 @@
+---
+type: Index
+title: Knowledge Systems and Vaults Index
+description: '## Glossary - [[concepts/RAG]] - [[concepts/Embeddings]] - [[concepts/FTS5]]
+  - [[concepts/Vault-Context]] - [[concepts/Memex]]'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Systems and Vaults Index
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Note Contribution Rate
+description: The percentage of captured notes that actually contribute to a decision,
+  published piece, deliverable, or action. A vault of 400 notes where every one contri...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Note Contribution Rate
 
 ## Definition

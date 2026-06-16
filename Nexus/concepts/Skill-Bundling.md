@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Skill Bundling
+description: Treating skills as directories with SKILL.md + references/ + scripts/
+  instead of monolithic prompts. The pipeline logic stays lean (~100 lines in SKILL.md)
+  w...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Skill Bundling
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Instruction-Following Precision
+description: The ability of an AI model to honor every detail in a complex prompt
+  -- multiple formatting rules, constraints, and output structures -- on the first
+  attempt...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Instruction-Following Precision
 
 ## Definition

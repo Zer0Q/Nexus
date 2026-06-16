@@ -1,10 +1,17 @@
 ---
-title: "Most Obsidian Beginners Accidentally Turn Their Vault Into a Productivity Trap"
-source: "https://x.com/InduTripat82427/status/2055689831603486882"
-author: "@InduTripat82427"
-published: "2026-05-16"
+title: Most Obsidian Beginners Accidentally Turn Their Vault Into a Productivity Trap
+author: '@InduTripat82427'
+published: '2026-05-16'
 type: article
+resource: https://x.com/InduTripat82427/status/2055689831603486882
+timestamp: '2026-05-16T00:00:00Z'
+description: Beginners fall into optimizing their vault setup instead of using it
+  — productiveness theater through folder structures, plugins, and templates. The
+  real val...
+tags:
+- summaries
 ---
+
 
 # Obsidian Productivity Trap
 

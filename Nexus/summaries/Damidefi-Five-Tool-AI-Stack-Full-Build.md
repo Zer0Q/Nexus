@@ -1,10 +1,17 @@
 ---
-title: "I Built a 5 Tool AI Stack Where Each Tool Does Something the Others Cannot. Here Is the Full Build."
-source: "https://x.com/DamiDefi/status/2060313230585536980"
-author: "@DamiDefi"
-published: "2026-05-29"
+title: I Built a 5 Tool AI Stack Where Each Tool Does Something the Others Cannot.
+  Here Is the Full Build.
+author: '@DamiDefi'
+published: '2026-05-29'
 type: article
+resource: https://x.com/DamiDefi/status/2060313230585536980
+timestamp: '2026-05-29T00:00:00Z'
+description: 'DamiDefi presents a five-tool AI stack where each tool owns a distinct
+  operational layer: Claude for reasoning and context, Obsidian for memory and intellige...'
+tags:
+- summaries
 ---
+
 
 # Five-Tool AI Stack Full Build
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Gemba
+description: '"Go to the real place" — the Lean practice of observing work where it
+  actually happens, with the people who actually do it, rather than diagnosing problems
+  i...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Gemba
 
 ## Definition

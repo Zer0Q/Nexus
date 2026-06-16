@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Kimi K2.6 Model
+description: An open-source, native multimodal agentic model from Moonshot AI that
+  advances practical capabilities in long-horizon coding, coding-driven design, proactive...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Kimi K2.6 Model
 
 ## Definition

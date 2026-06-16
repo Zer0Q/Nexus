@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context Rot
+description: Degración de la capacidad de reasoning del modelo cuando el contexto
+  se llena de información irrelevante o redundante. El "ruido" en el contexto compite
+  con ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Rot
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: MAD (Master Alarm Database)
+description: '- Product of alarm rationalization process - Contains: alarm limit,
+  priority, classification, type, consequence, response time, operator action - Used
+  by ala...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # MAD (Master Alarm Database)
 
 Centralized database containing all alarm configuration requirements, rationalization documentation, and lifecycle records.

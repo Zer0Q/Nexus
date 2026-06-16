@@ -1,10 +1,16 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2061786294141821023"
-author: "@santtiagom_"
-published: "2026-06-02"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-06-02'
 type: article
+resource: https://x.com/santtiagom_/status/2061786294141821023
+timestamp: '2026-06-02T00:00:00Z'
+description: '@santtiagom_ explica el learning loop de Hermes: la habilidad más interesante
+  del framework es que las Skills mejoran con el uso. Si el agente encuentra una ...'
+tags:
+- summaries
 ---
+
 
 # Hermes Learning Loop
 

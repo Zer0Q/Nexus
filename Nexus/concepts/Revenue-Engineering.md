@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Revenue Engineering
+description: Aplicar loops de mejora continua a las partes del negocio que generan
+  revenue. En lugar de usar AI solo para productividad interna, diseñar sistemas que
+  pien...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Revenue Engineering
 
 ## Definition

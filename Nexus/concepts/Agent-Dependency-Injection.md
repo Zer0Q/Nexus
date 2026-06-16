@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Dependency Injection
+description: Type-safe mechanism for passing runtime data, connections, and configuration
+  into agent tools and instructions. Dependencies are declared via deps_type and a...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Dependency Injection
 
 ## Definition

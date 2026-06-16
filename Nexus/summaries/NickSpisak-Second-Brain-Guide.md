@@ -1,10 +1,16 @@
 ---
-title: "How to Build Your Second Brain"
-source: "https://x.com/NickSpisak_/status/2040448463540830705"
-author: "@NickSpisak_"
-published: "2026-04-04"
+title: How to Build Your Second Brain
+author: '@NickSpisak_'
+published: '2026-04-04'
 type: article
+resource: https://x.com/NickSpisak_/status/2040448463540830705
+timestamp: '2026-04-04T00:00:00Z'
+description: 'Practical guide to building a Karpathy-style knowledge base: three folders
+  (raw/, wiki/, outputs/), automated source collection with agent-browser CLI, schem...'
+tags:
+- summaries
 ---
+
 
 # Nick Spisak Second Brain Guide
 

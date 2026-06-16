@@ -1,10 +1,17 @@
 ---
-title: "Principle A1 Governance"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a1-governance"
-author: "NCSC UK"
-published: "2024-04-18"
+title: Principle A1 Governance
+author: NCSC UK
+published: '2024-04-18'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a1-governance
+timestamp: '2024-04-18T00:00:00Z'
+description: 'Principio A1 de gobernanza: dirección a nivel de junta directiva, roles
+  y responsabilidades claros, y toma de decisiones delegada con apetito de riesgo
+  defin...'
+tags:
+- summaries
 ---
+
 
 # CAF Principle A1 Governance
 

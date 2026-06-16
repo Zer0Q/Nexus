@@ -1,3 +1,14 @@
+---
+type: Concept
+title: SOUL-MD Current Obsessions
+description: A section in SOUL.md that tells the agent your specific active research
+  questions and obsessions -- not general interests, but the exact gaps and problems
+  yo...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # SOUL-MD Current Obsessions
 
 ## Definition

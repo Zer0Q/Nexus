@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Aging
+description: 'Longitudinal reliability degradation in long-lived agents, organized
+  into four mechanisms: compression aging (write-time summarization drops future-relevant
+  ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Aging
 
 ## Definition

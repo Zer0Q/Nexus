@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Production Transcript
+description: Registro estructurado del proceso de escritura que documenta drafts,
+  edit logs, prompts de IA y otras interacciones, usado como input para análisis de
+  contri...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Production Transcript
 
 ## Definition

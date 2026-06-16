@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Vellum
+description: AI platform (vellum.ai) that can be connected to Obsidian vaults as an
+  intelligence layer. Alternative to Claude for vault-based AI reasoning. Prepaid
+  credit...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Vellum
 
 ## Definition

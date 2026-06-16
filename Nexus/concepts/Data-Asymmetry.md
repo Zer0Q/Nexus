@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Data Asymmetry
+description: 'The unequal flow of learning signals in closed AI ecosystems: providers
+  harvest user workflows, debugging traces, and proprietary code to improve their
+  model...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Data Asymmetry
 
 ## Definition

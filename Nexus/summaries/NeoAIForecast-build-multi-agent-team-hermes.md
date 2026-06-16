@@ -1,10 +1,16 @@
 ---
-title: "How to Build a Multi-Agent Team in Hermes"
-source: "https://x.com/NeoAIForecast/status/2043455838459920718"
-author: "NeoAIForecast"
-published: "2026-04-13"
+title: How to Build a Multi-Agent Team in Hermes
+author: NeoAIForecast
+published: '2026-04-13'
 type: article
+resource: https://x.com/NeoAIForecast/status/2043455838459920718
+timestamp: '2026-04-13T00:00:00Z'
+description: Most people use one AI assistant and then try to force it to become a
+  researcher, writer, coder, project manager, and operator all at once. Then the personal...
+tags:
+- summaries
 ---
+
 
 # How to Build a MultiAgent Team in Hermes
 

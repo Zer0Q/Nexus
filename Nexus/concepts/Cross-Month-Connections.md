@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cross-Month Connections
+description: Linking recent captures to notes created weeks or months earlier, rather
+  than connecting only within the current week. Enabled by agents that read the full
+  v...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cross-Month Connections
 
 ## Definition

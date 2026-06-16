@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Decay
+description: The gradual degradation of agent performance over time due to stale tools,
+  outdated models, deprecated MCPs, and drifted workflows. Agents need weekly audits...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Decay
 
 ## Definition

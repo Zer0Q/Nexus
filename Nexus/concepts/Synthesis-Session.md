@@ -1,7 +1,15 @@
 ---
 type: workflow
-related: [Pattern-Identification-Across-Notes, Predictive-Test-Method, Gap-Analysis-Study]
+related:
+- Pattern-Identification-Across-Notes
+- Predictive-Test-Method
+- Gap-Analysis-Study
+description: A bi-weekly integrated understanding session per subject that reads across
+  all concept notes to identify emergent patterns, the deepest connection in the sub...
+tags:
+- concepts
 ---
+
 
 # Synthesis-Session
 

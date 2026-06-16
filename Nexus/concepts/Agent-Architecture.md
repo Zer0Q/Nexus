@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Architecture
+description: Estructura de capas que envuelve a un LLM para hacerlo operativo como
+  sistema autónomo. El principio "thin harness, fat skills" establece que el harness
+  debe...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Architecture
 
 ## Definition

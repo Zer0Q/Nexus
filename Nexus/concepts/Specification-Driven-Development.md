@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Specification-Driven Development
+description: Disciplina de definir especificaciones claras y detalladas antes de solicitar
+  a agentes IA que generen código. Incluye descomposición en hitos discretos con ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Specification-Driven Development
 
 ## Definition

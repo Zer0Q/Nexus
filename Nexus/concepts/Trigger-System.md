@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Trigger System
+description: 'Mecanismo que señala que un loop de agente debe iniciarse. Es el primer
+  paso de cualquier loop: algo externo o interno activa el loop cuando se cumple una
+  co...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Trigger System
 
 ## Definition

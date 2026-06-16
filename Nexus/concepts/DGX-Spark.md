@@ -1,3 +1,14 @@
+---
+type: Concept
+title: DGX Spark
+description: 'NVIDIA''s desktop AI supercomputer: a paperback-sized machine ($2,999)
+  running the GB10 Grace Blackwell superchip with 128GB unified memory, capable of
+  loadin...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # DGX Spark
 
 ## Definition

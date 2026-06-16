@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Feedback Loop Training
+description: 'The six-step cycle for training personal agents through iterative feedback:
+  (1) agent produces output, (2) user reads and flags what''s wrong, (3) user gives
+  ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Feedback Loop Training
 
 ## Definition

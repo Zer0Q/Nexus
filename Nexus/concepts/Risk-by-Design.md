@@ -2,10 +2,13 @@
 created: 2026-05-28
 type: concept
 tags:
-  - ai
-  - risk
-  - methodology
+- ai
+- risk
+- methodology
+description: '## Related - [[tools/AI-Risk-Management]] -- ISO 23894 operationalizes
+  risk-by-design - [[tools/AI-Governance]] -- governance framework providing accountability'
 ---
+
 
 # Risk-by-Design
 

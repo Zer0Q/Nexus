@@ -1,7 +1,15 @@
 ---
 type: concept
-related: [Spaced-Repetition-System, Concept-Note-Template, Knowledge-Graph-Learning]
+related:
+- Spaced-Repetition-System
+- Concept-Note-Template
+- Knowledge-Graph-Learning
+description: A study method where the learner deliberately retrieves information from
+  memory rather than passively reviewing it. The discomfort of not being able to remem...
+tags:
+- concepts
 ---
+
 
 # Active-Recall-Learning
 

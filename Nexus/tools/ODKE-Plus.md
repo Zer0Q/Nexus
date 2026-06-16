@@ -1,3 +1,13 @@
+---
+type: Tool
+title: ODKE+
+description: Apple's Ontology-Guided Open-Domain Knowledge Extraction system. Five-module
+  pipeline for massive automated extraction of high-precision factual facts from w...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ODKE+
 
 ## Definition

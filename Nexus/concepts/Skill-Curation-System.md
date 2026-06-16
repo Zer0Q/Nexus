@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Skill Curation System
+description: Automated system where an agent executor runs tasks using skills from
+  a repository, and a separate curator agent evaluates outcomes to improve, create,
+  or de...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Skill Curation System
 
 ## Definition

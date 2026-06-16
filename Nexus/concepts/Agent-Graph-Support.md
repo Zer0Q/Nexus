@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Graph Support
+description: Type-hinted graph definitions for complex agent workflows. Nodes represent
+  agent steps or tool calls; edges represent control flow. Replaces spaghetti code
+  w...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Graph Support
 
 ## Definition

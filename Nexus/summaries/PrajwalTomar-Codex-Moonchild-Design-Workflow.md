@@ -1,10 +1,17 @@
 ---
-title: "Codex is CRACKED at Design. Here's the Workflow That Actually Works."
-source: "https://x.com/PrajwalTomar_/status/2057436839104205210"
-author: "@PrajwalTomar_"
-published: "2026-05-21"
+title: Codex is CRACKED at Design. Here's the Workflow That Actually Works.
+author: '@PrajwalTomar_'
+published: '2026-05-21'
 type: article
+resource: https://x.com/PrajwalTomar_/status/2057436839104205210
+timestamp: '2026-05-21T00:00:00Z'
+description: A design-to-code workflow using Moonchild (chat-powered design canvas)
+  connected to Codex via MCP. Build a design system first, paste a PRD, brainstorm
+  in ch...
+tags:
+- summaries
 ---
+
 
 # Codex + Moonchild Design Workflow
 

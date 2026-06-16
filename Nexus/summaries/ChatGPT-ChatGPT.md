@@ -1,10 +1,16 @@
 ---
-title: "SDD vs BMAD — AI Development Frameworks Comparison"
-source: "https://chatgpt.com/?temporary-chat=true"
-author: "ChatGPT"
-published: "2026-05-27"
+title: SDD vs BMAD — AI Development Frameworks Comparison
+author: ChatGPT
+published: '2026-05-27'
 type: article
+resource: https://chatgpt.com/?temporary-chat=true
+timestamp: '2026-05-27T00:00:00Z'
+description: 'Comparison of AI-assisted development methodologies: Spec-Driven Development
+  (GitHub Spec Kit, OpenSpec), BMAD Method (multi-agent Agile simulation), and tra...'
+tags:
+- summaries
 ---
+
 
 # SDD vs BMAD Frameworks
 

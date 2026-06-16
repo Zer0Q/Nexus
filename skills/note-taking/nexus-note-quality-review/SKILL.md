@@ -1,6 +1,11 @@
 ---
+type: Workflow
+title: Nexus Note Quality Review
+description: Audit and remediate low-quality extracted notes in the Nexus vault. Scores each summary on a 1-5 scale across 5 criteria, identifies degradation patterns, and re-processes failing notes.
+resource: https://github.com/Zer0Q/Nexus/tree/main/skills/note-taking/nexus-note-quality-review
+tags: [nexus, quality, audit, review, summaries]
+timestamp: "2026-06-16T14:00:00Z"
 name: nexus-note-quality-review
-description: "Audit and remediate low-quality extracted notes in the Nexus vault. Scores each summary on a 1-5 scale across 5 criteria, identifies degradation patterns, and re-processes failing notes."
 ---
 
 ## Overview

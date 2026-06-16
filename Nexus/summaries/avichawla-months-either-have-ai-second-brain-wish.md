@@ -1,10 +1,18 @@
 ---
-title: "In 6 months, you'll either have an AI second brain or wish you did (a full setup to start today)"
-source: "https://x.com/_avichawla/status/2052326975034048754"
-author: "_avichawla"
-published: "2026-05-07"
+title: In 6 months, you'll either have an AI second brain or wish you did (a full
+  setup to start today)
+author: _avichawla
+published: '2026-05-07'
 type: article
+resource: https://x.com/_avichawla/status/2052326975034048754
+timestamp: '2026-05-07T00:00:00Z'
+description: Karpathy, Garry Tan, and the best builders in tech are all converging
+  on AI second brains. The article covers a full 100% local setup guide. This is moving
+  f...
+tags:
+- summaries
 ---
+
 
 # In 6 months youll either have an AI second brain or wish you did a full setup
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Tokenization
+description: Proceso por el cual el texto de entrada se divide en tokens — pequeños
+  fragmentos de texto que son la unidad básica de procesamiento de los modelos de
+  IA. Un...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Tokenization
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Industrialized Software Development
+description: Production-line approach to building software where agents write, review,
+  test, and ship code, while humans design the pipeline and handle exceptions. Contra...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Industrialized Software Development
 
 ## Definition

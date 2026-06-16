@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Verify-First
+description: 'Principio de que verification es el requisito mínimo para un functional
+  loop: sin verificación, no tienes un loop, tienes repeated prompting. Con verificatio...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Verify-First
 
 ## Definition

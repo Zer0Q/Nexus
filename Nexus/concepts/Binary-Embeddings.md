@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Binary Embeddings
+description: Vector quantization technique that converts 32-bit float embeddings to
+  1-bit binary representations, achieving 32x memory reduction with minimal accuracy
+  loss.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Binary Embeddings
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "Loops: What Every AI Engineer Needs to Know in 2026"
-source: "https://x.com/sairahul1/status/2064277888216555684"
-author: "@sairahul1"
-published: "2026-06-09"
+title: 'Loops: What Every AI Engineer Needs to Know in 2026'
+author: '@sairahul1'
+published: '2026-06-09'
 type: article
+resource: https://x.com/sairahul1/status/2064277888216555684
+timestamp: '2026-06-09T00:00:00Z'
+description: Sairahul1 breaks down Loop Engineering as the shift from prompting agents
+  to designing feedback cycles that produce verified outcomes. Every loop follows
+  fiv...
+tags:
+- summaries
 ---
+
 
 # Loops: What Every AI Engineer Needs to Know in 2026
 

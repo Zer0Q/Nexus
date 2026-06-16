@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Skill Optimization
+description: Treating a compact natural-language skill document as the trainable state
+  of a frozen agent, then optimizing that document through rollouts, reflection, and
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Skill Optimization
 
 ## Definition

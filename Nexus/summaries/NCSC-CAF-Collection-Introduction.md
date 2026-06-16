@@ -1,10 +1,16 @@
 ---
-title: "Introduction to the CAF Collection"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-caf-collection"
-author: "NCSC"
-published: "2024-04-18"
+title: Introduction to the CAF Collection
+author: NCSC
+published: '2024-04-18'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-caf-collection
+timestamp: '2024-04-18T00:00:00Z'
+description: Entry point to the NCSC Cyber Assessment Framework collection of guidance
+  documents. Provides an overview of the CAF structure, objectives, and how the frame...
+tags:
+- summaries
 ---
+
 
 # Introduction to the CAF Collection
 

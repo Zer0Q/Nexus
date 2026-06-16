@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Harness Engineering
+description: Fixing agent failures at the runtime interface layer without retraining
+  the model or modifying the evaluation environment. Life-Harness is a lifecycle-aware
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Harness Engineering
 
 ## Definition

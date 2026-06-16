@@ -1,3 +1,14 @@
+---
+type: Concept
+title: CAF Profiles
+description: Perfiles CAF definen el nivel objetivo de ciberseguridad y resiliencia
+  para organizaciones frente a actores de amenazas con capacidades específicas. Dos
+  tipo...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # CAF Profiles
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "What an Enterprise Context Layer Actually Is"
-source: "https://x.com/prukalpa/status/2061512556590809342"
-author: "@prukalpa"
-published: "2026-06-01"
+title: What an Enterprise Context Layer Actually Is
+author: '@prukalpa'
+published: '2026-06-01'
 type: article
+resource: https://x.com/prukalpa/status/2061512556590809342
+timestamp: '2026-06-01T00:00:00Z'
+description: An enterprise context layer is the system that turns knowledge, expertise,
+  and norms into machine-usable context for AI. It has a core substrate (AI-ready
+  da...
+tags:
+- summaries
 ---
+
 
 # Enterprise Context Layer
 

@@ -1,10 +1,17 @@
 ---
-title: "When AI builds itself"
-source: "https://www.anthropic.com/institute/recursive-self-improvement"
-author: "Marina Favaro, Jack Clark (Anthropic Institute)"
-published: "2026-06-05"
+title: When AI builds itself
+author: Marina Favaro, Jack Clark (Anthropic Institute)
+published: '2026-06-05'
 type: article
+resource: https://www.anthropic.com/institute/recursive-self-improvement
+timestamp: '2026-06-05T00:00:00Z'
+description: 'Anthropic presenta evidencia pública y datos internos mostrando que
+  la IA ya está acelerando el desarrollo de IA: los engineers de Anthropic ship 8x
+  más códi...'
+tags:
+- summaries
 ---
+
 
 # When AI Builds Itself — Recursive Self-Improvement
 

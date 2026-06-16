@@ -1,10 +1,17 @@
 ---
-title: "CAF Objective C - Detecting cyber security events"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-c-detecting-cyber-security-events"
-author: "NCSC"
-published: "2025-08-06"
+title: CAF Objective C - Detecting cyber security events
+author: NCSC
+published: '2025-08-06'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-c-detecting-cyber-security-events
+timestamp: '2025-08-06T00:00:00Z'
+description: One of the 5 core objectives of the NCSC Cyber Assessment Framework.
+  Objective C requires capabilities to ensure security defences remain effective and
+  to de...
+tags:
+- summaries
 ---
+
 
 # NCSC CAF Objective C — Detecting Events
 

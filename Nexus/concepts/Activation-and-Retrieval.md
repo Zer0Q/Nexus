@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Activation and Retrieval
+description: The translation layer that delivers canonical context to the right human
+  or agent, in the right interface, at the right moment. Because different systems
+  con...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Activation and Retrieval
 
 ## Definition

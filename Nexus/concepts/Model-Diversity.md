@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Model Diversity
+description: Using multiple model providers and backbones for resilience against downtime,
+  pricing changes, restrictions, and sudden quality drops. Model diversity is not...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Model Diversity
 
 ## Definition

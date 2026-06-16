@@ -1,7 +1,16 @@
 ---
 type: workflow
-related: [Connection-Protocol, Knowledge-Graph-Learning, Compounding-Knowledge-Context]
+related:
+- Connection-Protocol
+- Knowledge-Graph-Learning
+- Compounding-Knowledge-Context
+description: A weekly workflow that scans all notes created or modified in the past
+  seven days and finds meaningful connections to older notes across the vault. Focuses
+  o...
+tags:
+- concepts
 ---
+
 
 # Connection-Surface-Workflow
 

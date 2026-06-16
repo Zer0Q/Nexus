@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cost Tracking
+description: Logging the exact cost per run for autonomous agent workflows. Critical
+  once agents start running 24/7, as untracked costs compound quickly across multiple
+  m...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cost Tracking
 
 ## Definition

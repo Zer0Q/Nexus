@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Three-Layer Semantic Infrastructure
+description: 'A three-tier architecture for enterprise semantic data infrastructure:
+  Semantic Model (Layer 1) → Domain Ontologies (Layer 2) → Knowledge Graph (Layer
+  3). Pr...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Three-Layer Semantic Infrastructure
 
 ## Definition

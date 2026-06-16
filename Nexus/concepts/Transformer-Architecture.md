@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Transformer Architecture
+description: 'Arquitectura neural que corre bajo todos los modelos de IA modernos
+  (GPT, Claude, Gemini, Llama, Mistral). Pipeline: texto → tokens → embeddings → capas
+  de a...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Transformer Architecture
 
 ## Definition

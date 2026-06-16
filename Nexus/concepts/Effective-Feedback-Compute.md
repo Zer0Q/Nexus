@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Effective Feedback Compute
+description: Trace-level scaling coordinate (EFC) that credits feedback only when
+  it is informative, valid, non-redundant, and retained for later decisions, then
+  normaliz...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Effective Feedback Compute
 
 ## Definition

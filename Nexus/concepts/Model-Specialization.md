@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Model Specialization
+description: Estrategia de usar diferente modelo de IA para cada tipo de task en vez
+  de sticking a un solo modelo, aprovechando las specialties de cada frontier model.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Model Specialization
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Context Mining
+description: The process of reverse-engineering business operations from fragmented
+  reality -- connecting to systems of record, data, knowledge, work, and runtime signals...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Mining
 
 ## Definition

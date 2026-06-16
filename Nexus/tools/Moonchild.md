@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Moonchild
+description: Chat-powered design canvas that starts from a design system (not a blank
+  prompt). Import from Figma, GitHub, or live URL; describe your brand; or drop in
+  des...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Moonchild
 
 ## Definition

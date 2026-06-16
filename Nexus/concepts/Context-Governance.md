@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context Governance
+description: 'The governance framework that makes enterprise context trustworthy:
+  quality (verified by owner, tested against real cases), drift (has the world changed
+  unde...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Governance
 
 ## Definition

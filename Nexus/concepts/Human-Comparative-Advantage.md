@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Human Comparative Advantage
+description: 'La zona donde los humanos aún superan a sistemas AI: research taste,
+  choosing which problems matter, which results to trust, y determining when an approach
+  i...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Human Comparative Advantage
 
 ## Definition

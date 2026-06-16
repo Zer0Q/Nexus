@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Durable Agent Execution
+description: Agent execution model that preserves progress across transient failures,
+  restarts, and long-running workflows. Enables agents to survive API rate limits,
+  net...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Durable Agent Execution
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: ConnectX-7
+description: '- Built into every DGX Spark unit - Direct unit-to-unit link, no switch
+  needed - Two units combined: 405B parameter models - Bypasses network bottlenecks
+  for...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ConnectX-7
 
 NVIDIA's high-speed networking interface built into the DGX Spark. Enables chaining two DGX Spark units together over a direct link to combine their memory pools, allowing models up to 405B parameters to run across the paired system.

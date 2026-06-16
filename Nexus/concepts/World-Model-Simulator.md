@@ -1,3 +1,13 @@
+---
+type: Concept
+title: World Model Simulator
+description: 'Tipo de world model que produce estado: representación geométrica, física
+  o dinámicamente fiel del mundo que humanos y programas pueden computar e interactua...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # World Model Simulator
 
 ## Definition

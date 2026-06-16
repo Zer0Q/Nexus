@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Vault-Aware Research
+description: An AI agent that reads your accumulated knowledge vault before answering
+  research questions, synthesizing across your existing notes, thesis documents, signa...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Vault-Aware Research
 
 ## Definition

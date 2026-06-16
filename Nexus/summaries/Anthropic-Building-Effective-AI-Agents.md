@@ -1,10 +1,17 @@
 ---
-title: "Building Effective AI Agents"
-source: "https://www.anthropic.com/engineering/building-effective-agents"
-author: "Anthropic (Erik S. y Barry Zhang)"
-published: "2026"
+title: Building Effective AI Agents
+author: Anthropic (Erik S. y Barry Zhang)
+published: '2026'
 type: article
+resource: https://www.anthropic.com/engineering/building-effective-agents
+timestamp: '2026'
+description: Guía práctica de Anthropic para construir agentes con LLMs basada en
+  experiencia con docenas de equipos en producción. Distingue entre workflows (códigos
+  pre...
+tags:
+- summaries
 ---
+
 
 # Building Effective AI Agents
 

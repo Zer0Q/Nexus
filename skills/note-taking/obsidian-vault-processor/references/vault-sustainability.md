@@ -1,3 +1,12 @@
+---
+type: Reference
+title: Vault Sustainability
+description: "Rules and guidelines for preventing vault inflation, managing broken links, and maintaining sustainable knowledge growth in the Nexus vault."
+resource: https://github.com/Zer0Q/Nexus/tree/main/skills/note-taking/obsidian-vault-processor/references/vault-sustainability.md
+tags: [vault, sustainability, growth, maintenance]
+timestamp: "2026-06-16T14:00:00Z"
+---
+
 # Vault Sustainability
 
 ## Problem: Vault Inflation

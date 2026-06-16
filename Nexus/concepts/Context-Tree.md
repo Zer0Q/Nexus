@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Context Tree
+description: '- Created by running `brv` in vault directory - Snapshot of vault knowledge
+  -- needs re-curating when notes change - Searchable via `brv search` and `brv que...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Tree
 
 ByteRover's structured index of knowledge sources. Obsidian vaults map directly to Context Trees because both use markdown + YAML frontmatter.

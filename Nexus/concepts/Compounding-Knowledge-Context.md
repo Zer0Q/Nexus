@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Compounding Knowledge Context
+description: The phenomenon where a knowledge system's value increases non-linearly
+  over time as accumulated data enables deeper connections, more accurate pattern
+  recogn...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Compounding Knowledge Context
 
 ## Definition

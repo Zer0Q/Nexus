@@ -1,10 +1,17 @@
 ---
-title: "TurboQuant: Redefining AI efficiency with extreme compression"
-source: "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
-author: "Amir Zandieh, Vahab Mirrokni (Google Research)"
-published: "2026-03-24"
+title: 'TurboQuant: Redefining AI efficiency with extreme compression'
+author: Amir Zandieh, Vahab Mirrokni (Google Research)
+published: '2026-03-24'
 type: article
+resource: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+timestamp: '2026-03-24T00:00:00Z'
+description: Google Research introduces TurboQuant, a two-stage quantization algorithm
+  combining PolarQuant (random rotation + polar coordinate quantization) with QJL
+  (Qu...
+tags:
+- summaries
 ---
+
 
 # TurboQuant: Extreme KV Cache Compression
 

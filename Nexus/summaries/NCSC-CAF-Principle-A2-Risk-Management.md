@@ -1,10 +1,16 @@
 ---
-title: "Principle A2 Risk Management"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a2-risk-management"
-author: "NCSC"
-published: "2024-04-18"
+title: Principle A2 Risk Management
+author: NCSC
+published: '2024-04-18'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a2-risk-management
+timestamp: '2024-04-18T00:00:00Z'
+description: 'NCSC CAF Principle A2 covers risk management for network and information
+  systems supporting essential functions across three sub-principles: A2.a Risk Manage...'
+tags:
+- summaries
 ---
+
 
 # NCSC CAF Principle A2 — Risk Management
 

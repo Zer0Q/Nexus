@@ -1,10 +1,17 @@
 ---
-title: "How to make RAG 32x memory efficient (explained with code)!"
-source: "https://x.com/_avichawla/status/2040326889928356122"
-author: "_avichawla"
-published: "2026-03-30"
+title: How to make RAG 32x memory efficient (explained with code)!
+author: _avichawla
+published: '2026-03-30'
 type: article
+resource: https://x.com/_avichawla/status/2040326889928356122
+timestamp: '2026-03-30T00:00:00Z'
+description: How Perplexity, Azure, HubSpot, and many others use binary quantization
+  to make RAG 32x memory efficient (explained with code)! There’s a simple technique
+  th...
+tags:
+- summaries
 ---
+
 
 # How to make RAG 32x memory efficient explained with code
 

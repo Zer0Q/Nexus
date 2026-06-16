@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Open SWE
+description: Open-source asynchronous coding agent that transforms GitHub issues into
+  plans, code, tests, and PRs. Part of the agentic coding ecosystem.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Open SWE
 
 ## Definition

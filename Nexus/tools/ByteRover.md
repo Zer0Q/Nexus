@@ -1,3 +1,14 @@
+---
+type: Tool
+title: ByteRover
+description: CLI tool that bridges Obsidian vaults with AI coding agents by treating
+  vault markdown files as native knowledge sources. Indexes vaults as Context Trees
+  and...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ByteRover
 
 ## Definition

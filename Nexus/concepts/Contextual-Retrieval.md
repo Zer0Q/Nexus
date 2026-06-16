@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Contextual Retrieval
+description: 'Anthropic''s technique for preventing semantic isolation of document
+  chunks: before vectorizing individual segments, a fast LLM generates a one-sentence
+  conte...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Contextual Retrieval
 
 ## Definition

@@ -1,6 +1,11 @@
 ---
 type: glossary
+description: A learning technique where the learner deliberately retrieves information
+  from memory rather than passively reviewing it. Coined in learning science research...
+tags:
+- concepts
 ---
+
 
 # Active Recall
 

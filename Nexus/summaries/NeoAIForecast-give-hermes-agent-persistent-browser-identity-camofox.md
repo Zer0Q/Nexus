@@ -1,10 +1,17 @@
 ---
-title: "How to Give Hermes Agent a Persistent Browser Identity with Camofox"
-source: "https://x.com/NeoAIForecast/status/2046516373984317735"
-author: "NeoAIForecast"
-published: "2026-04-21"
+title: How to Give Hermes Agent a Persistent Browser Identity with Camofox
+author: NeoAIForecast
+published: '2026-04-21'
 type: article
+resource: https://x.com/NeoAIForecast/status/2046516373984317735
+timestamp: '2026-04-21T00:00:00Z'
+description: Most agent browser demos break the moment a login session matters. You
+  sign in once, the task ends, and the next run starts from scratch. That is fine
+  for to...
+tags:
+- summaries
 ---
+
 
 # How to Give Hermes Agent a Persistent Browser Identity with Camofox
 

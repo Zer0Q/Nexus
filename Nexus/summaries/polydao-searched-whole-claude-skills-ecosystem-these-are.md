@@ -1,10 +1,18 @@
 ---
-title: "I Searched the Whole Claude Skills Ecosystem - These Are the Ones That Matter [Full GitHub Links]"
-source: "https://x.com/polydao/status/2060715587387400424"
-author: "polydao"
-published: "2026-05-30"
+title: I Searched the Whole Claude Skills Ecosystem - These Are the Ones That Matter
+  [Full GitHub Links]
+author: polydao
+published: '2026-05-30'
 type: article
+resource: https://x.com/polydao/status/2060715587387400424
+timestamp: '2026-05-30T00:00:00Z'
+description: '> Most people are still using Claude like a smarter chatbot That is
+  not the game anymore \> While you’re typing one-off prompts, someone else is stacking
+  spe...'
+tags:
+- summaries
 ---
+
 
 # I Searched the Whole Claude Skills Ecosystem  These Are the Ones That Matter F
 

@@ -1,10 +1,16 @@
 ---
-title: "A Functional Taxonomy of World Models"
-source: "https://x.com/drfeifei/status/2062247238143996275"
-author: "@drfeifei"
-published: "2026-06-03"
+title: A Functional Taxonomy of World Models
+author: '@drfeifei'
+published: '2026-06-03'
 type: article
+resource: https://x.com/drfeifei/status/2062247238143996275
+timestamp: '2026-06-03T00:00:00Z'
+description: Propuesta de taxonomía funcional para los "world models" en AI, clasificándolos
+  en tres funciones según qué parte del loop POMDP (agent-action-state-observat...
+tags:
+- summaries
 ---
+
 
 # A Functional Taxonomy of World Models
 

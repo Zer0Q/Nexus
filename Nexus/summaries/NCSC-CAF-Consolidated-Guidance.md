@@ -1,10 +1,17 @@
 ---
-title: "Consolidated view of CAF Guidance"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/consolidated-view-of-caf-guidance"
-author: "NCSC UK"
-published: "2025-08-06"
+title: Consolidated view of CAF Guidance
+author: NCSC UK
+published: '2025-08-06'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/consolidated-view-of-caf-guidance
+timestamp: '2025-08-06T00:00:00Z'
+description: 'Vista consolidada de la guía CAF: mapeo de principios a guías NCSC y
+  recursos externos. Referencia cruzada con estándares como NIST SP800-82, IEC 62443,
+  ISA ...'
+tags:
+- summaries
 ---
+
 
 # CAF Consolidated Guidance
 

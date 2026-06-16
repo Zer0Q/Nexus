@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Knowledge Source of Truth
+description: A single, reliable data layer that stores raw information independently
+  of any AI-generated synthesis. All derived views, summaries, and wiki pages reference...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Source of Truth
 
 ## Definition

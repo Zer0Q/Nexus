@@ -1,3 +1,14 @@
+---
+type: Concept
+title: DGX OS Stack
+description: 'NVIDIA''s pre-built Ubuntu-based operating system that ships with the
+  DGX Spark, including the full NVIDIA AI stack: CUDA, NIM, NeMo, and the same libraries
+  t...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # DGX OS Stack
 
 ## Definition

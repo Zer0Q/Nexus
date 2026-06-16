@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Second Brain Architect
+description: A professional role at the intersection of knowledge management and AI
+  engineering. Second Brain Architects design AI-powered knowledge management systems
+  th...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Second Brain Architect
 
 ## Definition

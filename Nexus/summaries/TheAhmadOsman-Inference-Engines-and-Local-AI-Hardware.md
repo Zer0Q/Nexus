@@ -1,10 +1,16 @@
 ---
-title: "Inference Engines for LLMs & Local AI Hardware (2026 Edition)"
-source: "https://x.com/TheAhmadOsman/status/2057183854444843202"
-author: "@TheAhmadOsman"
-published: 2026-05-20
+title: Inference Engines for LLMs & Local AI Hardware (2026 Edition)
+author: '@TheAhmadOsman'
+published: &id001 2026-05-20
 type: article
+resource: https://x.com/TheAhmadOsman/status/2057183854444843202
+timestamp: *id001
+description: Comprehensive guide to LLM inference engines, arguing you pick hardware
+  strategy and workload shape first, then the engine follows. Covers four engine famili...
+tags:
+- summaries
 ---
+
 
 # Inference Engines for LLMs and Local AI Hardware
 

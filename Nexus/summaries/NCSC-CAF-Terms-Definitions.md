@@ -1,10 +1,16 @@
 ---
-title: "CAF Terms and Definitions"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/terms-and-definitions"
-author: "NCSC"
-published: "2024-04-18"
+title: CAF Terms and Definitions
+author: NCSC
+published: '2024-04-18'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/terms-and-definitions
+timestamp: '2024-04-18T00:00:00Z'
+description: Glossary of key terms used within the NCSC Cyber Assessment Framework
+  (CAF) Version 4.0 (document references v3.2 content). Terms are organized alphabeticall...
+tags:
+- summaries
 ---
+
 
 # NCSC CAF Terms and Definitions
 

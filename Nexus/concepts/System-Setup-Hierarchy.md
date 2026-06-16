@@ -1,3 +1,14 @@
+---
+type: Concept
+title: System Setup Hierarchy
+description: 'The actual path to better AI output is: better system setup → better
+  prompts → dramatically better output. Most people skip the first step and try to
+  optimiz...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # System Setup Hierarchy
 
 ## Definition

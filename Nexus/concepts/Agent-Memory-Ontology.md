@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Memory Ontology
+description: Structured memory system using predefined schemas (ontologies) to extract,
+  store, and retrieve agent knowledge — ensuring consistency across sessions and ena...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Memory Ontology
 
 ## Definition

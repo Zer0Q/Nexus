@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Output Generator Prompt
+description: A production-tuned prompt that reads relevant notes from the context
+  and project zones of a knowledge vault, then produces a complete draft of billable
+  outpu...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Output Generator Prompt
 
 ## Definition

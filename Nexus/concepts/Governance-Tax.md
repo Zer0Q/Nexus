@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Governance Tax
+description: Access control, data versioning, lineage tracking, and audit requirements
+  that emerge as context layers scale in size and user count. Not a separate stage
+  bu...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Governance Tax
 
 ## Definition

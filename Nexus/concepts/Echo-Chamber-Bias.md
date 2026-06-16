@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Echo Chamber Bias
+description: The tendency of agent-curated research feeds to gravitate toward the
+  same sources, topics, and big-cap names, reinforcing existing holdings and perspectives....
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Echo Chamber Bias
 
 ## Definition

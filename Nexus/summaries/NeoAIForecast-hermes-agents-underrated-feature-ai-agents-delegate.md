@@ -1,10 +1,17 @@
 ---
-title: "Hermes Agents Most Underrated Feature: AI Agents That Can Delegate"
-source: "https://x.com/NeoAIForecast/status/2051591568696782935"
-author: "NeoAIForecast"
-published: "2026-05-05"
+title: 'Hermes Agents Most Underrated Feature: AI Agents That Can Delegate'
+author: NeoAIForecast
+published: '2026-05-05'
 type: article
+resource: https://x.com/NeoAIForecast/status/2051591568696782935
+timestamp: '2026-05-05T00:00:00Z'
+description: Most people still use AI like a smarter search box. They open one chat,
+  dump in a complicated task, and hope the model can research, plan, write, debug,
+  veri...
+tags:
+- summaries
 ---
+
 
 # Hermes Agents Most Underrated Feature AI Agents That Can Delegate
 

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Emergent Multi-Agent Coordination
+description: Coordination behavior that arises organically from simple economic incentives
+  (wealth flow, rent, birth, bankruptcy) rather than explicit orchestration proto...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Emergent Multi-Agent Coordination
 
 ## Definition

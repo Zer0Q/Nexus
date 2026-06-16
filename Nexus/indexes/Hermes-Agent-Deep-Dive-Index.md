@@ -1,3 +1,13 @@
+---
+type: Index
+title: Hermes Agent Deep Dive Index
+description: '## Glossary - [[concepts/SOUL-MD]] -- agent configuration and personality
+  file - [[concepts/CLAUDE-MD]] -- persistent project-level instruction file - [[conc...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hermes Agent Deep Dive Index
 
 ## Overview

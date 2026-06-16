@@ -1,10 +1,17 @@
 ---
-title: "What is the Model Context Protocol (MCP)?"
-source: "https://modelcontextprotocol.io/docs/getting-started/intro"
-author: "MCP Team"
-published: "2026"
+title: What is the Model Context Protocol (MCP)?
+author: MCP Team
+published: '2026'
 type: article
+resource: https://modelcontextprotocol.io/docs/getting-started/intro
+timestamp: '2026'
+description: MCP es un estándar open-source para conectar aplicaciones AI a sistemas
+  externos, análogo a un puerto USB-C para AI. Permite que agentes accedan a data
+  sourc...
+tags:
+- summaries
 ---
+
 
 # What is the Model Context Protocol (MCP)
 

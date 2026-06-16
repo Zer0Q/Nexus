@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Iron Proxy Egress Firewall
+description: Network-level credential protection for Hermes Agent sandboxes. Instead
+  of injecting real API keys into the sandbox, Hermes gives the agent opaque proxy
+  toke...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Iron Proxy Egress Firewall
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "20 GitHub Repos That Let You Scrape Any Website Without Getting Blocked. The Full Stack."
-source: "https://x.com/DamiDefi/status/2061398246673547296"
-author: "@DamiDefi"
-published: "2026-06-01"
+title: 20 GitHub Repos That Let You Scrape Any Website Without Getting Blocked. The
+  Full Stack.
+author: '@DamiDefi'
+published: '2026-06-01'
 type: article
+resource: https://x.com/DamiDefi/status/2061398246673547296
+timestamp: '2026-06-01T00:00:00Z'
+description: Comprehensive list of 20 web scraping repos categorized into AI-native
+  tools (Firecrawl, Crawl4AI, Browser Use, Stagehand, Skyvern, ScrapeGraph AI, AgentQL),...
+tags:
+- summaries
 ---
+
 
 # 20 GitHub Scraping Repos
 

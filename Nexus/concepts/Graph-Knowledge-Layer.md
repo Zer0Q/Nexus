@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Graph Knowledge Layer
+description: A hybrid architecture that stores knowledge as structured data (SQL/graph
+  database) while generating wiki-like synthesized views on demand through a [[tools/...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Graph Knowledge Layer
 
 ## Definition

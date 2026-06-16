@@ -1,3 +1,14 @@
+---
+type: Concept
+title: POMDP
+description: 'Partially Observable Markov Decision Process — marco formal que describe
+  cómo un agente interactúa con un mundo: agente → acción → estado → observación →
+  age...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # POMDP
 
 ## Definition

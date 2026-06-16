@@ -1,10 +1,17 @@
 ---
-title: "Wire Hermes + Obsidian + NotebookLM (2026 Build Guide)"
-source: "https://www.tonyreviewsthings.com/wire-hermes-agent-obsidian-notebooklm-stack/"
-author: "Tony Simons"
-published: "2026-06-08"
+title: Wire Hermes + Obsidian + NotebookLM (2026 Build Guide)
+author: Tony Simons
+published: '2026-06-08'
 type: article
+resource: https://www.tonyreviewsthings.com/wire-hermes-agent-obsidian-notebooklm-stack/
+timestamp: '2026-06-08T00:00:00Z'
+description: 'Step-by-step guide for wiring Hermes Agent, Obsidian, and NotebookLM
+  into an automated research loop: Hermes cron jobs watch Obsidian Sources/ for new
+  files,...'
+tags:
+- summaries
 ---
+
 
 # Hermes + Obsidian + NotebookLM Integration
 

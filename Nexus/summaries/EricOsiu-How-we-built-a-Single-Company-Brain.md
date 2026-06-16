@@ -1,10 +1,16 @@
 ---
-title: "How we built a Single Company Brain (and how you can too)"
-source: "https://x.com/ericosiu/status/2060415100603781497"
-author: "@ericosiu"
-published: "2026-05-29"
+title: How we built a Single Company Brain (and how you can too)
+author: '@ericosiu'
+published: '2026-05-29'
 type: article
+resource: https://x.com/ericosiu/status/2060415100603781497
+timestamp: '2026-05-29T00:00:00Z'
+description: Arquitectura de 5 capas para construir un "company brain" que convierta
+  conocimiento disperso en inteligencia operativa. Basado en experiencia real en Single...
+tags:
+- summaries
 ---
+
 
 # Single Company Brain Architecture
 

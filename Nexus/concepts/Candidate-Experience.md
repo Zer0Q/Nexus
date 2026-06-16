@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Candidate Experience
+description: 'Filosofía de recruitment centrada en el candidato: honestidad sobre
+  salary y process, feedback constructivo, y crear experiencias tan positivas que
+  candidato...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Candidate Experience
 
 ## Definition

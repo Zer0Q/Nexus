@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Spaced-Repetition-System, Concept-Note-Template, Active-Recall-Learning]
+related:
+- Spaced-Repetition-System
+- Concept-Note-Template
+- Active-Recall-Learning
+description: 'A frontmatter-based scoring system (0-5 scale) that tracks how well
+  a learner has internalized each concept. The score drives review interval adjustments:
+  co...'
+tags:
+- concepts
 ---
+
 
 # Mastery-Score-Tracking
 

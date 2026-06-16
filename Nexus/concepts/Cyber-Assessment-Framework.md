@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Cyber Assessment Framework
+description: Marco del NCSC UK para evaluar y mejorar la ciberseguridad y resiliencia
+  de organizaciones que operan infraestructuras críticas y funciones esenciales. Basad...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cyber Assessment Framework
 
 ## Definition

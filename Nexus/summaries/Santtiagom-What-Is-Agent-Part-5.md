@@ -1,10 +1,16 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2067369367783081485"
-author: "@santtiagom_"
-published: "2026-06-14"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-06-14'
 type: article
+resource: https://x.com/santtiagom_/status/2067369367783081485
+timestamp: '2026-06-14T00:00:00Z'
+description: '@santtiagom_ explica los guardrails de seguridad para agentes AI: sandboxing,
+  validación de output, límites de tokens, límites de scope y human-in-the-loop. ...'
+tags:
+- summaries
 ---
+
 
 # Agent Guardrails and Safety
 

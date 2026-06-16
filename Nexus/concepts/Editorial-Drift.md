@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Editorial Drift
+description: The gradual degradation of knowledge quality in AI-maintained systems
+  where each synthesis pass introduces small inaccuracies that compound over successive
+  u...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Editorial Drift
 
 ## Definition

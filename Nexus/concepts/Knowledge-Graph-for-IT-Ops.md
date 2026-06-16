@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Knowledge Graph for IT Ops
+description: A knowledge graph encompassing IT entities (microservices, databases,
+  middleware, MELT) coupled with embedded tribal knowledge from domain experts. Used
+  for ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Graph for IT Ops
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Visual Management
+description: Making process and data issues visible and impossible to ignore, so that
+  gaps between actual behavior and expected standards become self-evident to everyone
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Visual Management
 
 ## Definition

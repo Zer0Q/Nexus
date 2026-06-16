@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Context Window
+description: 'Límite fijo de texto que un modelo de IA puede "ver" en una sola solicitud.
+  Incluye: system prompt, historial de conversación, documentos pasados, respuestas...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Window
 
 ## Definition

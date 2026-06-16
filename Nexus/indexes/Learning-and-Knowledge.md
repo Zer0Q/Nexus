@@ -1,7 +1,13 @@
 ---
 created: 2026-05-28
 type: index
+description: '## Glossary - [[concepts/Legitimate-Peripheral-Participation]] -- newcomers
+  learning from periphery to core - [[concepts/CoP-Success-Wheel]] -- five-factor
+  e...'
+tags:
+- indexes
 ---
+
 
 # Learning and Knowledge
 

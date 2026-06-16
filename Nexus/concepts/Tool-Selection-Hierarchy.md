@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Tool Selection Hierarchy
+description: 'A ranking of tool access methods by effectiveness: direct API > MCP
+  > skill file > Browser CDP > manual web search. Direct tool access yields far better
+  outp...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Tool Selection Hierarchy
 
 ## Definition

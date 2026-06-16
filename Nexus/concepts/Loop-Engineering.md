@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Loop Engineering
+description: Designing systems that prompt agents instead of humans doing it manually.
+  A loop is a recursive goal where you define a purpose and the AI iterates until
+  com...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Loop Engineering
 
 ## Definition

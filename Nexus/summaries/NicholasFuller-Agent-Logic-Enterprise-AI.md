@@ -1,10 +1,17 @@
 ---
-title: "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic"
-source: "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
-author: "Nicholas Fuller"
-published: "2026-06-01"
+title: 'Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic'
+author: Nicholas Fuller
+published: '2026-06-01'
 type: article
+resource: https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption
+timestamp: '2026-06-01T00:00:00Z'
+description: IBM Research demonstrates that agent logic -- software primitives like
+  knowledge graphs, algorithms, and program analysis libraries operating at the agentic
+  ...
+tags:
+- summaries
 ---
+
 
 # Agent Logic for Enterprise AI
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Vault-Aware Automation
+description: Automation systems that understand and interact with a knowledge vault's
+  structure, content, and relationships. Unlike generic file watchers, vault-aware
+  too...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Vault-Aware Automation
 
 ## Definition

@@ -1,10 +1,18 @@
 ---
-title: "10 AI Concepts Every Builder Must Understand Before Writing a Single Line of Code"
-source: "https://x.com/sairahul1/status/2061737615175671953"
-author: "@sairahul1"
-published: "2026-06-02"
+title: 10 AI Concepts Every Builder Must Understand Before Writing a Single Line of
+  Code
+author: '@sairahul1'
+published: '2026-06-02'
 type: article
+resource: https://x.com/sairahul1/status/2061737615175671953
+timestamp: '2026-06-02T00:00:00Z'
+description: '10 conceptos fundamentales de IA que todo builder debe entender: tokens,
+  embeddings, attention, transformers, LLMs, alucinación, temperatura, ventana de
+  cont...'
+tags:
+- summaries
 ---
+
 
 # 10 AI Concepts for Builders
 

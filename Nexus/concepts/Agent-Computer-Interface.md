@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent-Computer Interface (ACI)
+description: 'The interface between LLM agents and the tools/systems they interact
+  with. Design principles: give the model enough tokens to think, keep formats natural,
+  el...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent-Computer Interface (ACI)
 
 ## Definition

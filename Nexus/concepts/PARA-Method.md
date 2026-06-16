@@ -1,3 +1,14 @@
+---
+type: Concept
+title: PARA Method
+description: 'Organizational framework with four categories: Projects (active work
+  with defined outcomes and end dates), Areas (ongoing responsibilities without end
+  dates)...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # PARA Method
 
 ## Definition

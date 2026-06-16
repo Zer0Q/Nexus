@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Tacit Knowledge
+description: Expert judgment, reasoning patterns, informal heuristics, and situational
+  awareness developed over years of experience. Knowledge that rarely appears in manu...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Tacit Knowledge
 
 ## Definition

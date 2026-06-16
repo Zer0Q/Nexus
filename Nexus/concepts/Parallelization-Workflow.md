@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Parallelization Workflow
+description: 'Runs multiple LLM calls simultaneously on a task, then aggregates results.
+  Two modes: sectioning (independent subtasks) and voting (same task, diverse outputs).'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Parallelization Workflow
 
 ## Definition

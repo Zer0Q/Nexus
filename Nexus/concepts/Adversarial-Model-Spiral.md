@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Adversarial Model Spiral
+description: 'The ARROWHEAD method: pitting two or more AI models against each other
+  in successive iterations, where each model reviews the other''s output, critiques
+  it, a...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Adversarial Model Spiral
 
 ## Definition

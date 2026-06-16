@@ -1,3 +1,13 @@
+---
+type: Index
+title: Hermes Agent Ecosystem Index
+description: '## Glossary - [[concepts/MCP]] - [[concepts/SOUL-MD]] - [[concepts/CLAUDE-MD]]
+  - [[concepts/Vault-Context]]'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hermes Agent Ecosystem Index
 
 ## Overview

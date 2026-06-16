@@ -1,10 +1,18 @@
 ---
-title: "Your Obsidian Vault Can Now Write Back to Itself. Here's the Architecture Nobody's Talking About"
-source: "https://x.com/cyrilXBT/status/2052923836090167526"
-author: "cyrilXBT"
-published: "2026-05-09"
+title: Your Obsidian Vault Can Now Write Back to Itself. Here's the Architecture Nobody's
+  Talking About
+author: cyrilXBT
+published: '2026-05-09'
 type: article
+resource: https://x.com/cyrilXBT/status/2052923836090167526
+timestamp: '2026-05-09T00:00:00Z'
+description: Most people use Obsidian as a one-way system. Information goes in. Notes
+  get created. Files get saved. The vault grows. And that is where the intelligence
+  st...
+tags:
+- summaries
 ---
+
 
 # Your Obsidian Vault Can Now Write Back to Itself Heres the Architecture Nobody
 

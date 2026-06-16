@@ -1,10 +1,17 @@
 ---
-title: "Pydantic AI"
-source: "https://pydantic.dev/docs/ai/overview/"
-author: "Pydantic Team"
-published: ""
+title: Pydantic AI
+author: Pydantic Team
+published: ''
 type: article
+resource: https://pydantic.dev/docs/ai/overview/
+timestamp: ''
+description: 'Official overview of Pydantic AI, a Python agent framework designed
+  to bring the "FastAPI feeling" to GenAI development. Key features: model-agnostic,
+  type-s...'
+tags:
+- summaries
 ---
+
 
 # Pydantic AI Overview
 

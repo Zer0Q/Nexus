@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Structured Agent Memory
+description: Using typed data structures (e.g., Pydantic models) to enforce schema
+  validation on agent memory, preventing data corruption and ensuring consistent state
+  ac...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Structured Agent Memory
 
 ## Definition

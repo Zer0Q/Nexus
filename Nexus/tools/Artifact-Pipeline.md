@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Artifact Pipeline
+description: 'The sequence of artifacts produced during AI-assisted development: Intent
+  -> Spec -> Acceptance Criteria -> Architecture Constraints -> Tests -> Code -> Veri...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Artifact Pipeline
 
 ## Definition

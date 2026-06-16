@@ -1,10 +1,17 @@
 ---
-title: "HOW ONE $2,999 NVIDIA BOX MADE ME $22,000 IN A YEAR"
-source: "https://x.com/w1nklerr/status/2060057563991884060"
-author: "@w1nklerr"
-published: "2025-10-16"
+title: HOW ONE $2,999 NVIDIA BOX MADE ME $22,000 IN A YEAR
+author: '@w1nklerr'
+published: '2025-10-16'
 type: article
+resource: https://x.com/w1nklerr/status/2060057563991884060
+timestamp: '2025-10-16T00:00:00Z'
+description: Personal account of replacing $1,900/month cloud GPU spend with a $2,999
+  NVIDIA DGX Spark desktop AI supercomputer. Covers hardware specs (GB10 chip, 128GB
+  u...
+tags:
+- summaries
 ---
+
 
 # DGX Spark Cost Recovery
 

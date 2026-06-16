@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Max Turns Configuration
+description: The goals.max_turns setting that controls how many reasoning-action cycles
+  a /goal execution can perform before terminating. Default is 5-10; raise for compl...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Max Turns Configuration
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Tool
+title: NVIDIA Cosmos
+description: NVIDIA's frontier foundation model for physical AI. Cosmos 3 unifies
+  physical reasoning, world generation, and action generation in a single Mixture-of-Trans...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # NVIDIA Cosmos
 
 ## Definition

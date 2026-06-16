@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cloud GPU Cost Recovery
+description: ROI calculation for replacing cloud GPU rental with local hardware like
+  the DGX Spark. At $1,900/month cloud GPU spend, a $2,999 DGX Spark pays for itself
+  in...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cloud GPU Cost Recovery
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "Post by @alexxubyte on X"
-source: "https://x.com/alexxubyte/status/2054957919469461547"
-author: "@alexxubyte"
-published: "2026-05-14"
+title: Post by @alexxubyte on X
+author: '@alexxubyte'
+published: '2026-05-14'
 type: article
+resource: https://x.com/alexxubyte/status/2054957919469461547
+timestamp: '2026-05-14T00:00:00Z'
+description: '@alexxubyte descompone un agente AI en un bucle While simple: el LLM
+  selecciona una acción, la ejecuta, evalúa el resultado y repite. Desglosa las 5
+  componen...'
+tags:
+- summaries
 ---
+
 
 # AI Agent Anatomy: The Loop
 

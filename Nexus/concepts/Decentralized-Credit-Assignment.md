@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Decentralized Credit Assignment
+description: Approach to solving the credit assignment problem in multi-agent systems
+  through market signals (bids, wealth transfers) rather than engineered attribution
+  m...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Decentralized Credit Assignment
 
 ## Definition

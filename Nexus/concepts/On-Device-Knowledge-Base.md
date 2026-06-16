@@ -1,3 +1,13 @@
+---
+type: Concept
+title: On-Device Knowledge Base
+description: A knowledge management system where all processing -- search, retrieval,
+  AI reasoning, and content generation -- happens entirely on the user's local machine...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # On-Device Knowledge Base
 
 ## Definition

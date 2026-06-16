@@ -1,3 +1,13 @@
+---
+type: Concept
+title: MCP Server
+description: Servidor que expone capabilities (database queries, file access, API
+  calls) a MCP clients a través del Model Context Protocol.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # MCP Server
 
 ## Definition

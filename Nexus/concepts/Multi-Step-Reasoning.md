@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Multi-Step Reasoning
+description: 'Feature de agentes AI donde el model reasoning antes de responder: gathering
+  evidence progressively, evaluando fuentes, y deciding qué información falta en v...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Multi-Step Reasoning
 
 ## Definition

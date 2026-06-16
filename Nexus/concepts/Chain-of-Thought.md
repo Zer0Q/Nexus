@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Chain of Thought
+description: Método de planificación donde el modelo "piensa en voz alta" antes de
+  actuar, descomponiendo el problema en pasos secuenciales. El modelo genera reasoning
+  in...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Chain of Thought
 
 ## Definition

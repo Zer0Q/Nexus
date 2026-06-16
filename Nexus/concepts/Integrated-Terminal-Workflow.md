@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Integrated Terminal Workflow
+description: Running the AI agent's terminal as a tab inside Obsidian, eliminating
+  window switching between notes and agent. The agent generates .md files that appear
+  in ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Integrated Terminal Workflow
 
 ## Definition

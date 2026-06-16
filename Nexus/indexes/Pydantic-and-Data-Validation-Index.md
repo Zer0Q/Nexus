@@ -1,3 +1,13 @@
+---
+type: Index
+title: Pydantic & Data Validation Index
+description: '## Glossary - [[concepts/Pydantic]] - [[concepts/PydanticAI]] - [[concepts/BaseModel]]
+  - [[concepts/Field-Validator]] - [[concepts/Model-Validator]] - [[tool...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic & Data Validation Index
 
 ## Overview

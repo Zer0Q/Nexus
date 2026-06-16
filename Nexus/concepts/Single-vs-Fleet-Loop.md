@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Single vs Fleet Loop
+description: 'The scale distinction in loop engineering: single-agent loops use one
+  brain running the full DISCOVER → PLAN → EXECUTE → VERIFY → ITERATE cycle on itself,
+  wh...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Single vs Fleet Loop
 
 ## Definition

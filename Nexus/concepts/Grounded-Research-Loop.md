@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Grounded Research Loop
+description: Closed automation loop where sources captured in a local vault (Obsidian)
+  are pushed to a bounded-research sandbox (NotebookLM), grounded answers with inline...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Grounded Research Loop
 
 ## Definition

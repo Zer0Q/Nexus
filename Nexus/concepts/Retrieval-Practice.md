@@ -1,6 +1,11 @@
 ---
 type: glossary
+description: The umbrella term for any learning activity that requires pulling information
+  from memory rather than receiving it passively. Writing a concept in your own w...
+tags:
+- concepts
 ---
+
 
 # Retrieval Practice
 

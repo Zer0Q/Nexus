@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Coordinator Pattern
+description: Patrón de arquitectura donde un agent central orchestrates workers paralelos,
+  asigna tasks, monitorea progress y mergea outputs en un deliverable unificado.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Coordinator Pattern
 
 ## Definition

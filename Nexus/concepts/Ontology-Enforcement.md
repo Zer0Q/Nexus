@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Ontology Enforcement
+description: A validation mechanism where a supervisor agent audits extracted knowledge
+  graphs against predefined ontological rules and business logic constraints, genera...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Ontology Enforcement
 
 ## Definition

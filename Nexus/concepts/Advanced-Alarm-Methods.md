@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Advanced Alarm Methods
+description: 'Sophisticated alarm management techniques that go beyond basic design:
+  predictive alarming (anticipating abnormalities from data trends), adaptive alarming
+  (...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Advanced Alarm Methods
 
 ## Definition

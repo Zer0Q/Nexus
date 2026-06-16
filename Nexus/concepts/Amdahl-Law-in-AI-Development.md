@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Amdahl Law in AI Development
+description: 'Aplicación de la ley de Amdahl al desarrollo de AI: acelerar una parte
+  del proceso (ej. writing code, running experiments) desplaza el bottleneck a la
+  parte ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Amdahl Law in AI Development
 
 ## Definition

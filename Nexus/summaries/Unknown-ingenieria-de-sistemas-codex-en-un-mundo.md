@@ -1,10 +1,17 @@
 ---
-title: "Ingeniería de sistemas: Codex en un mundo centrado en agentes"
-source: https://openai.com/es-419/index/harness-engineering/
+title: 'Ingeniería de sistemas: Codex en un mundo centrado en agentes'
 author: Ryan Lopopolo
-published: 2026-03-11
+published: &id001 2026-03-11
 type: article
+resource: https://openai.com/es-419/index/harness-engineering/
+timestamp: *id001
+description: 'Durante los últimos cinco meses, nuestro equipo ha estado llevando a
+  cabo un experimento: desarrollar y lanzar una versión beta interna de un producto
+  de sof...'
+tags:
+- summaries
 ---
+
 
 # Ingeniería de sistemas Codex en un mundo centrado en agentes
 

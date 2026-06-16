@@ -1,3 +1,13 @@
+---
+type: Concept
+title: LLM Assessor
+description: Modelo LLM procedimentalmente independiente que aplica una rúbrica estandarizada
+  para evaluar contribución de texto, usado en métodos como SLICE para estimar...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LLM Assessor
 
 ## Definition

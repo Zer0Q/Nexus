@@ -1,10 +1,17 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2026426248122216501"
-author: "@santtiagom_"
-published: "2026-02-24"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-02-24'
 type: article
+resource: https://x.com/santtiagom_/status/2026426248122216501
+timestamp: '2026-02-24T00:00:00Z'
+description: '@santtiagom_ ilustra con un ejemplo de e-commerce la diferencia entre
+  prompt, MCP/tool, Skill y Subagent: el prompt es lo que pedís, MCP da acceso a datos,
+  l...'
+tags:
+- summaries
 ---
+
 
 # Prompt vs Skill vs Subagent
 

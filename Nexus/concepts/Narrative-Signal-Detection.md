@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Narrative Signal Detection
+description: Automated detection of emerging patterns across weeks of research captures
+  that point toward a narrative worth positioning on before it surfaces on social
+  me...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Narrative Signal Detection
 
 ## Definition

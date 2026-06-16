@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Tool Use
+description: Mechanism for LLMs to interact with external systems through callable
+  functions. Tools provide structured input/output interfaces for APIs, databases,
+  web se...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Tool Use
 
 ## Definition

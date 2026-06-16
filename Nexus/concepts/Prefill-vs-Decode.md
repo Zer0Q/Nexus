@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Prefill vs Decode
+description: 'LLM inference has two distinct phases: **prefill** (read prompt, build
+  initial KV cache, compute-intensive) and **decode** (generate one token at a time,
+  mem...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Prefill vs Decode
 
 ## Definition

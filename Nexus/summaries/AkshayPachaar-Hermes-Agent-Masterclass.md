@@ -1,10 +1,16 @@
 ---
-title: "Hermes Agent Masterclass"
-source: "https://x.com/akshay_pachaar/status/2054564519280804028"
-author: "@akshay_pachaar"
-published: "2026-04-30"
+title: Hermes Agent Masterclass
+author: '@akshay_pachaar'
+published: '2026-04-30'
 type: article
+resource: https://x.com/akshay_pachaar/status/2054564519280804028
+timestamp: '2026-04-30T00:00:00Z'
+description: 'Comprehensive guide to Hermes Agent by Nous Research: architecture,
+  three-tier memory, self-evolving skills with Curator maintenance, GEPA offline optimizati...'
+tags:
+- summaries
 ---
+
 
 # Hermes Agent Masterclass
 

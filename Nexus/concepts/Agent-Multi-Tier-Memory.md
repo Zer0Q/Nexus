@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Multi-Tier Memory
+description: 'A three-layer memory system for AI agents, each optimized for different
+  access patterns: frozen snapshot (always in context, tiny), session search (unlimited...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Multi-Tier Memory
 
 ## Definition

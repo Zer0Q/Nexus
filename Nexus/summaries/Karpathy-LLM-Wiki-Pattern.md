@@ -1,10 +1,17 @@
 ---
-title: "llm-wiki"
-source: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
-author: "@karpathy"
-published: ""
+title: llm-wiki
+author: '@karpathy'
+published: ''
 type: article
+resource: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+timestamp: ''
+description: 'Karpathy''s canonical description of the LLM wiki pattern: instead of
+  RAG (query-time retrieval from raw docs), the LLM incrementally builds and maintains
+  a p...'
+tags:
+- summaries
 ---
+
 
 # LLM Wiki Pattern
 

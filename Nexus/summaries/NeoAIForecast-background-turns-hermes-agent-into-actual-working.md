@@ -1,10 +1,17 @@
 ---
-title: "How /background turns Hermes Agent into an actual working runtime"
-source: "https://x.com/NeoAIForecast/status/2045435546865156348"
-author: "NeoAIForecast"
-published: "2026-04-18"
+title: How /background turns Hermes Agent into an actual working runtime
+author: NeoAIForecast
+published: '2026-04-18'
 type: article
+resource: https://x.com/NeoAIForecast/status/2045435546865156348
+timestamp: '2026-04-18T00:00:00Z'
+description: You stop what you’re doing, wait for the model, then continue. The moment
+  you use an agent for research, repo analysis, log review, file processing, or any
+  l...
+tags:
+- summaries
 ---
+
 
 # How background turns Hermes Agent into an actual working runtime
 

@@ -2,10 +2,12 @@
 created: 2026-05-28
 type: glossary
 tags:
-  - ai
-  - risk
-  - mlops
+- ai
+- risk
+- mlops
+description: 'Also known as: data drift, concept drift.'
 ---
+
 
 # Model Drift
 

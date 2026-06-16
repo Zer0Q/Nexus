@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Action-Conditioned World Model
+description: A world model that generates future observations conditioned on action
+  sequences, enabling robot policy learning through forward dynamics (predicting outcome...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Action-Conditioned World Model
 
 ## Definition

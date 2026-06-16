@@ -1,10 +1,18 @@
 ---
-title: "How to Weaponize Obsidian + Claude to Replace the $35K/Month Content Team in 4 Evenings"
-source: "https://x.com/zeuuss_01/status/2060364984052285459"
-author: "@zeuuss_01"
-published: "2026-05-29"
+title: How to Weaponize Obsidian + Claude to Replace the $35K/Month Content Team in
+  4 Evenings
+author: '@zeuuss_01'
+published: '2026-05-29'
 type: article
+resource: https://x.com/zeuuss_01/status/2060364984052285459
+timestamp: '2026-05-29T00:00:00Z'
+description: zeuuss_01 argues that most Obsidian vaults earn $0 because they optimize
+  capture while leaving output unstaffed. The solution is a four-zone vault built
+  back...
+tags:
+- summaries
 ---
+
 
 # Weaponize Obsidian + Claude for Revenue
 

@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Drum-Buffer-Rope
+description: 'Flow control methodology derived from Theory of Constraints. Drum: the
+  constraint''s pace sets the system rhythm. Buffer: time or inventory before the
+  constra...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Drum-Buffer-Rope
 
 ## Definition

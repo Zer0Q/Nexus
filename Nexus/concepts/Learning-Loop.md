@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Learning Loop
+description: Mecanismo por el cual un agente guarda aprendizajes de la experiencia
+  y los convierte en capacidades reutilizables. Puede crear nuevas skills o mejorar
+  las e...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Learning Loop
 
 ## Definition

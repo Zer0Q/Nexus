@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Hook Mechanism
+description: Comandos shell deterministas activados por eventos (PreToolUse, PostToolUse,
+  SessionStart, Stop, SubagentStop) que enforcean calidad a nivel infraestructura,...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hook Mechanism
 
 ## Definition

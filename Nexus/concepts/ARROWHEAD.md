@@ -1,3 +1,13 @@
+---
+type: Concept
+title: ARROWHEAD
+description: 'Adversarial model spiral methodology: a technique for improving AI output
+  quality by pitting multiple models against each other in successive rounds of revie...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ARROWHEAD
 
 ## Definition

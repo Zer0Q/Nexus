@@ -1,7 +1,16 @@
 ---
 type: workflow
-related: [Three-Zone-Vault, Note-Usefulness-Assessment, Quarterly-Vault-Review]
+related:
+- Three-Zone-Vault
+- Note-Usefulness-Assessment
+- Quarterly-Vault-Review
+description: A weekly audit that identifies notes in Zone 2 that have not been accessed
+  in the last 14 days and determines whether they can be connected to active work
+  or...
+tags:
+- concepts
 ---
+
 
 # Weekly-Note-Audit
 

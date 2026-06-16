@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Five-Layer AI Stack
+description: 'A five-layer AI architecture where each operational layer is owned by
+  a different tool: reasoning (Claude), memory (Obsidian), automation (Hermes Agent),
+  cod...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Five-Layer AI Stack
 
 ## Definition

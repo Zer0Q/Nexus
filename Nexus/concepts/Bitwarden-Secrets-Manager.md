@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Bitwarden Secrets Manager
+description: '- Free tier available - Instant revocation from the web UI - Rotate
+  a key once, every instance picks it up on next restart - Composes with [[concepts/Iron-Pr...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Bitwarden Secrets Manager
 
 A credential management service that stores API keys, tokens, and sensitive configuration outside of application code. Hermes Agent integrates with it so one bootstrap token lives in .env while all real credentials live in Bitwarden, with automatic propagation across agent instances on restart.

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: High-Performance HMI
+description: A standardized approach to HMI graphics design that replaces poorly designed,
+  colorful, cluttered interfaces with information-driven, operator-centered displ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # High-Performance HMI
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Identity-Protective Cognition
+description: Psychological mechanism where people defend their self-concept to maintain
+  consistency. When identity is threatened, the same fight-or-flight response activa...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Identity-Protective Cognition
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: AI Amplifies Process
+description: AI doesn't fix weak processes — it scales them faster and further than
+  any system before. A broken manual process fails slowly and locally; a broken automate...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Amplifies Process
 
 ## Definition

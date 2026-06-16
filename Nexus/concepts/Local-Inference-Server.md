@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Local Inference Server
+description: Self-hosted GPU infrastructure serving open-weight models via OpenAI-compatible
+  API, eliminating token limits, vendor lock-in, and data retention concerns. T...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Local Inference Server
 
 ## Definition

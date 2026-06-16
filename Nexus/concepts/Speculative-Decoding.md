@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Speculative Decoding
+description: Technique that drafts tokens using a small/fast model, then verifies
+  them in parallel using the large target model, reducing decode latency.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Speculative Decoding
 
 ## Definition

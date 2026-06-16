@@ -1,10 +1,17 @@
 ---
-title: "Why Hermes Agent Tool Gateway Matters More Than It Seems"
-source: "https://x.com/NeoAIForecast/status/2045981308170686923"
-author: "NeoAIForecast"
-published: "2026-04-19"
+title: Why Hermes Agent Tool Gateway Matters More Than It Seems
+author: NeoAIForecast
+published: '2026-04-19'
 type: article
+resource: https://x.com/NeoAIForecast/status/2045981308170686923
+timestamp: '2026-04-19T00:00:00Z'
+description: Most AI agent setups do not break on the model. They break on the tool
+  stack. You get the agent working, then spend the next hour wiring web search, browser
+  ...
+tags:
+- summaries
 ---
+
 
 # Why Hermes Agent Tool Gateway Matters More Than It Seems
 

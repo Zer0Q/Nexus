@@ -2,10 +2,13 @@
 created: 2026-05-28
 type: concept
 tags:
-  - ai
-  - prompting
-  - methodology
+- ai
+- prompting
+- methodology
+description: '## Related - [[concepts/LLM-Harness]] -- harnesses enable simpler prompts
+  by handling context - [[concepts/Metaprompt]] -- shortcut when prompts get complex'
 ---
+
 
 # Prompt Validation Over Construction
 

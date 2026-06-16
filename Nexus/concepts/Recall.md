@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Recall
+description: Capacidad de un sistema de agente para recuperar conversaciones, datos
+  o contexto de sesiones pasadas cuando se necesita información adicional. Es el mecanis...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Recall
 
 ## Definition

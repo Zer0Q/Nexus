@@ -1,10 +1,16 @@
 ---
-title: "Hermes Agent Optional Skills: How to Install New Capabilities on Demand"
-source: "https://x.com/NeoAIForecast/status/2051802880114639067"
-author: "NeoAIForecast"
-published: "2026-05-06"
+title: 'Hermes Agent Optional Skills: How to Install New Capabilities on Demand'
+author: NeoAIForecast
+published: '2026-05-06'
 type: article
+resource: https://x.com/NeoAIForecast/status/2051802880114639067
+timestamp: '2026-05-06T00:00:00Z'
+description: The more workflows you teach them, the more instructions they carry around
+  all the time. That means more prompt weight, more context clutter, and more chance...
+tags:
+- summaries
 ---
+
 
 # Hermes Agent Optional Skills How to Install New Capabilities on Demand
 

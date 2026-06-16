@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Logic
+description: Software primitives -- knowledge graphs, algorithms, program analysis
+  libraries -- that operate at the agentic layer within an agent harness to intentionally...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Logic
 
 ## Definition

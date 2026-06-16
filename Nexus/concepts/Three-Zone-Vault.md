@@ -1,7 +1,15 @@
 ---
 type: architecture
-related: [Four-Layer-Vault-Architecture, Three-Layer-Architecture, Note-Usefulness-Assessment]
+related:
+- Four-Layer-Vault-Architecture
+- Three-Layer-Architecture
+- Note-Usefulness-Assessment
+description: 'A vault architecture with three zones representing stages of note processing:
+  Zone 1 (Capture) for raw unprocessed material, Zone 2 (Active) for processed no...'
+tags:
+- concepts
 ---
+
 
 # Three-Zone-Vault
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Pydantic BaseModel
+description: Core class in Pydantic for defining data schemas. Subclasses declare
+  fields as type-annotated attributes; Pydantic generates validation logic, serialization
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic BaseModel
 
 ## Definition

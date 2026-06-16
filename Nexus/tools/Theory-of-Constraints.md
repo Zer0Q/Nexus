@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Theory of Constraints
+description: 'Management philosophy by Eliyahu Goldratt: any manageable system is
+  limited by a small number of constraints (usually one). System improvement comes
+  from ide...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Theory of Constraints
 
 ## Definition

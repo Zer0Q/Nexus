@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Kanban Board Workflow
+description: The Kanban task board in the Hermes Dashboard (v0.12.0+) that automates
+  task triage, splitting, assignment, and execution. Drop tasks into Triage, walk
+  away,...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Kanban Board Workflow
 
 ## Definition

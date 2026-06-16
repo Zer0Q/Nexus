@@ -1,10 +1,17 @@
 ---
-title: "Why Fallback Providers Matter in Hermes Agent"
-source: "https://x.com/NeoAIForecast/status/2043752627830436120"
-author: "NeoAIForecast"
-published: "2026-04-13"
+title: Why Fallback Providers Matter in Hermes Agent
+author: NeoAIForecast
+published: '2026-04-13'
 type: article
+resource: https://x.com/NeoAIForecast/status/2043752627830436120
+timestamp: '2026-04-13T00:00:00Z'
+description: Most people think about AI agents in terms of intelligence. But once
+  you actually depend on one, the bigger question becomes reliability. What happens
+  when y...
+tags:
+- summaries
 ---
+
 
 # Why Fallback Providers Matter in Hermes Agent
 

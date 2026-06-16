@@ -1,3 +1,14 @@
+---
+type: Concept
+title: API Bridge Pattern
+description: Proxy que vive fuera del sandbox y actúa como el único punto de cruce
+  autenticado entre el agent y servicios externos. El sandbox envía HTTP requests
+  al brid...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # API Bridge Pattern
 
 ## Definition

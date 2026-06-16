@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Policy as Code
+description: Runtime-enforced governance for AI agents implemented as code, independent
+  of model prompts and without fine-tuning. Policy-as-code enforces structured workf...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Policy as Code
 
 ## Definition

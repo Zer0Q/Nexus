@@ -1,10 +1,16 @@
 ---
-title: "you should be NotebookLM maxxing."
-source: "https://x.com/hooeem/status/2054652562867896520"
-author: "hooeem"
-published: "2026-05-13"
+title: you should be NotebookLM maxxing.
+author: hooeem
+published: '2026-05-13'
 type: article
+resource: https://x.com/hooeem/status/2054652562867896520
+timestamp: '2026-05-13T00:00:00Z'
+description: Only 2.1% of people use NotebookLM vs Claude/ChatGPT and they're dominating
+  you. They're doing this with grounded knowledge and you can too with this full co...
+tags:
+- summaries
 ---
+
 
 # you should be NotebookLM maxxing
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Telegram Vault Query
+description: Using a Telegram bot connected to Hermes Agent to query your full knowledge
+  vault from any device. Unlike Telegram capture bots that only save content, this
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Telegram Vault Query
 
 ## Definition

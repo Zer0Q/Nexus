@@ -1,10 +1,17 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2061937218579734718"
-author: "@santtiagom_"
-published: "2026-06-02"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-06-02'
 type: article
+resource: https://x.com/santtiagom_/status/2061937218579734718
+timestamp: '2026-06-02T00:00:00Z'
+description: '@santtiagom_ presenta los 6 conceptos fundamentales de Hermes Agent
+  para empezar desde cero: SOUL.md (personalidad y principios), Memoria Persistente,
+  Recall...'
+tags:
+- summaries
 ---
+
 
 # Learning Hermes: Core Concepts
 

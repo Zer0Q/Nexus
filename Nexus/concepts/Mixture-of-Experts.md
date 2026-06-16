@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Mixture of Experts
+description: Arquitectura de modelo sparse donde cada token se routea a un subset
+  de expertos, activando solo una fracción de los parámetros totales por token.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Mixture of Experts
 
 ## Definition

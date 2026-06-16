@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Spec-Kit
+description: 'GitHub''s Spec-Driven Development toolkit. Minimalist spec-first approach:
+  spec -> plan -> tasks -> code. Designed for new products and complex features.'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Spec-Kit
 
 ## Definition

@@ -2,10 +2,14 @@
 created: 2026-05-28
 type: glossary
 tags:
-  - learning
-  - pedagogy
-  - communities
+- learning
+- pedagogy
+- communities
+description: Learning process where newcomers enter a community at the periphery and
+  gradually move toward full participation. Coined by Lave and Wenger as the mechanism
+  ...
 ---
+
 
 # Legitimate Peripheral Participation
 

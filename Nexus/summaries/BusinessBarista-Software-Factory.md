@@ -1,10 +1,17 @@
 ---
-title: "What the hell is a Software Factory?"
-source: "https://x.com/businessbarista/status/2061573150719021542"
-author: "Business Barista"
-published: "2026-06-02"
+title: What the hell is a Software Factory?
+author: Business Barista
+published: '2026-06-02'
 type: article
+resource: https://x.com/businessbarista/status/2061573150719021542
+timestamp: '2026-06-02T00:00:00Z'
+description: Framework for understanding and building AI-powered software engineering
+  organizations. Introduces the Software Factory Ladder (Levels 0-4) from artisan
+  craf...
+tags:
+- summaries
 ---
+
 
 # Software Factory Framework
 

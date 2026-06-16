@@ -1,10 +1,16 @@
 ---
-title: "How to Build Your Own J.A.R.V.I.S (Full Guide)"
-source: "https://x.com/0xChaseTM/status/2065047339929047357"
-author: "@0xChaseTM"
-published: "2026-06-11"
+title: How to Build Your Own J.A.R.V.I.S (Full Guide)
+author: '@0xChaseTM'
+published: '2026-06-11'
 type: article
+resource: https://x.com/0xChaseTM/status/2065047339929047357
+timestamp: '2026-06-11T00:00:00Z'
+description: 0xChaseTM provides a five-step, 30-minute guide to building a voice-activated
+  personal assistant using openWakeWord for wake word detection ("Hey Jarvis"), f...
+tags:
+- summaries
 ---
+
 
 # How to Build Your Own J.A.R.V.I.S (Full Guide)
 

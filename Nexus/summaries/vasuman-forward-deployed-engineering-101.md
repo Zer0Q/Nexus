@@ -1,10 +1,17 @@
 ---
-title: "Forward Deployed Engineering 101"
-source: "https://x.com/vasuman/status/2057177266984226892"
-author: "vasuman"
-published: "2026-05-20"
+title: Forward Deployed Engineering 101
+author: vasuman
+published: '2026-05-20'
 type: article
+resource: https://x.com/vasuman/status/2057177266984226892
+timestamp: '2026-05-20T00:00:00Z'
+description: By the end of this article, you should understand why Anthropic, OpenAI,
+  Google, and other AI companies are looking for FDEs, and how you can capitalize
+  on t...
+tags:
+- summaries
 ---
+
 
 # Forward Deployed Engineering 101
 

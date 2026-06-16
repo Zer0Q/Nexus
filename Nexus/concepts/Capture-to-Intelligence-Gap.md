@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Capture-to-Intelligence Gap
+description: The time and friction between capturing an idea and having it connected
+  to your existing knowledge base. In traditional systems, capture is one-way (save
+  to ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Capture-to-Intelligence Gap
 
 ## Definition

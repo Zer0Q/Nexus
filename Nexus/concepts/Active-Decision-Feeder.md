@@ -1,7 +1,16 @@
 ---
 type: workflow
-related: [Four-Uses-of-Notes, Three-Zone-Vault, Federated-Knowledge-Search]
+related:
+- Four-Uses-of-Notes
+- Three-Zone-Vault
+- Federated-Knowledge-Search
+description: A workflow triggered when making a decision that scans the entire Zone
+  2 vault for relevant notes -- not just those explicitly tagged with the decision,
+  but ...
+tags:
+- concepts
 ---
+
 
 # Active-Decision-Feeder
 

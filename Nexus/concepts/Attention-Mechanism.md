@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Attention Mechanism
+description: Mecanismo que permite a cada token en una secuencia "mirar" todos los
+  demás tokens y decidir dinámicamente qué información es más relevante. Se implementa
+  me...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Attention Mechanism
 
 ## Definition

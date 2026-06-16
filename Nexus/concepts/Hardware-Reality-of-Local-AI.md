@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Hardware Reality of Local AI
+description: The practical hardware requirements for running local LLMs on consumer
+  equipment. Modern laptops with 16GB+ RAM can comfortably run 7B parameter models;
+  32GB...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hardware Reality of Local AI
 
 ## Definition

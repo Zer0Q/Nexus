@@ -1,10 +1,17 @@
 ---
-title: "Beyond Intuition: Why ISO/IEC 23894:2023 is the Strategic Engine for AI Risk Management"
-source: "https://ramirocid.com/beyond-intuition-why-iso-iec-238942023-is-the-strategic-engine-for-ai-risk-management/"
-author: "Ramiro Cid"
-published: "2026-05-19"
+title: 'Beyond Intuition: Why ISO/IEC 23894:2023 is the Strategic Engine for AI Risk
+  Management'
+author: Ramiro Cid
+published: '2026-05-19'
 type: article
+resource: https://ramirocid.com/beyond-intuition-why-iso-iec-238942023-is-the-strategic-engine-for-ai-risk-management/
+timestamp: '2026-05-19T00:00:00Z'
+description: ISO/IEC 23894:2023 extends ISO 31000 risk management to the AI lifecycle,
+  addressing emergent risks (algorithmic bias, model drift, adversarial vulnerabiliti...
+tags:
+- summaries
 ---
+
 
 # ISO/IEC 23894:2023 — AI Risk Management
 

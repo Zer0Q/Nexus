@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Markdown as Universal Format
+description: Using plain .md files as the bridge format between knowledge management
+  tools, AI agents, and coding environments. No proprietary format, no binary blobs,
+  no...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Markdown as Universal Format
 
 ## Definition

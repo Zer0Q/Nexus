@@ -1,11 +1,18 @@
 ---
-title: "IA Generativa y Modelos Semánticos: Arquitecturas Agénticas y Ontologías"
-source: ""
-author: "Deep Research"
-published: ""
-created: "2026-06-01"
+title: 'IA Generativa y Modelos Semánticos: Arquitecturas Agénticas y Ontologías'
+author: Deep Research
+published: ''
+created: '2026-06-01'
 type: article
+resource: ''
+timestamp: ''
+description: Deep research analysis on the convergence of generative AI (LLMs) with
+  semantic models (knowledge graphs, ontologies, schemas). Covers state-of-the-art
+  extra...
+tags:
+- summaries
 ---
+
 
 # Semantic Models and Agentic Architectures
 

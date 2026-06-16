@@ -1,3 +1,14 @@
+---
+type: Tool
+title: mcpvault
+description: MCP server sin dependencias que lee vaults de Obsidian sin necesidad
+  de tener Obsidian running. Búsqueda BM25 con relevance ranking, maneja frontmatter
+  safel...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # mcpvault
 
 ## Definition

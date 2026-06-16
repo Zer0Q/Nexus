@@ -1,3 +1,13 @@
+---
+type: Tool
+title: ExLlamaV2 and V3
+description: Consumer CUDA quantization engines optimized for RTX 3090/4090/5090.
+  V2 for single-GPU local inference, V3 for multi-GPU (2-4) and MoE.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ExLlamaV2 and V3
 
 ## Definition

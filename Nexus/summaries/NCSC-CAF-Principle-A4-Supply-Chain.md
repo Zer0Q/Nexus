@@ -1,10 +1,17 @@
 ---
-title: "Principle A4 Supply Chain"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a4-supply-chain"
-author: "NCSC UK"
-published: "2024-04-18"
+title: Principle A4 Supply Chain
+author: NCSC UK
+published: '2024-04-18'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a4-supply-chain
+timestamp: '2024-04-18T00:00:00Z'
+description: 'Principio A4 de cadena de suministro: gestión de riesgos de proveedores,
+  desarrollo seguro de software, y seguridad de servicios en la nube. Incluye niveles
+  ...'
+tags:
+- summaries
 ---
+
 
 # CAF Principle A4 Supply Chain
 

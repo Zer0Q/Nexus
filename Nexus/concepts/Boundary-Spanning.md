@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Boundary Spanning
+description: Practices and actions that connect knowledge across organizational silos,
+  internal and external communities, and different stakeholder groups. Boundary-spann...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Boundary Spanning
 
 ## Definition

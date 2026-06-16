@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Bad Data as Diagnostic
+description: Every data anomaly — missing values, "Other" selections, workaround spreadsheets,
+  blank mandatory fields — is a process confessing exactly where it breaks. B...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Bad Data as Diagnostic
 
 ## Definition

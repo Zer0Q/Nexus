@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context Space Reduction
+description: Using structured analysis output (program analysis, knowledge graphs,
+  algorithms) to reduce the context space an LLM needs to process. Instead of dumping
+  ent...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Space Reduction
 
 ## Definition

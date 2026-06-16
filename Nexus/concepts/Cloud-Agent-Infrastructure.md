@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Cloud Agent Infrastructure
+description: Plataforma que ejecuta AI agents en sandboxes efímeros en hardware compartido,
+  triggerizados por schedules, HTTP requests u otros agents — sin las garantías ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cloud Agent Infrastructure
 
 ## Definition

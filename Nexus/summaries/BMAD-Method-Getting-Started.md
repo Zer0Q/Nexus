@@ -1,10 +1,17 @@
 ---
-title: "BMAD - Getting Started"
-source: "https://docs.bmad-method.org/tutorials/getting-started/"
-author: "BMAD Method"
-published: "2026-05-27"
+title: BMAD - Getting Started
+author: BMAD Method
+published: '2026-05-27'
 type: article
+resource: https://docs.bmad-method.org/tutorials/getting-started/
+timestamp: '2026-05-27T00:00:00Z'
+description: 'BMAD Method is an AI-powered development framework using specialized
+  agents (Analyst, PM, Architect, Developer, QA) to guide projects through four phases:
+  An...'
+tags:
+- summaries
 ---
+
 
 # BMAD Getting Started
 

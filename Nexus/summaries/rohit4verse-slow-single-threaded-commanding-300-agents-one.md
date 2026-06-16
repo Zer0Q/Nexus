@@ -1,10 +1,18 @@
 ---
-title: "You're Not Slow. You're Single-Threaded: A Complete Guide on Commanding 300 Agents from One Prompt"
-source: "https://x.com/rohit4verse/status/2059320043478081976"
-author: "rohit4verse"
-published: "2026-05-26"
+title: 'You''re Not Slow. You''re Single-Threaded: A Complete Guide on Commanding
+  300 Agents from One Prompt'
+author: rohit4verse
+published: '2026-05-26'
 type: article
+resource: https://x.com/rohit4verse/status/2059320043478081976
+timestamp: '2026-05-26T00:00:00Z'
+description: You designed the product, wrote the code, wrote the launch copy, answered
+  the support tickets, and reconciled the numbers yourself. You did this in order,
+  be...
+tags:
+- summaries
 ---
+
 
 # Youre Not Slow Youre SingleThreaded A Complete Guide on Commanding 300 Agen
 

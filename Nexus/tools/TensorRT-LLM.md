@@ -1,3 +1,13 @@
+---
+type: Tool
+title: TensorRT-LLM
+description: NVIDIA's maximum-performance inference stack. Optimized, specialized,
+  powerful, and not pretending to be portable.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # TensorRT-LLM
 
 ## Definition

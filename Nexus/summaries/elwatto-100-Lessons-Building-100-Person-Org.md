@@ -1,10 +1,16 @@
 ---
-title: "100 Lessons From Building a 100-Person Org"
-source: "https://x.com/elwatto/status/2065600711078146170"
-author: "@elwatto"
-published: "2026-06-13"
+title: 100 Lessons From Building a 100-Person Org
+author: '@elwatto'
+published: '2026-06-13'
 type: article
+resource: https://x.com/elwatto/status/2065600711078146170
+timestamp: '2026-06-13T00:00:00Z'
+description: Fundador técnico de RevenueCat comparte 100 lecciones aprendidas al escalar
+  su organización a 100 personas tras ~9 años. Cubre hiring (recruiting, interviews...
+tags:
+- summaries
 ---
+
 
 # 100 Lessons Building a 100-Person Org
 

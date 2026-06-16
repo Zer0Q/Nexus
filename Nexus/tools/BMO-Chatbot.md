@@ -1,3 +1,14 @@
+---
+type: Tool
+title: BMO Chatbot Plugin
+description: An Obsidian plugin providing a full chat interface inside Obsidian that
+  connects directly to a local LM Studio server. Feels like Claude or ChatGPT but
+  runs ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # BMO Chatbot Plugin
 
 ## Definition

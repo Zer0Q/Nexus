@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Pydantic Field Constraints
+description: Field-level customization in Pydantic using the Field() function. Adds
+  metadata, validation constraints, and serialization behavior to model fields beyond
+  wh...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic Field Constraints
 
 ## Definition

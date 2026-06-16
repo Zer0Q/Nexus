@@ -1,3 +1,13 @@
+---
+type: Concept
+title: World Model Renderer
+description: Tipo de world model que produce observaciones visuales (píxeles) optimizadas
+  para fidelidad visual, no para comprensión estructural 3D.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # World Model Renderer
 
 ## Definition

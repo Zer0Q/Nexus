@@ -1,10 +1,17 @@
 ---
-title: "How Skills Work in Hermes Agent"
-source: "https://x.com/NeoAIForecast/status/2044252861710905685"
-author: "NeoAIForecast"
-published: "2026-04-15"
+title: How Skills Work in Hermes Agent
+author: NeoAIForecast
+published: '2026-04-15'
 type: article
+resource: https://x.com/NeoAIForecast/status/2044252861710905685
+timestamp: '2026-04-15T00:00:00Z'
+description: Most AI agents forget the method even when they remember the result.
+  It doesn’t just keep conversation history. It can load reusable procedural knowledge
+  exa...
+tags:
+- summaries
 ---
+
 
 # How Skills Work in Hermes Agent
 

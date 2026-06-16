@@ -1,10 +1,17 @@
 ---
-title: "CAF Objective B - Protecting against cyber attacks"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-b"
-author: "NCSC UK"
-published: "2025-08-06"
+title: CAF Objective B - Protecting against cyber attacks
+author: NCSC UK
+published: '2025-08-06'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-b
+timestamp: '2025-08-06T00:00:00Z'
+description: 'Objetivo B del CAF: medidas de seguridad proporcionales para proteger
+  redes y sistemas que soportan funciones esenciales. Incluye 6 principios: políticas
+  de ...'
+tags:
+- summaries
 ---
+
 
 # CAF Objective B - Protection
 

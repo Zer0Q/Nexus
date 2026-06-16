@@ -1,3 +1,14 @@
+---
+type: Concept
+title: People Process Technology Sequence
+description: 'The correct order for AI transformation: people first (they understand
+  the real work), process second (automation only scales when the process is stable
+  and ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # People Process Technology Sequence
 
 ## Definition

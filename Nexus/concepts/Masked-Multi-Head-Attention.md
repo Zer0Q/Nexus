@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Masked Multi-Head Attention
+description: Mecanismo donde múltiples "heads" de causal self-attention corren en
+  paralelo sobre los mismos input embeddings, cada uno capturando patrones diferentes
+  (sig...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Masked Multi-Head Attention
 
 ## Definition

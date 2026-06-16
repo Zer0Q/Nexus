@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Source Truth Hierarchy
+description: Diseño operativo que define qué fuente de información gana cuando hay
+  conflictos entre sources (sales call vs CRM field vs Slack correction vs old SOP
+  vs wee...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Source Truth Hierarchy
 
 ## Definition

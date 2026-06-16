@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Multi-Model Convergence
+description: Running the same prompt or analysis task across multiple AI models simultaneously
+  (e.g., ChatGPT 5 Pro and Claude Opus 4.8 MAX) to compare outputs, identify ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Multi-Model Convergence
 
 ## Definition

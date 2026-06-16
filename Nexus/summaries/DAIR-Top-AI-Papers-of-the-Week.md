@@ -1,10 +1,17 @@
 ---
-title: "Top AI Papers of the Week"
-source: "https://x.com/dair_ai/status/2061104052818108476"
-author: "@dair_ai"
-published: "2026-05-31"
+title: Top AI Papers of the Week
+author: '@dair_ai'
+published: '2026-05-31'
 type: article
+resource: https://x.com/dair_ai/status/2061104052818108476
+timestamp: '2026-05-31T00:00:00Z'
+description: Weekly roundup of 10 AI papers covering skill optimization (SkillOpt),
+  workflow compilation, decentralized research agents (AutoScientists), sleep-like
+  conso...
+tags:
+- summaries
 ---
+
 
 # Top AI Papers of the Week
 

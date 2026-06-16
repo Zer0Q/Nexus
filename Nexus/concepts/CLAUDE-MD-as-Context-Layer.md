@@ -1,3 +1,14 @@
+---
+type: Concept
+title: CLAUDE.md as Context Layer
+description: A markdown file at the vault root that teaches the AI how to think alongside
+  you specifically. Contains identity, projects, vault structure, thinking style,
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # CLAUDE.md as Context Layer
 
 ## Definition

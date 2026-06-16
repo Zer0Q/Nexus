@@ -1,10 +1,16 @@
 ---
-title: "Step-By-Step LLM Engineering Projects (2026 Edition)"
-source: "https://x.com/TheAhmadOsman/status/2058745340895870985"
-author: "@TheAhmadOsman"
-published: "2026-05-25"
+title: Step-By-Step LLM Engineering Projects (2026 Edition)
+author: '@TheAhmadOsman'
+published: '2026-05-25'
 type: article
+resource: https://x.com/TheAhmadOsman/status/2058745340895870985
+timestamp: '2026-05-25T00:00:00Z'
+description: Roadmap de 34 proyectos prácticos para aprender LLM engineering construyendo
+  el stack desde cero. Organizado en 21 parts que van desde tokenizers hasta siste...
+tags:
+- summaries
 ---
+
 
 # Step-By-Step LLM Engineering Projects
 

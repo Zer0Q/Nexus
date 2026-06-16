@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Teams
+description: Patrón de ejecución paralela y coordinación entre múltiples agentes.
+  Cada agente en el equipo tiene su propio contexto, herramientas y permisos. Los
+  agentes ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Teams
 
 ## Definition

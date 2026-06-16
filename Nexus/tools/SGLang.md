@@ -1,3 +1,14 @@
+---
+type: Tool
+title: SGLang
+description: 'Production serving engine optimized for complex workloads: structured
+  outputs, long context, MoE, disaggregation, and routing. vLLM''s "systems-brained
+  cousin."'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # SGLang
 
 ## Definition

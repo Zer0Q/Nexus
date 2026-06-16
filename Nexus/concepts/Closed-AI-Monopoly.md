@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Closed AI Monopoly
+description: The pattern where frontier AI labs use safety branding, anti-competitive
+  access controls, and regulatory influence to centralize control over who can build,
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Closed AI Monopoly
 
 ## Definition

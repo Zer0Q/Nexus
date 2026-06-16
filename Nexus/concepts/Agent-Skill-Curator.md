@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Skill Curator
+description: Background maintenance system that cleans up agent-created skills. Runs
+  on an inactivity check (7 days since last run + 2+ hours idle), spawning a background...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Skill Curator
 
 ## Definition

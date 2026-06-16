@@ -1,10 +1,17 @@
 ---
-title: "Hermes Workspace Is What Hermes Agent Is Missing"
-source: "https://x.com/NeoAIForecast/status/2048103859978150349"
-author: "NeoAIForecast"
-published: "2026-04-25"
+title: Hermes Workspace Is What Hermes Agent Is Missing
+author: NeoAIForecast
+published: '2026-04-25'
 type: article
+resource: https://x.com/NeoAIForecast/status/2048103859978150349
+timestamp: '2026-04-25T00:00:00Z'
+description: Most agent UIs still feel like chat apps pretending to be workspaces.
+  It is not trying to be a prettier textbox. It is trying to become the actual operating
+  ...
+tags:
+- summaries
 ---
+
 
 # Hermes Workspace Is What Hermes Agent Is Missing
 

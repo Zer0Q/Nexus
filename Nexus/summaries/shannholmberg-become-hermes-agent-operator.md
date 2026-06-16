@@ -1,10 +1,16 @@
 ---
-title: "How to Become a Hermes Agent Operator"
-source: "https://x.com/shannholmberg/status/2055335043904492011"
-author: "shannholmberg"
-published: "2026-05-12"
+title: How to Become a Hermes Agent Operator
+author: shannholmberg
+published: '2026-05-12'
 type: article
+resource: https://x.com/shannholmberg/status/2055335043904492011
+timestamp: '2026-05-12T00:00:00Z'
+description: learn how to operate and master Hermes Agent. set up the agent control
+  room template, configure specialist agents, and grow from one agent to a whole marketi...
+tags:
+- summaries
 ---
+
 
 # How to Become a Hermes Agent Operator
 

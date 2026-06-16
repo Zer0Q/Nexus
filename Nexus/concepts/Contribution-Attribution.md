@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Contribution Attribution
+description: Estimación porcentual de la contribución relativa de cada parte (humana
+  vs. IA) en un documento o proceso creativo, típicamente por etapa del workflow.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Contribution Attribution
 
 ## Definition

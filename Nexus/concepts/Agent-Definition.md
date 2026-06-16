@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Definition
+description: Sistema que combina modelo, contexto, memory, tools, harness y loop para
+  perseguir objetivos de forma autónoma. Un agente no es solo un modelo con tools
+  — es...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Definition
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Synthetic Data Generation
+description: Generating training data via simulation rather than real-world collection.
+  For physical AI, this includes synthetic scenes for robotics, physics interactions...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Synthetic Data Generation
 
 ## Definition

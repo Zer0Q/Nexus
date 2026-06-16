@@ -1,10 +1,17 @@
 ---
-title: "Cyber Assessment Framework"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework"
-author: "NCSC"
-published: "2024-04-18"
+title: Cyber Assessment Framework
+author: NCSC
+published: '2024-04-18'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework
+timestamp: '2024-04-18T00:00:00Z'
+description: Marco del NCSC UK para evaluar y mejorar la resiliencia cibernética en
+  organizaciones con funciones esenciales. Define 4 objetivos y 10 principios con
+  indica...
+tags:
+- summaries
 ---
+
 
 # Cyber Assessment Framework
 

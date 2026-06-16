@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Structured Output
+description: Constraining agent/LLM responses to predefined schemas (Pydantic models,
+  dataclasses). The framework generates JSON Schema from the model, instructs the
+  LLM ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Structured Output
 
 ## Definition

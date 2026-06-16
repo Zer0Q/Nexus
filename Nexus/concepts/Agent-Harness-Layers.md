@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Harness Layers
+description: 'Three-layer architecture for production AI agents: Model Layer (LLM
+  selection and routing), Agent Layer (identity, memory, tools), and Runtime Layer
+  (session...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Harness Layers
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "How to Become a Second Brain Architect Using Obsidian in 6 Months (Full Course)"
-source: "https://x.com/eng_khairallah1/status/2061375236415672363"
-author: "@eng_khairallah1"
-published: "2026-06-01"
+title: How to Become a Second Brain Architect Using Obsidian in 6 Months (Full Course)
+author: '@eng_khairallah1'
+published: '2026-06-01'
 type: article
+resource: https://x.com/eng_khairallah1/status/2061375236415672363
+timestamp: '2026-06-01T00:00:00Z'
+description: Six-month roadmap from Obsidian beginner to professional Second Brain
+  Architect. Progresses through foundations, AI integration, automated workflows,
+  context...
+tags:
+- summaries
 ---
+
 
 # Second Brain Architect Roadmap
 

@@ -1,10 +1,17 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2053851364787134536"
-author: "@santtiagom_"
-published: "2026-03-22"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-03-22'
 type: article
+resource: https://x.com/santtiagom_/status/2053851364787134536
+timestamp: '2026-03-22T00:00:00Z'
+description: '@santtiagom_ comparte su ruta de aprendizaje para Claude Code: empezar
+  por el agente loop, permisos, memoria, MCP, skills, subagents, hooks y planning
+  antes ...'
+tags:
+- summaries
 ---
+
 
 # Learning Claude Code: The Roadmap
 

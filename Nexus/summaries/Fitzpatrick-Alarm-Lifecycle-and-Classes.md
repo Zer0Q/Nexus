@@ -1,10 +1,17 @@
 ---
-title: "Process Automation: Alarm management life cycle"
-source: "https://www.isa.org/intech-home/2018/march-april/features/alarm-management-life-cycle"
-author: "Bridget Fitzpatrick"
-published: "2018-03"
+title: 'Process Automation: Alarm management life cycle'
+author: Bridget Fitzpatrick
+published: 2018-03
 type: article
+resource: https://www.isa.org/intech-home/2018/march-april/features/alarm-management-life-cycle
+timestamp: 2018-03
+description: Alarm management benefits erode over time without lifecycle management.
+  Alarm classes group alarms with common management requirements (testing, training,
+  mo...
+tags:
+- summaries
 ---
+
 
 # Alarm Management Lifecycle and Classes
 

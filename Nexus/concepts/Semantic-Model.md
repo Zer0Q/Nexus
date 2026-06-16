@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Semantic Model
+description: Formal structures for knowledge representation -- knowledge graphs, ontologies,
+  and schemas -- that provide a deterministic substrate for AI reasoning, contr...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Semantic Model
 
 ## Definition

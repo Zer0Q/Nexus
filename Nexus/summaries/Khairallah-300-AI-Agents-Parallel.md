@@ -1,10 +1,16 @@
 ---
-title: "How to Run 300 AI Agents From One Prompt. 10 Workflows Most People Skip"
-source: "https://x.com/eng_khairallah1/status/2062461939318730818"
-author: "@eng_khairallah1"
-published: "2026-06-04"
+title: How to Run 300 AI Agents From One Prompt. 10 Workflows Most People Skip
+author: '@eng_khairallah1'
+published: '2026-06-04'
 type: article
+resource: https://x.com/eng_khairallah1/status/2062461939318730818
+timestamp: '2026-06-04T00:00:00Z'
+description: 'Guía práctica sobre fan-out de prompts: en vez de procesar items secuencialmente,
+  se spawn 100+ workers paralelos desde un solo prompt con un coordinator que...'
+tags:
+- summaries
 ---
+
 
 # 300 AI Agents From One Prompt
 

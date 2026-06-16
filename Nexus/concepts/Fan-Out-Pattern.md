@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Fan-Out Pattern
+description: Patrón de paralelización donde un single prompt spawn workers paralelos
+  que procesan items independientes, y un coordinator mergea los outputs en un delivera...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Fan-Out Pattern
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Stop Condition
+description: 'Condición que determina cuándo un loop de agente debe detenerse y entregar
+  un resultado final. Es el complemento del eval gate: el eval gate decide si contin...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Stop Condition
 
 ## Definition

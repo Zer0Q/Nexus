@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Open vs Closed Loop
+description: The fundamental distinction between exploratory agent loops (open) and
+  bounded, verifiable loops (closed). Open loops let agents roam freely through discover...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Open vs Closed Loop
 
 ## Definition

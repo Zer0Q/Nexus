@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Quarterly Vault Review
+description: A periodic maintenance habit (every 3 months) that audits folder structure,
+  tag taxonomy, archive status, and naming consistency. Keeps the organizational sy...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Quarterly Vault Review
 
 ## Definition

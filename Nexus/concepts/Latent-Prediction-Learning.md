@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Latent Prediction Learning
+description: Self-supervised learning paradigm where models predict their own internal
+  representations (latents) rather than surface tokens, as in JEPA and data2vec. Prov...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Latent Prediction Learning
 
 ## Definition

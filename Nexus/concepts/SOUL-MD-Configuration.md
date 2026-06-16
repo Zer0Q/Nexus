@@ -1,3 +1,13 @@
+---
+type: Concept
+title: SOUL-MD Configuration
+description: The instruction layer file that governs how Hermes interprets everything
+  it reads in your vault. Beyond personality and tone, it defines your research method...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # SOUL-MD Configuration
 
 ## Definition

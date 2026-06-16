@@ -1,3 +1,13 @@
+---
+type: Concept
+title: LP-Measure (Link Prediction Measure)
+description: '- Tests whether graph topology is logically coherent (missing edges
+  should be predictable from remaining structure) - No ground truth needed -- self-evaluati...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LP-Measure (Link Prediction Measure)
 
 Evaluates intrinsic graph quality by analyzing structural consistency and logical redundancy. The algorithm controllably removes a subset of relationships (triples) from the graph and mathematically evaluates whether a link prediction engine can successfully recover the removed edges based solely on the remaining network topology. Audits graph consistency without requiring a human-curated reference standard.

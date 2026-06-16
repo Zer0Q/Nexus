@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Runtime Overhead
+description: Small per-token overheads (CUDA graphs, kernel fusion, sampling, tokenizer,
+  HTTP, LoRA switching, structured decoding) that compound at high scale and become...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Runtime Overhead
 
 ## Definition

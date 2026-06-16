@@ -1,10 +1,17 @@
 ---
-title: "Delete 90% of Your Obsidian Notes. The Vault Gets Smarter When You Do."
-source: "https://x.com/DamiDefi/status/2061034224107311153"
-author: "DamiDefi"
-published: "2026-05-31"
+title: Delete 90% of Your Obsidian Notes. The Vault Gets Smarter When You Do.
+author: DamiDefi
+published: '2026-05-31'
 type: article
+resource: https://x.com/DamiDefi/status/2061034224107311153
+timestamp: '2026-05-31T00:00:00Z'
+description: Last month I deleted 1,890 of the 2,100 notes in my Obsidian vault in
+  a single afternoon. Ninety percent of everything I had saved in two years, gone
+  in one ...
+tags:
+- summaries
 ---
+
 
 # Delete 90 of Your Obsidian Notes The Vault Gets Smarter When You Do
 

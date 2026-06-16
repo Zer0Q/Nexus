@@ -1,3 +1,14 @@
+---
+type: Concept
+title: GStack Software Factory
+description: An AI-native development operating system that structures one person
+  as a full product organization using coordinated AI agents for design, coding, testing,
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # GStack Software Factory
 
 ## Definition

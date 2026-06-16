@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cloud Handoff
+description: The ability to start a long-running coding task locally in Cursor, hand
+  it off to Cursor's cloud infrastructure, close your laptop, and have the results
+  sync...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cloud Handoff
 
 ## Definition

@@ -1,10 +1,16 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2068908785772089283"
-author: "@santtiagom_"
-published: "2026-06-16"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-06-16'
 type: article
+resource: https://x.com/santtiagom_/status/2068908785772089283
+timestamp: '2026-06-16T00:00:00Z'
+description: '@santtiagom_ sintetiza los componentes de un sistema de agente completo:
+  modelo, contexto, memory, tools, harness y loop. La combinación de estos 6 elementos...'
+tags:
+- summaries
 ---
+
 
 # Complete Agent System
 

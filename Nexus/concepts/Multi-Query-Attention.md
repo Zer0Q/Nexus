@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Multi-Query Attention
+description: Variante de multi-head attention donde los query heads comparten keys
+  y values, reduciendo memory bandwidth durante inference.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Multi-Query Attention
 
 ## Definition

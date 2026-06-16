@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Persistent AI Helpers
+description: AI agents that maintain persistent context across sessions, acting as
+  long-term assistants within a knowledge system. Unlike stateless chat interactions,
+  the...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Persistent AI Helpers
 
 ## Definition

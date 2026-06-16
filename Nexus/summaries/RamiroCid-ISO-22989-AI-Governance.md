@@ -1,10 +1,18 @@
 ---
-title: "Beyond the Hype: Why ISO/IEC 22989:2022 is the strategic bedrock of your AI Governance"
-source: "https://ramirocid.com/beyond-the-hype-why-iso-iec-229892022-is-the-strategic-bedrock-of-ai-governance/"
-author: "Ramiro Cid"
-published: "2026-05-12"
+title: 'Beyond the Hype: Why ISO/IEC 22989:2022 is the strategic bedrock of your AI
+  Governance'
+author: Ramiro Cid
+published: '2026-05-12'
 type: article
+resource: https://ramirocid.com/beyond-the-hype-why-iso-iec-229892022-is-the-strategic-bedrock-of-ai-governance/
+timestamp: '2026-05-12T00:00:00Z'
+description: ISO/IEC 22989:2022 defines AI concepts, terminology, and the AI System
+  Life Cycle Model. Establishes shared vocabulary for AI governance, breaking down
+  trust...
+tags:
+- summaries
 ---
+
 
 # ISO/IEC 22989:2022 — AI Concepts and Terminology
 

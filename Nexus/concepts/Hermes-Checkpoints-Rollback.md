@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Hermes Checkpoints and Rollback
+description: Version control for agent sessions — Hermes creates checkpoints at key
+  points, allowing users to roll back to previous states if an agent makes destructive
+  c...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hermes Checkpoints and Rollback
 
 ## Definition

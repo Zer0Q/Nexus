@@ -1,10 +1,17 @@
 ---
-title: "CAF Objective D - Minimising the impact of cyber security incidents"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-d"
-author: "NCSC"
-published: "2025-08-06"
+title: CAF Objective D - Minimising the impact of cyber security incidents
+author: NCSC
+published: '2025-08-06'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-d
+timestamp: '2025-08-06T00:00:00Z'
+description: One of the 5 core objectives of the NCSC Cyber Assessment Framework.
+  Objective D requires capabilities to minimise the adverse impact of a cyber security
+  inc...
+tags:
+- summaries
 ---
+
 
 # NCSC CAF Objective D — Minimising Impact
 
