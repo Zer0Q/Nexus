@@ -1,6 +1,11 @@
 ---
-name: obsidian-vault-processor
+type: Workflow
+title: Obsidian Vault Processor
 description: "Processes raw articles into the Nexus Obsidian vault knowledge model: immutable raw notes, compressed summaries, reusable concepts/tools, and folder-qualified wikilinks."
+resource: https://github.com/Zer0Q/Nexus/tree/main/skills/note-taking/obsidian-vault-processor
+tags: [nexus, vault, processing, ingestion, obsidian]
+timestamp: "2026-06-16T14:00:00Z"
+name: obsidian-vault-processor
 ---
 
 ## Overview
@@ -98,11 +103,13 @@ Summary template:
 
 ```markdown
 ---
+type: Article
 title: "<original title>"
-source: "<url or source>"
+description: "One-line summary of the source."
+resource: "<url or source>"
+tags: [tag1, tag2]
+timestamp: "YYYY-MM-DDT00:00:00Z"
 author: "<author handle>"
-published: "<date>"
-type: article
 ---
 
 # <Short Title>

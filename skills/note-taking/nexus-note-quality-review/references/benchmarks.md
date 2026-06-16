@@ -1,3 +1,12 @@
+---
+type: Reference
+title: Quality Benchmarks
+description: Reference examples for calibrating note quality scoring in the Nexus vault. Includes HIGH, MID, and LOW quality examples with detailed scoring breakdowns.
+resource: https://github.com/Zer0Q/Nexus/tree/main/skills/note-taking/nexus-note-quality-review/references/benchmarks.md
+tags: [quality, benchmarks, scoring, calibration]
+timestamp: "2026-06-16T14:00:00Z"
+---
+
 # Quality Benchmarks — Reference Examples
 
 Use these as calibration points when scoring notes.

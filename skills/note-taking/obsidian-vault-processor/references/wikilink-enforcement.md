@@ -1,3 +1,12 @@
+---
+type: Reference
+title: Wikilink Enforcement
+description: Bug reports and fixes for wikilink enforcement in the Nexus vault processing pipeline. Documents root causes and applied fixes for common wikilink issues.
+resource: https://github.com/Zer0Q/Nexus/tree/main/skills/note-taking/obsidian-vault-processor/references/wikilink-enforcement.md
+tags: [wikilinks, bugs, fixes, enforcement]
+timestamp: "2026-06-16T14:00:00Z"
+---
+
 # Wikilink Enforcement
 
 ## Bug: Summaries Created Without Wikilinks
