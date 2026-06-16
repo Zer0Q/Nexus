@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Knowledge Mapping
+description: The practice of creating visual and structural representations of how
+  ideas, concepts, and information relate to each other within a knowledge base. Goes
+  bey...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Mapping
 
 ## Definition

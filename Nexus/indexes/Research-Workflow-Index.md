@@ -1,3 +1,13 @@
+---
+type: Index
+title: Research Workflow Index
+description: '## Glossary - [[concepts/RAG]] - [[concepts/Embeddings]] - [[concepts/Local-LLM]]
+  - [[concepts/Vault-Context]] - [[concepts/Connection-Cost]] - [[concepts/In...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Research Workflow Index
 
 ## Overview

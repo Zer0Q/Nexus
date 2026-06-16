@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Expert Committee Simulation
+description: Using multiple AI models to simulate an expert committee review process,
+  where each model acts as a domain expert evaluating the work of others. Models criti...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Expert Committee Simulation
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "Comparison between ISO/IEC 27001:2013 and ISO/IEC 27001:2005"
-source: "https://ramirocid.com/comparison-between-isoiec-270012013-and-2005/"
-author: "Ramiro Cid"
-published: "2014-10-24"
+title: Comparison between ISO/IEC 27001:2013 and ISO/IEC 27001:2005
+author: Ramiro Cid
+published: '2014-10-24'
 type: article
+resource: https://ramirocid.com/comparison-between-isoiec-270012013-and-2005/
+timestamp: '2014-10-24T00:00:00Z'
+description: 'Análisis comparativo de la evolución de ISO 27001 entre las versiones
+  2005 y 2013: expansión de 11 a 14 dominios de seguridad, reducción de 133 a 114
+  control...'
+tags:
+- summaries
 ---
+
 
 # ISO 27001: 2013 vs 2005 — Evolution of Controls
 

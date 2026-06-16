@@ -1,3 +1,13 @@
+---
+type: Concept
+title: ISA/IEC 62443
+description: '- Cubre gestión de seguridad, arquitectura de sistemas, componentes
+  y conexiones de red - Se construye sobre ISO 27001/27002 para entornos IACS - Referenciad...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ISA/IEC 62443
 
 Estándar internacional de ciberseguridad para sistemas de automatización y control industrial (IACS). Define requisitos de seguridad para entornos industriales, alineando gestión de riesgo cibernético con prácticas de gestión de riesgo de seguridad.

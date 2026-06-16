@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Alarm Rationalization
+description: The systematic review and justification of potential alarms against defined
+  criteria to ensure they meet the alarm definition, with documented consequences,
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Alarm Rationalization
 
 ## Definition

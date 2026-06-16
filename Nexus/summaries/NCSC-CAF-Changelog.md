@@ -1,10 +1,16 @@
 ---
-title: "Cyber Assessment Framework (CAF) changelog"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/changelog"
-author: "NCSC UK"
-published: "2025-08-04"
+title: Cyber Assessment Framework (CAF) changelog
+author: NCSC UK
+published: '2025-08-04'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/changelog
+timestamp: '2025-08-04T00:00:00Z'
+description: Historial de versiones del CAF desde v1.0 (abril 2018) hasta v4.0 (agosto
+  2025). Cada versión incluye changelog y descarga del PDF.
+tags:
+- summaries
 ---
+
 
 # CAF Changelog
 

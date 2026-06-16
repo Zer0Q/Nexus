@@ -1,10 +1,17 @@
 ---
-title: "How to Build an Obsidian Knowledge Vault That Gets Smarter Every Day Without You Doing Anything"
-source: "https://x.com/cyrilXBT/status/2052235121416188114"
-author: "@cyrilXBT"
-published: "2026-05-07"
+title: How to Build an Obsidian Knowledge Vault That Gets Smarter Every Day Without
+  You Doing Anything
+author: '@cyrilXBT'
+published: '2026-05-07'
 type: article
+resource: https://x.com/cyrilXBT/status/2052235121416188114
+timestamp: '2026-05-07T00:00:00Z'
+description: 'Guide to building a feedback-loop knowledge vault: four layers (capture,
+  pipeline, Obsidian, Claude). Solves three failure modes: capture friction (automated...'
+tags:
+- summaries
 ---
+
 
 # Cyril XBT Self-Improving Knowledge Vault
 

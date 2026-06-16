@@ -1,10 +1,17 @@
 ---
-title: "How to Create Custom Hermes Skins That Actually Look Good"
-source: "https://x.com/NeoAIForecast/status/2041818820810351092"
-author: "NeoAIForecast"
-published: "2026-04-08"
+title: How to Create Custom Hermes Skins That Actually Look Good
+author: NeoAIForecast
+published: '2026-04-08'
 type: article
+resource: https://x.com/NeoAIForecast/status/2041818820810351092
+timestamp: '2026-04-08T00:00:00Z'
+description: Most people treat Hermes skins like a color swap. That is the fastest
+  way to make a mediocre theme. A good Hermes skin is not just a palette. It is a
+  visual ...
+tags:
+- summaries
 ---
+
 
 # How to Create Custom Hermes Skins That Actually Look Good
 

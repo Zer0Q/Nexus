@@ -1,10 +1,17 @@
 ---
-title: "Garry Tan Built a 24/7 AI Engineering Team for Free"
-source: "https://x.com/Suryanshti777/status/2053415780445008367"
-author: "Suryanshti777"
-published: "2026-05-10"
+title: Garry Tan Built a 24/7 AI Engineering Team for Free
+author: Suryanshti777
+published: '2026-05-10'
 type: article
+resource: https://x.com/Suryanshti777/status/2053415780445008367
+timestamp: '2026-05-10T00:00:00Z'
+description: It’s the First Real Software Factory for the AI Era. For the last decade,
+  startups scaled by hiring. More engineers. More designers. More PMs. More process.
+  ...
+tags:
+- summaries
 ---
+
 
 # Garry Tan Built a 247 AI Engineering Team for Free
 

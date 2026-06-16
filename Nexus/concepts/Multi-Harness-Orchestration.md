@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Multi-Harness Orchestration
+description: Pattern where multiple agent harnesses (each with its own model, tools,
+  and context) are coordinated by a master orchestrator to handle complex multi-step
+  ta...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Multi-Harness Orchestration
 
 ## Definition

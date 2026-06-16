@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Program Analysis for Agents
+description: Using static and dynamic program analysis output to focus LLM context
+  for code-related tasks. Pre-indexed representations of codebases (hundreds of interrela...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Program Analysis for Agents
 
 ## Definition

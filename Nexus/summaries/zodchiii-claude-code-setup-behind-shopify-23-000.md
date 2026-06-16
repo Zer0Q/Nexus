@@ -1,10 +1,18 @@
 ---
-title: "The Claude Code Setup Behind Shopify's 23,000 Engineers (Exact Config You Can Copy)"
-source: "https://x.com/zodchiii/status/2056319284641460626"
-author: "zodchiii"
-published: "2026-05-18"
+title: The Claude Code Setup Behind Shopify's 23,000 Engineers (Exact Config You Can
+  Copy)
+author: zodchiii
+published: '2026-05-18'
 type: article
+resource: https://x.com/zodchiii/status/2056319284641460626
+timestamp: '2026-05-18T00:00:00Z'
+description: Shopify's 23,000 engineers are racing to automate 96% of their coding
+  by Q3 this year. They run multiple Claude Code agents in parallel, each handling
+  a diff...
+tags:
+- summaries
 ---
+
 
 # The Claude Code Setup Behind Shopifys 23000 Engineers Exact Config You Can Co
 

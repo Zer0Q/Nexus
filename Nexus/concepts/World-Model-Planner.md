@@ -1,3 +1,13 @@
+---
+type: Concept
+title: World Model Planner
+description: 'Tipo de world model que produce acciones: dado una observación y un
+  goal, responde qué debe hacer el agente a continuación. Cierra el loop percepción-acción.'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # World Model Planner
 
 ## Definition

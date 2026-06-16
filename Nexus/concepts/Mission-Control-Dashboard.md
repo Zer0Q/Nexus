@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Mission Control Dashboard
+description: Custom dashboards built by Hermes Agent on demand. Describe what you
+  want in natural language — content pipeline, memory wiki, docs page — and the agent
+  cons...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Mission Control Dashboard
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Context Layer Taxonomy
+description: A three-tier classification of AI context problems based on the kind
+  of context being dealt with. Each tier has distinct tools, requirements, and complexity....
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Layer Taxonomy
 
 ## Definition

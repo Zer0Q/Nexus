@@ -1,10 +1,16 @@
 ---
-title: "how to be good at research"
-source: "https://x.com/itsreallyvivek/status/2064686372737454155"
-author: "@itsreallyvivek"
-published: "2026-06-10"
+title: how to be good at research
+author: '@itsreallyvivek'
+published: '2026-06-10'
 type: article
+resource: https://x.com/itsreallyvivek/status/2064686372737454155
+timestamp: '2026-06-10T00:00:00Z'
+description: 'Vivek presents research as a stack of trainable skills rather than innate
+  talent. The framework covers seven dimensions: choosing your own problems (Hamming''...'
+tags:
+- summaries
 ---
+
 
 # How to Be Good at Research
 

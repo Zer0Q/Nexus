@@ -1,3 +1,13 @@
+---
+type: Index
+title: AI Vault Integration Index
+description: '## Glossary - [[concepts/CLAUDE-MD]] -- persistent project-level instruction
+  file - [[concepts/Vault-Context]] - [[concepts/Embeddings]]'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Vault Integration Index
 
 ## Overview

@@ -1,10 +1,18 @@
 ---
-title: "How One File Called CLAUDE.md Turns Claude from a Search Engine into a Second Employee"
-source: "https://x.com/hanakoxbt/status/2059956659951149275"
-author: "@hanakoxbt"
-published: "2026-05-28"
+title: How One File Called CLAUDE.md Turns Claude from a Search Engine into a Second
+  Employee
+author: '@hanakoxbt'
+published: '2026-05-28'
 type: article
+resource: https://x.com/hanakoxbt/status/2059956659951149275
+timestamp: '2026-05-28T00:00:00Z'
+description: Thread by @hanakoxbt contrasting ephemeral chatbot usage with persistent
+  system-level AI configuration via CLAUDE.md. The real differentiator between power
+  u...
+tags:
+- summaries
 ---
+
 
 # CLAUDE.md as Second Employee
 

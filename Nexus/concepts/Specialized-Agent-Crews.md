@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Specialized Agent Crews
+description: A multi-agent architecture where each agent has a specific, well-defined
+  role and clear ownership, rather than one bloated agent trying to do everything.
+  Sin...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Specialized Agent Crews
 
 ## Definition

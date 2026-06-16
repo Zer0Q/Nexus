@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Telegram Bot Capture Infrastructure
+description: A Telegram bot that accepts forwarded links, tweets, or messages and
+  automatically creates notes in an Obsidian vault's inbox folder within seconds.
+  The bot ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Telegram Bot Capture Infrastructure
 
 ## Definition

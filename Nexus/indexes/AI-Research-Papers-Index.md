@@ -1,3 +1,13 @@
+---
+type: Index
+title: AI Research Papers Index
+description: '## Related - [[concepts/Self-Evolving-Skills]] -- skills that improve
+  through usage and feedback - [[concepts/KV-Cache-Growth]] -- KV cache scaling challenge...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Research Papers Index
 
 ## Overview

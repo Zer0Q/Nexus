@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Three Capture Surfaces
+description: 'Three capture channels designed to cover every possible context where
+  an idea arises: QuickAdd at the desktop (keyboard shortcut to daily note), mobile
+  widge...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Three Capture Surfaces
 
 ## Definition

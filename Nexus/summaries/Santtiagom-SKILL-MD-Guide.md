@@ -1,10 +1,17 @@
 ---
-title: "SKILLS en Claude Code: la guía completa para empezar hoy"
-source: "https://x.com/santtiagom_/status/2030305647535751338"
-author: "@santtiagom_"
-published: "2026-03-07"
+title: 'SKILLS en Claude Code: la guía completa para empezar hoy'
+author: '@santtiagom_'
+published: '2026-03-07'
 type: article
+resource: https://x.com/santtiagom_/status/2030305647535751338
+timestamp: '2026-03-07T00:00:00Z'
+description: '@santtiagom_ comparte su experiencia creando más de 50 Skills en Claude
+  Code, de las cuales la mayoría eliminó a los 2 días pero las que quedaron cambiaron
+  c...'
+tags:
+- summaries
 ---
+
 
 # SKILL.md Anatomy and Creation Guide
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Goal-Driven Agents
+description: Agents that operate based on declarative goals rather than imperative
+  commands — the user states what they want, and the agent figures out how to achieve
+  it ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Goal-Driven Agents
 
 ## Definition

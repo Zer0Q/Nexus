@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Capture-Use-Gap, Note-Usefulness-Assessment, Feedback-Loop-Knowledge-System]
+related:
+- Capture-Use-Gap
+- Note-Usefulness-Assessment
+- Feedback-Loop-Knowledge-System
+description: 'A framework defining four concrete outcomes that demonstrate a note
+  has been used: decision support, writing fuel, conversation material, and action
+  trigger.'
+tags:
+- concepts
 ---
+
 
 # Four Uses of Notes
 

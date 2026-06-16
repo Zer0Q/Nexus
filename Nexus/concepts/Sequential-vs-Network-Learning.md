@@ -1,7 +1,15 @@
 ---
 type: concept
-related: [Knowledge-Graph-Learning, Knowledge-Graph-as-Semantic-Layer, Situated-Learning]
+related:
+- Knowledge-Graph-Learning
+- Knowledge-Graph-as-Semantic-Layer
+- Situated-Learning
+description: A comparison between linear study (reading in sequence, writing in sequence)
+  and graph-based study (storing concepts as connected nodes in a network). Sequen...
+tags:
+- concepts
 ---
+
 
 # Sequential-vs-Network-Learning
 

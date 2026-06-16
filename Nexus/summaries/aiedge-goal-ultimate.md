@@ -1,10 +1,17 @@
 ---
-title: "/goal - Ultimate Guide"
-source: "https://x.com/aiedge_/status/2054569766418108797"
-author: "aiedge_"
-published: "2026-05-11"
+title: /goal - Ultimate Guide
+author: aiedge_
+published: '2026-05-11'
 type: article
+resource: https://x.com/aiedge_/status/2054569766418108797
+timestamp: '2026-05-11T00:00:00Z'
+description: Learning this single slash command will completely change how you use
+  AI. Anthropic, OpenAI, and other major AI players are all shipping the same feature
+  rig...
+tags:
+- summaries
 ---
+
 
 # goal  Ultimate Guide
 

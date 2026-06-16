@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Federated Knowledge Search
+description: Searching across multiple knowledge sources (vault notes + project code)
+  in a single query. The same curated vault can be linked to every project, enabling
+  s...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Federated Knowledge Search
 
 ## Definition

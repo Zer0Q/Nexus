@@ -1,3 +1,14 @@
+---
+type: Concept
+title: SKILL-MD
+description: 'Archivo markdown obligatorio de una Skill en Claude Code. Contiene dos
+  partes: una descripción (qué hace la skill) y el contexto (instrucciones detalladas
+  qu...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # SKILL-MD
 
 ## Definition

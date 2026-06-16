@@ -1,3 +1,12 @@
+---
+type: Tool
+title: Data Class
+description: '## Related - [[concepts/Pydantic-BaseModel]] - [[concepts/Pydantic]]'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Data Class
 
 Python built-in for creating simple classes with auto-generated special methods. Similar to Pydantic models but without validation, serialization, or JSON Schema generation. Pydantic can validate dataclasses with @validate_call.

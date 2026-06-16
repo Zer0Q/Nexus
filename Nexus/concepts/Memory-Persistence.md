@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Memory Persistence
+description: Mecanismo de guardar información importante entre sesiones para que el
+  agente no empiece desde cero cada vez. Se implementa mediante archivos como CLAUDE.md
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Memory Persistence
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Canary Deployment
+description: Estrategia de despliegue en CI/CD donde una nueva versión se libera a
+  un grupo pequeño y controlado (1-5% del tráfico) antes del rollout completo, con
+  monito...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Canary Deployment
 
 ## Definition

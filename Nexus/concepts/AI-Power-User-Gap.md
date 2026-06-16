@@ -1,3 +1,14 @@
+---
+type: Concept
+title: AI Power User Gap
+description: The gap between the 99% of AI users who treat the model as a search engine
+  with better grammar and the 1% who use it as an autonomous system running agents,
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Power User Gap
 
 ## Definition

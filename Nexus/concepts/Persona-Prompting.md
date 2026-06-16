@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Persona Prompting
+description: Defining agent identity through behavioral constraints (tone, brevity,
+  action-orientation) rather than capability descriptions. A persona turns a helpful
+  ass...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Persona Prompting
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Comprehension Debt
+description: The gap between what code exists in your codebase and what you actually
+  understand. Grows faster when loops ship code you didn't write yourself — the smoothe...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Comprehension Debt
 
 ## Definition

@@ -2,11 +2,14 @@
 created: 2026-05-28
 type: framework
 tags:
-  - ai
-  - governance
-  - standards
-  - iso
+- ai
+- governance
+- standards
+- iso
+description: '## Related - [[tools/AI-Risk-Management]] -- risk framework operationalizing
+  governance vocabulary - [[tools/AI-System-Life-Cycle]] -- lifecycle stages for a...'
 ---
+
 
 # AI Governance
 

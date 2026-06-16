@@ -1,3 +1,14 @@
+---
+type: Tool
+title: CLAUDE.md Five-Section Template
+description: 'A five-section structure for CLAUDE.md configuration files: Role, Style,
+  Constraints, Workflow, Quality. Covers all dimensions of AI behavior in a single
+  per...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # CLAUDE.md Five-Section Template
 
 ## Definition

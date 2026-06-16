@@ -1,3 +1,12 @@
+---
+type: Index
+title: Concepts Needing Augmentation
+description: '## Procedimiento de limpieza'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Concepts Needing Augmentation
 
 Este índice lista conceptos del vault que fueron creados como placeholders vacíos o con contenido mínimo, y necesitan ser ampliados con definición sustantiva antes de integrarse al grafo de conocimiento.

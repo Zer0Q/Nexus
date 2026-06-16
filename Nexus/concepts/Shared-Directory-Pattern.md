@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Shared Directory Pattern
+description: 'The AI agent and knowledge base share the same directory. Both systems
+  look at the same files: when the agent creates a note, Obsidian shows it instantly;
+  wh...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Shared Directory Pattern
 
 ## Definition

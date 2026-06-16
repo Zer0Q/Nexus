@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Vibe Coding
+description: Direct prompt-to-code development approach where developers describe
+  what they want in natural language and AI generates code immediately, without intermedia...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Vibe Coding
 
 ## Definition

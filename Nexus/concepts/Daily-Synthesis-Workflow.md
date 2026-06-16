@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Daily Synthesis Workflow
+description: 'An automated morning briefing where AI reads recent captures (last 7
+  days) and produces a synthesis with four sections: connections (non-obvious links
+  betwee...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Daily Synthesis Workflow
 
 ## Definition

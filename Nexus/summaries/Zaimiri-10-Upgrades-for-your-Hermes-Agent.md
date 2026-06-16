@@ -1,10 +1,17 @@
 ---
-title: "10 Upgrades for your Hermes Agent"
-source: "https://x.com/zaimiri/status/2062512177295090046"
-author: "@zaimiri"
-published: "2026-06-04"
+title: 10 Upgrades for your Hermes Agent
+author: '@zaimiri'
+published: '2026-06-04'
 type: article
+resource: https://x.com/zaimiri/status/2062512177295090046
+timestamp: '2026-06-04T00:00:00Z'
+description: 'Guía progresiva para transformar Hermes de un agente conversacional
+  a un sistema fiable de uso diario. Propone 10 mejoras ordenadas por impacto: desde
+  conect...'
+tags:
+- summaries
 ---
+
 
 # 10 Upgrades for your Hermes Agent
 

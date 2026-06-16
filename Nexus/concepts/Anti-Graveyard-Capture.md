@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Anti-Graveyard Capture
+description: 'A capture system designed so that saved information does not die in
+  an unorganised list or folder. The key mechanism: every captured item enters a processing...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Anti-Graveyard Capture
 
 ## Definition

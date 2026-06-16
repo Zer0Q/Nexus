@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Session Recall
+description: Full-text search across every conversation you've ever had with Hermes
+  Agent, powered by SQLite FTS5 indexing with LLM summarization. Ask what you discussed
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Session Recall
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Six-Month Revenue Curve
+description: The compounding revenue trajectory of a knowledge vault over six months
+  of consistent capture and shipping. Revenue does not appear on Day 7 -- it builds
+  as ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Six-Month Revenue Curve
 
 ## Definition

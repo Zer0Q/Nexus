@@ -1,10 +1,17 @@
 ---
-title: "Introduction to the Cyber Assessment Framework"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-to-caf"
-author: "NCSC"
-published: "2024-04-18"
+title: Introduction to the Cyber Assessment Framework
+author: NCSC
+published: '2024-04-18'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/introduction-to-caf
+timestamp: '2024-04-18T00:00:00Z'
+description: Overview of the NCSC Cyber Assessment Framework (CAF) — guidance for
+  organisations playing a vital role in UK daily life, focused on protecting essential
+  fun...
+tags:
+- summaries
 ---
+
 
 # Introduction to the NCSC Cyber Assessment Framework
 

@@ -1,10 +1,17 @@
 ---
-title: "How the Open Knowledge Format can improve data sharing"
-source: "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/"
-author: "Sam McVeety, Amir Hormati"
-published: "2026-06-12"
+title: How the Open Knowledge Format can improve data sharing
+author: Sam McVeety, Amir Hormati
+published: '2026-06-12'
 type: article
+resource: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/
+timestamp: '2026-06-12T00:00:00Z'
+description: Google Cloud presenta OKF (Open Knowledge Format) v0.1, una especificación
+  open para representar metadata, contexto y conocimiento curado de forma portable
+  e...
+tags:
+- summaries
 ---
+
 
 # Open Knowledge Format (OKF)
 

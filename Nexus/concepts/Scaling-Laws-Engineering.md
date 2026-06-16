@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Scaling Laws Engineering
+description: 'Patrones y lecciones al escalar equipos de ingeniería: cuándo los procesos
+  rompen, cómo adaptarlos, y qué métricas monitorizar para detectar problemas de esc...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Scaling Laws Engineering
 
 ## Definition

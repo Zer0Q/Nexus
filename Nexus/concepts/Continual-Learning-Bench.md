@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Continual Learning Bench
+description: Benchmark de aprendizaje secuencial donde preguntas son secuenciales
+  sobre base de datos SQL, cada pregunta es sesión nueva pero memoria se comparte.
+  Mide ca...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Continual Learning Bench
 
 ## Definition

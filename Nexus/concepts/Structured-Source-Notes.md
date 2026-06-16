@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Structured Source Notes
+description: A consistent template applied to every processed article, paper, or transcript,
+  containing fields like core argument, key points, connections to existing not...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Structured Source Notes
 
 ## Definition

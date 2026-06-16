@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Game-Changing Methodology Claim
+description: The claim that the ARROWHEAD adversarial model spiral methodology is
+  universally applicable across domains -- not just medical research, but programming,
+  mat...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Game-Changing Methodology Claim
 
 ## Definition

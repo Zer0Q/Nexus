@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Byte Pair Encoding
+description: Algoritmo de subword tokenization que encuentra los pares más comunes
+  de caracteres o subwords y los mergea en subwords más largas hasta alcanzar un vocabula...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Byte Pair Encoding
 
 ## Definition

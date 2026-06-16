@@ -1,10 +1,17 @@
 ---
-title: "Thin Harness, Fat Skills"
-source: "https://x.com/garrytan/status/2042925773300908103"
-author: "@garrytan"
-published: "2026-04-11"
+title: Thin Harness, Fat Skills
+author: '@garrytan'
+published: '2026-04-11'
 type: article
+resource: https://x.com/garrytan/status/2042925773300908103
+timestamp: '2026-04-11T00:00:00Z'
+description: '@garrytan argumenta que la diferencia entre usuarios 100x de Claude
+  Code no es el modelo, sino la arquitectura: "thin harness, fat skills". El harness
+  debe s...'
+tags:
+- summaries
 ---
+
 
 # Thin Harness, Fat Skills: Agent Architecture Philosophy
 

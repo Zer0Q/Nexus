@@ -1,10 +1,17 @@
 ---
-title: "From Tokenmaxxing to Tokenoptimizing - Analyst POV @ SuperAI"
-source: "https://x.com/0xJeff/status/2065790590747623555"
-author: "@0xJeff"
-published: "2026-06-13"
+title: From Tokenmaxxing to Tokenoptimizing - Analyst POV @ SuperAI
+author: '@0xJeff'
+published: '2026-06-13'
 type: article
+resource: https://x.com/0xJeff/status/2065790590747623555
+timestamp: '2026-06-13T00:00:00Z'
+description: '@0xJeff reporta de SuperAI sobre la ola de solopreneurs usando AI para
+  construir productos, la transición de tokenmaxxing a tokenoptimizing, y tendencias
+  que...'
+tags:
+- summaries
 ---
+
 
 # AI Trends from SuperAI: Solopreneurs and Token Optimization
 

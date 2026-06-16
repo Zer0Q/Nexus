@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Three-Mode AI Workflow
+description: 'A workflow pattern that categorises AI tasks into three modes based
+  on data sensitivity: (1) fully offline for deep work, (2) hybrid for research and
+  writing...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Three-Mode AI Workflow
 
 ## Definition

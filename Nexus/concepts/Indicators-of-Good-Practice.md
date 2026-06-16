@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Indicators of Good Practice (IGPs)
+description: Conjuntos estructurados de indicadores que guían evaluaciones de ciberseguridad
+  en el marco CAF. Cada resultado contribuyente tiene una tabla de IGPs con col...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Indicators of Good Practice (IGPs)
 
 ## Definition

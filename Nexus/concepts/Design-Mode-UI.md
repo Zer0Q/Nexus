@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Design Mode UI
+description: A Cursor 3 feature that connects to your live app running in the browser.
+  Instead of describing which UI element you want to change, you click on it. The
+  age...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Design Mode UI
 
 ## Definition

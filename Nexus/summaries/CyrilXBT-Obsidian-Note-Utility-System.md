@@ -1,10 +1,18 @@
 ---
-title: "How to Build an Obsidian System That Turns Every Note You Take Into Something You Actually Use"
-source: "https://x.com/cyrilXBT/status/2060163007783612502"
-author: "@cyrilXBT"
-published: "2026-05-29"
+title: How to Build an Obsidian System That Turns Every Note You Take Into Something
+  You Actually Use
+author: '@cyrilXBT'
+published: '2026-05-29'
 type: article
+resource: https://x.com/cyrilXBT/status/2060163007783612502
+timestamp: '2026-05-29T00:00:00Z'
+description: Most note-taking systems optimize for capture while ignoring use. This
+  article presents a three-zone vault architecture with five Claude-powered workflows
+  de...
+tags:
+- summaries
 ---
+
 
 # Obsidian System for Note Utility
 

@@ -1,10 +1,17 @@
 ---
-title: "ISO 27001:2022 Annex A Explained & Simplified"
-source: "https://www.isms.online/iso-27001/annex-a-2022/"
-author: "ISMS.online"
-published: "2025-09-01"
+title: ISO 27001:2022 Annex A Explained & Simplified
+author: ISMS.online
+published: '2025-09-01'
 type: article
+resource: https://www.isms.online/iso-27001/annex-a-2022/
+timestamp: '2025-09-01T00:00:00Z'
+description: ISO 27001:2022 restructured Annex A from 114 controls (14 categories)
+  to 93 controls (4 categories), adding 11 new controls, merging 24 from the 2013
+  version...
+tags:
+- summaries
 ---
+
 
 # ISO 27001:2022 Annex A Controls
 

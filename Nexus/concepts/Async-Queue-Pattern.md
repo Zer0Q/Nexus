@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Async Queue Pattern
+description: An asynchronous communication pattern between human and AI using QUEUE
+  and GENERATED folders. The human drops a file describing what they need into QUEUE.
+  Th...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Async Queue Pattern
 
 ## Definition

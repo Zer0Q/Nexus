@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Research Speed
+description: 'The velocity at which a researcher discovers they are wrong. Research
+  speed is determined by feedback loop tightness: how fast you can launch an experiment,
+  ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Research Speed
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "Post by @karpathy on X"
-source: "https://x.com/karpathy/status/2039805659525644595"
-author: "@karpathy"
-published: "2026-04-02"
+title: Post by @karpathy on X
+author: '@karpathy'
+published: '2026-04-02'
 type: article
+resource: https://x.com/karpathy/status/2039805659525644595
+timestamp: '2026-04-02T00:00:00Z'
+description: 'Karpathy describes his workflow for using LLMs to build personal knowledge
+  bases: raw data ingest into a directory, LLM compilation into a structured wiki
+  of...'
+tags:
+- summaries
 ---
+
 
 # Karpathy LLM Knowledge Bases
 

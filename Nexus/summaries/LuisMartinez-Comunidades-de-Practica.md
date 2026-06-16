@@ -1,10 +1,16 @@
 ---
-title: "Comunidades de práctica: qué son estos grupos y cómo funcionan"
-source: "https://psicologiaymente.com/desarrollo/comunidades-de-practica"
-author: "Luis Martínez-Casasola Hernández"
-published: "2020-10-28"
+title: 'Comunidades de práctica: qué son estos grupos y cómo funcionan'
+author: Luis Martínez-Casasola Hernández
+published: '2020-10-28'
 type: article
+resource: https://psicologiaymente.com/desarrollo/comunidades-de-practica
+timestamp: '2020-10-28T00:00:00Z'
+description: 'Overview of Communities of Practice (CoP): groups of people sharing
+  a common field of knowledge who learn through shared practice. Covers core characteristic...'
+tags:
+- summaries
 ---
+
 
 # Comunidades de Práctica
 

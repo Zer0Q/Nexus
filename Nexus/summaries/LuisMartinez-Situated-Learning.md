@@ -1,10 +1,16 @@
 ---
-title: "La teoría del aprendizaje situado: qué es y qué propone en la educación"
-source: "https://psicologiaymente.com/desarrollo/teoria-aprendizaje-situado"
-author: "Luis Martínez-Casasola Hernández"
-published: "2020-10-29"
+title: 'La teoría del aprendizaje situado: qué es y qué propone en la educación'
+author: Luis Martínez-Casasola Hernández
+published: '2020-10-29'
 type: article
+resource: https://psicologiaymente.com/desarrollo/teoria-aprendizaje-situado
+timestamp: '2020-10-29T00:00:00Z'
+description: Situated learning theory (Lave & Wenger) proposes that knowledge is constructed
+  through social practice within a community, not through abstract propositiona...
+tags:
+- summaries
 ---
+
 
 # Situated Learning Theory
 

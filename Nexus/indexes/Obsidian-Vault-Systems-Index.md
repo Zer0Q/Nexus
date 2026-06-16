@@ -1,3 +1,13 @@
+---
+type: Index
+title: Obsidian Vault Systems Index
+description: '## Glossary - [[concepts/Knowledge-Graph]] -- interconnected web of
+  notes - [[concepts/Active-Recall]] -- testing yourself to strengthen memory - [[concepts/...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Obsidian Vault Systems Index
 
 ## Overview

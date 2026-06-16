@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Knowledge Fragmentation
+description: 'Problema de knowledge interno disperso en sistemas altamente incompatibles:
+  metadata catalogs con sus propias APIs, wikis, code comments, notebook cells, y
+  h...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Fragmentation
 
 ## Definition

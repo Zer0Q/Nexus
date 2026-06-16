@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Claude Projects with MCP
+description: Claude Projects provide persistent memory across every conversation within
+  a project, while MCP (Model Context Protocol) connections give Claude live access
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Claude Projects with MCP
 
 ## Definition

@@ -1,7 +1,16 @@
 ---
 type: workflow
-related: [Output-Folder-Pattern, Writing-Activator-Workflow, Connection-Surface-Workflow]
+related:
+- Output-Folder-Pattern
+- Writing-Activator-Workflow
+- Connection-Surface-Workflow
+description: A synthesis workflow that reads all notes tagged with a project or topic
+  in Zone 2, plus any notes linked by the [[concepts/Connection-Surface-Workflow]],
+  an...
+tags:
+- concepts
 ---
+
 
 # Output-Generator-Workflow
 

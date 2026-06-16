@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Knowledge Centers
+description: Formal organizational bodies that structure, synthesize, and underpin
+  knowledge in an accessible, expert manner. Sit at the formal end of the community
+  spect...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Centers
 
 ## Definition

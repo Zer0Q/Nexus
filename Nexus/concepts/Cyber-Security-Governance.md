@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cyber Security Governance
+description: 'Estructura organizacional de gobernanza para la ciberseguridad: dirección
+  a nivel de junta directiva, roles y responsabilidades claros, y toma de decisiones
+  ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cyber Security Governance
 
 ## Definition

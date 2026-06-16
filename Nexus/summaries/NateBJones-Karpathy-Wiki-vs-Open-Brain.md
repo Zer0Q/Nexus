@@ -1,10 +1,16 @@
 ---
-title: "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most."
-source: "https://www.youtube.com/watch?v=dxq7WtWxi44"
-author: "Nate B. Jones"
-published: "2026"
+title: Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.
+author: Nate B. Jones
+published: '2026'
 type: video
+resource: https://www.youtube.com/watch?v=dxq7WtWxi44
+timestamp: '2026'
+description: 'Nate B. Jones compares two AI knowledge system architectures: Karpathy''s
+  write-time wiki (pre-compiled synthesis) vs Open Brain''s query-time database (on-dem...'
+tags:
+- summaries
 ---
+
 
 # Karpathy Wiki vs Open Brain
 

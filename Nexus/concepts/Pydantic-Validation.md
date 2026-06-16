@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Pydantic Validation
+description: Type-hint-based data validation and serialization library for Python.
+  Uses Python type annotations to define schemas, then automatically validates, coerces,
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic Validation
 
 ## Definition

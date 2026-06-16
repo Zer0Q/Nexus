@@ -1,3 +1,13 @@
+---
+type: Concept
+title: PagedAttention
+description: Memory management technique that partitions the KV cache into fixed-size
+  blocks (pages), reducing fragmentation and enabling larger batch sizes.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # PagedAttention
 
 ## Definition

@@ -1,7 +1,16 @@
 ---
 type: workflow
-related: [Three-Zone-Vault, Note-Usefulness-Assessment, Daily-Synthesis-Workflow]
+related:
+- Three-Zone-Vault
+- Note-Usefulness-Assessment
+- Daily-Synthesis-Workflow
+description: 'An evening workflow that processes notes accumulated in Zone 1 (Capture)
+  during the day. For each captured note: assess usefulness, rewrite in own words
+  if u...'
+tags:
+- concepts
 ---
+
 
 # Daily-Processing-Run
 

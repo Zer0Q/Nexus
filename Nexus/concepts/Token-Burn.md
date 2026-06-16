@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Token Burn
+description: 'The economic constraint on autonomous AI agents: loops consume tokens
+  rapidly, with costs scaling from 50K-200K tokens per single-agent loop to 500K-2M
+  token...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Token Burn
 
 ## Definition

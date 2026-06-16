@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Capture As The Weakest Link
+description: The principle that a knowledge management system's quality is entirely
+  dependent on the consistency of its capture layer. If capture breaks down, the entire
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Capture As The Weakest Link
 
 ## Definition

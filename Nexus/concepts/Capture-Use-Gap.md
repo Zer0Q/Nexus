@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Four-Uses-of-Notes, Note-Usefulness-Assessment, Automated-Capture-Pipeline]
+related:
+- Four-Uses-of-Notes
+- Note-Usefulness-Assessment
+- Automated-Capture-Pipeline
+description: The gap between capturing information and actively using it. Capturing
+  has no stakes -- it feels productive but requires no synthesis. Using requires active
+  ...
+tags:
+- concepts
 ---
+
 
 # Capture-Use-Gap
 

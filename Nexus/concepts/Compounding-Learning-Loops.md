@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Compounding Learning Loops
+description: The mechanism by which temporary agent experience becomes durable enterprise
+  context. Through evals, corrections, human review, and certification, episodic t...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Compounding Learning Loops
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context Efficiency Frontier
+description: Modeling context-strategy selection as a deployment-aware optimization
+  problem that jointly accounts for task performance, token cost, and reuse frequency.
+  R...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Efficiency Frontier
 
 ## Definition

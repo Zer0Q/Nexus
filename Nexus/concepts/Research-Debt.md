@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Research Debt
+description: Undigested ideas that accumulate in a field when researchers produce
+  results without clear explanations. A clear explanation is a genuine contribution,
+  not a...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Research Debt
 
 ## Definition

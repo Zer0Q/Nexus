@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Execution Boundary
+description: Modelo de seguridad para agents en la nube que trata todo dentro del
+  sandbox como comprometido por defecto. No confía en el código del agent, asume que
+  puede...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Execution Boundary
 
 ## Definition

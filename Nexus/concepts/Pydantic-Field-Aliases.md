@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Pydantic Field Aliases
+description: Mapping between internal field names and external data keys using Field(alias='externalName').
+  Enables seamless integration with APIs and databases using dif...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic Field Aliases
 
 ## Definition

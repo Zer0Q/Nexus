@@ -1,3 +1,13 @@
+---
+type: Concept
+title: PolarQuant
+description: Vector quantization method that converts Cartesian coordinates to polar
+  coordinates (radius + angle), eliminating the need for data normalization and removin...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # PolarQuant
 
 ## Definition

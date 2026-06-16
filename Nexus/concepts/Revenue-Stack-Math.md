@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Revenue Stack Math
+description: 'A breakdown of how a knowledge vault produces $30K/month through four
+  revenue streams: newsletter ($5K), consulting ($10K), productized service ($8K),
+  and af...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Revenue Stack Math
 
 ## Definition

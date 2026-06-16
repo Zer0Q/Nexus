@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Prompt Evolution
+description: Evolutionary mechanism where agent prompts are treated as genotypes —
+  wealthy agents spawn mutated descendants (exploitation) and weak agents spawn amended
+  v...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Prompt Evolution
 
 ## Definition

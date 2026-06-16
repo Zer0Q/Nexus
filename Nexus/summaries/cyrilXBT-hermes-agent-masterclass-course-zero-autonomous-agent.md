@@ -1,10 +1,18 @@
 ---
-title: "Hermes Agent Masterclass: The Complete Course From Zero to Full Autonomous Agent Operation"
-source: "https://x.com/cyrilXBT/status/2060883609935077667"
-author: "cyrilXBT"
-published: "2026-05-31"
+title: 'Hermes Agent Masterclass: The Complete Course From Zero to Full Autonomous
+  Agent Operation'
+author: cyrilXBT
+published: '2026-05-31'
 type: article
+resource: https://x.com/cyrilXBT/status/2060883609935077667
+timestamp: '2026-05-31T00:00:00Z'
+description: Most people who discover Hermes Agent spend the first week confused.
+  Because nobody has written the complete guide that takes you from zero knowledge
+  to a fu...
+tags:
+- summaries
 ---
+
 
 # Hermes Agent Masterclass The Complete Course From Zero to Full Autonomous Agent
 

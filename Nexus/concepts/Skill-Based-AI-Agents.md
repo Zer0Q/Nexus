@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Skill-Based AI Agents
+description: AI agents that operate through a system of reusable skills — modular,
+  composable procedures that define specific capabilities. Each skill encapsulates
+  a work...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Skill-Based AI Agents
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Live Vault Memory
+description: A memory model where the AI agent reads and writes to a knowledge vault
+  that self-updates without manual intervention. When new captures land via QuickAdd,
+  T...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Live Vault Memory
 
 ## Definition

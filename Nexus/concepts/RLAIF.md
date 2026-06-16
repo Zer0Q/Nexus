@@ -1,3 +1,13 @@
+---
+type: Concept
+title: RLAIF
+description: Reinforcement Learning from AI Feedback — swaps the human labeler in
+  RLHF for an LLM judge, achieving RLHF-level quality at a fraction of the cost.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # RLAIF
 
 ## Definition

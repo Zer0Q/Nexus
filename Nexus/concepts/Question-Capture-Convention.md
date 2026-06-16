@@ -1,7 +1,15 @@
 ---
 type: concept
-related: [Connection-Capture-Convention, Active-Decision-Feeder, Structured-Source-Notes]
+related:
+- Connection-Capture-Convention
+- Active-Decision-Feeder
+- Structured-Source-Notes
+description: 'A capture convention that explicitly records questions raised by information.
+  Format: [THE INFORMATION] THIS RAISES THE QUESTION: [the question this generates].'
+tags:
+- concepts
 ---
+
 
 # Question-Capture-Convention
 

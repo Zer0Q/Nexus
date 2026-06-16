@@ -1,10 +1,17 @@
 ---
-title: "Working With Sessions in Hermes Agent"
-source: "https://x.com/NeoAIForecast/status/2044515050057281808"
-author: "NeoAIForecast"
-published: "2026-04-15"
+title: Working With Sessions in Hermes Agent
+author: NeoAIForecast
+published: '2026-04-15'
 type: article
+resource: https://x.com/NeoAIForecast/status/2044515050057281808
+timestamp: '2026-04-15T00:00:00Z'
+description: A lot of AI tools give you a conversation. Hermes gives you a session
+  you can actually manage. That sounds small at first, but it changes a lot. Because
+  once...
+tags:
+- summaries
 ---
+
 
 # Working With Sessions in Hermes Agent
 

@@ -2,10 +2,14 @@
 created: 2026-05-28
 type: glossary
 tags:
-  - ai
-  - prompting
-  - technique
+- ai
+- prompting
+- technique
+description: '## Related - [[concepts/Prompt-Validation-Over-Construction]] -- metaprompts
+  reduce construction effort - [[concepts/LLM-Harness]] -- harnesses can automate
+  ...'
 ---
+
 
 # Metaprompt
 

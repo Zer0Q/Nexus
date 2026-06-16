@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Hybrid AI Workflow
+description: A workflow that mixes cloud AI and local AI based on the sensitivity
+  and complexity of the task, rather than choosing one exclusively. Sensitive content
+  stay...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hybrid AI Workflow
 
 ## Definition

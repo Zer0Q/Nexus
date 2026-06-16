@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Automated Research Curation
+description: The use of AI agents to automatically discover, summarize, and integrate
+  research materials into a knowledge base. Includes monitoring feeds, extracting
+  key ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Automated Research Curation
 
 ## Definition

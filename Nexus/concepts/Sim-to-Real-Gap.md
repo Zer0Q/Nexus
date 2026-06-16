@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Sim-to-Real Gap
+description: Diferencia entre cómo las cosas se comportan en simulación vs cómo se
+  comportan en la realidad. Problema abierto en robótica y world models.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Sim-to-Real Gap
 
 ## Definition

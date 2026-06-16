@@ -1,3 +1,12 @@
+---
+type: Index
+title: AI Monetization and Career Index
+description: '## Glossary - [[concepts/PRD]] - [[concepts/SDD]]'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Monetization and Career Index
 
 ## Overview

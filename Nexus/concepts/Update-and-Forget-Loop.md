@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Update-and-Forget Loop
+description: Mecanismo donde en modelos pequeños, las actualizaciones de gradientes
+  de tareas frecuentes sobrescriben las señales débiles de tareas raras antes de que
+  est...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Update-and-Forget Loop
 
 ## Definition

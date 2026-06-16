@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Alarm Management Lifecycle
+description: 'A continuous lifecycle approach to managing alarm systems through distinct
+  stages: philosophy, identification, rationalization, detailed design, implementati...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Alarm Management Lifecycle
 
 ## Definition

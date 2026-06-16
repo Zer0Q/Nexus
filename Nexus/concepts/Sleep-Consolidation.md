@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Sleep Consolidation
+description: A biologically inspired mechanism where a model periodically converts
+  recent context into persistent fast weights, then clears its key-value cache. During
+  th...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Sleep Consolidation
 
 ## Definition

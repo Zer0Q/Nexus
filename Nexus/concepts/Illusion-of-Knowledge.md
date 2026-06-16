@@ -1,6 +1,11 @@
 ---
 type: glossary
+description: The false sense of familiarity that results from passive review of study
+  material. Re-reading notes or highlighting textbooks creates the feeling of understa...
+tags:
+- concepts
 ---
+
 
 # Illusion of Knowledge
 

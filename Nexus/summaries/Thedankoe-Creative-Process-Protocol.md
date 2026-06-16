@@ -1,10 +1,17 @@
 ---
-title: "How to become so creative it feels illegal"
-source: "https://x.com/thedankoe/status/2036824811712942576"
-author: "@thedankoe"
-published: "2026-03-25"
+title: How to become so creative it feels illegal
+author: '@thedankoe'
+published: '2026-03-25'
 type: article
+resource: https://x.com/thedankoe/status/2036824811712942576
+timestamp: '2026-03-25T00:00:00Z'
+description: '@thedankoe presenta un protocolo de 7 días para recuperar la creatividad
+  desde el burnout cognitivo. Identifica tres "narrowers of the mind" (conditioning,
+  c...'
+tags:
+- summaries
 ---
+
 
 # Creative Process: Overcoming Cognitive Burnout
 

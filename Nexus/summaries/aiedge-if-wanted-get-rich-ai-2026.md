@@ -1,10 +1,16 @@
 ---
-title: "If I Wanted to Get Rich with AI in 2026, I'd Do This"
-source: "https://x.com/aiedge_/status/2060352963131101284"
-author: "aiedge_"
-published: "2026-03-30"
+title: If I Wanted to Get Rich with AI in 2026, I'd Do This
+author: aiedge_
+published: '2026-03-30'
 type: article
+resource: https://x.com/aiedge_/status/2060352963131101284
+timestamp: '2026-03-30T00:00:00Z'
+description: 'If you want to make money with AI in 2026, this is the most important
+  article you''ll read all year. My credentials: $5M+in digital product revenue, CEO/found...'
+tags:
+- summaries
 ---
+
 
 # If I Wanted to Get Rich with AI in 2026 Id Do This
 

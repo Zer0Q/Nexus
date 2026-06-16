@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Browsable Knowledge
+description: Knowledge organized in a navigable, human-readable format that supports
+  serendipitous discovery through browsing, as opposed to query-only systems that
+  requi...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Browsable Knowledge
 
 ## Definition

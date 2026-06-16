@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Copilot Plugin
+description: An Obsidian plugin providing an inline AI assistant that lets you select
+  text and ask a local or cloud model to summarise, expand, rewrite, or improve it.
+  Su...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Copilot Plugin
 
 ## Definition

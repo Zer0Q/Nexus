@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Unified Memory Advantage DGX
+description: The DGX Spark's 128GB LPDDR5x unified memory shared between CPU and GPU,
+  enabling it to load models up to 200B parameters — sizes that physically won't fit
+  i...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Unified Memory Advantage DGX
 
 ## Definition

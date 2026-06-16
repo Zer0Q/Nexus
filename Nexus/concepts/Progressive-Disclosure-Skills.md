@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Progressive Disclosure Skills
+description: 'Token-efficient skill loading system with three levels: names + descriptions
+  only (~3k tokens for full catalog), full skill content on demand, and drill-down...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Progressive Disclosure Skills
 
 ## Definition

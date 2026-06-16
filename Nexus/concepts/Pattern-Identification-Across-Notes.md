@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Synthesis-Session, Connection-Surface-Workflow, Knowledge-Graph-Learning]
+related:
+- Synthesis-Session
+- Connection-Surface-Workflow
+- Knowledge-Graph-Learning
+description: The process of reading across all concept notes in a subject to identify
+  emergent patterns that are not stated explicitly in any individual concept note.
+  The...
+tags:
+- concepts
 ---
+
 
 # Pattern-Identification-Across-Notes
 

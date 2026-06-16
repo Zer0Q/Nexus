@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Goal Command
+description: The /goal command system in Hermes Agent that transforms the agent from
+  a reactive chatbot into an autonomous background worker. You set an objective, Hermes...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Goal Command
 
 ## Definition

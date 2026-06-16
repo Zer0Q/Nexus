@@ -1,10 +1,17 @@
 ---
-title: "Loop Engineering"
-source: "https://x.com/addyosmani/status/2064127981161959567"
-author: "@addyosmani"
-published: "2026-06-09"
+title: Loop Engineering
+author: '@addyosmani'
+published: '2026-06-09'
 type: article
+resource: https://x.com/addyosmani/status/2064127981161959567
+timestamp: '2026-06-09T00:00:00Z'
+description: Loop engineering replaces the human as the person prompting agents —
+  you design the system that does it instead. A loop is a recursive goal where you
+  define ...
+tags:
+- summaries
 ---
+
 
 # Loop Engineering
 

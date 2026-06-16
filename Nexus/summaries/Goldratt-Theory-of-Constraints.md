@@ -1,10 +1,17 @@
 ---
-title: "Theory of Constraints - Eliyahu Goldratt"
-source: "Gemini"
-author: "Eliyahu M. Goldratt"
-published: "2026-05-27"
+title: Theory of Constraints - Eliyahu Goldratt
+author: Eliyahu M. Goldratt
+published: '2026-05-27'
 type: article
+resource: Gemini
+timestamp: '2026-05-27T00:00:00Z'
+description: 'TOC is a management philosophy by Eliyahu Goldratt: any manageable system
+  is limited by a few — usually one — constraints. Optimizing around the bottleneck
+  (...'
+tags:
+- summaries
 ---
+
 
 # Theory of Constraints
 

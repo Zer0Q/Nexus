@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Context Substrate
+description: 'The machine-usable substance of enterprise context, composed of three
+  tightly integrated parts: (1) AI-ready data and knowledge graph -- trusted representati...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Substrate
 
 ## Definition

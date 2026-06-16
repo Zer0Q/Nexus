@@ -1,10 +1,16 @@
 ---
-title: "Alarm management questions that everyone asks"
-source: "https://www.isa.org/intech-home/2020/march-april/features/alarm-management-questions-that-everyone-asks"
-author: "Donald G. Dunn, Nicholas P. Sands"
-published: "2020-03-31"
+title: Alarm management questions that everyone asks
+author: Donald G. Dunn, Nicholas P. Sands
+published: '2020-03-31'
 type: article
+resource: https://www.isa.org/intech-home/2020/march-april/features/alarm-management-questions-that-everyone-asks
+timestamp: '2020-03-31T00:00:00Z'
+description: Comprehensive Q&A on alarm management covering standards, costs, benefits,
+  and implementation. ISA-18.2 is the authoritative standard, with IEC 62682 as near...
+tags:
+- summaries
 ---
+
 
 # Alarm Management FAQ
 

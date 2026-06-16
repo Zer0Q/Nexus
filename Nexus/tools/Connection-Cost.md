@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Connection Cost
+description: The cumulative time and mental effort spent routing information between
+  disconnected tools in a multi-application workflow. Every cross-tool lookup, copy-pas...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Connection Cost
 
 ## Definition

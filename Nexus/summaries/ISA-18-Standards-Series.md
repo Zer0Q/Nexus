@@ -1,10 +1,17 @@
 ---
-title: "ISA-18 Series of Standards"
-source: "https://www.isa.org/standards-and-publications/isa-standards/isa-18-series-of-standards"
-author: "ISA"
-published: ""
+title: ISA-18 Series of Standards
+author: ISA
+published: ''
 type: article
+resource: https://www.isa.org/standards-and-publications/isa-standards/isa-18-series-of-standards
+timestamp: ''
+description: 'Complete overview of the ISA-18 family: one base standard (ISA-18.2),
+  one annunciator standard (ISA-18.1), and eight technical reports covering philosophy,
+  r...'
+tags:
+- summaries
 ---
+
 
 # ISA-18 Standards Series Overview
 

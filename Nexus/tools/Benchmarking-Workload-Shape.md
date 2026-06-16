@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Benchmarking Workload Shape
+description: Proper inference benchmarking requires specifying model, weights, engine,
+  hardware, workload distribution, and measuring multiple metrics (TTFT, TPOT, p50/p9...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Benchmarking Workload Shape
 
 ## Definition

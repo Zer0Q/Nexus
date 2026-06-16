@@ -1,10 +1,17 @@
 ---
-title: "AI Doesn't Make Anyone Good. It Makes Good People Harder to Catch."
-source: "https://x.com/SigsNYC/status/2054238175758111156"
-author: "@SigsNYC"
-published: 2026-05-11
+title: AI Doesn't Make Anyone Good. It Makes Good People Harder to Catch.
+author: '@SigsNYC'
+published: &id001 2026-05-11
 type: source-note
+resource: https://x.com/SigsNYC/status/2054238175758111156
+timestamp: *id001
+description: 'A framework for understanding how AI is reshaping GTM (Go-To-Market)
+  roles. Uses a two-axis model: technical skills (ability to work with technology)
+  vs comm...'
+tags:
+- summaries
 ---
+
 
 # AI Doesn't Make Anyone Good. It Makes Good People Harder to Catch
 

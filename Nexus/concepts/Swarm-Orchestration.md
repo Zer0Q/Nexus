@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Swarm Orchestration
+description: The coordination of 300 concurrent specialized sub-agents across a single
+  task, each handling a domain, coordinated by a meta-agent. The result is parallel
+  e...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Swarm Orchestration
 
 ## Definition

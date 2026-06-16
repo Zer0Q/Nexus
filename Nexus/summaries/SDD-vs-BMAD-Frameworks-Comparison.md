@@ -1,9 +1,16 @@
 ---
-title: "SDD vs BMAD - AI Development Frameworks Comparison"
-source: "ChatGPT analysis"
-published: "2026-05-27"
+title: SDD vs BMAD - AI Development Frameworks Comparison
+published: '2026-05-27'
 type: analysis
+resource: ChatGPT analysis
+timestamp: '2026-05-27T00:00:00Z'
+description: 'Comparison of AI-assisted development methodologies from classical (TDD,
+  BDD) to AI-native (SDD, BMAD, Agentic SDLC). Key insight: no single framework wins
+  —...'
+tags:
+- summaries
 ---
+
 
 # AI Development Frameworks Landscape
 

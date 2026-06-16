@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Knowledge Graph as Semantic Layer
+description: A structured network of conceptual entities and their relationships that
+  enables AI agents to interpret the meaning of data in different business contexts.
+  E...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Graph as Semantic Layer
 
 ## Definition

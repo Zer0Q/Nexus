@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Workflow Compilation
+description: Distilling a full agentic workflow -- multi-step LLM calls, tool invocations,
+  intermediate scratchpads, and decision points -- into the weights of a fine-tun...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Workflow Compilation
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Evidence Validation
+description: Proceso de verificar reliability de evidence antes de incluirlo en respuesta
+  final. Parte fundamental del Agentic RAG workflow donde el agent evalúa si la in...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Evidence Validation
 
 ## Definition

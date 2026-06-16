@@ -1,10 +1,17 @@
 ---
-title: "276 Use Cases of Hermes Agent — What the Community is Building in 2026"
-source: "https://x.com/InduTripat82427/status/2057017304144298383"
-author: "@InduTripat82427"
-published: 2026-05-20
+title: 276 Use Cases of Hermes Agent — What the Community is Building in 2026
+author: '@InduTripat82427'
+published: &id001 2026-05-20
 type: source-note
+resource: https://x.com/InduTripat82427/status/2057017304144298383
+timestamp: *id001
+description: A Reddit megathread documented 276 real-world Hermes Agent use cases
+  across 16 categories from multiple platforms (GitHub, Reddit, X, YouTube, Hacker
+  News, b...
+tags:
+- summaries
 ---
+
 
 # 276 Use Cases of Hermes Agent — What the Community is Building in 2026
 

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Pydantic AI
+description: '## Related - [[tools/PydanticAI]] - [[concepts/Agent-Dependency-Injection]]
+  - [[concepts/Agent-Structured-Output]]'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic AI
 
 Python agent framework by the Pydantic team. Brings FastAPI-like ergonomics to GenAI agent development. Model-agnostic, type-safe, with dependency injection, structured output, and Logfire observability.

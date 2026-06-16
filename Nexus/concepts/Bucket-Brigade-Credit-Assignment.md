@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Bucket Brigade Credit Assignment
+description: Payment rule in multi-agent systems where each auction winner pays their
+  bid to the previous winner, creating a backward flow of value through the trajectory...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Bucket Brigade Credit Assignment
 
 ## Definition

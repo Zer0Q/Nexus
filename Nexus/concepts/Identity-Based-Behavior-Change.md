@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Identity-Based Behavior Change
+description: 'Approach to lasting change that targets identity transformation rather
+  than surface-level goal setting. The premise: if you want a specific outcome, you
+  must...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Identity-Based Behavior Change
 
 ## Definition

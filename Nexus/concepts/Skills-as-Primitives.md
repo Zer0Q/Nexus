@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Skills as Primitives
+description: Skills are the new primitive for procedural knowledge -- what functions
+  were to software logic. A skill is a reusable, versionable, testable unit of how-to
+  k...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Skills as Primitives
 
 ## Definition

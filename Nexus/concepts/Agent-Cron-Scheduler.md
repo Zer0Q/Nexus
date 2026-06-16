@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Cron Scheduler
+description: Built-in task scheduler for AI agents that runs jobs on recurring or
+  one-shot schedules. Jobs execute in isolated agent sessions, survive restarts, and
+  deliv...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Cron Scheduler
 
 ## Definition

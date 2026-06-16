@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Reflection and Self-Correction
+description: Mechanism where agents review their own output, detect errors or validation
+  failures, and retry with corrections. Enables iterative improvement without human...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Reflection and Self-Correction
 
 ## Definition

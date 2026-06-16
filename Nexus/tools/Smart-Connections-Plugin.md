@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Smart Connections Plugin
+description: An Obsidian plugin that creates local embeddings of every note in your
+  vault and provides a chat interface for asking questions across your entire knowledge
+  ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Smart Connections Plugin
 
 ## Definition

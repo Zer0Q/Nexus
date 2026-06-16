@@ -1,3 +1,14 @@
+---
+type: Tool
+title: AI as Maintainer
+description: A paradigm shift where AI transitions from an Oracle (one-off answer
+  provider) to a Maintainer -- an ongoing steward of compounding knowledge artifacts
+  that ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI as Maintainer
 
 ## Definition

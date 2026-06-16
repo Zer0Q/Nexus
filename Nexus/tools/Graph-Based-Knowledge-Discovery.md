@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Graph-Based Knowledge Discovery
+description: Using Obsidian's linked-note graph for AI-driven knowledge discovery.
+  The agent follows backlinks, reads related files, synthesizes across the entire
+  knowled...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Graph-Based Knowledge Discovery
 
 ## Definition

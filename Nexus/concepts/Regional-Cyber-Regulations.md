@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Regional Cyber Regulations
+description: Regulaciones específicas por país y sector para la ciberseguridad de
+  infraestructuras críticas. Se aplican simultáneamente con estándares internacionales
+  seg...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Regional Cyber Regulations
 
 ## Definition

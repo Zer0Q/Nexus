@@ -1,10 +1,18 @@
 ---
-title: "How top AI labs are building RL agents in 2026 (using Karpathy's system prompt learning idea)"
-source: "https://x.com/_avichawla/status/2049037299334472015"
-author: "@_avichawla"
-published: "2026-04-28"
+title: How top AI labs are building RL agents in 2026 (using Karpathy's system prompt
+  learning idea)
+author: '@_avichawla'
+published: '2026-04-28'
 type: article
+resource: https://x.com/_avichawla/status/2049037299334472015
+timestamp: '2026-04-28T00:00:00Z'
+description: The article traces the evolution of RL for LLMs from RLHF (4-model PPO
+  pipeline) through DeepSeek R1's GRPO+RLVR breakthrough to RULER — an LLM-as-judge
+  appr...
+tags:
+- summaries
 ---
+
 
 # RL Agents 2026: From RLHF to RULER
 

@@ -1,7 +1,15 @@
 ---
 type: concept
-related: [Four-Uses-of-Notes, Daily-Processing-Run, Note-Contribution-Rate]
+related:
+- Four-Uses-of-Notes
+- Daily-Processing-Run
+- Note-Contribution-Rate
+description: An evaluation process that determines whether a captured note can contribute
+  to any active project, decision, or writing topic. Notes that pass the assessmen...
+tags:
+- concepts
 ---
+
 
 # Note-Usefulness-Assessment
 

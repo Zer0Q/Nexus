@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Local AI Mindset Shift
+description: The behavioral change that occurs when you move from cloud-based AI (where
+  every API call costs money) to owned local hardware (where the marginal cost per
+  i...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Local AI Mindset Shift
 
 ## Definition

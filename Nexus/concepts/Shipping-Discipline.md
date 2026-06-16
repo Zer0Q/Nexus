@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Shipping Discipline
+description: The standing order with yourself to produce and publish output from a
+  knowledge vault on a regular cadence -- every week, no matter how rough the draft.
+  It i...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Shipping Discipline
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Org Scaling
+description: 'Desafíos y patrones al escalar una organización de ingeniería más allá
+  de ~100 personas: hiring, org design, processes, culture, y la transición de product-f...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Org Scaling
 
 ## Definition

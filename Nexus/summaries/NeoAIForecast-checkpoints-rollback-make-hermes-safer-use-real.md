@@ -1,10 +1,17 @@
 ---
-title: "How Checkpoints and /rollback make Hermes safer to use on real work"
-source: "https://x.com/NeoAIForecast/status/2045097742935195775"
-author: "NeoAIForecast"
-published: "2026-04-17"
+title: How Checkpoints and /rollback make Hermes safer to use on real work
+author: NeoAIForecast
+published: '2026-04-17'
 type: article
+resource: https://x.com/NeoAIForecast/status/2045097742935195775
+timestamp: '2026-04-17T00:00:00Z'
+description: Most AI agent demos focus on what the agent can do. Write code. Refactor
+  files. Run shell commands. Modify a project in seconds. The harder question is what
+  ...
+tags:
+- summaries
 ---
+
 
 # How Checkpoints and rollback make Hermes safer to use on real work
 

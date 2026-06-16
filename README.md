@@ -61,6 +61,8 @@ Nexus is useful for:
 
 ## Knowledge Model
 
+Nexus follows the [Open Knowledge Format (OKF) v0.1](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) specification for knowledge representation. All concept documents include YAML frontmatter with standardized fields (`type`, `title`, `description`, `resource`, `tags`, `timestamp`).
+
 Nexus uses a lightweight semantic model:
 
 | Folder           | Purpose                                                          |
@@ -118,11 +120,13 @@ Optional tradeoffs.
 
 ```text
 ---
+type: Article
 title: "Original title"
-source: "URL or source reference"
+description: "One-line summary of the source."
+resource: "URL or source reference"
+tags: [tag1, tag2]
+timestamp: "YYYY-MM-DDT00:00:00Z"
 author: "Author"
-published: "YYYY-MM-DD"
-type: article
 ---
 
 # Source Title
@@ -192,6 +196,8 @@ must point to:
 6. **Immutable Originals** — Raw articles are preserved unchanged in raw-notes/. Summaries are the processed layer.
 
 ## Current Status
+
+This repository follows the [Open Knowledge Format (OKF) v0.1](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) specification. All concept documents include standardized YAML frontmatter.
 
 This repository is an evolving knowledge vault.
 

@@ -1,6 +1,12 @@
 ---
 type: glossary
+description: A network structure for organizing knowledge where concepts are nodes
+  and relationships between concepts are edges/links. Unlike hierarchical or flat
+  file st...
+tags:
+- concepts
 ---
+
 
 # Knowledge Graph
 

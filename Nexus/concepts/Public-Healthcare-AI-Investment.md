@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Public Healthcare AI Investment
+description: The argument that public healthcare systems should invest heavily in
+  AI model access for medical research and patient care. Top models are expensive
+  and payw...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Public Healthcare AI Investment
 
 ## Definition

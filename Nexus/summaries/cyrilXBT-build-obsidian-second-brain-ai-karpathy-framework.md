@@ -1,10 +1,17 @@
 ---
-title: "How to Build an Obsidian Second Brain With AI: The Complete Guide Based on Karpathy's Framework"
-source: "https://x.com/cyrilXBT/status/2059817560988676179"
-author: "cyrilXBT"
-published: "2026-05-28"
+title: 'How to Build an Obsidian Second Brain With AI: The Complete Guide Based on
+  Karpathy''s Framework'
+author: cyrilXBT
+published: '2026-05-28'
 type: article
+resource: https://x.com/cyrilXBT/status/2059817560988676179
+timestamp: '2026-05-28T00:00:00Z'
+description: Andrej Karpathy does not use Obsidian as a note-taking app. The distinction
+  sounds subtle. The difference in outcome is enormous. A note-taking app is a plac...
+tags:
+- summaries
 ---
+
 
 # How to Build an Obsidian Second Brain With AI The Complete Guide Based on Karpa
 

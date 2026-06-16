@@ -1,10 +1,18 @@
 ---
-title: "I Connected Claude to My Obsidian Vault. 2 Months Later It Knows My Thinking Better Than I Do."
-source: "https://x.com/DamiDefi/status/2057770204130582976"
-author: "@DamiDefi"
-published: "2026-05-22"
+title: I Connected Claude to My Obsidian Vault. 2 Months Later It Knows My Thinking
+  Better Than I Do.
+author: '@DamiDefi'
+published: '2026-05-22'
 type: article
+resource: https://x.com/DamiDefi/status/2057770204130582976
+timestamp: '2026-05-22T00:00:00Z'
+description: 'DamiDefi connected Claude as an intelligence layer on top of Obsidian
+  using four layers: capture (Readwise, Whisper, Telegram bot), automation (N8N router),
+  ...'
+tags:
+- summaries
 ---
+
 
 # DamiDefi Claude Vault Integration
 

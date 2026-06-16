@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Grouped Query Attention
+description: Middle ground entre multi-head attention y multi-query attention — mantiene
+  varios KV heads en lugar de uno, preservando más calidad mientras mejora eficienc...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Grouped Query Attention
 
 ## Definition

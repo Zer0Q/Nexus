@@ -1,3 +1,14 @@
+---
+type: Concept
+title: RAG Retrieval-Augmented Generation
+description: A technique where an AI model answers questions by first searching a
+  specific document collection for relevant content, then generating its response
+  grounded...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # RAG Retrieval-Augmented Generation
 
 ## Definition

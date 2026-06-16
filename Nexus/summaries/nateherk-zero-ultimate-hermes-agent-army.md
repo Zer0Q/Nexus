@@ -1,10 +1,17 @@
 ---
-title: "From Zero to Ultimate Hermes Agent Army"
-source: "https://x.com/nateherk/status/2053308681299616125"
-author: "nateherk"
-published: "2026-05-10"
+title: From Zero to Ultimate Hermes Agent Army
+author: nateherk
+published: '2026-05-10'
 type: article
+resource: https://x.com/nateherk/status/2053308681299616125
+timestamp: '2026-05-10T00:00:00Z'
+description: Hermes Agent. Open source, MIT licensed, 140K GitHub stars and growing
+  fast. Built by Nous Research. This is the full breakdown. The mental model, the
+  setup,...
+tags:
+- summaries
 ---
+
 
 # From Zero to Ultimate Hermes Agent Army
 

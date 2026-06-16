@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Research Taste
+description: The ability to predict experiment outcomes, identify important unsolved
+  problems, and forecast which research directions will matter in two years. Not an
+  inn...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Research Taste
 
 ## Definition

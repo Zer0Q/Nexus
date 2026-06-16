@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Profiles
+description: Fully isolated agent instances, each with its own config, memory, skills,
+  sessions, and identity file. Profiles share nothing by default, enabling specialize...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Profiles
 
 ## Definition

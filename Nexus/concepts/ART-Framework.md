@@ -1,3 +1,14 @@
+---
+type: Concept
+title: ART Framework
+description: OpenPipe's open-source training framework (9k+ stars on GitHub) implementing
+  GRPO + RULER for agent fine-tuning, with Trajectory and TrajectoryGroup objects
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ART Framework
 
 ## Definition

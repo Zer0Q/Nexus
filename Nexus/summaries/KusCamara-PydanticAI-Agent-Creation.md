@@ -1,10 +1,17 @@
 ---
-title: "Creación de agentes AI con PydanticAI"
-source: "https://dev.to/kuscamara/creacion-de-agentes-ai-con-pydanticai-introduccion-h8"
-author: "Kus Cámara"
-published: "2025-11-05"
+title: Creación de agentes AI con PydanticAI
+author: Kus Cámara
+published: '2025-11-05'
 type: article
+resource: https://dev.to/kuscamara/creacion-de-agentes-ai-con-pydanticai-introduccion-h8
+timestamp: '2025-11-05T00:00:00Z'
+description: Spanish-language tutorial on building AI agents with PydanticAI. Covers
+  LLM setup (GitHub Models, Google AI Studio, Ollama), agent configuration with system
+  ...
+tags:
+- summaries
 ---
+
 
 # PydanticAI Agent Creation Tutorial
 

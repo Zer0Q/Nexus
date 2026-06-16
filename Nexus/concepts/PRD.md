@@ -1,3 +1,13 @@
+---
+type: Concept
+title: PRD
+description: '- Central artifact in SDD and BMAD - Drives architecture and story creation
+  - Can grow large enough to cause context explosion'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # PRD
 
 Product Requirements Document. Detailed specification of product features, user stories, and acceptance criteria. In BMAD, created via the `bmad-prd` workflow.

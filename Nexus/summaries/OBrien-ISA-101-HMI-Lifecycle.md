@@ -1,10 +1,17 @@
 ---
-title: "How ISA-101 Lifecycle Standard Improves Operator Effectiveness with Display Design and Lifecycle Management"
-source: "https://www.arcweb.com/industry-best-practices/how-isa-101-lifecycle-standard-improves-operator-effectiveness-display"
-author: "Larry O'Brien"
-published: ""
+title: How ISA-101 Lifecycle Standard Improves Operator Effectiveness with Display
+  Design and Lifecycle Management
+author: Larry O'Brien
+published: ''
 type: article
+resource: https://www.arcweb.com/industry-best-practices/how-isa-101-lifecycle-standard-improves-operator-effectiveness-display
+timestamp: ''
+description: ISA-101 provides lifecycle-based guidelines for HMI design, implementation,
+  and management across process, hybrid, and discrete industries. Addresses operato...
+tags:
+- summaries
 ---
+
 
 # ISA-101 HMI Lifecycle Standard
 

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Ollama Local Serving
+description: 'Ollama as a local model serving runtime on the DGX Spark. Three-command
+  setup: install Ollama, pull a model, serve it at localhost:11434. Provides an OpenAI-...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Ollama Local Serving
 
 ## Definition

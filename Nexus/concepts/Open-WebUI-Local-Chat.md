@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Open WebUI Local Chat
+description: Open WebUI is a Docker-based, ChatGPT-style web interface that connects
+  to local model serving backends like Ollama. Provides a familiar chat experience
+  over...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Open WebUI Local Chat
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Loop
+description: 'Bucle fundamental de un agente: observar el estado actual → decidir
+  acción con el LLM → ejecutar → evaluar resultado → repetir hasta completar el objetivo.
+  E...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Loop
 
 ## Definition

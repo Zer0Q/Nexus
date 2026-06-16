@@ -1,10 +1,16 @@
 ---
-title: "HERMES AGENT: THE COMPLETE GUIDE. From Zero to Self-Improving AI Employee"
-source: "https://x.com/IBuzovskyi/status/2059675518966894767"
-author: "@IBuzovskyi"
-published: "2026-05-27"
+title: 'HERMES AGENT: THE COMPLETE GUIDE. From Zero to Self-Improving AI Employee'
+author: '@IBuzovskyi'
+published: '2026-05-27'
 type: article
+resource: https://x.com/IBuzovskyi/status/2059675518966894767
+timestamp: '2026-05-27T00:00:00Z'
+description: Comprehensive guide to running Hermes Agent as a 24/7 autonomous AI employee
+  by @IBuzovskyi. Covers installation, model selection tiers, the dashboard, /goal...
+tags:
+- summaries
 ---
+
 
 # Hermes Agent Complete Guide
 

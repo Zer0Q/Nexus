@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Long-Document Reasoning
+description: The ability of an AI model to maintain argument integrity and reasoning
+  quality across a large context window without degradation. Claude maintains coherence...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Long-Document Reasoning
 
 ## Definition

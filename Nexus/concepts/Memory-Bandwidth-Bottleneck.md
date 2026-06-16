@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Memory Bandwidth Bottleneck
+description: LLM decode speed is limited by memory bandwidth (how fast weights and
+  KV cache can be read), not by raw compute throughput.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Memory Bandwidth Bottleneck
 
 ## Definition

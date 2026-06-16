@@ -1,10 +1,17 @@
 ---
-title: "Models"
-source: "https://pydantic.dev/docs/validation/latest/concepts/models/"
-author: "Pydantic Team"
-published: ""
+title: Models
+author: Pydantic Team
+published: ''
 type: article
+resource: https://pydantic.dev/docs/validation/latest/concepts/models/
+timestamp: ''
+description: Official Pydantic documentation on BaseModel, the primary way of defining
+  data schemas. Covers model instantiation, validation modes, serialization, nested
+  m...
+tags:
+- summaries
 ---
+
 
 # Pydantic Models Documentation
 

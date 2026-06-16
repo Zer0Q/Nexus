@@ -1,3 +1,13 @@
+---
+type: Concept
+title: AI Authorship
+description: 'Criterios de autoría en era de IA generativa: condiciones que debe satisfacer
+  una contribución humana para ser considerada suficiente como autor, especialmen...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Authorship
 
 ## Definition

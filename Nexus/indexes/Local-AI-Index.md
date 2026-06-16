@@ -1,3 +1,13 @@
+---
+type: Index
+title: Local AI Index
+description: '## Glossary - [[concepts/Local-LLM]] - [[concepts/RAG]] - [[concepts/Embeddings]]
+  - [[concepts/KV-Cache]] - [[concepts/MoE]] - [[concepts/HBM]] - [[concepts/...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Local AI Index
 
 ## Overview

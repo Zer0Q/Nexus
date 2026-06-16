@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Interview Calibration
+description: 'Proceso de alinear interviewers para evaluar consistentemente candidatos:
+  scorecards, DRI (Directly Responsible Individual), reverse shadowing, y monitoring
+  ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Interview Calibration
 
 ## Definition

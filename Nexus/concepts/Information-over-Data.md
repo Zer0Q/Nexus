@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Information over Data
+description: Presenting contextual meaning alongside raw process values so operators
+  can quickly assess whether conditions are normal or abnormal, rather than requiring
+  t...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Information over Data
 
 ## Definition

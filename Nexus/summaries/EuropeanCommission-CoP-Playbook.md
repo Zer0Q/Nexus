@@ -1,10 +1,17 @@
 ---
-title: "The Communities of Practice Playbook"
-source: "https://op.europa.eu/webpub/jrc/communities-of-practice-playbook/en/methodology.html"
-author: "European Commission JRC"
-published: "2020"
+title: The Communities of Practice Playbook
+author: European Commission JRC
+published: '2020'
 type: article
+resource: https://op.europa.eu/webpub/jrc/communities-of-practice-playbook/en/methodology.html
+timestamp: '2020'
+description: European Commission methodology for setting up, running, and evaluating
+  Communities of Practice. Based on the CoP Success Wheel framework with five success
+  f...
+tags:
+- summaries
 ---
+
 
 # Communities of Practice Playbook
 

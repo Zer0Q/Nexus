@@ -1,10 +1,17 @@
 ---
-title: "How Hermes Agent Memory Actually Works"
-source: "https://x.com/NeoAIForecast/status/2044899251768209502"
-author: "NeoAIForecast"
-published: "2026-04-17"
+title: How Hermes Agent Memory Actually Works
+author: NeoAIForecast
+published: '2026-04-17'
 type: article
+resource: https://x.com/NeoAIForecast/status/2044899251768209502
+timestamp: '2026-04-17T00:00:00Z'
+description: Most AI products talk about memory like it is one feature, Hermes Agent
+  does something much more useful. Instead of treating memory as one vague bucket,
+  Herm...
+tags:
+- summaries
 ---
+
 
 # How Hermes Agent Memory Actually Works
 

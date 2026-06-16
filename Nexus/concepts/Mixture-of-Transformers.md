@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Mixture of Transformers
+description: An architecture that combines multiple transformer specializations within
+  a single model, allowing different components to handle different modalities or
+  tas...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Mixture of Transformers
 
 ## Definition

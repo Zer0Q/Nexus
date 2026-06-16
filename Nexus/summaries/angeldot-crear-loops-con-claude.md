@@ -1,10 +1,17 @@
 ---
-title: "Cómo crear Loops con Claude"
-source: "https://x.com/angeldot_/status/2065145486890164524"
-author: "@angeldot_"
-published: "2026-06-11"
+title: Cómo crear Loops con Claude
+author: '@angeldot_'
+published: '2026-06-11'
 type: article
+resource: https://x.com/angeldot_/status/2065145486890164524
+timestamp: '2026-06-11T00:00:00Z'
+description: Explicación en español sobre Loop Engineering y el experimento de Anthropic
+  con Fable 5. El artículo compara Fable 5 vs Opus 4.7 en Parameter Golf (entrenar
+  ...
+tags:
+- summaries
 ---
+
 
 # Cómo crear Loops con Claude
 

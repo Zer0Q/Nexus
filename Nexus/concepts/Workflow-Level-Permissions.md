@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Workflow-Level Permissions
+description: Control de acceso a información a nivel de workflow — el sistema sabe
+  qué puede usar una tarea antes de empezar a generar respuestas.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Workflow-Level Permissions
 
 ## Definition

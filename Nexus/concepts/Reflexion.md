@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Reflexion
+description: Patrón de planificación donde el agente aprende de errores pasados y
+  retry con un enfoque mejorado. El agente mira sus propios errores, extrae lessons,
+  y aju...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Reflexion
 
 ## Definition

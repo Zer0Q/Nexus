@@ -1,3 +1,14 @@
+---
+type: Tool
+title: OntoGPT
+description: Schema-guided semantic knowledge extraction system developed by the Monarch
+  Initiative for scientific domains. Implements the SPIRES methodology (Structured
+  ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # OntoGPT
 
 ## Definition

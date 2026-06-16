@@ -1,3 +1,14 @@
+---
+type: Concept
+title: TurboQuant
+description: Two-stage quantization algorithm combining PolarQuant (random rotation
+  + polar coordinate quantization) with QJL (Quantized Johnson-Lindenstrauss, 1-bit
+  erro...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # TurboQuant
 
 ## Definition

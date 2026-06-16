@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Long-Horizon Coding
+description: The ability of an AI coding agent to run a coding task for hours without
+  human intervention, completing entire projects rather than individual functions.
+  Kim...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Long-Horizon Coding
 
 ## Definition

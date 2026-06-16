@@ -1,10 +1,16 @@
 ---
-title: "The Anatomy of an LLM | Interactive Visual Guide to How Language Models Work"
-source: "https://www.royvanrijn.com/anatomy-of-an-llm/"
-author: "Roy van Rijn"
-published: "None"
+title: The Anatomy of an LLM | Interactive Visual Guide to How Language Models Work
+author: Roy van Rijn
+published: None
 type: article
+resource: https://www.royvanrijn.com/anatomy-of-an-llm/
+timestamp: None
+description: Large language models can feel like black boxes. You type a prompt, something
+  smart comes back, and somewhere in the middle billions of parameters supposedly...
+tags:
+- summaries
 ---
+
 
 # The Anatomy of an LLM  Interactive Visual Guide to How Language Models Work
 

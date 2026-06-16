@@ -1,3 +1,13 @@
+---
+type: Concept
+title: AdaCoM
+description: Adaptive Context Manager — a separate external model trained with reinforcement
+  learning to manage the context of a frozen agent through flexible modificatio...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AdaCoM
 
 ## Definition

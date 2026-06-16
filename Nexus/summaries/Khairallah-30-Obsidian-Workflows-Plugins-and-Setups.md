@@ -1,10 +1,16 @@
 ---
-title: "30 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know"
-source: "https://x.com/eng_khairallah1/status/2061012675824644161"
-author: "@eng_khairallah1"
-published: "2026-05-31"
+title: 30 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know
+author: '@eng_khairallah1'
+published: '2026-05-31'
 type: article
+resource: https://x.com/eng_khairallah1/status/2061012675824644161
+timestamp: '2026-05-31T00:00:00Z'
+description: 'Catálogo de 30 elementos para convertir Obsidian + Claude en un sistema
+  de conocimiento personal potente: 10 plugins esenciales (Smart Connections, Templater...'
+tags:
+- summaries
 ---
+
 
 # 30 Obsidian Workflows, Plugins, and Setups
 

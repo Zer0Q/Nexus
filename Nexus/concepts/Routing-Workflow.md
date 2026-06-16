@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Routing Workflow
+description: Classifies input and directs it to specialized downstream tasks. Enables
+  separation of concerns and optimized prompts per input category.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Routing Workflow
 
 ## Definition

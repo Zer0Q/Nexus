@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Knowledge Graph Evolution
+description: Building a queryable knowledge graph from notes and documents, where
+  entities and relationships are extracted, stored, and evolved over time through
+  automate...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Graph Evolution
 
 ## Definition

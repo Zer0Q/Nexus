@@ -1,3 +1,13 @@
+---
+type: Index
+title: LLM Inference and Hardware Index
+description: '## Glossary - [[concepts/KV-Cache]] - [[concepts/GGUF]] - [[concepts/MoE]]
+  - [[concepts/FP4]] - [[concepts/HBM]] - [[concepts/NIM]]'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LLM Inference and Hardware Index
 
 ## Overview

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: SOUL-MD Challenge Instructions
+description: Explicit instructions in SOUL.md telling the agent how to challenge your
+  thinking -- specifically to surface contradictions between your current beliefs
+  and ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # SOUL-MD Challenge Instructions
 
 ## Definition

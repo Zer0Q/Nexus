@@ -1,10 +1,17 @@
 ---
-title: "A Practical Guide to Becoming an AI-Native Engineer"
-source: "https://x.com/bytebytego/status/2061821715450351992"
-author: "@bytebytego"
-published: "2026-06-02"
+title: A Practical Guide to Becoming an AI-Native Engineer
+author: '@bytebytego'
+published: '2026-06-02'
 type: article
+resource: https://x.com/bytebytego/status/2061821715450351992
+timestamp: '2026-06-02T00:00:00Z'
+description: By Shah Rahman (Meta, Global Head of Autonomous ML Iteration). AI generates
+  75%+ of Google's new code, yet most teams ship more bugs and technical debt than
+  ...
+tags:
+- summaries
 ---
+
 
 # Practical Guide to AI-Native Engineering
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Claude Skills Ecosystem
+description: The growing ecosystem of reusable skill definitions for Claude — from
+  official Anthropic skills (doc-coauthoring, frontend-design) to community-contributed
+  s...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Claude Skills Ecosystem
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "How Hermes Saves You Money With Auxiliary Models, If You Configure Them Right"
-source: "https://x.com/NeoAIForecast/status/2046892204518785296"
-author: "NeoAIForecast"
-published: "2026-04-17"
+title: How Hermes Saves You Money With Auxiliary Models, If You Configure Them Right
+author: NeoAIForecast
+published: '2026-04-17'
 type: article
+resource: https://x.com/NeoAIForecast/status/2046892204518785296
+timestamp: '2026-04-17T00:00:00Z'
+description: Most Hermes users optimize the wrong model. They spend hours comparing
+  Opus vs Sonnet vs GPT-5 for the main agent, then ignore the quieter layer that keeps
+  b...
+tags:
+- summaries
 ---
+
 
 # How Hermes Saves You Money With Auxiliary Models If You Configure Them Right
 

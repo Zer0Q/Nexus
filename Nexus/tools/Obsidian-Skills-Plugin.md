@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Obsidian Skills Plugin
+description: Obsidian plugin by @kepano providing a framework for creating persistent,
+  task-oriented AI agents inside Obsidian vaults. Skills are specialized agents with
+  ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Obsidian Skills Plugin
 
 ## Definition

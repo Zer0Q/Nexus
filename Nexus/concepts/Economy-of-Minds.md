@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Economy of Minds
+description: Decentralized multi-agent system where market mechanisms (auctions, wealth
+  accumulation, bankruptcy) drive prompt optimization and emergent coordination amon...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Economy of Minds
 
 ## Definition

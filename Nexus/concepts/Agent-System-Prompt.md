@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent System Prompt
+description: Set of instructions configuring LLM behavior before user input is processed.
+  Defines the agent's purpose, specialization, tone, and guardrails. Can be static...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent System Prompt
 
 ## Definition

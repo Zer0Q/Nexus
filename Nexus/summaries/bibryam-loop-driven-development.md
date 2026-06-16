@@ -1,10 +1,17 @@
 ---
-title: "Loop-Driven Development: The Next Layer of AI Coding"
-source: "https://x.com/bibryam/status/2065445933601435823"
-author: "@bibryam"
-published: "2026-06-12"
+title: 'Loop-Driven Development: The Next Layer of AI Coding'
+author: '@bibryam'
+published: '2026-06-12'
 type: article
+resource: https://x.com/bibryam/status/2065445933601435823
+timestamp: '2026-06-12T00:00:00Z'
+description: 'Evolución de AI-assisted coding en 5 fases: autocomplete → prompting
+  → context engineering → harness engineering → loop engineering. La tesis central:
+  no es ...'
+tags:
+- summaries
 ---
+
 
 # Loop-Driven Development
 

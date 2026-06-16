@@ -1,10 +1,17 @@
 ---
-title: "What Actually ARE Loops? (And Do I Need Them?)"
-source: "https://x.com/tonbistudio/status/2063861151524643291"
-author: "@tonbistudio"
-published: "2026-06-08"
+title: What Actually ARE Loops? (And Do I Need Them?)
+author: '@tonbistudio'
+published: '2026-06-08'
 type: article
+resource: https://x.com/tonbistudio/status/2063861151524643291
+timestamp: '2026-06-08T00:00:00Z'
+description: Two statements about "loops" went viral from Boris Cherny (Anthropic)
+  and Peter Steinberger (openclaw), but the term was used so loosely that most people
+  did...
+tags:
+- summaries
 ---
+
 
 # What Actually ARE Loops?
 

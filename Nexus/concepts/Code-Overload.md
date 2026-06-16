@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Code Overload
+description: 'Fenómeno donde los equipos de desarrollo producen tanto código tan rápidamente
+  con IA que se vuelve ingobernable: más bugs, más incidentes, más deuda técnica...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Code Overload
 
 ## Definition

@@ -2,11 +2,14 @@
 created: 2026-05-28
 type: concept
 tags:
-  - ai
-  - llm
-  - infrastructure
-  - prompting
+- ai
+- llm
+- infrastructure
+- prompting
+description: '## Related - [[concepts/Multi-Agent-Development]] -- harnesses orchestrate
+  agent workflows - [[concepts/Context-Explosion]] -- harnesses help manage but don''...'
 ---
+
 
 # LLM Harness
 

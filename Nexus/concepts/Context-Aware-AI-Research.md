@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context-Aware AI Research
+description: Using an AI model that has been given access to your accumulated knowledge
+  base (notes, sources, project files) so its answers are grounded in your specific
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context-Aware AI Research
 
 ## Definition

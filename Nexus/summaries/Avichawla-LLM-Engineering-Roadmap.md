@@ -1,10 +1,16 @@
 ---
-title: "The 2026 LLM Engineering Roadmap (with free and 100% open-source resources)"
-source: "https://x.com/_avichawla/status/2053049489963811135"
-author: "@_avichawla"
-published: "2026-04-25"
+title: The 2026 LLM Engineering Roadmap (with free and 100% open-source resources)
+author: '@_avichawla'
+published: '2026-04-25'
 type: article
+resource: https://x.com/_avichawla/status/2053049489963811135
+timestamp: '2026-04-25T00:00:00Z'
+description: '@_avichawla presenta los 8 pilares que definen el desarrollo serio de
+  LLMs: prompt engineering, RAG systems, fine-tuning, quantization, inference optimizatio...'
+tags:
+- summaries
 ---
+
 
 # 8 Pillars of LLM Engineering
 

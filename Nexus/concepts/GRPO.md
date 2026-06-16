@@ -1,3 +1,14 @@
+---
+type: Concept
+title: GRPO
+description: Group Relative Policy Optimization — generates multiple responses per
+  prompt (typically 4-16) and normalizes rewards within each group, eliminating the
+  need ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # GRPO
 
 ## Definition

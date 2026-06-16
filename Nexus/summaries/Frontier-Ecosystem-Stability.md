@@ -1,10 +1,17 @@
 ---
-title: "A frontier without an ecosystem is not stable"
-source: "https://x.com/ericosiu/status/2066625875622129767"
-author: "@ericosiu"
-published: "2026-06-07"
+title: A frontier without an ecosystem is not stable
+author: '@ericosiu'
+published: '2026-06-07'
 type: article
+resource: https://x.com/ericosiu/status/2066625875622129767
+timestamp: '2026-06-07T00:00:00Z'
+description: '@ericosiu argumenta que una frontera sin ecosistema no es estable: las
+  empresas que construyen loops de mejora interna con datos privados y evals privadas
+  cr...'
+tags:
+- summaries
 ---
+
 
 # AI Ecosystem Stability
 

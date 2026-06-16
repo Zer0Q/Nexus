@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Automated Business Workflows
+description: 'Six interconnected systems running on schedule and trigger within an
+  Obsidian vault: client intelligence (pre-call briefs, communication logging), project
+  op...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Automated Business Workflows
 
 ## Definition

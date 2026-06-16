@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Pydantic Data Conversion
+description: Pydantic's automatic type coercion system converts input data to match
+  declared field types. String '123' becomes int 123, float 3.0 becomes int 3, bytes
+  bec...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic Data Conversion
 
 ## Definition

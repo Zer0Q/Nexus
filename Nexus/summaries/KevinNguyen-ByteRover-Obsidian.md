@@ -1,10 +1,17 @@
 ---
-title: "Obsidian + ByteRover: Your Personal Knowledge Base Now Lives Inside Every AI Coding Agent"
-source: "https://x.com/kevinnguyendn/status/2043567698253427144"
-author: "@kevinnguyendn"
-published: "2026-04-13"
+title: 'Obsidian + ByteRover: Your Personal Knowledge Base Now Lives Inside Every
+  AI Coding Agent'
+author: '@kevinnguyendn'
+published: '2026-04-13'
 type: article
+resource: https://x.com/kevinnguyendn/status/2043567698253427144
+timestamp: '2026-04-13T00:00:00Z'
+description: ByteRover bridges Obsidian vaults with AI coding agents by treating vault
+  markdown files as native knowledge sources. Because both systems use plain markdown...
+tags:
+- summaries
 ---
+
 
 # ByteRover Obsidian Bridge
 

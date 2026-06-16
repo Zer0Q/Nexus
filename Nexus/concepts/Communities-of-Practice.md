@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Communities of Practice
+description: Groups of people who share a concern or passion for something they do
+  and learn how to do it better through regular interaction. Knowledge is co-constructed
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Communities of Practice
 
 ## Definition

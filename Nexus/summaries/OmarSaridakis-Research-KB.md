@@ -1,10 +1,17 @@
 ---
-title: "Post by @omarsar0 on X"
-source: "https://x.com/omarsar0/status/2039844072748204246"
-author: "@omarsar0"
-published: "2026-04-02"
+title: Post by @omarsar0 on X
+author: '@omarsar0'
+published: '2026-04-02'
 type: article
+resource: https://x.com/omarsar0/status/2039844072748204246
+timestamp: '2026-04-02T00:00:00Z'
+description: 'Omar Saridakis (DAIR.AI) describes his automated research paper curation
+  pipeline: a fine-tuned Skill captures high-signal papers daily, indexed via qmd
+  CLI ...'
+tags:
+- summaries
 ---
+
 
 # Omar Saridakis Research KB
 

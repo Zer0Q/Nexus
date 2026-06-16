@@ -1,3 +1,13 @@
+---
+type: Tool
+title: llama.cpp
+description: The most portable LLM inference runtime. Runs on Apple Silicon, x86,
+  RISC-V, CUDA, AMD HIP, Vulkan, SYCL, CPU+GPU hybrid offload. Written in C/C++.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # llama.cpp
 
 ## Definition

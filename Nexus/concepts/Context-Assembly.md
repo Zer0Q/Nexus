@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Context Assembly
+description: Problema de ensamblar contexto desde superficies de conocimiento mutuamente
+  incompatibles para que un agent pueda responder preguntas que requieren informaci...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Assembly
 
 ## Definition

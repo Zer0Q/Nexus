@@ -1,3 +1,13 @@
+---
+type: Index
+title: Industrial Automation and Alarm Management
+description: '## Glossary - [[concepts/HMI]] - [[concepts/ISA-18-2]] - [[concepts/ISA-101]]
+  - [[concepts/Alarm-Rationalization]] - [[concepts/Alarm-Flood]] - [[concepts/MA...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Industrial Automation and Alarm Management
 
 ## Overview

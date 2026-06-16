@@ -1,3 +1,14 @@
+---
+type: Tool
+title: CLAUDE.md Project Knowledge File
+description: 'A markdown file placed in an Obsidian vault that defines the AI''s context:
+  your work focus, audience, content pillars, research areas, and preferred output
+  f...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # CLAUDE.md Project Knowledge File
 
 ## Definition

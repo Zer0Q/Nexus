@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agentic Engineering Maturity
+description: Assessment of how much of the software development pipeline runs without
+  human intervention. Measured by % of PRs shipping without human review, agent autono...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agentic Engineering Maturity
 
 ## Definition

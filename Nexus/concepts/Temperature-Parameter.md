@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Temperature Parameter
+description: '- Cada token generado tiene probabilidades para todas las opciones posibles
+  - Temperatura determina qué tan estrictamente se sigue la distribución de probabi...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Temperature Parameter
 
 Control de aleatoriedad en la generación de tokens de un LLM. Temperatura baja (0.1-0.2): predecible, seguro — ideal para código. Temperatura alta (0.8-1.0+): creativo, variado — ideal para brainstorming.

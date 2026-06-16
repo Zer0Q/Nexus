@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Scoped Vault Access
+description: 'A safety pattern for connecting AI agents to knowledge vaults: start
+  by granting access to a dedicated subfolder, verify clean read/write behavior over
+  sever...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Scoped Vault Access
 
 ## Definition

@@ -1,10 +1,16 @@
 ---
-title: "Claude + Obsidian = the $0 moat your competitors can't clone"
-source: "https://x.com/zeuuss_01/status/2059710137284043083"
-author: "@zeuuss_01"
-published: 2026-05-27
+title: Claude + Obsidian = the $0 moat your competitors can't clone
+author: '@zeuuss_01'
+published: &id001 2026-05-27
 type: source-note
+resource: https://x.com/zeuuss_01/status/2059710137284043083
+timestamp: *id001
+description: The vault you build becomes a training set about yourself that competitors
+  cannot copy, scrape, or out-prompt. After 60 days the vault becomes a high-resolut...
+tags:
+- summaries
 ---
+
 
 # Claude + Obsidian = the $0 moat your competitors can't clone
 

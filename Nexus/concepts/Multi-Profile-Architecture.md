@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Multi Profile Architecture
+description: Running multiple isolated AI agents in parallel, each with its own identity
+  (SOUL.md), memory, skill library, and configured model. Profiles specialize indep...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Multi Profile Architecture
 
 ## Definition

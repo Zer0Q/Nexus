@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Synthesis-Session, Knowledge-Graph-Learning, Mastery-Score-Tracking]
+related:
+- Synthesis-Session
+- Knowledge-Graph-Learning
+- Mastery-Score-Tracking
+description: A diagnostic process that identifies the three most important concepts
+  a learner has not yet studied but would most increase their understanding of what
+  they...
+tags:
+- concepts
 ---
+
 
 # Gap-Analysis-Study
 

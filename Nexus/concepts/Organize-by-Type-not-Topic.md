@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Organize by Type, Not Topic
+description: Organizing notes by the kind of thinking they represent (observations,
+  reactions, patterns, questions, numbers) rather than by their subject matter. Enables
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Organize by Type, Not Topic
 
 ## Definition

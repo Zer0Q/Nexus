@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Feedback Loop Knowledge System
+description: A knowledge system where information that goes in must come back out
+  -- the vault pushes insights to the user rather than waiting for the user to pull
+  them. ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Feedback Loop Knowledge System
 
 ## Definition

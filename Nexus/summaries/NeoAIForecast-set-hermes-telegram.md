@@ -1,10 +1,17 @@
 ---
-title: "How to Set Up Hermes on Telegram"
-source: "https://x.com/NeoAIForecast/status/2042174650340536700"
-author: "NeoAIForecast"
-published: "2026-04-09"
+title: How to Set Up Hermes on Telegram
+author: NeoAIForecast
+published: '2026-04-09'
 type: article
+resource: https://x.com/NeoAIForecast/status/2042174650340536700
+timestamp: '2026-04-09T00:00:00Z'
+description: Most people think “Telegram bot” and imagine a lightweight chatbot. That
+  is not the right mental model for Hermes. When you set up Hermes on Telegram, you
+  ar...
+tags:
+- summaries
 ---
+
 
 # How to Set Up Hermes on Telegram
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Local LLM Options
+description: Options for running LLMs locally without cloud API dependencies. Includes
+  Ollama, LM Studio, llama.cpp, and various model architectures optimized for local
+  i...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Local LLM Options
 
 ## Definition

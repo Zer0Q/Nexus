@@ -1,10 +1,17 @@
 ---
-title: "Every AI company needs a context layer. Nobody agrees what that is."
-source: "https://www.linkedin.com/pulse/every-ai-company-needs-context-layer-nobody-agrees-what-bou-balust-p3mve/"
-author: "Bou Balust"
-published: "2026-06-03"
+title: Every AI company needs a context layer. Nobody agrees what that is.
+author: Bou Balust
+published: '2026-06-03'
 type: article
+resource: https://www.linkedin.com/pulse/every-ai-company-needs-context-layer-nobody-agrees-what-bou-balust-p3mve/
+timestamp: '2026-06-03T00:00:00Z'
+description: The context layer is the critical infrastructure every AI company needs,
+  but the space fragments into three distinct problem spaces depending on what kind
+  of...
+tags:
+- summaries
 ---
+
 
 # Context Layer Landscape
 

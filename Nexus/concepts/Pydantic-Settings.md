@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Pydantic Settings
+description: pydantic-settings package for managing application configuration through
+  environment variables. BaseSettings reads from env vars, .env files, and secrets,
+  va...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic Settings
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: ISA-101 Standard
+description: ANSI/ISA-101.01-2015 is the lifecycle standard for Human-Machine Interfaces
+  in process automation systems, providing guidelines for HMI design, implementatio...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # ISA-101 Standard
 
 ## Definition

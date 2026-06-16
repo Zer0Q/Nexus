@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Operator Situational Awareness
+description: An operator's ability to perceive, comprehend, and project the current
+  state of a process based on available information from HMIs, alarms, and other sources...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Operator Situational Awareness
 
 ## Definition

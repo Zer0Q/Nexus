@@ -1,3 +1,13 @@
+---
+type: Index
+title: Agent Architecture Patterns Index
+description: '## Related - [[concepts/Agent-Swarm-Architecture]] -- swarm-based multi-agent
+  coordination - [[concepts/Multi-Agent-Development]] -- building systems with mu...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Architecture Patterns Index
 
 ## Overview

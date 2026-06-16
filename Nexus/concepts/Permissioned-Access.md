@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Permissioned Access
+description: 'Gated access to frontier AI where users can consume intelligence but
+  cannot freely bootstrap independent systems from it. The asymmetry: the provider
+  learns ...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Permissioned Access
 
 ## Definition

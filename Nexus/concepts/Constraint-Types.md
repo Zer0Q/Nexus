@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Constraint Types
+description: 'Constraints fall into three categories: Physical (equipment, space,
+  human resources insufficient for demand), Market (more production capacity than
+  active cu...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Constraint Types
 
 ## Definition

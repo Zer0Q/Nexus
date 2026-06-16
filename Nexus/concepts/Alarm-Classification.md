@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Alarm Classification
+description: Grouping alarms with a common set of alarm management requirements (testing,
+  training, monitoring, audit). An alarm may belong to multiple classes. Classific...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Alarm Classification
 
 ## Definition

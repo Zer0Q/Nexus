@@ -1,10 +1,17 @@
 ---
-title: "The 170-Line SOUL.md That Made My Hermes Agent Dangerous"
-source: "https://x.com/tonysimons_/status/2051473178682118241"
-author: "tonysimons_"
-published: "2026-05-04"
+title: The 170-Line SOUL.md That Made My Hermes Agent Dangerous
+author: tonysimons_
+published: '2026-05-04'
 type: article
+resource: https://x.com/tonysimons_/status/2051473178682118241
+timestamp: '2026-05-04T00:00:00Z'
+description: 'People keep asking me the same question about Hermes. Not “what model
+  are you using?” Not “what’s your stack?” Not “how many tools does it have?” They
+  ask: “...'
+tags:
+- summaries
 ---
+
 
 # The 170Line SOULmd That Made My Hermes Agent Dangerous
 

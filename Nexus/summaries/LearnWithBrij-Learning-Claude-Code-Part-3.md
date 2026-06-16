@@ -1,10 +1,16 @@
 ---
-title: "Post by @LearnWithBrij on X"
-source: "https://x.com/LearnWithBrij/status/2050803172793372769"
-author: "@LearnWithBrij"
-published: "2026-05-03"
+title: Post by @LearnWithBrij on X
+author: '@LearnWithBrij'
+published: '2026-05-03'
 type: article
+resource: https://x.com/LearnWithBrij/status/2050803172793372769
+timestamp: '2026-05-03T00:00:00Z'
+description: '@LearnWithBrij describe las 5 capas arquitecturales de Claude Code que
+  van más allá de las funcionalidades visibles: memoria persistente (CLAUDE.md), conocim...'
+tags:
+- summaries
 ---
+
 
 # Claude Code Architectural Layers
 

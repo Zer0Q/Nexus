@@ -1,10 +1,16 @@
 ---
-title: "How I turned Obsidian into a second brain that runs itself"
-source: "https://x.com/Atenov_D/status/2032528386745315553"
-author: "@Atenov_D"
-published: "2026-03-13"
+title: How I turned Obsidian into a second brain that runs itself
+author: '@Atenov_D'
+published: '2026-03-13'
 type: article
+resource: https://x.com/Atenov_D/status/2032528386745315553
+timestamp: '2026-03-13T00:00:00Z'
+description: 'The entire secret: AI agent and notes share the same folder. Agent reads,
+  updates, organizes notes and finds connections without manual effort. Key component...'
+tags:
+- summaries
 ---
+
 
 # Atenov Self-Running Obsidian Brain
 

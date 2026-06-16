@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Vector Quantization
+description: Classical data compression technique that reduces the size of high-dimensional
+  vectors by mapping continuous values to a smaller discrete set of symbols, use...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Vector Quantization
 
 ## Definition

@@ -1,7 +1,15 @@
 ---
 type: workflow
-related: [Connection-Surface-Workflow, Knowledge-Graph-Learning, Pattern-Identification-Across-Notes]
+related:
+- Connection-Surface-Workflow
+- Knowledge-Graph-Learning
+- Pattern-Identification-Across-Notes
+description: A post-study-session workflow that finds non-obvious connections between
+  newly added concept notes and existing ones. Runs after adding 3-5 new concept notes...
+tags:
+- concepts
 ---
+
 
 # Connection-Protocol
 

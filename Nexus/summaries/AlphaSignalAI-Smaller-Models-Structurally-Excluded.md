@@ -1,10 +1,17 @@
 ---
-title: "Smaller Models Don't Just Underperform. They're Structurally Excluded."
-source: "https://x.com/AlphaSignalAI/status/2063999531621232770"
-author: "@AlphaSignalAI"
-published: "2026-06-08"
+title: Smaller Models Don't Just Underperform. They're Structurally Excluded.
+author: '@AlphaSignalAI'
+published: '2026-06-08'
 type: article
+resource: https://x.com/AlphaSignalAI/status/2063999531621232770
+timestamp: '2026-06-08T00:00:00Z'
+description: 'Análisis de un paper de Stanford/Harvard/MIT/Anthropic que demuestra
+  que los modelos pequeños no son simplemente versiones subentrenadas de modelos grandes:
+  ...'
+tags:
+- summaries
 ---
+
 
 # Smaller Models: Structural Exclusion
 

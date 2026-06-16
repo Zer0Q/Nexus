@@ -1,10 +1,17 @@
 ---
-title: "How To Fix AI Slop (Using Hermes)"
-source: "https://x.com/EXM7777/status/2060736517564477901"
-author: "EXM7777"
-published: "2026-05-30"
+title: How To Fix AI Slop (Using Hermes)
+author: EXM7777
+published: '2026-05-30'
 type: article
+resource: https://x.com/EXM7777/status/2060736517564477901
+timestamp: '2026-05-30T00:00:00Z'
+description: There's a reason some people seem to be constantly shipping the best
+  software, writing incredible content, or generating insane images... You've tried
+  better...
+tags:
+- summaries
 ---
+
 
 # How To Fix AI Slop Using Hermes
 

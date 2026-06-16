@@ -1,3 +1,13 @@
+---
+type: Tool
+title: OpenHands
+description: Autonomous AI coding agent that modifies repositories directly. Takes
+  issues and produces PRs through an autonomous loop of planning, coding, and testing.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # OpenHands
 
 ## Definition

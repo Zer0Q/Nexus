@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Compounding AI Acceleration
+description: Retroalimentación donde los sistemas AI aceleran el desarrollo de nuevos
+  sistemas AI más capaces, creando un loop de aceleración compounding. No requiere
+  rec...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Compounding AI Acceleration
 
 ## Definition

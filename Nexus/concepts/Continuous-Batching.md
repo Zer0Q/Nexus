@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Continuous Batching
+description: Scheduler technique that interleaves prefill and decode phases across
+  requests, allowing new requests to enter the batch while others are still decoding.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Continuous Batching
 
 ## Definition

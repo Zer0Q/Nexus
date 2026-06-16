@@ -1,3 +1,13 @@
+---
+type: Concept
+title: LLM Hallucination
+description: Generación de respuestas falsas, inventadas o incorrectas con alta confianza
+  por parte de un LLM. Ocurre porque el modelo predice el token más probable basad...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LLM Hallucination
 
 ## Definition

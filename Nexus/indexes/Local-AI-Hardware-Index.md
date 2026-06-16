@@ -1,3 +1,13 @@
+---
+type: Index
+title: Local AI Hardware Index
+description: '## Glossary - [[concepts/HBM]] -- High Bandwidth Memory - [[concepts/GGUF]]
+  -- GPT-Generated Unified Format - [[concepts/KV-Cache]] -- Key-Value cache for at...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Local AI Hardware Index
 
 ## Overview

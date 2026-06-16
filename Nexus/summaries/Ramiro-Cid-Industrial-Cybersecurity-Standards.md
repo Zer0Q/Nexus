@@ -1,10 +1,17 @@
 ---
-title: "Industrial Cybersecurity Standards"
-source: "https://ramirocid.com/industrial-cybersecurity-standards/"
-author: "Ramiro Cid"
-published: "2020-06-28"
+title: Industrial Cybersecurity Standards
+author: Ramiro Cid
+published: '2020-06-28'
 type: article
+resource: https://ramirocid.com/industrial-cybersecurity-standards/
+timestamp: '2020-06-28T00:00:00Z'
+description: 'Comparativa de estándares internacionales de ciberseguridad para sistemas
+  industriales: ISA/IEC 62443 como estándar principal para automatización y control
+  i...'
+tags:
+- summaries
 ---
+
 
 # Industrial Cybersecurity Standards Overview
 

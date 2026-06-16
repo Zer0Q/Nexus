@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Fable 5
+description: 'Modelo de Anthropic optimizado para Loop Engineering: superó a Opus
+  4.7 ~6x en Parameter Golf (0.839 vs 0.700 en Continual Learning Bench). Diseñado
+  para ite...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Fable 5
 
 ## Definition

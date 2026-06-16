@@ -1,10 +1,17 @@
 ---
-title: "How to Steer Hermes Agent Mid-Task Without Interrupting It"
-source: "https://x.com/NeoAIForecast/status/2052162023207977262"
-author: "NeoAIForecast"
-published: "2026-05-07"
+title: How to Steer Hermes Agent Mid-Task Without Interrupting It
+author: NeoAIForecast
+published: '2026-05-07'
 type: article
+resource: https://x.com/NeoAIForecast/status/2052162023207977262
+timestamp: '2026-05-07T00:00:00Z'
+description: Some AI agents are awkward once they start working. You ask them to inspect
+  a repo, run tests, debug an error, or research something. Then halfway through,
+  y...
+tags:
+- summaries
 ---
+
 
 # How to Steer Hermes Agent MidTask Without Interrupting It
 

@@ -1,10 +1,16 @@
 ---
-title: "How to fix your entire life in 1 day"
-source: "https://x.com/thedankoe/status/2010751592346030461"
-author: "Dan Koe"
-published: "2026-01-12"
+title: How to fix your entire life in 1 day
+author: Dan Koe
+published: '2026-01-12'
 type: article
+resource: https://x.com/thedankoe/status/2010751592346030461
+timestamp: '2026-01-12T00:00:00Z'
+description: Behavior change framework based on identity transformation rather than
+  surface-level goal setting. Covers teleological behavior (all behavior is goal-oriente...
+tags:
+- summaries
 ---
+
 
 # Life Change Protocol
 

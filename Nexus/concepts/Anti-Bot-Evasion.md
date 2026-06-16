@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Anti-Bot Evasion
+description: Techniques and tools for surviving anti-bot systems (Cloudflare, DataDome,
+  Kasada, PerimeterX) in web scraping workflows. The anti-bot market hit $11B in 202...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Anti-Bot Evasion
 
 ## Definition

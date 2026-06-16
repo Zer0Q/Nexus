@@ -1,10 +1,17 @@
 ---
-title: "What Is Agentic RAG? From LLM RAG to AI Agents"
-source: "https://weaviate.io/blog/what-is-agentic-rag"
-author: "Erika Shorten & Leonie Monigatti (Weaviate)"
-published: "2024-11-05"
+title: What Is Agentic RAG? From LLM RAG to AI Agents
+author: Erika Shorten & Leonie Monigatti (Weaviate)
+published: '2024-11-05'
 type: article
+resource: https://weaviate.io/blog/what-is-agentic-rag
+timestamp: '2024-11-05T00:00:00Z'
+description: Agentic RAG incorpora AI agents en el pipeline de RAG para superar las
+  limitaciones del vanilla RAG (single knowledge source, one-shot retrieval). El agente
+  ...
+tags:
+- summaries
 ---
+
 
 # What Is Agentic RAG
 

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: AI-Native Engineering
+description: Enfoque de ingeniería donde el desarrollador actúa como orquestador de
+  agentes IA en lugar de escribir código directamente. Requiere conocimiento de programa...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI-Native Engineering
 
 ## Definition

@@ -1,7 +1,15 @@
 ---
 type: concept
-related: [Active-Recall-Learning, Mastery-Score-Tracking, Concept-Note-Template]
+related:
+- Active-Recall-Learning
+- Mastery-Score-Tracking
+- Concept-Note-Template
+description: A review scheduling system based on Hermann Ebbinghaus's forgetting curve,
+  which shows that roughly 70% of new information is forgotten within 24 hours unles...
+tags:
+- concepts
 ---
+
 
 # Spaced-Repetition-System
 

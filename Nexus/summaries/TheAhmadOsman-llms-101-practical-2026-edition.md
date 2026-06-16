@@ -1,10 +1,16 @@
 ---
-title: "LLMs 101: A Practical Guide (2026 Edition)"
-source: "https://x.com/TheAhmadOsman/status/2057590224729911346"
-author: "TheAhmadOsman"
-published: "2026-05-22"
+title: 'LLMs 101: A Practical Guide (2026 Edition)'
+author: TheAhmadOsman
+published: '2026-05-22'
 type: article
+resource: https://x.com/TheAhmadOsman/status/2057590224729911346
+timestamp: '2026-05-22T00:00:00Z'
+description: Start with the loop. Text becomes tokens. Tokens move through a Transformer.
+  Attention decides which earlier tokens matter. The runtime keeps a KV cache so t...
+tags:
+- summaries
 ---
+
 
 # LLMs 101 A Practical Guide 2026 Edition
 

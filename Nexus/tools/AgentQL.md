@@ -1,3 +1,14 @@
+---
+type: Tool
+title: AgentQL
+description: A semantic query language built specifically for AI agents to interact
+  with web pages. Instead of brittle CSS selectors that break on every redesign, you
+  des...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AgentQL
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Forward Deployed Engineering
+description: Engineers embedded at customer sites or closely integrated with customer
+  workflows to bridge the gap between product capabilities and real-world usage, espec...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Forward Deployed Engineering
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: TDD
+description: '- Tests before implementation - Critical for agentic coding quality
+  - Poor tests = poor AI-generated code'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # TDD
 
 Test-Driven Development. Write tests before code. Essential guardrail for AI-assisted development — poor tests produce poor code, but good tests constrain AI output effectively.

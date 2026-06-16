@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Three-Zone-Vault, Note-Contribution-Rate, Four-Uses-of-Notes]
+related:
+- Three-Zone-Vault
+- Note-Contribution-Rate
+- Four-Uses-of-Notes
+description: A vault folder dedicated to finished work -- articles, reports, decisions,
+  frameworks -- produced from notes. Creates a visible connection between the notes
+  ...
+tags:
+- concepts
 ---
+
 
 # Output-Folder-Pattern
 

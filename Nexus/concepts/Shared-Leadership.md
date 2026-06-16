@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Shared Leadership
+description: A flat participation model where all members teach through their experience
+  and learn from others' — no top-down hierarchy. A coordinator may exist to connec...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Shared Leadership
 
 ## Definition

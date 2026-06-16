@@ -1,10 +1,17 @@
 ---
-title: "Harness y por qué los prompts complejos están perdiendo sentido"
-source: "https://davidhurtado.substack.com/p/harness-y-por-que-los-prompts-complejos"
-author: "David Hurtado"
-published: "2026-05-27"
+title: Harness y por qué los prompts complejos están perdiendo sentido
+author: David Hurtado
+published: '2026-05-27'
 type: article
+resource: https://davidhurtado.substack.com/p/harness-y-por-que-los-prompts-complejos
+timestamp: '2026-05-27T00:00:00Z'
+description: The harness — the software layer between the user's prompt and the model
+  — is doing more of the work that used to require complex prompt engineering. Users
+  s...
+tags:
+- summaries
 ---
+
 
 # Harness and the Decline of Complex Prompts
 

@@ -1,10 +1,17 @@
 ---
-title: "Skill Curation for Self-Evolving Agents, explained clearly"
-source: "https://x.com/neural_avb/status/2053873358853591435"
-author: "neural_avb"
-published: "2026-05-11"
+title: Skill Curation for Self-Evolving Agents, explained clearly
+author: neural_avb
+published: '2026-05-11'
 type: article
+resource: https://x.com/neural_avb/status/2053873358853591435
+timestamp: '2026-05-11T00:00:00Z'
+description: Google's latest paper introduces SkillOS, a framework designed to help
+  LLM agents evolve by learning to manage their own "memories" in the form of reusable
+  s...
+tags:
+- summaries
 ---
+
 
 # Skill Curation for SelfEvolving Agents explained clearly
 

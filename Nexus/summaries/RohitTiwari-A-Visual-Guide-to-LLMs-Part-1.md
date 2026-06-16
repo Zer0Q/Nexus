@@ -1,10 +1,17 @@
 ---
-title: "A Visual Guide to LLMs (Part 1)"
-source: "https://x.com/_rohit_tiwari_/status/2013580072788336643"
-author: "@_rohit_tiwari_"
-published: "2026-01-20"
+title: A Visual Guide to LLMs (Part 1)
+author: '@_rohit_tiwari_'
+published: '2026-01-20'
 type: article
+resource: https://x.com/_rohit_tiwari_/status/2013580072788336643
+timestamp: '2026-01-20T00:00:00Z'
+description: 'Guía visual del input pipeline de LLMs: cómo el texto se convierte en
+  vectores numéricos que el modelo puede procesar. Cubre tokenización (word-based,
+  subwor...'
+tags:
+- summaries
 ---
+
 
 # A Visual Guide to LLMs (Part 1)
 

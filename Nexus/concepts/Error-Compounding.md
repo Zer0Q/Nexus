@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Error Compounding
+description: A failure mode in AI-maintained knowledge systems where an initial error
+  in one note propagates through cross-references, causing cascading inaccuracies
+  acro...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Error Compounding
 
 ## Definition

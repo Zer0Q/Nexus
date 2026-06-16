@@ -1,3 +1,13 @@
+---
+type: Tool
+title: BMAD Method
+description: Breakthrough Method for Agile AI-Driven Development. Framework that simulates
+  an Agile team using specialized AI agents (Analyst, PM, Architect, Developer, Q...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # BMAD Method
 
 ## Definition

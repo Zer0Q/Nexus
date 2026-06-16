@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Date-Prefixed Naming
+description: File naming convention using YYYY-MM-DD-TYPE-TOPIC format. Date prefix
+  auto-sorts chronologically, type identifier indicates content, topic identifier
+  descri...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Date-Prefixed Naming
 
 ## Definition

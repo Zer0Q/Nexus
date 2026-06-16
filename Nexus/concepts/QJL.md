@@ -1,3 +1,13 @@
+---
+type: Concept
+title: QJL
+description: Quantized Johnson-Lindenstrauss — reduces each vector number to a single
+  sign bit (+1 or -1) with zero memory overhead, acting as a mathematical error-checke...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # QJL
 
 ## Definition

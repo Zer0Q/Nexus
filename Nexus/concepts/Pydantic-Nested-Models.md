@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Pydantic Nested Models
+description: Using Pydantic models as field types to create hierarchical data structures.
+  Models can reference other models, lists of models, or themselves (recursive mod...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic Nested Models
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Output Engine Workflows
+description: Five scheduled or triggered workflows running on top of a knowledge vault
+  that transform raw capture into shippable, billable output. Each workflow is a prom...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Output Engine Workflows
 
 ## Definition

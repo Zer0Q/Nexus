@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Overnight Goal Runs
+description: Using Hermes Agent's /goal command to execute complex, multi-hour tasks
+  while you sleep. Wake up with completed research reports, code refactoring, database
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Overnight Goal Runs
 
 ## Definition

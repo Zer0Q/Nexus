@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Business Operating System
+description: 'An Obsidian vault structured as a continuous business processor with
+  six interconnected systems: client intelligence, project operations, content production,...'
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Business Operating System
 
 ## Definition

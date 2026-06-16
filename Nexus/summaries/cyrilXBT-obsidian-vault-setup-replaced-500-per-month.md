@@ -1,10 +1,17 @@
 ---
-title: "The Obsidian Vault Setup That Replaced My $500 Per Month Software Stack"
-source: "https://x.com/cyrilXBT/status/2060540804230267050"
-author: "cyrilXBT"
-published: "2026-05-30"
+title: The Obsidian Vault Setup That Replaced My $500 Per Month Software Stack
+author: cyrilXBT
+published: '2026-05-30'
 type: article
+resource: https://x.com/cyrilXBT/status/2060540804230267050
+timestamp: '2026-05-30T00:00:00Z'
+description: I used to pay for 9 different apps to manage my work, my notes, my tasks,
+  and my reading. Notion for docs. Roam for thinking. Evernote for clipping. Todoist
+  ...
+tags:
+- summaries
 ---
+
 
 # The Obsidian Vault Setup That Replaced My 500 Per Month Software Stack
 

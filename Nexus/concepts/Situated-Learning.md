@@ -2,10 +2,14 @@
 created: 2026-05-28
 type: concept
 tags:
-  - learning
-  - pedagogy
-  - knowledge
+- learning
+- pedagogy
+- knowledge
+description: '## Related - [[concepts/Tacit-Knowledge]] -- knowledge that''s hard
+  to codify but learned through practice - [[concepts/Communities-of-Practice]] --
+  the socia...'
 ---
+
 
 # Situated Learning
 

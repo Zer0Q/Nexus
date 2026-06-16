@@ -1,3 +1,14 @@
+---
+type: Concept
+title: World Models
+description: Generative models that learn the dynamics of an environment -- given
+  current observations and actions, they predict future states. In physical AI, world
+  mode...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # World Models
 
 ## Definition

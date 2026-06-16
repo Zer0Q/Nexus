@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Guardrails
+description: Conjunto de mecanismos de seguridad que controlan la autonomía del agente
+  para prevenir daño al sistema, datos o usuarios. Incluye sandboxing, validación
+  de ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Guardrails
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Disaggregated Prefill Decode
+description: Architecture pattern that separates compute-intensive prefill from memory-intensive
+  decode into specialized instances, transferring KV cache between them.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Disaggregated Prefill Decode
 
 ## Definition

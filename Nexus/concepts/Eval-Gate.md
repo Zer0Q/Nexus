@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Eval Gate
+description: Punto en un loop de agente donde se evalúa si el resultado actual es
+  suficiente para continuar iterando o para detenerse. Es la lógica de decisión que
+  determ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Eval Gate
 
 ## Definition

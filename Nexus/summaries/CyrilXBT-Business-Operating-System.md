@@ -1,10 +1,16 @@
 ---
-title: "How to Build an Obsidian Vault That Runs Your Entire Business While You Sleep"
-source: "https://x.com/cyrilXBT/status/2054379666316693719"
-author: "@cyrilXBT"
-published: "2026-05-13"
+title: How to Build an Obsidian Vault That Runs Your Entire Business While You Sleep
+author: '@cyrilXBT'
+published: '2026-05-13'
 type: article
+resource: https://x.com/cyrilXBT/status/2054379666316693719
+timestamp: '2026-05-13T00:00:00Z'
+description: 'Complete guide to building an Obsidian vault as a business operating
+  system with three layers: knowledge (Obsidian), intelligence (Claude via MCP), automatio...'
+tags:
+- summaries
 ---
+
 
 # Cyril XBT Business Operating System
 

@@ -1,10 +1,16 @@
 ---
-title: "Cómo crear un vault en Obsidian que aprende solo"
-source: "https://x.com/chesnyfcb/status/2054639107179982996"
-author: "chesnyfcb"
-published: "2026-05-13"
+title: Cómo crear un vault en Obsidian que aprende solo
+author: chesnyfcb
+published: '2026-05-13'
 type: article
+resource: https://x.com/chesnyfcb/status/2054639107179982996
+timestamp: '2026-05-13T00:00:00Z'
+description: Cada artículo que lees. Cada tuit que guardas. Cada nota de voz que grabas.
+  Todo fluye de forma automática. Claude conecta los puntos. Tú recolectas el conoc...
+tags:
+- summaries
 ---
+
 
 # Cómo crear un vault en Obsidian que aprende solo
 

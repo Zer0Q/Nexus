@@ -1,3 +1,14 @@
+---
+type: Concept
+title: LLM Wiki Pattern
+description: A pattern where an LLM incrementally builds and maintains a persistent
+  wiki of interlinked markdown files from raw source documents, rather than retrieving
+  f...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LLM Wiki Pattern
 
 ## Definition

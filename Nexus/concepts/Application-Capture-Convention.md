@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Connection-Capture-Convention, Four-Uses-of-Notes, Active-Decision-Feeder]
+related:
+- Connection-Capture-Convention
+- Four-Uses-of-Notes
+- Active-Decision-Feeder
+description: 'A capture convention that records immediate applications of ideas. Format:
+  [THE IDEA] COULD APPLY TO: [specific situation in current work] ACTION IF TRUE:
+  [w...'
+tags:
+- concepts
 ---
+
 
 # Application-Capture-Convention
 

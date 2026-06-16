@@ -1,3 +1,14 @@
+---
+type: Concept
+title: CLAUDE.md
+description: '- Five sections: Role, Style, Constraints, Workflow, Quality - Replaces
+  repeated prompting with persistent rules - Available in Claude Code (project root)
+  an...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # CLAUDE.md
 
 Plaintext configuration file in a project root that Claude Code reads before every session, providing persistent instructions across tasks and agents.

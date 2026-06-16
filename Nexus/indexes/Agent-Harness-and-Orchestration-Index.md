@@ -1,3 +1,13 @@
+---
+type: Index
+title: Agent Harness and Orchestration Index
+description: '## Glossary - [[concepts/Agentic-Harness]] - [[concepts/Handoff-File]]
+  - [[concepts/SkillRepo]] - [[concepts/MCP]]'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Harness and Orchestration Index
 
 ## Overview

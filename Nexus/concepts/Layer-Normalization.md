@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Layer Normalization
+description: Técnica que normaliza las features de cada token independientemente,
+  estabilizando los valores de activación durante training. Calcula la media (μ) y
+  varianz...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Layer Normalization
 
 ## Definition

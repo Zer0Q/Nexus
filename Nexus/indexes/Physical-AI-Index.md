@@ -1,3 +1,13 @@
+---
+type: Index
+title: Physical AI Index
+description: '## Glossary - [[concepts/NVFP4]] -- 4-bit FP quantization for 2x inference
+  speedup'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Physical AI Index
 
 ## Overview

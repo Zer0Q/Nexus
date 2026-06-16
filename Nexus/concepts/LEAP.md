@@ -1,3 +1,13 @@
+---
+type: Concept
+title: LEAP
+description: Agentic scaffold that wraps a general-purpose LLM in Lean compiler verification,
+  decomposing formal proofs into subgoals with informal blueprints, then forci...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LEAP
 
 ## Definition

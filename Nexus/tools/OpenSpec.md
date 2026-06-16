@@ -1,3 +1,13 @@
+---
+type: Tool
+title: OpenSpec
+description: Lightweight, iterative specification framework for AI-assisted development.
+  Focused on structured specs with execution, less ceremony than BMAD.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # OpenSpec
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "30 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know"
-source: "https://x.com/eng_khairallah1/status/2061012675824644161"
-author: "@eng_khairallah1"
-published: 2026-05-31
+title: 30 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know
+author: '@eng_khairallah1'
+published: &id001 2026-05-31
 type: source-note
+resource: https://x.com/eng_khairallah1/status/2061012675824644161
+timestamp: *id001
+description: 'A comprehensive guide to 30 Obsidian workflows, plugins, and setups
+  organized in three parts: 10 essential plugins (Smart Connections, Copilot, Templater,
+  Da...'
+tags:
+- summaries
 ---
+
 
 # 30 Obsidian Workflows, Plugins, and Setups That Most Users Don't Know
 

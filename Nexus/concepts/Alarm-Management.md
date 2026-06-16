@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Alarm Management
+description: The systematic process of transforming alarm systems from mixed notification
+  tools with random priorities into true operator support systems that deliver the...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Alarm Management
 
 ## Definition

@@ -1,10 +1,18 @@
 ---
-title: "I Gave Claude David Ogilvy's Writing Rules And Built A Legendary AI Writing Coach"
-source: "https://x.com/dickiebush/status/2062876058312224972"
-author: "@dickiebush"
-published: "2026-06-05"
+title: I Gave Claude David Ogilvy's Writing Rules And Built A Legendary AI Writing
+  Coach
+author: '@dickiebush'
+published: '2026-06-05'
 type: article
+resource: https://x.com/dickiebush/status/2062876058312224972
+timestamp: '2026-06-05T00:00:00Z'
+description: The article presents David Ogilvy's 10 writing rules from a 1982 memo
+  to his staff at Ogilvy & Mather, then demonstrates how they were encoded into a
+  Claude ...
+tags:
+- summaries
 ---
+
 
 # Ogilvy's 10 Writing Rules as AI Skill
 

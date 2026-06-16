@@ -1,3 +1,13 @@
+---
+type: Index
+title: AI Development Index
+description: '## Glossary - [[concepts/SDD]] - [[concepts/PRD]] - [[concepts/BDD]]
+  - [[concepts/TDD]]'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Development Index
 
 ## Overview

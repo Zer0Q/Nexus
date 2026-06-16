@@ -1,7 +1,13 @@
 ---
 created: 2026-05-28
 type: index
+description: '## Related - [[concepts/Context-Explosion]] -- harnesses help manage
+  context limits - [[concepts/Multi-Agent-Development]] -- harnesses orchestrate agent
+  wor...'
+tags:
+- indexes
 ---
+
 
 # Prompting and Harnesses
 

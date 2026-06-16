@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context Explosion
+description: The degradation of AI agent quality as the context window fills with
+  specifications, architecture docs, conversation history, and code. Large specs and
+  accum...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Explosion
 
 ## Definition

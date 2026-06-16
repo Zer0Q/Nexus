@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Entity Resolution
+description: The process of identifying, deduplicating, and merging equivalent entities
+  extracted from unstructured text into canonical representations within a knowledge...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Entity Resolution
 
 ## Definition

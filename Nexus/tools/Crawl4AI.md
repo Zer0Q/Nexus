@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Crawl4AI
+description: LLM-pipeline-focused web scraper with 66,000 GitHub stars. Extracts clean
+  structured data automatically and outputs it in formats Claude and other models
+  can...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Crawl4AI
 
 ## Definition

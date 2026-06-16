@@ -1,10 +1,17 @@
 ---
-title: "THE 30-MINUTE OBSIDIAN SYSTEM THAT TURNS 4,000 SCATTERED NOTES INTO 1 RETRIEVABLE BRAIN"
-source: "https://x.com/zeuuss_01/status/2061435546270883928"
-author: "@zeuuss_01"
-published: "2026-06-01"
+title: THE 30-MINUTE OBSIDIAN SYSTEM THAT TURNS 4,000 SCATTERED NOTES INTO 1 RETRIEVABLE
+  BRAIN
+author: '@zeuuss_01'
+published: '2026-06-01'
 type: article
+resource: https://x.com/zeuuss_01/status/2061435546270883928
+timestamp: '2026-06-01T00:00:00Z'
+description: A retrieval-first Obsidian system built around three properties (permanent,
+  linkable, queryable) and five workflows (capture, nightly processing, decision fe...
+tags:
+- summaries
 ---
+
 
 # 30-Minute Obsidian Retrieval System
 

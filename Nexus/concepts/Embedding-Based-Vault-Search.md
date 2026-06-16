@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Embedding-Based Vault Search
+description: Converting every note in a knowledge base into a numerical vector representation
+  (embedding) that captures its semantic meaning, then using vector similarity...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Embedding-Based Vault Search
 
 ## Definition

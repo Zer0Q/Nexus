@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context Tree Indexing
+description: A hierarchical indexing method where knowledge is organized as a tree
+  of contexts rather than flat tags. Each node in the tree represents a context (topic,
+  p...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Tree Indexing
 
 ## Definition

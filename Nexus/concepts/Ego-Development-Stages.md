@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Ego Development Stages
+description: Nine-stage model of psychological development (Greuter/Kopp/Singer) describing
+  how consciousness evolves from impulsive reaction to integrated awareness. Eac...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Ego Development Stages
 
 ## Definition

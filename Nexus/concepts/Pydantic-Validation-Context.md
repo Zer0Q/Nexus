@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Pydantic Validation Context
+description: Runtime context passed to validators via ValidationInfo.context. Enables
+  dynamic validation behavior based on request-specific data without changing the
+  mode...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic Validation Context
 
 ## Definition

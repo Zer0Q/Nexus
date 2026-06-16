@@ -1,3 +1,14 @@
+---
+type: Index
+title: Enterprise AI Architecture Index
+description: '## Related - [[tools/AI-Governance]] -- governance frameworks for AI
+  systems - [[concepts/Knowledge-Graph-as-Semantic-Layer]] -- KG as semantic layer
+  for rea...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Enterprise AI Architecture Index
 
 ## Overview

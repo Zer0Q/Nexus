@@ -1,10 +1,17 @@
 ---
-title: "Codex 101 for Academic Researchers"
-source: "https://x.com/MushtaqBilalPhD/status/2054565093430493609"
-author: "MushtaqBilalPhD"
-published: "2026-05-13"
+title: Codex 101 for Academic Researchers
+author: MushtaqBilalPhD
+published: '2026-05-13'
 type: article
+resource: https://x.com/MushtaqBilalPhD/status/2054565093430493609
+timestamp: '2026-05-13T00:00:00Z'
+description: This is a five-part tutorial to help academic researchers get started
+  with Codex. I have written it in an accessible language, and you don't need any
+  technic...
+tags:
+- summaries
 ---
+
 
 # Codex 101 for Academic Researchers
 

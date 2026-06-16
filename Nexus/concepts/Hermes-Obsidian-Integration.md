@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Hermes-Obsidian Integration
+description: Connecting Hermes Agent to an Obsidian vault via the Obsidian Local REST
+  API plugin on localhost:27124, giving the agent programmatic read and write access
+  t...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hermes-Obsidian Integration
 
 ## Definition

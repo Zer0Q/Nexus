@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agentic GraphRAG
+description: RAG architecture where the knowledge graph serves as the agent's working
+  memory, with dynamic switching between dense vector search (direct semantic similari...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agentic GraphRAG
 
 ## Definition

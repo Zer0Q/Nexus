@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context Maturity Spectrum
+description: A four-level progression describing how much structure a context layer
+  imposes on its data, from raw retrieval to formal inference. Applies independently
+  wit...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Maturity Spectrum
 
 ## Definition

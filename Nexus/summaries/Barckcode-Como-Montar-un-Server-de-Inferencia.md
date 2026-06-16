@@ -1,10 +1,17 @@
 ---
-title: "Cómo montar un server de inferencia para servir modelos de IA | My Blog"
-source: "https://helmcode.com/posts/server-de-ia"
-author: "@barckcode"
-published: "2026-04-24"
+title: Cómo montar un server de inferencia para servir modelos de IA | My Blog
+author: '@barckcode'
+published: '2026-04-24'
 type: article
+resource: https://helmcode.com/posts/server-de-ia
+timestamp: '2026-04-24T00:00:00Z'
+description: Barckcode documents the four-layer architecture of NaN, a community-run
+  inference server providing unlimited token access to local AI models. The stack
+  uses ...
+tags:
+- summaries
 ---
+
 
 # Cómo montar un server de inferencia para servir modelos de IA
 

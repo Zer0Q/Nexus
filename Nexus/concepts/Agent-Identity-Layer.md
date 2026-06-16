@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Identity Layer
+description: A static configuration file (SOUL.md) that defines an AI agent's personality,
+  tone, communication style, and hard limits. Loaded as the first slot in the sys...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Identity Layer
 
 ## Definition

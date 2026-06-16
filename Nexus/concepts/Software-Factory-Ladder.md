@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Software Factory Ladder
+description: Five-level maturity model (0-4) for AI-powered software engineering organizations.
+  Measures how much of the development pipeline runs without human intervent...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Software Factory Ladder
 
 ## Definition

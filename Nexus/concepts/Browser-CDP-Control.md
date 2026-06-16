@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Browser CDP Control
+description: Using Chrome DevTools Protocol (CDP) to give AI agents direct browser
+  control — navigating, clicking, filling forms, and extracting data from web pages
+  progr...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Browser CDP Control
 
 ## Definition

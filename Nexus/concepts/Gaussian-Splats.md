@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Gaussian Splats
+description: Representación 3D para exploración visual, output junto con collision
+  meshes en systems como World Labs Marble.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Gaussian Splats
 
 ## Definition

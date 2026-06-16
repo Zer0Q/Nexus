@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Zero-Friction Capture
+description: A capture system where one keyboard shortcut opens a floating input box,
+  you type the idea, and it lands in the correct section of today's daily note automat...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Zero-Friction Capture
 
 ## Definition

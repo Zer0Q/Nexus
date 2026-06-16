@@ -1,10 +1,17 @@
 ---
-title: "Building cloud agent infrastructure: what's different, and what we learned"
-source: "https://x.com/intuitiveml/status/2062699747224568212"
-author: "@intuitiveml"
-published: "2026-06-05"
+title: 'Building cloud agent infrastructure: what''s different, and what we learned'
+author: '@intuitiveml'
+published: '2026-06-05'
 type: article
+resource: https://x.com/intuitiveml/status/2062699747224568212
+timestamp: '2026-06-05T00:00:00Z'
+description: 'El equipo de CREAO comparte dos lecciones clave al mover agents del
+  desktop a la nube: separar lo que cambia lento del que cambia rápido, y mantener
+  los secr...'
+tags:
+- summaries
 ---
+
 
 # Building Cloud Agent Infrastructure
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Cybernetic Intelligence
+description: 'Intelligence defined as the ability to get what you want out of life
+  through feedback loops: set goal, act, sense position, compare to goal, adjust.
+  High int...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Cybernetic Intelligence
 
 ## Definition

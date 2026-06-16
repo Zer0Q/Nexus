@@ -1,10 +1,17 @@
 ---
-title: "6 Workflows, 6 Lessons, 60 Days with Hermes Analyst"
-source: "https://x.com/0xJeff/status/2061361760968560887"
-author: "@0xJeff"
-published: "2026-05-25"
+title: 6 Workflows, 6 Lessons, 60 Days with Hermes Analyst
+author: '@0xJeff'
+published: '2026-05-25'
 type: article
+resource: https://x.com/0xJeff/status/2061361760968560887
+timestamp: '2026-05-25T00:00:00Z'
+description: 'Six lessons from running Hermes as an investment/data analyst: provider
+  selection matters less than tools and skills, external memory (Hindsight) enables
+  bet...'
+tags:
+- summaries
 ---
+
 
 # 60 Days with Hermes Analyst
 

@@ -1,10 +1,16 @@
 ---
-title: "Pydantic: Simplifying Data Validation in Python"
-source: "https://realpython.com/python-pydantic/"
-author: "Real Python"
-published: "2024-04-10"
+title: 'Pydantic: Simplifying Data Validation in Python'
+author: Real Python
+published: '2024-04-10'
 type: article
+resource: https://realpython.com/python-pydantic/
+timestamp: '2024-04-10T00:00:00Z'
+description: Comprehensive Real Python tutorial on Pydantic covering BaseModel schemas,
+  Field customization, custom validators, @validate_call for function arguments, and...
+tags:
+- summaries
 ---
+
 
 # Pydantic Data Validation Tutorial
 

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: AI Slop Quality Filtering
+description: The problem of AI-generated low-quality content flooding the internet,
+  and techniques to filter, detect, and maintain quality standards in AI-assisted
+  workfl...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Slop Quality Filtering
 
 ## Definition

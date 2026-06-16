@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Single-Threaded vs Multi-Agent Scaling
+description: The shift from one developer working sequentially to commanding hundreds
+  of AI agents working in parallel, with the human as orchestrator rather than impleme...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Single-Threaded vs Multi-Agent Scaling
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "A Visual Guide to LLMs (Part 2): Inside the Transformer Architecture"
-source: "https://x.com/_rohit_tiwari_/status/2063982924714901858"
-author: "@_rohit_tiwari_"
-published: "2026-06-08"
+title: 'A Visual Guide to LLMs (Part 2): Inside the Transformer Architecture'
+author: '@_rohit_tiwari_'
+published: '2026-06-08'
 type: article
+resource: https://x.com/_rohit_tiwari_/status/2063982924714901858
+timestamp: '2026-06-08T00:00:00Z'
+description: Segunda parte de una guía visual paso a paso sobre arquitectura de LLMs.
+  Mientras la Parte 1 cubría el input pipeline (tokenización, embeddings, positional
+  e...
+tags:
+- summaries
 ---
+
 
 # Visual Guide to LLMs Part 2: Transformer Architecture
 

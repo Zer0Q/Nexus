@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Poka-Yoke
+description: 'Error-proofing: designing systems so the right action is the easiest
+  action, making it difficult or impossible to make mistakes. From Lean manufacturing
+  — "p...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Poka-Yoke
 
 ## Definition

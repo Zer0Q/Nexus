@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Failure Analysis
+description: The systematic practice of pulling failure cases, reading all of them,
+  sorting into piles by failure mode, and attacking the biggest pile. Works on models
+  an...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Failure Analysis
 
 ## Definition

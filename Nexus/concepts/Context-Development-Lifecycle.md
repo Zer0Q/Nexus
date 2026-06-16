@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Context Development Lifecycle
+description: 'An SDLC for context assets: created, tested, approved, deployed, retired.
+  Context can no longer live as scattered prompts and isolated team decisions; it
+  bec...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Context Development Lifecycle
 
 ## Definition

@@ -1,10 +1,16 @@
 ---
-title: "RAG Doesn’t Learn — Karpathy’s LLM Wiki Changes the Entire Knowledge Paradigm"
-source: "https://x.com/NainsiDwiv50980/status/2055326391454023864"
-author: "NainsiDwiv50980"
-published: "2026-05-15"
+title: RAG Doesn’t Learn — Karpathy’s LLM Wiki Changes the Entire Knowledge Paradigm
+author: NainsiDwiv50980
+published: '2026-05-15'
 type: article
+resource: https://x.com/NainsiDwiv50980/status/2055326391454023864
+timestamp: '2026-05-15T00:00:00Z'
+description: 'RAG has a fatal flaw nobody talks about: it never actually learns anything.
+  Every time you upload documents into an AI system, the same cycle happens: retrie...'
+tags:
+- summaries
 ---
+
 
 # RAG Doesnt Learn  Karpathys LLM Wiki Changes the Entire Knowledge Paradigm
 

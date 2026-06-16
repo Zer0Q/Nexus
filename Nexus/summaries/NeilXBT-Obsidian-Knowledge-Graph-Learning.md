@@ -1,10 +1,17 @@
 ---
-title: "How to Use Obsidian and Claude to Learn Any Subject Twice as Fast by Building a Knowledge Graph"
-source: "https://x.com/neil_xbt/status/2060607326206206232"
-author: "@neil_xbt"
-published: "2026-05-30"
+title: How to Use Obsidian and Claude to Learn Any Subject Twice as Fast by Building
+  a Knowledge Graph
+author: '@neil_xbt'
+published: '2026-05-30'
 type: article
+resource: https://x.com/neil_xbt/status/2060607326206206232
+timestamp: '2026-05-30T00:00:00Z'
+description: Passive study methods (re-reading, highlighting) create an illusion of
+  knowledge. This article presents a five-module learning system built on [[concepts/Act...
+tags:
+- summaries
 ---
+
 
 # Obsidian Knowledge Graph for Accelerated Learning
 

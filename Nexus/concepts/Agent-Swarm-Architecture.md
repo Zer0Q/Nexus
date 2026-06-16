@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Agent Swarm Architecture
+description: Massively parallel agent execution where hundreds of agents work concurrently
+  on decomposed subtasks, coordinated by a central orchestrator that handles task...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Swarm Architecture
 
 ## Definition

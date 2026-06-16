@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Hardware First Engine Selection
+description: You do not pick an inference engine first. You pick a hardware strategy,
+  a workload shape, and a serving model. The engine follows the answers.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hardware First Engine Selection
 
 ## Definition

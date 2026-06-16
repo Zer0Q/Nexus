@@ -1,3 +1,13 @@
+---
+type: Concept
+title: QLoRA
+description: LoRA applied to a 4-bit quantized base model, combining parameter efficiency
+  (low-rank adaptation) with memory efficiency (quantization) to enable fine-tunin...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # QLoRA
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Automated Capture Pipeline
+description: A system where information flows into the vault automatically from multiple
+  sources (Readwise, Telegram bot, Whisper transcription) without manual copy-pasti...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Automated Capture Pipeline
 
 ## Definition

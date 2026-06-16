@@ -1,3 +1,14 @@
+---
+type: Concept
+title: SOUL-MD Negative Constraints
+description: Hard rules in SOUL.md specifying what the agent must never produce --
+  generic commentary, recaps of known information, flattery before answers, hedging
+  burie...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # SOUL-MD Negative Constraints
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Recursive Self-Improvement
+description: Capacidad de un sistema AI de diseñar, entrenar y desplegar autónomamente
+  su propio sucesor — cerrando el loop donde AI no solo asiste en el desarrollo de
+  AI...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Recursive Self-Improvement
 
 ## Definition

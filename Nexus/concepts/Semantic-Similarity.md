@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Semantic Similarity
+description: Propiedad de embeddings donde tokens con significado similar tienen vectores
+  numéricamente cercanos en el espacio vectorial.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Semantic Similarity
 
 ## Definition

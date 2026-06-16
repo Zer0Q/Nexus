@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Spec-Driven Development
+description: Development methodology where the specification is the central artifact.
+  The spec drives planning, task decomposition, architecture decisions, and implementa...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Spec-Driven Development
 
 ## Definition

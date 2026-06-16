@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Quantization Format Portability
+description: Quantization formats (GGUF, EXL2, EXL3, AWQ, GPTQ, FP8, FP4, MLX, ONNX)
+  are engine-specific and not interchangeable. The right format is the one your target
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Quantization Format Portability
 
 ## Definition

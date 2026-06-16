@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Management of Change
+description: A formal process for reviewing, approving, and documenting modifications
+  to alarm systems before they are implemented. Ensures that changes to alarms (setpoi...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Management of Change
 
 ## Definition

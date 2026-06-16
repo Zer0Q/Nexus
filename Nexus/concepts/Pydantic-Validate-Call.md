@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Pydantic @validate_call
+description: Decorator that applies Pydantic validation to regular Python function
+  arguments. Type annotations on parameters become validation rules, eliminating manual
+  i...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic @validate_call
 
 ## Definition

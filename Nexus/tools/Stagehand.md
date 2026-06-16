@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Stagehand
+description: TypeScript-native browser automation built on Playwright. Tell it what
+  to do in plain English ("click the login button", "extract the price") and it figures
+  ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Stagehand
 
 ## Definition

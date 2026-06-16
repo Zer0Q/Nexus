@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Unified Memory Tradeoff
+description: Apple Silicon's unified memory architecture gives CPU and GPU shared
+  access to the same memory pool, enabling larger model capacity at the cost of lower
+  band...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Unified Memory Tradeoff
 
 ## Definition

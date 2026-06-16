@@ -1,10 +1,18 @@
 ---
-title: "Here is how I moved my entire AI Workflow Offline: Obsidian + LM Studio + Local LLM Plugins"
-source: "https://x.com/KanikaBK/status/2059177736648987072"
-author: "@KanikaBK"
-published: 2026-05-26
+title: 'Here is how I moved my entire AI Workflow Offline: Obsidian + LM Studio +
+  Local LLM Plugins'
+author: '@KanikaBK'
+published: &id001 2026-05-26
 type: article
+resource: https://x.com/KanikaBK/status/2059177736648987072
+timestamp: *id001
+description: Author moved from cloud AI (Claude, ChatGPT) to a fully local AI stack
+  after a privacy concern about sending confidential client data to cloud servers.
+  The o...
+tags:
+- summaries
 ---
+
 
 # Moving Your Entire AI Workflow Offline
 

@@ -1,3 +1,13 @@
+---
+type: Tool
+title: vLLM
+description: The default open-source production server for LLM inference. Offers PagedAttention,
+  continuous batching, chunked prefill, prefix caching, extensive quantizat...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # vLLM
 
 ## Definition

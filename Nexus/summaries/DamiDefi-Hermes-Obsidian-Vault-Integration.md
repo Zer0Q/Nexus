@@ -1,10 +1,18 @@
 ---
-title: "I Connected Hermes Agent to My Obsidian Vault. My Research Operation Changed Overnight."
-source: "https://x.com/DamiDefi/status/2060653619116974089"
-author: "@DamiDefi"
-published: "2026-05-30"
+title: I Connected Hermes Agent to My Obsidian Vault. My Research Operation Changed
+  Overnight.
+author: '@DamiDefi'
+published: '2026-05-30'
 type: article
+resource: https://x.com/DamiDefi/status/2060653619116974089
+timestamp: '2026-05-30T00:00:00Z'
+description: DamiDefi connected Hermes Agent to his Obsidian vault, transforming from
+  a passive Q&A tool into an active research partner. The key differentiator from
+  Clau...
+tags:
+- summaries
 ---
+
 
 # DamiDefi Hermes Obsidian Vault Integration
 

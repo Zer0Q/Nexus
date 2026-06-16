@@ -1,10 +1,16 @@
 ---
-title: "Tacit Knowledge Is Your Next Competitive Moat"
-source: "https://cmr.berkeley.edu/2026/03/tacit-knowledge-is-your-next-competitive-moat/"
-author: "Teresa Tung and Philippe Roussiere"
-published: "2026-03-16"
+title: Tacit Knowledge Is Your Next Competitive Moat
+author: Teresa Tung and Philippe Roussiere
+published: '2026-03-16'
 type: article
+resource: https://cmr.berkeley.edu/2026/03/tacit-knowledge-is-your-next-competitive-moat/
+timestamp: '2026-03-16T00:00:00Z'
+description: Berkeley CMR article arguing that tacit knowledge (expert judgment, heuristics,
+  situational awareness) is the real differentiator in the age of agentic AI. F...
+tags:
+- summaries
 ---
+
 
 # Tacit Knowledge as Competitive Moat
 

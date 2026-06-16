@@ -1,3 +1,14 @@
+---
+type: Concept
+title: RAG-then-Long-Context
+description: 'Two-stage retrieval pipeline: first phase uses traditional RAG to filter
+  the 50-200 most relevant documents from millions of records; second phase loads
+  this...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # RAG-then-Long-Context
 
 ## Definition

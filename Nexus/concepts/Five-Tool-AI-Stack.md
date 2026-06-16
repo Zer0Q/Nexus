@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Five-Tool AI Stack
+description: 'A five-layer AI stack where each tool owns a distinct operational layer:
+  Claude (reasoning and context), Obsidian (memory), Kimi K2.6/open models (orchestrat...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Five-Tool AI Stack
 
 ## Definition

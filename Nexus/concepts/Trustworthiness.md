@@ -2,10 +2,13 @@
 created: 2026-05-28
 type: glossary
 tags:
-  - ai
-  - governance
-  - iso
+- ai
+- governance
+- iso
+description: '- **Robustness** -- maintaining performance under unexpected or adversarial
+  conditions - **Explainability** -- expressing factors influencing outputs in huma...'
 ---
+
 
 # Trustworthiness
 

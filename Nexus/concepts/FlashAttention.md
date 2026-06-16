@@ -1,3 +1,13 @@
+---
+type: Concept
+title: FlashAttention
+description: Algoritmo de attention optimizado que reduce reads/writes de high-bandwidth
+  memory (HBM), haciendo attention órdenes de magnitud más rápido sin cambiar el re...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # FlashAttention
 
 ## Definition

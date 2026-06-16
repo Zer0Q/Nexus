@@ -1,3 +1,13 @@
+---
+type: Concept
+title: OCR (Optical Character Recognition)
+description: Technology that converts images of text (scanned documents, photos, screenshots)
+  into machine-readable text. In AI workflows, OCR is the bridge between visua...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # OCR (Optical Character Recognition)
 
 ## Definition

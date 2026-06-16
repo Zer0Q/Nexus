@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Scaling Laws
+description: Relaciones power-law que cuantifican cómo el loss cambia con model size,
+  data size y compute — prediciendo el rendimiento de modelos antes de entrenarlos.
+  Co...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Scaling Laws
 
 ## Definition

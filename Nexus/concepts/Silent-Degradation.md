@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Silent Degradation
+description: Covert alteration or downgrading of model outputs without user notification.
+  Unlike visible refusals, silent degradation makes a tool untrustworthy rather th...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Silent Degradation
 
 ## Definition

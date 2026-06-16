@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Productivity Theater
+description: Endless optimization of tools, systems, folder structures, plugins, and
+  templates that masquerades as productivity but is actually procrastination. The
+  activ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Productivity Theater
 
 ## Definition

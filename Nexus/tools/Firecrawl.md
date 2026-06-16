@@ -1,3 +1,13 @@
+---
+type: Tool
+title: Firecrawl
+description: URL-to-markdown/JSON scraper with 125,000 GitHub stars. Handles JavaScript
+  rendering, CAPTCHAs, and dynamic content automatically. Native Claude MCP integrat...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Firecrawl
 
 ## Definition

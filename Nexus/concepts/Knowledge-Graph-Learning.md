@@ -1,7 +1,16 @@
 ---
 type: concept
-related: [Knowledge-Graph-as-Semantic-Layer, Connection-Protocol, Sequential-vs-Network-Learning]
+related:
+- Knowledge-Graph-as-Semantic-Layer
+- Connection-Protocol
+- Sequential-vs-Network-Learning
+description: An approach to learning that structures notes as a network of connected
+  concept nodes rather than a linear collection. Every new concept is connected to
+  exis...
+tags:
+- concepts
 ---
+
 
 # Knowledge-Graph-Learning
 

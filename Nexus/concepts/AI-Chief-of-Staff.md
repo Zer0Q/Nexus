@@ -1,3 +1,14 @@
+---
+type: Concept
+title: AI Chief of Staff
+description: An AI system that reads everything you've read, remembers everything
+  you've forgotten, and briefs you every morning on what matters. Acts as a personal
+  intel...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # AI Chief of Staff
 
 ## Definition

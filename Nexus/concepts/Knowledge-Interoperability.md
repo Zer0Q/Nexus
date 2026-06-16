@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Knowledge Interoperability
+description: Capacidad de knowledge bases escritas por diferentes producers (teams,
+  vendors, frameworks) de ser consumidas por diferentes consumers (agents, tools,
+  humans...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Knowledge Interoperability
 
 ## Definition

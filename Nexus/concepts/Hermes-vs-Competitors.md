@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Hermes vs Competitors
+description: Positional comparison of Hermes Agent against OpenClaw, Claude Code,
+  and Codex. Each tool serves a different job — the key insight is using them complementar...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Hermes vs Competitors
 
 ## Definition

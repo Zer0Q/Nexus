@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Pydantic Model Config
+description: Model-wide configuration via ConfigDict (V2) or Config class (V1). Controls
+  validation behavior, serialization, extra field handling, and naming conventions.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic Model Config
 
 ## Definition

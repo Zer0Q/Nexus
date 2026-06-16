@@ -1,3 +1,13 @@
+---
+type: Tool
+title: NotebookLM
+description: Google's AI-powered research tool that grounds responses in user-provided
+  source documents, enabling fact-based Q&A over custom knowledge bases.
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # NotebookLM
 
 ## Definition

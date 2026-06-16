@@ -1,10 +1,17 @@
 ---
-title: "La ineficiencia oculta de JSON frente a la revolución de TOON"
-source: "https://www.codemotion.com/magazine/es/inteligencia-artificial/la-ineficiencia-oculta-de-json-frente-a-la-revolucion-de-toon/"
-author: "Orli Dun"
-published: "2025-12-16"
+title: La ineficiencia oculta de JSON frente a la revolución de TOON
+author: Orli Dun
+published: '2025-12-16'
 type: article
+resource: https://www.codemotion.com/magazine/es/inteligencia-artificial/la-ineficiencia-oculta-de-json-frente-a-la-revolucion-de-toon/
+timestamp: '2025-12-16T00:00:00Z'
+description: 'Análisis de la ineficiencia de JSON como formato de serialización para
+  LLMs: consume 15-25% de tokens en sintaxis pura (comillas, llaves, espacios, claves
+  re...'
+tags:
+- summaries
 ---
+
 
 # TOON vs JSON: Reduciendo tokens en comunicación con LLMs
 

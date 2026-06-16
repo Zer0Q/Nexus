@@ -1,3 +1,14 @@
+---
+type: Concept
+title: OCR Clinical Document Processing
+description: Converting scanned medical PDFs, lab reports, and clinical images into
+  machine-readable text using OCR (Optical Character Recognition), then verifying
+  the ou...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # OCR Clinical Document Processing
 
 ## Definition

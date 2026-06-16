@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Single-Agent RAG
+description: Arquitectura simple de agentic RAG donde un agente/router decide qué
+  knowledge source consultar entre múltiples fuentes (vector DB, web search, APIs,
+  Slack, ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Single-Agent RAG
 
 ## Definition

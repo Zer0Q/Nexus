@@ -1,10 +1,17 @@
 ---
-title: "Practical Pydantic: Data Transformation, Aliases, and Validators"
-source: "https://dev.to/mechcloud_academy/practical-pydantic-data-transformation-aliases-and-validators-16c2"
-author: "Torque"
-published: "2025-05-05"
+title: 'Practical Pydantic: Data Transformation, Aliases, and Validators'
+author: Torque
+published: '2025-05-05'
 type: article
+resource: https://dev.to/mechcloud_academy/practical-pydantic-data-transformation-aliases-and-validators-16c2
+timestamp: '2025-05-05T00:00:00Z'
+description: 'Practical guide to Pydantic''s advanced data handling features: custom
+  validators (field and root level), pre/post validation timing, field aliases for
+  API in...'
+tags:
+- summaries
 ---
+
 
 # Pydantic Data Transformation, Aliases, and Validators
 

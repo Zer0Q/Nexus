@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Multi-Agent Org Chart
+description: Profile-based multi-agent setup where each Hermes agent instance has
+  a distinct role (Chief of Staff, Head of Research, Head of Content, DevOps Engineer).
+  Ea...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Multi-Agent Org Chart
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Tool
+title: Inbox-First Capture
+description: A capture strategy where all incoming information (links, highlights,
+  ideas) lands in a single unorganised inbox first, and is only categorised or processed
+  ...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Inbox-First Capture
 
 ## Definition

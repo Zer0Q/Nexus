@@ -1,3 +1,13 @@
+---
+type: Concept
+title: RLHF
+description: Reinforcement Learning from Human Feedback — proceso de post-training
+  que convierte un base model (que predice texto) en un assistant que sigue instrucciones...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # RLHF
 
 ## Definition

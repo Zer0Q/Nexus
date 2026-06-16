@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Ephemeral vs Persistent AI Interaction
+description: 'Two paradigms for AI interaction: ephemeral (chat-per-session, context
+  disappears) vs. persistent (rulebook that survives across sessions, tasks, and agents).'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Ephemeral vs Persistent AI Interaction
 
 ## Definition

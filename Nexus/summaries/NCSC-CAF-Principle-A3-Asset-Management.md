@@ -1,10 +1,17 @@
 ---
-title: "Principle A3 Asset Management"
-source: "https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a3-asset-management"
-author: "NCSC"
-published: "2024-03-26"
+title: Principle A3 Asset Management
+author: NCSC
+published: '2024-03-26'
 type: article
+resource: https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk/principle-a3-asset-management
+timestamp: '2024-03-26T00:00:00Z'
+description: NCSC CAF Principle A3 requires appropriate organisational structures,
+  policies, processes and procedures to understand, assess and systematically manage
+  secu...
+tags:
+- summaries
 ---
+
 
 # NCSC CAF Principle A3 — Asset Management
 

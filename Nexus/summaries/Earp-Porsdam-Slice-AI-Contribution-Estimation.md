@@ -1,10 +1,18 @@
 ---
-title: "(PDF) Mapping Human and AI Contributions Across Stages of Academic Writing Using SLICE"
-source: "https://www.researchgate.net/publication/406991607_Mapping_Human_and_AI_Contributions_Across_Stages_of_Academic_Writing_Using_SLICE-A_Preliminary_LLM-Based_Method"
-author: "Brian D. Earp, Sebastian Porsdam Mann"
-published: "2026-06-12"
+title: (PDF) Mapping Human and AI Contributions Across Stages of Academic Writing
+  Using SLICE
+author: Brian D. Earp, Sebastian Porsdam Mann
+published: '2026-06-12'
 type: article
+resource: https://www.researchgate.net/publication/406991607_Mapping_Human_and_AI_Contributions_Across_Stages_of_Academic_Writing_Using_SLICE-A_Preliminary_LLM-Based_Method
+timestamp: '2026-06-12T00:00:00Z'
+description: Earp y Porsdam Mann proponen SLICE (Stage-Level LLM-Inferred Contribution
+  Estimation), un método ligero para estimar la contribución relativa de humanos vs.
+  ...
+tags:
+- summaries
 ---
+
 
 # SLICE: AI Contribution Estimation Method
 

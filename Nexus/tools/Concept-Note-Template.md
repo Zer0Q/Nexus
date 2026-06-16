@@ -1,7 +1,15 @@
 ---
 type: framework
-related: [Active-Recall-Learning, Mastery-Score-Tracking, Structured-Source-Notes]
+related:
+- Active-Recall-Learning
+- Mastery-Score-Tracking
+- Structured-Source-Notes
+description: A structured format for learning notes that captures one idea precisely
+  enough to be tested on and connected to other ideas. Includes frontmatter with concep...
+tags:
+- tools
 ---
+
 
 # Concept-Note-Template
 

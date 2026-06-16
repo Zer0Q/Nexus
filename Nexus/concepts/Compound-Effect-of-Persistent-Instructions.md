@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Compound Effect of Persistent Instructions
+description: AI behavior instructions stored in persistent files accumulate value
+  over time — each rule added prevents future mistakes, and the total benefit grows
+  non-li...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Compound Effect of Persistent Instructions
 
 ## Definition

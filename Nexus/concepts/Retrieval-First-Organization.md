@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Retrieval-First Organization
+description: Designing a knowledge system backward from retrieval rather than forward
+  from capture. The primary question is "how will I find this when I need it?" not
+  "wh...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Retrieval-First Organization
 
 ## Definition

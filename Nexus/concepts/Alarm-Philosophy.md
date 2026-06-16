@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Alarm Philosophy
+description: A documented framework that defines alarm objectives, prioritization
+  schemes, classification rules, design principles, and lifecycle management requirements....
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Alarm Philosophy
 
 ## Definition

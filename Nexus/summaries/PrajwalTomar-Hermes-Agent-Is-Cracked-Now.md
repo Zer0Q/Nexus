@@ -1,10 +1,17 @@
 ---
-title: "Hermes Agent Is CRACKED Now And Most Builders Have No Idea What It Actually Is."
-source: "https://x.com/PrajwalTomar_/status/2064324584254710262"
-author: "@PrajwalTomar_"
-published: "2026-06-09"
+title: Hermes Agent Is CRACKED Now And Most Builders Have No Idea What It Actually
+  Is.
+author: '@PrajwalTomar_'
+published: '2026-06-09'
 type: article
+resource: https://x.com/PrajwalTomar_/status/2064324584254710262
+timestamp: '2026-06-09T00:00:00Z'
+description: Prajwal Tomar provides a practical setup guide for Hermes Agent, contrasting
+  it with session-based agents (Claude Code, Cursor, Codex) that lose context betw...
+tags:
+- summaries
 ---
+
 
 # Hermes Agent Is CRACKED Now And Most Builders Have No Idea What It Actually Is
 

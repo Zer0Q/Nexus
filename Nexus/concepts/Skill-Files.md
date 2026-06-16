@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Skill Files
+description: 'Documentos markdown reutilizables que enseñan al modelo CÓMO hacer algo,
+  no QUÉ hacer. Funcionan como una "method call": toman parámetros y producen resultad...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Skill Files
 
 ## Definition

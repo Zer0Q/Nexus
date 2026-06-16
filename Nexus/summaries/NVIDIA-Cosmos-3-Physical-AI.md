@@ -1,10 +1,18 @@
 ---
-title: "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3"
-source: "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/"
-author: "Asawaree Bhide"
-published: "2026-06-01"
+title: Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos
+  3
+author: Asawaree Bhide
+published: '2026-06-01'
 type: article
+resource: https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/
+timestamp: '2026-06-01T00:00:00Z'
+description: NVIDIA Cosmos 3 unifies physical reasoning, world generation, and action
+  generation in a single Mixture-of-Transformers model with two towers (reasoner +
+  gen...
+tags:
+- summaries
 ---
+
 
 # NVIDIA Cosmos 3 Physical AI
 

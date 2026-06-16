@@ -1,3 +1,13 @@
+---
+type: Concept
+title: LoRA
+description: Low-Rank Adaptation — freezes the base model weights and trains two low-rank
+  matrices (A and B) as the update, resulting in 95-99% fewer parameters to fine-t...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # LoRA
 
 ## Definition

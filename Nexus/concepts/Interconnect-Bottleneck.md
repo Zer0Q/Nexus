@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Interconnect Bottleneck
+description: When a model spans multiple GPUs, communication between GPUs via interconnect
+  (PCIe, NVLink, RDMA, Ethernet) becomes the dominant bottleneck, not individual ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Interconnect Bottleneck
 
 ## Definition

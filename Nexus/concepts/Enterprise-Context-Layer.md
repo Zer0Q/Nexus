@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Enterprise Context Layer
+description: The system that turns knowledge, expertise, and norms into machine-usable
+  context for AI agents across an enterprise. It serves as a shared enterprise brain
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Enterprise Context Layer
 
 ## Definition

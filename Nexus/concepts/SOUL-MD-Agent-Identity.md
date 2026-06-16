@@ -1,3 +1,14 @@
+---
+type: Concept
+title: SOUL.md Agent Identity
+description: A concise identity file (SOUL.md) that defines an agent's personality,
+  values, constraints, and operational boundaries — making the agent push back, hold
+  sta...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # SOUL.md Agent Identity
 
 ## Definition

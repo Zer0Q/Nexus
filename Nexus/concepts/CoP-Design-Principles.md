@@ -1,3 +1,13 @@
+---
+type: Concept
+title: CoP Design Principles
+description: 'Wenger''s seven principles for designing effective Communities of Practice:
+  treat the community as a living organism, maintain permeability to external ideas,...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # CoP Design Principles
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Outcome Driven Research
+description: Choosing an outcome you genuinely want to exist and reasoning backwards
+  to the experiments needed to achieve it, rather than reading the literature and
+  hunti...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Outcome Driven Research
 
 ## Definition

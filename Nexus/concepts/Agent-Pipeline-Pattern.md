@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Agent Pipeline Pattern
+description: Sequential agent workflow where each agent produces a structured output
+  that becomes the next agent's input, connected by handoff files in a shared pipeline
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Pipeline Pattern
 
 ## Definition

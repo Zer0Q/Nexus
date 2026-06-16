@@ -1,3 +1,13 @@
+---
+type: Index
+title: Vault Index
+description: '- **Embeddings** — AI-Vault-Integration, Knowledge-Management, Local-AI,
+  Research-Workflow - **Smart-Connections-Plugin** — AI-Vault-Integration, Knowledge-M...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Vault Index
 
 ## Overview

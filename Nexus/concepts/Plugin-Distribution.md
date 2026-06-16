@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Plugin Distribution
+description: Patrón de empaquetado de skills, agents, hooks y commands en un plugin
+  instalable que distribuye comportamiento personalizado a todo un equipo con una
+  sola i...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Plugin Distribution
 
 ## Definition

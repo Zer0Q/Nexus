@@ -1,10 +1,18 @@
 ---
-title: "I Replaced My Entire Research Stack With Obsidian and Claude. Here Is the Full System."
-source: "https://x.com/DamiDefi/status/2059266442957058414"
-author: "@DamiDefi"
-published: "2026-05-26"
+title: I Replaced My Entire Research Stack With Obsidian and Claude. Here Is the Full
+  System.
+author: '@DamiDefi'
+published: '2026-05-26'
 type: article
+resource: https://x.com/DamiDefi/status/2059266442957058414
+timestamp: '2026-05-26T00:00:00Z'
+description: Reemplazo de un stack de 5 herramientas (Notion, Readwise, X bookmarks,
+  browser bookmarks, ChatGPT) por un único vault de Obsidian con Claude como capa
+  de in...
+tags:
+- summaries
 ---
+
 
 # Obsidian + Claude Research Stack
 

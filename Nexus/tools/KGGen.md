@@ -1,3 +1,13 @@
+---
+type: Tool
+title: KGGen
+description: Knowledge graph generation system focused on entity resolution and normalization.
+  Uses iterative clustering and semantic disambiguation to reduce graph fragm...
+tags:
+- tools
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # KGGen
 
 ## Definition

@@ -1,10 +1,17 @@
 ---
-title: "Hermes Has a Browser Escape Hatch Most Agents Don’t"
-source: "https://x.com/NeoAIForecast/status/2047521653954089113"
-author: "NeoAIForecast"
-published: "2026-04-24"
+title: Hermes Has a Browser Escape Hatch Most Agents Don’t
+author: NeoAIForecast
+published: '2026-04-24'
 type: article
+resource: https://x.com/NeoAIForecast/status/2047521653954089113
+timestamp: '2026-04-24T00:00:00Z'
+description: Most AI browser agents break when the page gets weird. A button hides
+  inside an iframe. A native dialog blocks execution. A cookie issue ruins the session.
+  A...
+tags:
+- summaries
 ---
+
 
 # Hermes Has a Browser Escape Hatch Most Agents Dont
 

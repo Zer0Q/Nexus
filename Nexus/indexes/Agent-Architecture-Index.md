@@ -1,3 +1,13 @@
+---
+type: Index
+title: Agent Architecture Index
+description: '## Tools - [[tools/Claude-Code]] -- IDE de agente de Anthropic con arquitectura
+  de 5 capas - [[tools/Hermes-Agent]] -- Framework de agente con memoria persis...'
+tags:
+- indexes
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Agent Architecture Index
 
 ## Overview

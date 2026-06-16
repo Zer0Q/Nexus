@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Map of Content (MOC)
+description: A note whose primary purpose is to link to other notes rather than contain
+  original ideas. An index hub for a cluster of 20+ related notes, making an entire
+  ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Map of Content (MOC)
 
 ## Definition

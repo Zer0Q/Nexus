@@ -1,10 +1,17 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2051793738209669554"
-author: "@santtiagom_"
-published: "2026-05-03"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-05-03'
 type: article
+resource: https://x.com/santtiagom_/status/2051793738209669554
+timestamp: '2026-05-03T00:00:00Z'
+description: '@santtiagom_ resume la arquitectura de Claude Code en 5 capas: memoria
+  persistente (CLAUDE.md), conocimiento modular (Skills), control de calidad (Hooks),
+  de...'
+tags:
+- summaries
 ---
+
 
 # Claude Code Architecture: 5 Layers
 

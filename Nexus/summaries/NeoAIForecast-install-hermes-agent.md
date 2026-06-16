@@ -1,10 +1,17 @@
 ---
-title: "How to Install Hermes Agent"
-source: "https://x.com/NeoAIForecast/status/2042104090965262677"
-author: "NeoAIForecast"
-published: "2026-04-09"
+title: How to Install Hermes Agent
+author: NeoAIForecast
+published: '2026-04-09'
 type: article
+resource: https://x.com/NeoAIForecast/status/2042104090965262677
+timestamp: '2026-04-09T00:00:00Z'
+description: 'The smoothest way to install Hermes Agent is to treat it as a short
+  onboarding sequence, not a big setup project: run the official installer, reload
+  your she...'
+tags:
+- summaries
 ---
+
 
 # How to Install Hermes Agent
 

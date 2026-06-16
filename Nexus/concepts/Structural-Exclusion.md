@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Structural Exclusion
+description: Fenómeno donde modelos pequeños no pueden aprender ciertas regiones de
+  la distribución de datos, incluso con entrenamiento infinito. No es una brecha de
+  efic...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Structural Exclusion
 
 ## Definition

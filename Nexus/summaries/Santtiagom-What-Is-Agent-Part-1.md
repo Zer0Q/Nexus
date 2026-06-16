@@ -1,10 +1,17 @@
 ---
-title: "Post by @santtiagom_ on X"
-source: "https://x.com/santtiagom_/status/2065230988800647419"
-author: "@santtiagom_"
-published: "2026-06-11"
+title: Post by @santtiagom_ on X
+author: '@santtiagom_'
+published: '2026-06-11'
 type: article
+resource: https://x.com/santtiagom_/status/2065230988800647419
+timestamp: '2026-06-11T00:00:00Z'
+description: '@santtiagom_ explica que un agente es más simple de lo que parece: un
+  modelo que genera tokens + tools para actuar en el mundo + context para información
+  + m...'
+tags:
+- summaries
 ---
+
 
 # What is an Agent: Part 1
 

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Alarm Monitoring and Assessment
+description: The ongoing tracking and evaluation of alarm system performance metrics
+  — alarm rates, standing alarms, operator response times, flood frequency — to identif...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Alarm Monitoring and Assessment
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Skill File Library Growth
+description: The compounding growth of agent-authored skill files over time. In six
+  weeks of connected Hermes-Obsidian operation, the skill library grew from zero to
+  23 e...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Skill File Library Growth
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: MCP Client
+description: Aplicación AI (Claude, ChatGPT, VS Code, Cursor) que consume tools y
+  data de MCP servers a través del Model Context Protocol.
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # MCP Client
 
 ## Definition

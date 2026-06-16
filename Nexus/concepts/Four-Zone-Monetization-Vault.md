@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Four-Zone Monetization Vault
+description: 'A vault structure collapsed into four zones optimized backward from
+  revenue-producing output: 00-CAPTURE (raw intake), 01-CONTEXT (processed knowledge),
+  02-P...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Four-Zone Monetization Vault
 
 ## Definition

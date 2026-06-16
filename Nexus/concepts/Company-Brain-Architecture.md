@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Company Brain Architecture
+description: 'Sistema de 5 capas que convierte conocimiento disperso (calls, CRM,
+  SOPs, Slack) en inteligencia operativa reutilizable: Capture → Retrieval → Source
+  Truth →...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Company Brain Architecture
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Decentralized Agent Teams
+description: A multi-agent architecture where agents self-organize around promising
+  hypotheses without a central planner. Agents interpret shared experimental state,
+  form...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Decentralized Agent Teams
 
 ## Definition

@@ -1,3 +1,13 @@
+---
+type: Concept
+title: Pydantic JSON Schema
+description: Automatic JSON Schema generation from Pydantic models via model_json_schema().
+  Produces a standard JSON Schema document describing field types, constraints, ...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Pydantic JSON Schema
 
 ## Definition

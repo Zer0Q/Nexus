@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Runtime Monitoring
+description: A supervisor or monitoring layer that watches intended agent workflow
+  flow vs actual flow, catches failures mid-run, and patches issues autonomously.
+  Prevent...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Runtime Monitoring
 
 ## Definition

@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Model Serving
+description: The infrastructure layer between downloaded models and API endpoints,
+  responsible for request parallelization, memory management, inference optimization,
+  and...
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Model Serving
 
 ## Definition

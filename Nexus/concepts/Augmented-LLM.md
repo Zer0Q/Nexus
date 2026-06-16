@@ -1,3 +1,14 @@
+---
+type: Concept
+title: Augmented LLM
+description: 'Foundational building block of agentic systems: an LLM enhanced with
+  retrieval, tools, and memory. The LLM actively uses these capabilities -- generating
+  sea...'
+tags:
+- concepts
+timestamp: '2026-06-16T13:58:58Z'
+---
+
 # Augmented LLM
 
 ## Definition
