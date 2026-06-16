@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Cómo crear Loops con Claude.md",
+                "file": "raw/Thin Harness, Fat Skills.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cómo crear Loops con Claude"
+              "title": "Thin Harness, Fat Skills"
             }
           }
         ]
@@ -50,11 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -184,44 +184,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "fb666f8d78111ca5",
   "lastOpenFiles": [
-    "raw/Loop-Driven Development The Next Layer of AI Coding.md",
-    "raw/(PDF) Mapping Human and AI Contributions Across Stages of Academic Writing Using SLICE—A Preliminary LLM-Based Method.md",
-    "raw/100 Lessons From Building a 100-Person Org.md",
-    "raw/Your RAG Pipeline Is Already Obsolete.md",
-    "raw/How the Open Knowledge Format can improve data sharing.md",
-    "raw/How to Build Your Own J.A.R.V.I.S (Full Guide).md",
-    "raw/How to Run 300 AI Agents From One Prompt. 10 Workflows Most People Skip.md",
-    "raw-notes/wire-hermes-obsidian-notebooklm-2026-build-guide.md",
-    "raw-notes/10-ai-concepts-every-builder-must-understand-before-writing-a-single-line-of-code.md",
-    "raw/Cómo crear Loops con Claude.md",
+    "raw/Revenue Engineering How to turn AI loops into revenue.md",
+    "raw/@santtiagom_ Learning hermes - Part 2.md",
+    "raw/@santtiagom_ Learning hermes - Part 1.md",
+    "raw/@santtiagom_ Learning claude code - Part 4.md",
+    "raw/@santtiagom_ Learning claude code - Part 3.md",
+    "raw/@santtiagom_ What is an agent - Part 7.md",
+    "raw/@santtiagom_ What is an agent - Part 6 (harness).md",
+    "raw/@santtiagom_ What is an agent - Part 5.md",
+    "raw/@santtiagom_ Learning claude code - Part 2.md",
+    "raw/@santtiagom_ What is an agent - Part 3.md",
+    "raw/@santtiagom_ What is an agent - Part 2.md",
+    "raw/@santtiagom_ What is an agent - Part 1.md",
+    "raw/@santtiagom_ Learning claude code - Part 1.md",
+    "raw/@alexxubyte What is an agent - Part 4 (loop).md",
+    "raw/How to become so creative it feels illegal.md",
+    "raw/From Tokenmaxxing to Tokenoptimizing - Analyst POV @ SuperAI.md",
+    "raw/A frontier without an ecosystem is not stable.md",
+    "raw/@LearnWithBrij - Learning claude code - part 3.md",
+    "raw/Thin Harness, Fat Skills.md",
+    "raw/SKILLS en Claude Code la guía completa para empezar hoy.md",
+    "Untitled",
+    "raw/The 2026 LLM Engineering Roadmap (with free and 100% open-source resources).md",
+    "indexes/concepts-needing-augmentation.md",
+    "summaries/InduTripati-Hermes-Agent-276-Use-Cases.md",
+    "raw-notes/276-hermes-use-cases.md",
+    "indexes/Vault-Index.md",
     "raw",
-    "raw/Anthropic's War on Opensource AI.md",
-    "raw/Loops What Every AI Engineer Needs to Know in 2026.md",
-    "summaries/AddyOsmani-Loop-Engineering.md",
-    "raw/how to be good at research.md",
-    "raw/Hermes Agent Is CRACKED Now And Most Builders Have No Idea What It Actually Is.md",
-    "summaries/Tonbis-What-Actually-Are-Loops.md",
-    "concepts/Structural-Exclusion.md",
-    "concepts/Harness-Engineering.md",
-    "concepts/Loop-Engineering.md",
-    "raw-notes/what-actually-are-loops-and-do-i-need-them.md",
-    "raw/Cómo montar un server de inferencia para servir modelos de IA  My Blog.md",
-    "concepts/Context-Maturity-Spectrum.md",
-    "concepts/Context-Layer-Taxonomy.md",
-    "summaries/BouBalust-Context-Layer-Landscape.md",
-    "summaries/TheAhmadOsman-Inference-Engines-and-Local-AI-Hardware.md",
-    "concepts/Unified-Memory-Tradeoff.md",
     "summaries",
     "raw-notes",
     "source-notes",
@@ -230,7 +230,6 @@
     "source_notes",
     "glossary",
     "workflows",
-    "architectures",
-    "tools"
+    "architectures"
   ]
 }
