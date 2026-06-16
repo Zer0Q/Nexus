@@ -1,36 +1,31 @@
 # Agent Loop
 
 ## Definition
-A recurring, self-verifying agent process. Something kicks it off, the agent does work, checks its own work against a signal, then either runs again or stops and calls a human. You write the structure once, and from then on the machine is the thing prompting the model.
+Bucle fundamental de un agente: observar el estado actual → decidir acción con el LLM → ejecutar → evaluar resultado → repetir hasta completar el objetivo. Es lo que diferencia un agente de un modelo que solo responde preguntas.
 
 ## Why It Matters
-Manual prompting is a linear bottleneck — one human, one turn at a time. Loops automate the feedback cycle: trigger, act, verify, repeat. They only pay off when the work has two properties: it repeats, and the agent can check whether it got the answer right.
-
-## Anatomy
-- **Trigger** — schedule, event, or condition that starts the loop
-- **Context** — what the agent needs to know (skills, project knowledge, prior state)
-- **Tools** — what the agent can do (filesystem, git, APIs, MCP connectors)
-- **Verification** — how the agent checks its own work (tests, benchmarks, proof gates)
-- **Repeat condition** — when to continue iterating
-- **Stop rule** — when to halt and call a human
+El loop permite perseguir objetivos autónomamente. Sin loop, el agente solo puede hacer una pregunta y recibir una respuesta. Con loop, puede iterar, corregir y mejorar hasta alcanzar el objetivo.
 
 ## Key Ideas
-- Skip verification and you don't have a loop — you have a token bonfire with a calendar invite
-- A mature loop turns repeated steps into scripts rather than calling the model for the same operation repeatedly
-- Loops compound through memory: every failure becomes future context (CLAUDE.md, AGENTS.md)
-- The annoyance signal: when you're annoyed doing repetitive observation for an agent, it's ready to be looped
+- Secuencia: ejecutar → observar → validar → corregir → repetir
+- El LLM selecciona la acción basándose en el estado actual
+- La evaluación decide si continuar o dar una respuesta final
+- Más autonomía requiere más guardrails en el loop
+- Las mejores empresas "dejan de promptear y empiezan a construir loops"
 
 ## Tradeoffs
-- Only effective for repetitive, verifiable work (PR maintenance, flaky tests, profiling)
-- One-off, exploratory, or hard-to-verify work is the wrong fit
-- Requires real guardrails before running unattended: auto-verification and sane stop conditions
+- Más iteraciones = mejor resultado pero mayor costo
+- El loop puede entrar en ciclos infinitos sin stop condition adecuada
+- Cada iteración acumula contexto que puede degradar la calidad
 
 ## Related
-- [[concepts/Loop-Engineering]]
-- [[concepts/Evaluator-Optimizer-Workflow]]
-- [[concepts/Agent-Reflection-Self-Correction]]
-- [[concepts/Durable-Agent-Execution]]
-- [[concepts/Goal-Driven-Agents]]
+- [[concepts/Agent-Architecture]]
+- [[concepts/Evidence-Validation]]
+- [[concepts/Agent-Guardrails]]
+- 
 
 ## Source
-[[summaries/AddyOsmani-Loop-Engineering]], [[summaries/Tonbis-What-Actually-Are-Loops]]
+[[summaries/Alexxubyte-Agent-Anatomy-Loop]]
+[[summaries/Santtiagom-What-Is-Agent-Part-1]]
+[[summaries/Santtiagom-What-Is-Agent-Part-6-Harness]]
+[[summaries/Ericosiu-Revenue-Engineering-Loops]]

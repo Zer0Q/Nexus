@@ -46,7 +46,7 @@ Este índice lista conceptos del vault que fueron creados como placeholders vac�
 |----------|-----------|-------|
 | [[concepts/SDD]] | 21c33dc | Spec-Driven Development, ver [[concepts/Spec-Driven-Development]] |
 | [[concepts/PRD]] | 21c33dc | Product Requirements Doc, sigla sin definición |
-| [[concepts/TOC]] | 0ff6795 | Theory of Constraints, ver [[concepts/Theory-of-Constraints]] |
+| [[concepts/TOC]] | 0ff6795 | Theory of Constraints, ver [[tools/Theory-of-Constraints]] |
 | [[concepts/FTS5]] | 8418927 | Full-Text Search 5, especificación SQLite |
 | [[concepts/VELLUM-MD]] | 4e472fe | Formato Vellum, sigla sin definición |
 

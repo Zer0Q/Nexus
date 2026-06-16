@@ -1,22 +1,29 @@
 # Context Engineering
 
 ## Definition
-Disciplina de curación sistemática e inyección de información específica de proyecto en la memoria de trabajo de agentes IA: diagramas arquitectónicos, estándares de codificación, reglas de negocio, convenciones de equipo y flujos de trabajo reutilizables.
+Diseñar intencionalmente el contexto que se pasa al modelo para compensar la naturaleza stateless de los LLMs. Incluye qué información incluir, cómo organizarla, cuándo resumir y cuándo eliminar información.
 
 ## Why It Matters
-La calidad de la salida de IA está acotada por la calidad del contexto que recibe. Equipos con context engineering riguroso reportan aumentos de velocidad del 40-50% y reducción drástica de overhead de alineación.
+Los LLMs son stateless — no recuerdan nada entre llamadas. Toda la "memoria" se construye artificialmente pasando contexto en cada request. El contexto mal diseñado causa context rot y degrada la capacidad de reasoning del modelo.
 
 ## Key Ideas
-- Evolución de "prompt engineering" a "context engineering": no es un prompt, es un ecosistema de contexto persistente
-- Archivos de contexto como CLAUDE.md / AGENTS.md son infraestructura core, no documentación opcional
-- MCP (Model Context Protocol) como estándar universal para conectar agentes a herramientas y datos externos
-- El contexto es evolutivo: se mejora con cada sesión y lección aprendida
-- 40% del tiempo de un ingeniero AI-native se dedica a context-setting
+- Stateless = cada request es independiente, no hay estado interno entre llamadas
+- El contexto acumula: mensajes, instrucciones, archivos, resultados de tools
+- Context rot = cuando el contexto se llena de ruido y el modelo pierde capacidad de reasoning
+- El harness debe gestionar activamente: incluir relevante, resumir antiguo, eliminar irrelevante
+- Más contexto no siempre = mejor resultado — la densidad de signal importa más que el volumen
+
+## Tradeoffs
+- Más contexto = más tokens = más costo y latencia
+- Contexto muy comprimido = pérdida de información importante
+- El balance óptimo depende del tipo de tarea
 
 ## Related
-- [[concepts/AI-Native-Engineering]]
-- [[concepts/AGENTS-MD]]
-- [[concepts/Agentic-Development-Life-Cycle]]
+- [[concepts/Context-Window]]
+- [[concepts/Memory-Persistence]]
+- 
+- 
 
 ## Source
-[[summaries/ByteByteGo-AI-Native-Engineer]]
+[[summaries/Santtiagom-Learning-Claude-Code-Part-1]]
+[[summaries/Santtiagom-What-Is-Agent-Part-2]]
