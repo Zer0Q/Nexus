@@ -72,8 +72,8 @@ audio_chunks/
 # Obsidian
 # =========================================================
 
-./Nexus/.obsidian/workspace.json
-./Nexus/.obsidian/workspaces.json
+Nexus/.obsidian/workspace.json
+Nexus/.obsidian/workspaces.json
 
 # Optional:
 # ignore ALL Obsidian local state
