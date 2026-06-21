@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af1e5f13ade4d79a",
+        "id": "cd9d4df16055f3f7",
         "type": "tabs",
         "children": [
           {
-            "id": "fb666f8d78111ca5",
+            "id": "82ae3d91b37eb62e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Thin Harness, Fat Skills.md",
+                "file": "raw/The Agent Loop Architecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thin Harness, Fat Skills"
+              "title": "The Agent Loop Architecture"
             }
           }
         ]
@@ -50,11 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -71,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -184,44 +184,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "fb666f8d78111ca5",
+  "active": "82ae3d91b37eb62e",
   "lastOpenFiles": [
-    "raw/Revenue Engineering How to turn AI loops into revenue.md",
-    "raw/@santtiagom_ Learning hermes - Part 2.md",
-    "raw/@santtiagom_ Learning hermes - Part 1.md",
-    "raw/@santtiagom_ Learning claude code - Part 4.md",
-    "raw/@santtiagom_ Learning claude code - Part 3.md",
-    "raw/@santtiagom_ What is an agent - Part 7.md",
-    "raw/@santtiagom_ What is an agent - Part 6 (harness).md",
-    "raw/@santtiagom_ What is an agent - Part 5.md",
-    "raw/@santtiagom_ Learning claude code - Part 2.md",
-    "raw/@santtiagom_ What is an agent - Part 3.md",
-    "raw/@santtiagom_ What is an agent - Part 2.md",
-    "raw/@santtiagom_ What is an agent - Part 1.md",
-    "raw/@santtiagom_ Learning claude code - Part 1.md",
-    "raw/@alexxubyte What is an agent - Part 4 (loop).md",
-    "raw/How to become so creative it feels illegal.md",
-    "raw/From Tokenmaxxing to Tokenoptimizing - Analyst POV @ SuperAI.md",
-    "raw/A frontier without an ecosystem is not stable.md",
-    "raw/@LearnWithBrij - Learning claude code - part 3.md",
-    "raw/Thin Harness, Fat Skills.md",
-    "raw/SKILLS en Claude Code la guía completa para empezar hoy.md",
-    "Untitled",
-    "raw/The 2026 LLM Engineering Roadmap (with free and 100% open-source resources).md",
-    "indexes/concepts-needing-augmentation.md",
-    "summaries/InduTripati-Hermes-Agent-276-Use-Cases.md",
-    "raw-notes/276-hermes-use-cases.md",
-    "indexes/Vault-Index.md",
+    "raw/DeepLearning.AI  AI News & Insights.md",
+    "raw/The Stanford STORM Method How to Make Claude Research Like a PhD in Minutes.md",
+    "raw/The Agent Loop Architecture.md",
+    "raw/The Modern AI PM in the age of Agents.md",
+    "raw/How to build a local-model creative strategist.md",
+    "raw/The Self-Verifying Loop 300 agents, 4,000 steps, 5 live data feeds on autopilot with Kimi K2.6.md",
     "raw",
+    "tools/Hermes-Agent.md",
+    "summaries/index.md",
+    "summaries/Thedankoe-Creative-Process-Protocol.md",
+    "summaries/LearnWithBrij-Learning-Claude-Code-Part-3.md",
+    "summaries/GarryTan-Thin-Harness-Fat-Skills.md",
+    "summaries/Frontier-Ecosystem-Stability.md",
+    "summaries/0xJeff-SuperAI-Trends-Token-Optimization.md",
+    "raw-notes/thin-harness-fat-skills.md",
+    "raw-notes/the-2026-llm-engineering-roadmap-with-free-and-100-open-source-r.md",
+    "raw-notes/skills-en-claude-code-la-guia-completa-para-empezar-hoy.md",
+    "raw-notes/santtiagom-what-is-an-agent-part-7.md",
+    "raw-notes/santtiagom-what-is-an-agent-part-6-harness.md",
+    "raw-notes/santtiagom-what-is-an-agent-part-5.md",
+    "raw-notes/santtiagom-what-is-an-agent-part-3.md",
+    "raw-notes/santtiagom-what-is-an-agent-part-2.md",
+    "raw-notes/santtiagom-what-is-an-agent-part-1.md",
+    "raw-notes/santtiagom-learning-hermes-part-2.md",
+    "raw-notes/santtiagom-learning-hermes-part-1.md",
+    "concepts/index.md",
+    "concepts/Subagent-Delegation.md",
     "summaries",
     "raw-notes",
     "source-notes",
@@ -230,6 +230,7 @@
     "source_notes",
     "glossary",
     "workflows",
-    "architectures"
+    "architectures",
+    "tools"
   ]
 }
