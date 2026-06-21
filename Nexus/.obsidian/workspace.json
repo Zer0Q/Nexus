@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/The Agent Loop Architecture.md",
+                "file": "raw/How To Build A Company With AI From The Ground Up.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Agent Loop Architecture"
+              "title": "How To Build A Company With AI From The Ground Up"
             }
           }
         ]
@@ -195,13 +195,16 @@
   },
   "active": "82ae3d91b37eb62e",
   "lastOpenFiles": [
+    "raw/How to Build a Self-Improving Company with AI.md",
+    "raw/How to Make Claude Code Your AI Engineering Team.md",
+    "raw/How To Build A Company With AI From The Ground Up.md",
+    "raw",
     "raw/DeepLearning.AI  AI News & Insights.md",
     "raw/The Stanford STORM Method How to Make Claude Research Like a PhD in Minutes.md",
     "raw/The Agent Loop Architecture.md",
     "raw/The Modern AI PM in the age of Agents.md",
     "raw/How to build a local-model creative strategist.md",
     "raw/The Self-Verifying Loop 300 agents, 4,000 steps, 5 live data feeds on autopilot with Kimi K2.6.md",
-    "raw",
     "tools/Hermes-Agent.md",
     "summaries/index.md",
     "summaries/Thedankoe-Creative-Process-Protocol.md",
@@ -219,9 +222,6 @@
     "raw-notes/santtiagom-what-is-an-agent-part-2.md",
     "raw-notes/santtiagom-what-is-an-agent-part-1.md",
     "raw-notes/santtiagom-learning-hermes-part-2.md",
-    "raw-notes/santtiagom-learning-hermes-part-1.md",
-    "concepts/index.md",
-    "concepts/Subagent-Delegation.md",
     "summaries",
     "raw-notes",
     "source-notes",
