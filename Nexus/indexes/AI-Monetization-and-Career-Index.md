@@ -14,6 +14,8 @@ Paths to monetizing AI expertise, career strategies, and business models for the
 
 ## Core Concepts
 - [[concepts/AI-Monetization-Paths]] -- three paths: distribution, consulting, product
+- [[concepts/World-Bible]] -- commercial creative deliverable for games, TTRPGs, film, and fiction
+- [[concepts/Agent-Society]] -- interactive world-building layer for agentic characters
 - [[concepts/Revenue-Stack-Math]] -- calculating AI service economics
 - [[concepts/Six-Month-Revenue-Curve]] -- timeline from skill to income
 - [[concepts/Expected-Revenue-Stamp]] -- pricing AI work
@@ -29,6 +31,7 @@ Paths to monetizing AI expertise, career strategies, and business models for the
 - [[concepts/SDD]]
 
 ## Sources
+- [[summaries/Noisyb0y1-World-Bible-Business]]
 - [[summaries/aiedge-if-wanted-get-rich-ai-2026]]
 - [[summaries/vasuman-forward-deployed-engineering-101]]
 - [[summaries/Suryanshti777-garry-tan-built-24-ai-engineering-team]]

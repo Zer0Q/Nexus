@@ -15,6 +15,9 @@ Conceptos, prácticas y herramientas para ingeniería AI-native: de la orquestac
 
 ## Core Concepts
 - [[concepts/AI-Native-Engineering]] -- enfoque de orquestación de agentes IA vs codificación directa
+- [[concepts/AI-Generated-Code-Review]] -- treating generated code as a draft requiring senior review
+- [[concepts/YAGNI]] -- resisting speculative abstractions in generated code
+- [[concepts/Completion-Contract]] -- evidence-backed definition of done for agent work
 - [[concepts/Context-Engineering]] -- disciplina de curación e inyección de contexto específico de proyecto
 - [[concepts/Specification-Driven-Development]] -- definir especificaciones claras antes de generar código con IA
 - [[concepts/Agentic-Development-Life-Cycle]] -- ciclo de vida de desarrollo adaptado a agentes IA
@@ -22,6 +25,8 @@ Conceptos, prácticas y herramientas para ingeniería AI-native: de la orquestac
 
 ## Tools and Platforms
 - [[concepts/Codex-Agent]] -- plataforma de codificación agéntica de OpenAI (~4M usuarios semanales)
+- [[tools/Claude-Code]] -- coding agent surface used in GStack and loop workflows
+- [[concepts/GStack-Software-Factory]] -- skills-based AI engineering team workflow
 - [[tools/TOON-Format]] -- formato de serialización optimizado para tokens en LLMs
 
 ## AI Fundamentals
@@ -39,6 +44,9 @@ Conceptos, prácticas y herramientas para ingeniería AI-native: de la orquestac
 - [[concepts/AGENTS-MD]]
 
 ## Sources
+- [[summaries/Techgirlll-AI-Generated-Code-Review]]
+- [[summaries/YCombinator-GStack-AI-Engineering-Team]]
+- [[summaries/Chesny-20-AI-Concepts-2026]]
 - [[summaries/0xCodez-Master-97-of-Codex-in-30-Minutes-Full-Co]]
 - [[summaries/ByteByteGo-AI-Native-Engineer]]
 - [[summaries/Sairahul1-10-AI-Concepts]]

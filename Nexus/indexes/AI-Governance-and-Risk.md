@@ -15,6 +15,8 @@ tags:
 Standards and frameworks for governing AI systems and managing AI-specific risks.
 
 ## Core Concepts
+- [[concepts/AI-Literacy]] -- role-specific ability to understand AI capabilities, limits, and responsible use
+- [[concepts/EU-AI-Act-Article-4]] -- AI literacy obligation for AI providers and deployers
 - [[concepts/Risk-by-Design]] -- proactive risk methodology integrated across the AI lifecycle
 - [[concepts/Communities-of-Practice]] -- knowledge co-constructed through shared participation
 
@@ -29,5 +31,6 @@ Standards and frameworks for governing AI systems and managing AI-specific risks
 - [[concepts/Trustworthiness]] -- robustness, explainability, transparency
 
 ## Sources
+- [[summaries/JanaSaad-AI-Literacy-Article-4]]
 - [[summaries/RamiroCid-ISO-23894-AI-Risk-Management]]
 - [[summaries/RamiroCid-ISO-22989-AI-Governance]]
